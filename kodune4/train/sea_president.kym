@@ -1,0 +1,2582 @@
+<s>
+VABARIIGI    vaba_riik+0 //_S_ com sg gen //
+PRESIDENDI    president+0 //_S_ com sg gen //
+VALIMISE    valimine+0 //_S_ com sg gen //
+SEADUS    seadus+0 //_S_ com sg nom //
+</s>
+<s>
+Vastu    vastu+0 //_D_ //
+v&otilde;etud    v&otilde;t+tud //_V_ main partic past imps //
+10.    10.+0 //_N_ ord ? digit //
+aprillil    aprill+l //_S_ com sg ad //
+1996.    1996.+0 //_N_ ord ? digit //
+a.    a+0 //_Y_ nominal ? //
+</s>
+<s>
+1.    1.+0 //_N_ ord ? digit //
+peat&uuml;kk    pea_t&uuml;kk+0 //_S_ com sg nom //
+</s>
+<s>
+&Uuml;LDS&Auml;TTED    &uuml;ld_s&auml;te+d //_S_ com pl nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+&sect;    &sect;+0 //_Y_ nominal ? //
+1    1+0 //_N_ card ? digit //
+.    . //_Z_ Fst //
+</s>
+<s>
+Valimiss&uuml;steemi    valimis_s&uuml;steem+0 //_S_ com sg gen //
+alused    alus+d //_S_ com pl nom //
+</s>
+<s>
+(    ( //_Z_ Opr //
+1    1+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Presidendi    president+0 //_S_ com sg gen //
+valib    vali+b //_V_ main indic pres ps3 sg ps af //
+Riigikogu    riigi_kogu+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Kui    kui+0 //_J_ sub //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+President    president+0 //_S_ com sg nom //
+j&auml;&auml;b    j&auml;&auml;+b //_V_ main indic pres ps3 sg ps af //
+Riigikogus    riigi_kogu+s //_S_ com sg in //
+valimata    vali+mata //_V_ main sup ps abes //
+,    , //_Z_ Com //
+valib    vali+b //_V_ main indic pres ps3 sg ps af //
+presidendi    president+0 //_S_ com sg gen //
+valimiskogu    valimis_kogu+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+2    2+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+valimiskogu    valimis_kogu+0 //_S_ com sg gen //
+liikmel    liige+l //_S_ com sg ad //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+igas    iga+s //_P_ sg in //
+h&auml;&auml;letusvoorus    h&auml;&auml;letus_voor+s //_S_ com sg in //
+&uuml;ks    &uuml;ks+0 //_N_ card sg nom l //
+h&auml;&auml;l    h&auml;&auml;l+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+3    3+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+President    president+0 //_S_ com sg nom //
+valitakse    vali+takse //_V_ main indic pres imps af //
+salajasel    salajane+l //_A_ pos sg ad //
+h&auml;&auml;letusel    h&auml;&auml;letus+l //_S_ com sg ad //
+.    . //_Z_ Fst //
+</s>
+<s>
+&sect;    &sect;+0 //_Y_ nominal ? //
+2    2+0 //_N_ card ? digit //
+.    . //_Z_ Fst //
+</s>
+<s>
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Presidendi    president+0 //_S_ com sg gen //
+kandidaat    kandidaat+0 //_S_ com sg nom //
+</s>
+<s>
+(    ( //_Z_ Opr //
+1    1+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Presidendi    president+0 //_S_ com sg gen //
+kandidaadiks    kandidaat+ks //_S_ com sg tr //
+v&otilde;ib    v&otilde;i+b //_V_ mod indic pres ps3 sg ps af //
+&uuml;les    &uuml;les+0 //_D_ //
+seada    sead+a //_V_ main inf //
+s&uuml;nnilt    s&uuml;nd+lt //_S_ com sg abl //
+Eesti    Eesti+0 //_S_ prop sg gen //
+kodaniku    kodanik+0 //_S_ com sg gen //
+,    , //_Z_ Com //
+kes    kes+0 //_P_ sg nom //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+v&auml;hemalt    v&auml;hemalt+0 //_D_ //
+40    40+0 //_N_ card ? digit //
+aastat    aasta+t //_S_ com sg part //
+vana    vana+0 //_A_ pos sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+2    2+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Presidendi    president+0 //_S_ com sg gen //
+kandidaadiks    kandidaat+ks //_S_ com sg tr //
+ei    ei+0 //_V_ aux neg //
+v&otilde;i    v&otilde;i+0 //_V_ mod indic pres ps neg //
+&uuml;les    &uuml;les+0 //_D_ //
+seada    sead+a //_V_ main inf //
+isikut    isik+t //_S_ com sg part //
+,    , //_Z_ Com //
+kes    kes+0 //_P_ sg nom //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+President    president+0 //_S_ com sg nom //
+teist    teine+t //_N_ ord sg part l //
+ametiaega    ameti_aeg+0 //_S_ com sg part //
+j&auml;rjest    j&auml;rjest+0 //_D_ //
+.    . //_Z_ Fst //
+</s>
+<s>
+&sect;    &sect;+0 //_Y_ nominal ? //
+3    3+0 //_N_ card ? digit //
+.    . //_Z_ Fst //
+</s>
+<s>
+Valimise    valimine+0 //_S_ com sg gen //
+aeg    aeg+0 //_S_ com sg nom //
+</s>
+<s>
+(    ( //_Z_ Opr //
+1    1+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Presidendi    president+0 //_S_ com sg gen //
+korraline    korraline+0 //_A_ pos sg nom //
+valimine    valimine+0 //_S_ com sg nom //
+toimub    toimu+b //_V_ main indic pres ps3 sg ps af //
+varemalt    varemalt+0 //_D_ //
+60    60+0 //_N_ card ? digit //
+ja    ja+0 //_J_ crd //
+hiljemalt    hiljemalt+0 //_D_ //
+10    10+0 //_N_ card ? digit //
+p&auml;eva    p&auml;ev+0 //_S_ com sg part //
+enne    enne+0 //_K_ pre //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Presidendi    president+0 //_S_ com sg gen //
+ametiaja    ameti_aeg+0 //_S_ com sg gen //
+l&otilde;ppemist    l&otilde;ppe=mine+t //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+2    2+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Presidendi    president+0 //_S_ com sg gen //
+erakorraline    era_korraline+0 //_A_ pos sg nom //
+valimine    valimine+0 //_S_ com sg nom //
+Riigikogus    riigi_kogu+s //_S_ com sg in //
+toimub    toimu+b //_V_ main indic pres ps3 sg ps af //
+14    14+0 //_N_ card ? digit //
+p&auml;eva    p&auml;ev+0 //_S_ com sg gen //
+jooksul    jooksul+0 //_K_ post //
+,    , //_Z_ Com //
+arvates    arva+tes //_V_ main ger //
+:    : //_Z_ Col //
+1    1+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Presidendi    president+0 //_S_ com sg gen //
+volituste    volitus+te //_S_ com pl gen //
+ennet&auml;htaegse    enne_t&auml;ht_aegne+0 //_A_ pos sg gen //
+l&otilde;ppemise    l&otilde;ppe=mine+0 //_S_ com sg gen //
+p&auml;evast    p&auml;ev+st //_S_ com sg el //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+2    2+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+p&auml;evast    p&auml;ev+st //_S_ com sg el //
+,    , //_Z_ Com //
+mil    mil+0 //_D_ //
+Riigikohus    riigi_kohus+0 //_S_ com sg nom //
+tunnistas    tunnista+s //_V_ main indic impf ps3 sg ps af //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Presidendi    president+0 //_S_ com sg gen //
+kestvalt    kestvalt+0 //_D_ //
+v&otilde;imetuks    v&otilde;imetu+ks //_A_ pos sg tr //
+oma    oma+0 //_P_ sg gen //
+&uuml;lesandeid    &uuml;les_anne+id //_S_ com pl part //
+t&auml;itma    t&auml;it+ma //_V_ main sup ps ill //
+,    , //_Z_ Com //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+3    3+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+p&auml;evast    p&auml;ev+st //_S_ com sg el //
+,    , //_Z_ Com //
+mil    mil+0 //_D_ //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+President    president+0 //_S_ com sg nom //
+j&auml;i    j&auml;&auml;+i //_V_ main indic impf ps3 sg ps af //
+valimiskogus    valimis_kogu+s //_S_ com sg in //
+valimata    vali+mata //_V_ main sup ps abes //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+3    3+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Presidendi    president+0 //_S_ com sg gen //
+valimine    valimine+0 //_S_ com sg nom //
+valimiskogus    valimis_kogu+s //_S_ com sg in //
+toimub    toimu+b //_V_ main indic pres ps3 sg ps af //
+&uuml;he    &uuml;ks+0 //_N_ card sg gen l //
+kuu    kuu+0 //_S_ com sg gen //
+jooksul    jooksul+0 //_K_ post //
+,    , //_Z_ Com //
+arvates    arva+tes //_V_ main ger //
+Riigikogus    riigi_kogu+s //_S_ com sg in //
+kolmanda    kolmas+0 //_N_ ord sg gen l //
+h&auml;&auml;letusvooru    h&auml;&auml;letus_voor+0 //_S_ com sg gen //
+toimumise    toimu=mine+0 //_S_ com sg gen //
+p&auml;evast    p&auml;ev+st //_S_ com sg el //
+.    . //_Z_ Fst //
+</s>
+<s>
+&sect;    &sect;+0 //_Y_ nominal ? //
+4    4+0 //_N_ card ? digit //
+.    . //_Z_ Fst //
+</s>
+<s>
+Valimise    valimine+0 //_S_ com sg gen //
+korraldaja    korralda=ja+0 //_S_ com sg nom //
+</s>
+<s>
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Presidendi    president+0 //_S_ com sg gen //
+valimise    valimine+0 //_S_ com sg gen //
+korraldab    korralda+b //_V_ main indic pres ps3 sg ps af //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Valimiskomisjon    valimis_komisjon+0 //_S_ com sg nom //
+(    ( //_Z_ Opr //
+edaspidi    edas_pidi+0 //_D_ //
+valimiskomisjon    valimis_komisjon+0 //_S_ com sg nom //
+)    ) //_Z_ Cpr //
+.    . //_Z_ Fst //
+</s>
+<s>
+&sect;    &sect;+0 //_Y_ nominal ? //
+5    5+0 //_N_ card ? digit //
+.    . //_Z_ Fst //
+</s>
+<s>
+Valimiskulud    valimis_kulu+d //_S_ com pl nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Presidendi    president+0 //_S_ com sg gen //
+valimise    valimine+0 //_S_ com sg gen //
+korraldamise    korralda=mine+0 //_S_ com sg gen //
+kulud    kulu+d //_S_ com pl nom //
+kaetakse    kat+takse //_V_ main indic pres imps af //
+riigieelarvest    riigi_eel_arve+st //_S_ com sg el //
+.    . //_Z_ Fst //
+</s>
+<s>
+2.    2.+0 //_N_ ord ? digit //
+peat&uuml;kk    pea_t&uuml;kk+0 //_S_ com sg nom //
+</s>
+<s>
+H&Auml;&Auml;LETAMISE    h&auml;&auml;leta=mine+0 //_S_ com sg gen //
+KORRALDAMINE    korralda=mine+0 //_S_ com sg nom //
+</s>
+<s>
+&sect;    &sect;+0 //_Y_ nominal ? //
+6    6+0 //_N_ card ? digit //
+.    . //_Z_ Fst //
+</s>
+<s>
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+ja    ja+0 //_J_ crd //
+valimiskogu    valimis_kogu+0 //_S_ com sg gen //
+istungi    istung+0 //_S_ com sg gen //
+juhatamine    juhata=mine+0 //_S_ com sg nom //
+</s>
+<s>
+(    ( //_Z_ Opr //
+1    1+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+ja    ja+0 //_J_ crd //
+valimiskogu    valimis_kogu+0 //_S_ com sg gen //
+istungit    istung+t //_S_ com sg part //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Presidendi    president+0 //_S_ com sg gen //
+valimisel    valimine+l //_S_ com sg ad //
+juhatab    juhata+b //_V_ main indic pres ps3 sg ps af //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+esimees    esi_mees+0 //_S_ com sg nom //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+aseesimees    ase_esi_mees+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+2    2+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+ja    ja+0 //_J_ crd //
+valimiskogu    valimis_kogu+0 //_S_ com sg gen //
+istungit    istung+t //_S_ com sg part //
+ei    ei+0 //_V_ aux neg //
+v&otilde;i    v&otilde;i+0 //_V_ mod indic pres ps neg //
+juhatada    juhata+da //_V_ main inf //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Presidendi    president+0 //_S_ com sg gen //
+kandidaat    kandidaat+0 //_S_ com sg nom //
+ega    ega+0 //_J_ crd //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+esimees    esi_mees+0 //_S_ com sg nom //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+aseesimees    ase_esi_mees+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+kui    kui+0 //_J_ sub //
+ta    tema+0 //_P_ sg nom //
+t&auml;idab    t&auml;it+b //_V_ main indic pres ps3 sg ps af //
+ajutiselt    ajutiselt+0 //_D_ //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Presidendi    president+0 //_S_ com sg gen //
+&uuml;lesandeid    &uuml;les_anne+id //_S_ com pl part //
+.    . //_Z_ Fst //
+</s>
+<s>
+Kui    kui+0 //_J_ sub //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+esimees    esi_mees+0 //_S_ com sg nom //
+ja    ja+0 //_J_ crd //
+aseesimehed    ase_esi_mees+d //_S_ com pl nom //
+on    ole+0 //_V_ main indic pres ps3 pl ps af //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Presidendi    president+0 //_S_ com sg gen //
+kandidaadid    kandidaat+d //_S_ com pl nom //
+,    , //_Z_ Com //
+juhatab    juhata+b //_V_ main indic pres ps3 sg ps af //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+valimiskogu    valimis_kogu+0 //_S_ com sg gen //
+istungit    istung+t //_S_ com sg part //
+vanim    vanim+0 //_A_ super sg nom //
+kohalolev    kohal_olev+0 //_A_ pos sg nom //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+liige    liige+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+&sect;    &sect;+0 //_Y_ nominal ? //
+7    7+0 //_N_ card ? digit //
+.    . //_Z_ Fst //
+</s>
+<s>
+H&auml;&auml;letamise    h&auml;&auml;leta=mine+0 //_S_ com sg gen //
+ettevalmistamine    ette_valmista=mine+0 //_S_ com sg nom //
+</s>
+<s>
+(    ( //_Z_ Opr //
+1    1+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Enne    enne+0 //_K_ pre //
+h&auml;&auml;letamise    h&auml;&auml;leta=mine+0 //_S_ com sg gen //
+v&auml;ljakuulutamist    v&auml;lja_kuuluta=mine+t //_S_ com sg part //
+tutvustab    tutvusta+b //_V_ main indic pres ps3 sg ps af //
+valimiskomisjoni    valimis_komisjon+0 //_S_ com sg gen //
+esimees    esi_mees+0 //_S_ com sg nom //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+valimiskogu    valimis_kogu+0 //_S_ com sg gen //
+liikmetele    liige+tele //_S_ com pl all //
+h&auml;&auml;letamise    h&auml;&auml;leta=mine+0 //_S_ com sg gen //
+ning    ning+0 //_J_ crd //
+h&auml;&auml;letamis-    h&auml;&auml;leta=mis- //_S_ com ? //
+ja    ja+0 //_J_ crd //
+valimistulemuste    valimis_tulemus+te //_S_ com pl gen //
+kindlakstegemise    kindla+ks_tege=mine+0 //_S_ com sg gen //
+korda    kord+0 //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+2    2+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+valimiskogu    valimis_kogu+0 //_S_ com sg gen //
+liikmel    liige+l //_S_ com sg ad //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+&otilde;igus    &otilde;igus+0 //_S_ com sg nom //
+esitada    esita+da //_V_ main inf //
+valimiskomisjoni    valimis_komisjon+0 //_S_ com sg gen //
+esimehele    esi_mees+le //_S_ com sg all //
+k&uuml;simusi    k&uuml;simus+i //_S_ com pl part //
+h&auml;&auml;letamise    h&auml;&auml;leta=mine+0 //_S_ com sg gen //
+ning    ning+0 //_J_ crd //
+h&auml;&auml;letamis-    h&auml;&auml;leta=mis- //_S_ com ? //
+ja    ja+0 //_J_ crd //
+valimistulemuste    valimis_tulemus+te //_S_ com pl gen //
+kindlakstegemise    kindla+ks_tege=mine+0 //_S_ com sg gen //
+korra    kord+0 //_S_ com sg gen //
+kohta    kohta+0 //_K_ post //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+3    3+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Valimiskomisjon    valimis_komisjon+0 //_S_ com sg nom //
+kontrollib    kontrolli+b //_V_ main indic pres ps3 sg ps af //
+valimiskasti    valimis_kast+0 //_S_ com sg part //
+ja    ja+0 //_J_ crd //
+pitseerib    pitseeri+b //_V_ main indic pres ps3 sg ps af //
+selle    see+0 //_P_ sg gen //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+4    4+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+H&auml;&auml;letamise    h&auml;&auml;leta=mine+0 //_S_ com sg gen //
+kuulutab    kuuluta+b //_V_ main indic pres ps3 sg ps af //
+v&auml;lja    v&auml;lja+0 //_D_ //
+istungi    istung+0 //_S_ com sg gen //
+juhataja    juhataja+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+&sect;    &sect;+0 //_Y_ nominal ? //
+8    8+0 //_N_ card ? digit //
+.    . //_Z_ Fst //
+</s>
+<s>
+H&auml;&auml;letamissedel    h&auml;&auml;leta=mis_sedel+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+1    1+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+H&auml;&auml;letamissedelile    h&auml;&auml;leta=mis_sedel+le //_S_ com sg all //
+kantakse    kand+takse //_V_ main indic pres imps af //
+kandidaatide    kandidaat+de //_S_ com pl gen //
+nimed    nimi+d //_S_ com pl nom //
+t&auml;hestikulises    t&auml;hestiku=line+s //_A_ pos sg in //
+j&auml;rjestuses    j&auml;rjestus+s //_S_ com sg in //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+2    2+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+H&auml;&auml;letamissedeli    h&auml;&auml;leta=mis_sedel+0 //_S_ com sg gen //
+vormi    vorm+0 //_S_ com sg gen //
+kehtestab    kehtesta+b //_V_ main indic pres ps3 sg ps af //
+valimiskomisjon    valimis_komisjon+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+&sect;    &sect;+0 //_Y_ nominal ? //
+9    9+0 //_N_ card ? digit //
+.    . //_Z_ Fst //
+</s>
+<s>
+H&auml;&auml;letamise    h&auml;&auml;leta=mine+0 //_S_ com sg gen //
+kord    kord+0 //_S_ com sg nom //
+</s>
+<s>
+(    ( //_Z_ Opr //
+1    1+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Valimiskomisjon    valimis_komisjon+0 //_S_ com sg nom //
+annab    and+b //_V_ main indic pres ps3 sg ps af //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+valimiskogu    valimis_kogu+0 //_S_ com sg gen //
+liikmele    liige+le //_S_ com sg all //
+valimiskomisjoni    valimis_komisjon+0 //_S_ com sg gen //
+pitsati    pitsat+0 //_S_ com sg gen //
+j&auml;ljendiga    j&auml;ljend+ga //_S_ com sg kom //
+h&auml;&auml;letamissedeli    h&auml;&auml;leta=mis_sedel+0 //_S_ com sg gen //
+ja    ja+0 //_J_ crd //
+&uuml;mbriku    &uuml;mbrik+0 //_S_ com sg gen //
+.    . //_Z_ Fst //
+</s>
+<s>
+Sedel    sedel+0 //_S_ com sg nom //
+antakse    and+takse //_V_ main indic pres imps af //
+nimekirja    nime_kiri+0 //_S_ com sg gen //
+alusel    alus+l //_S_ com sg ad //
+isikut    isik+t //_S_ com sg part //
+t&otilde;endava    t&otilde;enda=v+0 //_A_ pos sg gen //
+dokumendi    dokument+0 //_S_ com sg gen //
+esitamisel    esita=mine+l //_S_ com sg ad //
+.    . //_Z_ Fst //
+</s>
+<s>
+Sedeli    sedel+0 //_S_ com sg gen //
+saamise    saamine+0 //_S_ com sg gen //
+kohta    kohta+0 //_K_ post //
+annab    and+b //_V_ main indic pres ps3 sg ps af //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+valimiskoguliige    valimis_kogu_liige+0 //_S_ com sg nom //
+allkirja    all_kiri+0 //_S_ com sg gen //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+2    2+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+H&auml;&auml;letamissedel    h&auml;&auml;leta=mis_sedel+0 //_S_ com sg nom //
+t&auml;idetakse    t&auml;it+takse //_V_ main indic pres imps af //
+h&auml;&auml;letamiskabiinis    h&auml;&auml;leta=mis_kabiin+s //_S_ com sg in //
+.    . //_Z_ Fst //
+</s>
+<s>
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+valimiskogu    valimis_kogu+0 //_S_ com sg gen //
+liige    liige+0 //_S_ com sg nom //
+m&auml;rgib    m&auml;rki+b //_V_ main indic pres ps3 sg ps af //
+sedelil    sedel+l //_S_ com sg ad //
+lahtrisse    lahter+sse //_S_ com sg ill //
+risti    risti+0 //_S_ com sg gen //
+selle    see+0 //_P_ sg gen //
+kandidaadi    kandidaat+0 //_S_ com sg gen //
+nime    nimi+0 //_S_ com sg gen //
+juures    juures+0 //_K_ post //
+,    , //_Z_ Com //
+kelle    kes+0 //_P_ sg gen //
+poolt    poolt+0 //_K_ post //
+ta    tema+0 //_P_ sg nom //
+h&auml;&auml;letab    h&auml;&auml;leta+b //_V_ main indic pres ps3 sg ps af //
+.    . //_Z_ Fst //
+</s>
+<s>
+Kui    kui+0 //_J_ sub //
+h&auml;&auml;letamissedelile    h&auml;&auml;leta=mis_sedel+le //_S_ com sg all //
+on    ole+0 //_V_ aux indic pres ps3 sg ps af //
+kantud    kand+tud //_V_ main partic past imps //
+ainult    ainult+0 //_D_ //
+&uuml;he    &uuml;ks+0 //_N_ card sg gen l //
+kandidaadi    kandidaat+0 //_S_ com sg gen //
+nimi    nimi+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+m&auml;rgib    m&auml;rki+b //_V_ main indic pres ps3 sg ps af //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+valimiskogu    valimis_kogu+0 //_S_ com sg gen //
+liige    liige+0 //_S_ com sg nom //
+sedelil    sedel+l //_S_ com sg ad //
+lahtrisse    lahter+sse //_S_ com sg ill //
+risti    risti+0 //_S_ com sg gen //
+sel    see+l //_P_ sg ad //
+juhul    juht+l //_S_ com sg ad //
+,    , //_Z_ Com //
+kui    kui+0 //_J_ sub //
+ta    tema+0 //_P_ sg nom //
+h&auml;&auml;letab    h&auml;&auml;leta+b //_V_ main indic pres ps3 sg ps af //
+kandidaadi    kandidaat+0 //_S_ com sg gen //
+poolt    poolt+0 //_K_ post //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+3    3+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+P&auml;rast    p&auml;rast+0 //_K_ pre //
+sedeli    sedel+0 //_S_ com sg gen //
+t&auml;itmist    t&auml;it=mine+t //_S_ com sg part //
+paneb    pane+b //_V_ main indic pres ps3 sg ps af //
+h&auml;&auml;letaja    h&auml;&auml;leta=ja+0 //_S_ com sg nom //
+sedeli    sedel+0 //_S_ com sg gen //
+&uuml;mbrikusse    &uuml;mbrik+sse //_S_ com sg ill //
+ja    ja+0 //_J_ crd //
+annab    and+b //_V_ main indic pres ps3 sg ps af //
+selle    see+0 //_P_ sg gen //
+valimiskomisjonile    valimis_komisjon+le //_S_ com sg all //
+,    , //_Z_ Com //
+kes    kes+0 //_P_ sg nom //
+paneb    pane+b //_V_ main indic pres ps3 sg ps af //
+&uuml;mbrikule    &uuml;mbrik+le //_S_ com sg all //
+valimiskomisjoni    valimis_komisjon+0 //_S_ com sg gen //
+pitsati    pitsat+0 //_S_ com sg gen //
+j&auml;ljendi    j&auml;ljend+0 //_S_ com sg gen //
+.    . //_Z_ Fst //
+</s>
+<s>
+Seej&auml;rel    see_j&auml;rel+0 //_D_ //
+laseb    lask+b //_V_ main indic pres ps3 sg ps af //
+h&auml;&auml;letaja    h&auml;&auml;leta=ja+0 //_S_ com sg nom //
+&uuml;mbriku    &uuml;mbrik+0 //_S_ com sg gen //
+valimiskasti    valimis_kast+0 //_S_ com sg adit //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+4    4+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Kui    kui+0 //_J_ sub //
+h&auml;&auml;letamissedel    h&auml;&auml;leta=mis_sedel+0 //_S_ com sg nom //
+rikutakse    rikku+takse //_V_ main indic pres imps af //
+enne    enne+0 //_K_ pre //
+selle    see+0 //_P_ sg gen //
+valimiskasti    valimis_kast+0 //_S_ com sg adit //
+laskmist    lask=mine+t //_S_ com sg part //
+,    , //_Z_ Com //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+valimiskogu    valimis_kogu+0 //_S_ com sg gen //
+liikmel    liige+l //_S_ com sg ad //
+&otilde;igus    &otilde;igus+0 //_S_ com sg nom //
+rikutud    riku=tud+0 //_A_ pos //
+sedeli    sedel+0 //_S_ com sg gen //
+tagastamise    tagasta=mine+0 //_S_ com sg gen //
+korral    korral+0 //_K_ post //
+saada    saa+da //_V_ main inf //
+valimiskomisjonilt    valimis_komisjon+lt //_S_ com sg abl //
+uus    uus+0 //_A_ pos sg nom //
+sedel    sedel+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+mille    mis+0 //_P_ sg gen //
+kohta    kohta+0 //_K_ post //
+tehakse    tege+akse //_V_ main indic pres imps af //
+nimekirja    nime_kiri+0 //_S_ com sg adit //
+m&auml;rge    m&auml;rge+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+5    5+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Istungi    istung+0 //_S_ com sg gen //
+juhataja    juhataja+0 //_S_ com sg nom //
+kuulutab    kuuluta+b //_V_ main indic pres ps3 sg ps af //
+h&auml;&auml;letamise    h&auml;&auml;leta=mine+0 //_S_ com sg gen //
+l&otilde;ppenuks    l&otilde;ppe=nud+ks //_A_ pos sg tr //
+&uuml;ks    &uuml;ks+0 //_N_ card sg nom l //
+tund    tund+0 //_S_ com sg nom //
+p&auml;rast    p&auml;rast+0 //_K_ pre //
+h&auml;&auml;letamise    h&auml;&auml;leta=mine+0 //_S_ com sg gen //
+v&auml;ljakuulutamist    v&auml;lja_kuuluta=mine+t //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+&sect;    &sect;+0 //_Y_ nominal ? //
+10    10+0 //_N_ card ? digit //
+.    . //_Z_ Fst //
+</s>
+<s>
+Protestid    protest+d //_S_ com pl nom //
+h&auml;&auml;letamise    h&auml;&auml;leta=mine+0 //_S_ com sg gen //
+korra    kord+0 //_S_ com sg gen //
+rikkumise    rikku=mine+0 //_S_ com sg gen //
+kohta    kohta+0 //_K_ post //
+</s>
+<s>
+(    ( //_Z_ Opr //
+1    1+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Enne    enne+0 //_K_ pre //
+h&auml;&auml;lte    h&auml;&auml;l+te //_S_ com pl gen //
+lugemist    lugemine+t //_S_ com sg part //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+valimiskogu    valimis_kogu+0 //_S_ com sg gen //
+liikmel    liige+l //_S_ com sg ad //
+&otilde;igus    &otilde;igus+0 //_S_ com sg nom //
+esitada    esita+da //_V_ main inf //
+valimiskomisjonile    valimis_komisjon+le //_S_ com sg all //
+kirjalik    kirja=lik+0 //_A_ pos sg nom //
+protest    protest+0 //_S_ com sg nom //
+h&auml;&auml;letamise    h&auml;&auml;leta=mine+0 //_S_ com sg gen //
+korra    kord+0 //_S_ com sg gen //
+rikkumise    rikku=mine+0 //_S_ com sg gen //
+kohta    kohta+0 //_K_ post //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+2    2+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Valimiskomisjon    valimis_komisjon+0 //_S_ com sg nom //
+vaatab    vaata+b //_V_ main indic pres ps3 sg ps af //
+protesti    protest+0 //_S_ com sg gen //
+p&auml;rast    p&auml;rast+0 //_K_ pre //
+h&auml;&auml;letamise    h&auml;&auml;leta=mine+0 //_S_ com sg gen //
+l&otilde;ppemist    l&otilde;ppe=mine+t //_S_ com sg part //
+l&auml;bi    l&auml;bi+0 //_D_ //
+,    , //_Z_ Com //
+v&otilde;tab    v&otilde;t+b //_V_ main indic pres ps3 sg ps af //
+vastu    vastu+0 //_D_ //
+motiveeritud    motiveeri=tud+0 //_A_ pos //
+otsuse    otsus+0 //_S_ com sg gen //
+ja    ja+0 //_J_ crd //
+teeb    tege+b //_V_ main indic pres ps3 sg ps af //
+selle    see+0 //_P_ sg gen //
+teatavaks    teatav+ks //_A_ pos sg tr //
+.    . //_Z_ Fst //
+</s>
+<s>
+Kui    kui+0 //_J_ sub //
+h&auml;&auml;letamise    h&auml;&auml;leta=mine+0 //_S_ com sg gen //
+korda    kord+0 //_S_ com sg part //
+on    ole+0 //_V_ aux indic pres ps3 sg ps af //
+rikutud    rikku+tud //_V_ main partic past imps //
+oluliselt    olu=liselt+0 //_D_ //
+,    , //_Z_ Com //
+korraldab    korralda+b //_V_ main indic pres ps3 sg ps af //
+valimiskomisjon    valimis_komisjon+0 //_S_ com sg nom //
+kordush&auml;&auml;letuse    kordus_h&auml;&auml;letus+0 //_S_ com sg gen //
+.    . //_Z_ Fst //
+</s>
+<s>
+3.    3.+0 //_N_ ord ? digit //
+peat&uuml;kk    pea_t&uuml;kk+0 //_S_ com sg nom //
+</s>
+<s>
+H&Auml;&Auml;LETAMIS-    h&auml;&auml;leta=mis- //_S_ com ? //
+JA    ja+0 //_J_ crd //
+VALIMISTULEMUSTE    valimis_tulemus+te //_S_ com pl gen //
+KINDLAKSTEGEMINE    kindla+ks_tege=mine+0 //_S_ com sg nom //
+</s>
+<s>
+&sect;    &sect;+0 //_Y_ nominal ? //
+11    11+0 //_N_ card ? digit //
+.    . //_Z_ Fst //
+</s>
+<s>
+H&auml;&auml;letamistulemuse    h&auml;&auml;leta=mis_tulemus+0 //_S_ com sg gen //
+kindlakstegemine    kindla+ks_tege=mine+0 //_S_ com sg nom //
+</s>
+<s>
+(    ( //_Z_ Opr //
+1    1+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Valimiskomisjon    valimis_komisjon+0 //_S_ com sg nom //
+loeb    luge+b //_V_ main indic pres ps3 sg ps af //
+h&auml;&auml;led    h&auml;&auml;l+d //_S_ com pl nom //
+avalikult    ava=likult+0 //_D_ //
+kohe    kohe+0 //_D_ //
+p&auml;rast    p&auml;rast+0 //_K_ pre //
+h&auml;&auml;letamise    h&auml;&auml;leta=mine+0 //_S_ com sg gen //
+l&otilde;ppemist    l&otilde;ppe=mine+t //_S_ com sg part //
+ja    ja+0 //_J_ crd //
+protestide    protest+de //_S_ com pl gen //
+lahendamist    lahenda=mine+t //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+2    2+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Valimiskomisjon    valimis_komisjon+0 //_S_ com sg nom //
+teeb    tege+b //_V_ main indic pres ps3 sg ps af //
+kindlaks    kindel+ks //_A_ pos sg tr //
+:    : //_Z_ Col //
+1    1+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+liikmete    liige+te //_S_ com pl gen //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+valimiskogu    valimis_kogu+0 //_S_ com sg gen //
+liikmete    liige+te //_S_ com pl gen //
+nimekirja    nime_kiri+0 //_S_ com sg gen //
+j&auml;rgi    j&auml;rgi+0 //_K_ post //
+valijate    valija+te //_S_ com pl gen //
+arvu    arv+0 //_S_ com sg gen //
+ja    ja+0 //_J_ crd //
+neist    tema+st //_P_ pl el //
+h&auml;&auml;letamissedeli    h&auml;&auml;leta=mis_sedel+0 //_S_ com sg gen //
+saanute    saa=nu+te //_S_ com pl gen //
+arvu    arv+0 //_S_ com sg gen //
+;    ; //_Z_ Scl //
+2    2+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+valimiskastis    valimis_kast+s //_S_ com sg in //
+olevate    olev+te //_A_ pos pl gen //
+sedelite    sedel+te //_S_ com pl gen //
+alusel    alus+l //_S_ com sg ad //
+h&auml;&auml;letamisest    h&auml;&auml;leta=mine+st //_S_ com sg el //
+osav&otilde;tnud    osa_v&otilde;t=nud+0 //_A_ pos //
+valijate    valija+te //_S_ com pl gen //
+arvu    arv+0 //_S_ com sg gen //
+;    ; //_Z_ Scl //
+3    3+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+kehtetute    kehtetu+te //_A_ pos pl gen //
+h&auml;&auml;letamissedelite    h&auml;&auml;leta=mis_sedel+te //_S_ com pl gen //
+arvu    arv+0 //_S_ com sg gen //
+;    ; //_Z_ Scl //
+4    4+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+nende    see+de //_P_ pl gen //
+h&auml;&auml;letamissedelite    h&auml;&auml;leta=mis_sedel+te //_S_ com pl gen //
+arvu    arv+0 //_S_ com sg gen //
+,    , //_Z_ Com //
+millel    mis+l //_P_ pl ad //
+ei    ei+0 //_V_ aux neg //
+ole    ole+0 //_V_ aux indic pres ps neg //
+m&auml;rgitud    m&auml;rki+tud //_V_ main partic past imps //
+risti    rist+0 //_S_ com sg part //
+&uuml;htegi    &uuml;ks+gi //_P_ sg adit //
+lahtrisse    lahter+sse //_S_ com sg ill //
+;    ; //_Z_ Scl //
+5    5+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Presidendi    president+0 //_S_ com sg gen //
+igale    iga+le //_P_ sg all //
+kandidaadile    kandidaat+le //_S_ com sg all //
+antud    an=tud+0 //_A_ pos //
+h&auml;&auml;lte    h&auml;&auml;l+te //_S_ com pl gen //
+arvu    arv+0 //_S_ com sg gen //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+3    3+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Kehtetu    kehtetu+0 //_A_ pos sg nom //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+h&auml;&auml;letamissedel    h&auml;&auml;leta=mis_sedel+0 //_S_ com sg nom //
+:    : //_Z_ Col //
+1    1+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+millel    mis+l //_P_ sg ad //
+on    ole+0 //_V_ aux indic pres ps3 sg ps af //
+rist    rist+0 //_S_ com sg nom //
+m&auml;rgitud    m&auml;rki+tud //_V_ main partic past imps //
+rohkem    rohkem+0 //_D_ //
+kui    kui+0 //_J_ sub //
+&uuml;hte    &uuml;ks+0 //_N_ card sg adit l //
+lahtrisse    lahter+sse //_S_ com sg ill //
+;    ; //_Z_ Scl //
+2    2+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+millel    mis+l //_P_ sg ad //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+mille    mis+0 //_P_ sg gen //
+&uuml;mbrikul    &uuml;mbrik+l //_S_ com sg ad //
+puudub    puudu+b //_V_ main indic pres ps3 sg ps af //
+valimiskomisjoni    valimis_komisjon+0 //_S_ com sg gen //
+pitsatij&auml;ljend    pitsati_j&auml;ljend+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+4    4+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+H&auml;&auml;letamistulemuse    h&auml;&auml;leta=mis_tulemus+0 //_S_ com sg gen //
+teeb    tege+b //_V_ main indic pres ps3 sg ps af //
+teatavaks    teatav+ks //_A_ pos sg tr //
+valimiskomisjoni    valimis_komisjon+0 //_S_ com sg gen //
+esimees    esi_mees+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+&sect;    &sect;+0 //_Y_ nominal ? //
+12    12+0 //_N_ card ? digit //
+.    . //_Z_ Fst //
+</s>
+<s>
+Protestid    protest+d //_S_ com pl nom //
+h&auml;&auml;letamistulemuse    h&auml;&auml;leta=mis_tulemus+0 //_S_ com sg gen //
+kindlakstegemise    kindla+ks_tege=mine+0 //_S_ com sg gen //
+korra    kord+0 //_S_ com sg gen //
+rikkumise    rikku=mine+0 //_S_ com sg gen //
+kohta    kohta+0 //_K_ post //
+</s>
+<s>
+(    ( //_Z_ Opr //
+1    1+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Enne    enne+0 //_K_ pre //
+valimistulemuse    valimis_tulemus+0 //_S_ com sg gen //
+kindlakstegemist    kindla+ks_tege=mine+t //_S_ com sg part //
+on    ole+0 //_V_ aux indic pres ps3 sg ps af //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+valimiskogu    valimis_kogu+0 //_S_ com sg gen //
+liikmel    liige+l //_S_ com sg ad //
+&otilde;igus    &otilde;igus+0 //_S_ com sg nom //
+esitada    esita+da //_V_ main inf //
+kirjalik    kirja=lik+0 //_A_ pos sg nom //
+protest    protest+0 //_S_ com sg nom //
+h&auml;&auml;letamistulemuse    h&auml;&auml;leta=mis_tulemus+0 //_S_ com sg gen //
+kindlakstegemise    kindla+ks_tege=mine+0 //_S_ com sg gen //
+korra    kord+0 //_S_ com sg gen //
+rikkumise    rikku=mine+0 //_S_ com sg gen //
+kohta    kohta+0 //_K_ post //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+2    2+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Valimiskomisjon    valimis_komisjon+0 //_S_ com sg nom //
+vaatab    vaata+b //_V_ main indic pres ps3 sg ps af //
+protesti    protest+0 //_S_ com sg gen //
+p&auml;rast    p&auml;rast+0 //_K_ pre //
+h&auml;&auml;lte    h&auml;&auml;l+te //_S_ com pl gen //
+lugemist    lugemine+t //_S_ com sg part //
+l&auml;bi    l&auml;bi+0 //_D_ //
+,    , //_Z_ Com //
+v&otilde;tab    v&otilde;t+b //_V_ main indic pres ps3 sg ps af //
+vastu    vastu+0 //_D_ //
+motiveeritud    motiveeri=tud+0 //_A_ pos //
+otsuse    otsus+0 //_S_ com sg gen //
+ja    ja+0 //_J_ crd //
+teeb    tege+b //_V_ main indic pres ps3 sg ps af //
+selle    see+0 //_P_ sg gen //
+teatavaks    teatav+ks //_A_ pos sg tr //
+.    . //_Z_ Fst //
+</s>
+<s>
+Kui    kui+0 //_J_ sub //
+h&auml;&auml;letamistulemuse    h&auml;&auml;leta=mis_tulemus+0 //_S_ com sg gen //
+kindlakstegemise    kindla+ks_tege=mine+0 //_S_ com sg gen //
+korda    kord+0 //_S_ com sg part //
+on    ole+0 //_V_ aux indic pres ps3 sg ps af //
+rikutud    rikku+tud //_V_ main partic past imps //
+,    , //_Z_ Com //
+loeb    luge+b //_V_ main indic pres ps3 sg ps af //
+valimiskomisjon    valimis_komisjon+0 //_S_ com sg nom //
+h&auml;&auml;led    h&auml;&auml;l+d //_S_ com pl nom //
+uuesti    uuesti+0 //_D_ //
+.    . //_Z_ Fst //
+</s>
+<s>
+&sect;    &sect;+0 //_Y_ nominal ? //
+13    13+0 //_N_ card ? digit //
+.    . //_Z_ Fst //
+</s>
+<s>
+Valimistulemuse    valimis_tulemus+0 //_S_ com sg gen //
+kindlakstegemine    kindla+ks_tege=mine+0 //_S_ com sg nom //
+</s>
+<s>
+(    ( //_Z_ Opr //
+1    1+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Valimistulemuse    valimis_tulemus+0 //_S_ com sg gen //
+kindlakstegemiseks    kindla+ks_tege=mine+ks //_S_ com sg tr //
+kuulutab    kuuluta+b //_V_ main indic pres ps3 sg ps af //
+istungi    istung+0 //_S_ com sg gen //
+juhataja    juhataja+0 //_S_ com sg nom //
+v&auml;lja    v&auml;lja+0 //_D_ //
+vaheaja    vahe_aeg+0 //_S_ com sg gen //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+2    2+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Valimistulemuse    valimis_tulemus+0 //_S_ com sg gen //
+kohta    kohta+0 //_K_ post //
+v&otilde;tab    v&otilde;t+b //_V_ main indic pres ps3 sg ps af //
+valimiskomisjon    valimis_komisjon+0 //_S_ com sg nom //
+vastu    vastu+0 //_D_ //
+otsuse    otsus+0 //_S_ com sg gen //
+,    , //_Z_ Com //
+mis    mis+0 //_P_ sg nom //
+j&otilde;ustub    j&otilde;ustu+b //_V_ main indic pres ps3 sg ps af //
+allakirjutamisega    alla_kirjuta=mine+ga //_S_ com sg kom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Otsuse    otsus+0 //_S_ com sg gen //
+teeb    tege+b //_V_ main indic pres ps3 sg ps af //
+valimiskomisjoni    valimis_komisjon+0 //_S_ com sg gen //
+esimees    esi_mees+0 //_S_ com sg nom //
+teatavaks    teatav+ks //_A_ pos sg tr //
+kohe    kohe+0 //_D_ //
+p&auml;rast    p&auml;rast+0 //_K_ pre //
+selle    see+0 //_P_ sg gen //
+j&otilde;ustumist    j&otilde;ustu=mine+t //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+4.    4.+0 //_N_ ord ? digit //
+peat&uuml;kk    pea_t&uuml;kk+0 //_S_ com sg nom //
+</s>
+<s>
+VABARIIGI    vaba_riik+0 //_S_ com sg gen //
+PRESIDENDI    president+0 //_S_ com sg gen //
+VALIMINE    valimine+0 //_S_ com sg nom //
+RIIGIKOGUS    riigi_kogu+s //_S_ com sg in //
+</s>
+<s>
+&sect;    &sect;+0 //_Y_ nominal ? //
+14    14+0 //_N_ card ? digit //
+.    . //_Z_ Fst //
+</s>
+<s>
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+kokkukutsumine    kokku_kutsu=mine+0 //_S_ com sg nom //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Presidendi    president+0 //_S_ com sg gen //
+valimiseks    valimine+ks //_S_ com sg tr //
+kutsub    kutsu+b //_V_ main indic pres ps3 sg ps af //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+esimees    esi_mees+0 //_S_ com sg nom //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Presidendi    president+0 //_S_ com sg gen //
+,    , //_Z_ Com //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Valitsuse    valitsus+0 //_S_ com sg gen //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+v&auml;hemalt    v&auml;hemalt+0 //_D_ //
+viiendiku    viiendik+0 //_N_ card sg gen l //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+koosseisu    koos_seis+0 //_S_ com sg gen //
+ettepanekul    ette_panek+l //_S_ com sg ad //
+kokku    kokku+0 //_D_ //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+erakorralise    era_korraline+0 //_A_ pos sg gen //
+istungj&auml;rgu    istung_j&auml;rk+0 //_S_ com sg gen //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+t&auml;iendava    t&auml;iendav+0 //_A_ pos sg gen //
+istungi    istung+0 //_S_ com sg gen //
+.    . //_Z_ Fst //
+</s>
+<s>
+Enne    enne+0 //_K_ pre //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+kokkukutsumist    kokku_kutsu=mine+t //_S_ com sg part //
+kuulab    kuula+b //_V_ main indic pres ps3 sg ps af //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+esimees    esi_mees+0 //_S_ com sg nom //
+&auml;ra    &auml;ra+0 //_D_ //
+valimiskomisjoni    valimis_komisjon+0 //_S_ com sg gen //
+arvamuse    arvamus+0 //_S_ com sg gen //
+.    . //_Z_ Fst //
+</s>
+<s>
+&sect;    &sect;+0 //_Y_ nominal ? //
+15    15+0 //_N_ card ? digit //
+.    . //_Z_ Fst //
+</s>
+<s>
+Kandidaatide    kandidaat+de //_S_ com pl gen //
+&uuml;lesseadmine    &uuml;les_sead=mine+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+registreerimiseks    registreeri=mine+ks //_S_ com sg tr //
+esitamine    esita=mine+0 //_S_ com sg nom //
+ja    ja+0 //_J_ crd //
+registreerimine    registreeri=mine+0 //_S_ com sg nom //
+esimeseks    esimene+ks //_N_ ord sg tr l //
+h&auml;&auml;letusvooruks    h&auml;&auml;letus_voor+ks //_S_ com sg tr //
+</s>
+<s>
+(    ( //_Z_ Opr //
+1    1+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Kandidaadi    kandidaat+0 //_S_ com sg gen //
+&uuml;lesseadmise    &uuml;les_sead=mine+0 //_S_ com sg gen //
+&otilde;igus    &otilde;igus+0 //_S_ com sg nom //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+v&auml;hemalt    v&auml;hemalt+0 //_D_ //
+viiendikul    viiendik+l //_N_ card sg ad l //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+koosseisust    koos_seis+st //_S_ com sg el //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+2    2+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+liige    liige+0 //_S_ com sg nom //
+v&otilde;ib    v&otilde;i+b //_V_ mod indic pres ps3 sg ps af //
+olla    ole+a //_V_ main inf //
+ainult    ainult+0 //_D_ //
+&uuml;he    &uuml;ks+0 //_N_ card sg gen l //
+kandidaadi    kandidaat+0 //_S_ com sg gen //
+&uuml;lesseadjaks    &uuml;les_seadja+ks //_S_ com sg tr //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+3    3+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Kandidaatide    kandidaat+de //_S_ com pl gen //
+registreerimiseks    registreeri=mine+ks //_S_ com sg tr //
+esitamine    esita=mine+0 //_S_ com sg nom //
+algab    alga+b //_V_ main indic pres ps3 sg ps af //
+neljandal    neljas+l //_N_ ord sg ad l //
+p&auml;eval    p&auml;ev+l //_S_ com sg ad //
+kell    kell+0 //_S_ com sg nom //
+9.00    9.00+0 //_N_ card ? digit //
+ja    ja+0 //_J_ crd //
+l&otilde;peb    l&otilde;ppe+b //_V_ main indic pres ps3 sg ps af //
+teisel    teine+l //_P_ sg ad //
+p&auml;eval    p&auml;ev+l //_S_ com sg ad //
+kell    kell+0 //_S_ com sg nom //
+18.00    18.00+0 //_N_ card ? digit //
+enne    enne+0 //_K_ pre //
+esimese    esimene+0 //_N_ ord sg gen l //
+h&auml;&auml;letusvooru    h&auml;&auml;letus_voor+0 //_S_ com sg gen //
+p&auml;eva    p&auml;ev+0 //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+4    4+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Kandidaadi    kandidaat+0 //_S_ com sg gen //
+registreerimiseks    registreeri=mine+ks //_S_ com sg tr //
+esitavad    esita+vad //_V_ main indic pres ps3 pl ps af //
+&uuml;lesseadjad    &uuml;les_seadja+d //_S_ com pl nom //
+valimiskomisjonile    valimis_komisjon+le //_S_ com sg all //
+esildise    esildis+0 //_S_ com sg gen //
+,    , //_Z_ Com //
+mis    mis+0 //_P_ sg nom //
+sisaldab    sisalda+b //_V_ main indic pres ps3 sg ps af //
+:    : //_Z_ Col //
+1    1+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+kandidaadi    kandidaat+0 //_S_ com sg gen //
+ees-    ees //_S_ com ? //
+ja    ja+0 //_J_ crd //
+perekonnanime    perekonna_nimi+0 //_S_ com sg gen //
+;    ; //_Z_ Scl //
+2    2+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+kandidaadi    kandidaat+0 //_S_ com sg gen //
+s&uuml;nniaasta    s&uuml;nni_aasta+0 //_S_ com sg gen //
+,    , //_Z_ Com //
+-kuu    kuu+0 //_S_ com sg gen //
+ja    ja+0 //_J_ crd //
+-p&auml;eva    p&auml;ev+0 //_S_ com sg gen //
+;    ; //_Z_ Scl //
+3    3+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+&uuml;lesseadjate    &uuml;les_seadja+te //_S_ com pl gen //
+nimed    nimi+d //_S_ com pl nom //
+ja    ja+0 //_J_ crd //
+allkirjad    all_kiri+d //_S_ com pl nom //
+;    ; //_Z_ Scl //
+4    4+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+esildise    esildis+0 //_S_ com sg gen //
+koostamise    koosta=mine+0 //_S_ com sg gen //
+kuup&auml;eva    kuu_p&auml;ev+0 //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+5    5+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+&Uuml;lesseadjad    &uuml;les_seadja+d //_S_ com pl nom //
+lisavad    lisa+vad //_V_ main indic pres ps3 pl ps af //
+esildisele    esildis+le //_S_ com sg all //
+:    : //_Z_ Col //
+1    1+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+kandidaadi    kandidaat+0 //_S_ com sg gen //
+omak&auml;elise    oma_k&auml;eline+0 //_A_ pos sg gen //
+,    , //_Z_ Com //
+kuup&auml;eva    kuu_p&auml;ev+0 //_S_ com sg gen //
+ja    ja+0 //_J_ crd //
+allkirjaga    all_kiri+ga //_S_ com sg kom //
+n&otilde;usoleku    n&otilde;us_olek+0 //_S_ com sg gen //
+kandideerida    kandideeri+da //_V_ main inf //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Presidendiks    president+ks //_S_ com sg tr //
+ning    ning+0 //_J_ crd //
+kinnituse    kinnitus+0 //_S_ com sg gen //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+ta    tema+0 //_P_ sg nom //
+vastab    vasta+b //_V_ main indic pres ps3 sg ps af //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Presidendi    president+0 //_S_ com sg gen //
+kandidaadile    kandidaat+le //_S_ com sg all //
+esitatavatele    esita=tav+tele //_A_ pos pl all //
+seadusega    seadus+ga //_S_ com sg kom //
+s&auml;testatud    s&auml;testa=tud+0 //_A_ pos //
+n&otilde;uetele    n&otilde;ue+tele //_S_ com pl all //
+;    ; //_Z_ Scl //
+2    2+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+kandidaadi    kandidaat+0 //_S_ com sg gen //
+omak&auml;elise    oma_k&auml;eline+0 //_A_ pos sg gen //
+,    , //_Z_ Com //
+kuup&auml;eva    kuu_p&auml;ev+0 //_S_ com sg gen //
+ja    ja+0 //_J_ crd //
+allkirjaga    all_kiri+ga //_S_ com sg kom //
+s&uuml;&uuml;mevande    s&uuml;&uuml;me_vanne+0 //_S_ com sg gen //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+s&uuml;&uuml;mevande    s&uuml;&uuml;me_vanne+0 //_S_ com sg gen //
+varem    varem+0 //_D_ //
+vastuv&otilde;tnud    vastu_v&otilde;t=nud+0 //_A_ pos //
+ametiasutuse    ameti_asutus+0 //_S_ com sg gen //
+teatise    teatis+0 //_S_ com sg gen //
+,    , //_Z_ Com //
+millest    mis+st //_P_ sg el //
+n&auml;htub    n&auml;htu+b //_V_ main indic pres ps3 sg ps af //
+,    , //_Z_ Com //
+kellele    kes+le //_P_ sg all //
+,    , //_Z_ Com //
+millega    mis+ga //_P_ sg kom //
+seoses    seoses+0 //_K_ post //
+ja    ja+0 //_J_ crd //
+millal    millal+0 //_D_ //
+on    ole+0 //_V_ aux indic pres ps3 sg ps af //
+kandidaat    kandidaat+0 //_S_ com sg nom //
+vande    vanne+0 //_S_ com sg gen //
+andnud    and+nud //_V_ main partic past ps //
+;    ; //_Z_ Scl //
+3    3+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+dokumendid    dokument+d //_S_ com pl nom //
+,    , //_Z_ Com //
+mis    mis+0 //_P_ pl nom //
+t&otilde;endavad    t&otilde;enda+vad //_V_ main indic pres ps3 pl ps af //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+kandidaat    kandidaat+0 //_S_ com sg nom //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+s&uuml;nnilt    s&uuml;nd+lt //_S_ com sg abl //
+Eesti    Eesti+0 //_S_ prop sg gen //
+kodanik    kodanik+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+6    6+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Kandidaadi    kandidaat+0 //_S_ com sg gen //
+registreerimiseks    registreeri=mine+ks //_S_ com sg tr //
+n&otilde;utavad    n&otilde;utav+d //_A_ pos pl nom //
+dokumendid    dokument+d //_S_ com pl nom //
+esitab    esita+b //_V_ main indic pres ps3 sg ps af //
+valimiskomisjonile    valimis_komisjon+le //_S_ com sg all //
+&uuml;ks    &uuml;ks+0 //_P_ sg nom //
+kandidaadi    kandidaat+0 //_S_ com sg gen //
+&uuml;lesseadjatest    &uuml;les_seadja+test //_S_ com pl el //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+7    7+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Kui    kui+0 //_J_ sub //
+kandidaadi    kandidaat+0 //_S_ com sg gen //
+registreerimiseks    registreeri=mine+ks //_S_ com sg tr //
+esitamisel    esita=mine+l //_S_ com sg ad //
+puudub    puudu+b //_V_ main indic pres ps3 sg ps af //
+osa    osa+0 //_S_ com sg nom //
+n&otilde;utavaid    n&otilde;utav+id //_A_ pos pl part //
+dokumente    dokument+e //_S_ com pl part //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+neis    see+s //_P_ pl in //
+on    ole+0 //_V_ main indic pres ps3 pl ps af //
+vigu    viga+u //_S_ com pl part //
+,    , //_Z_ Com //
+teeb    tege+b //_V_ main indic pres ps3 sg ps af //
+dokumentide    dokument+de //_S_ com pl gen //
+vastuv&otilde;tja    vastu_v&otilde;tja+0 //_S_ com sg nom //
+kandidaadi    kandidaat+0 //_S_ com sg gen //
+registreerimiseks    registreeri=mine+ks //_S_ com sg tr //
+esitajale    esita=ja+le //_S_ com sg all //
+ettepaneku    ette_panek+0 //_S_ com sg gen //
+n&otilde;utavad    n&otilde;utav+d //_A_ pos pl nom //
+dokumendid    dokument+d //_S_ com pl nom //
+esitada    esita+da //_V_ main inf //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+vead    viga+d //_S_ com pl nom //
+enne    enne+0 //_K_ pre //
+registreerimisaja    registreeri=mis_aeg+0 //_S_ com sg gen //
+l&otilde;ppu    l&otilde;pp+0 //_S_ com sg part //
+parandada    paranda+da //_V_ main inf //
+.    . //_Z_ Fst //
+</s>
+<s>
+Esitatud    esitatud+0 //_A_ pos //
+dokumendid    dokument+d //_S_ com pl nom //
+tagastatakse    tagasta+takse //_V_ main indic pres imps af //
+.    . //_Z_ Fst //
+</s>
+<s>
+Nende    see+de //_P_ pl gen //
+k&auml;ttesaamise    k&auml;tte_saa=mine+0 //_S_ com sg gen //
+kohta    kohta+0 //_K_ post //
+annab    and+b //_V_ main indic pres ps3 sg ps af //
+registreerimiseks    registreeri=mine+ks //_S_ com sg tr //
+esitaja    esita=ja+0 //_S_ com sg nom //
+allkirja    all_kiri+0 //_S_ com sg gen //
+.    . //_Z_ Fst //
+</s>
+<s>
+Kui    kui+0 //_J_ sub //
+dokumendid    dokument+d //_S_ com pl nom //
+esitatakse    esita+takse //_V_ main indic pres imps af //
+uuesti    uuesti+0 //_D_ //
+,    , //_Z_ Com //
+loetakse    luge+takse //_V_ main indic pres imps af //
+need    see+d //_P_ pl nom //
+esmakordselt    esma_kordselt+0 //_D_ //
+esitatuks    esitatud+ks //_A_ pos sg tr //
+ja    ja+0 //_J_ crd //
+v&otilde;etakse    v&otilde;t+takse //_V_ main indic pres imps af //
+arvele    arve+le //_S_ com sg all //
+nende    see+de //_P_ pl gen //
+uuesti    uuesti+0 //_D_ //
+esitamise    esita=mine+0 //_S_ com sg gen //
+kuup&auml;eva    kuu_p&auml;ev+0 //_S_ com sg gen //
+ja    ja+0 //_J_ crd //
+kellaajaga    kella_aeg+ga //_S_ com sg kom //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+8    8+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Valimiskomisjon    valimis_komisjon+0 //_S_ com sg nom //
+registreerib    registreeri+b //_V_ main indic pres ps3 sg ps af //
+n&otilde;uetekohaselt    n&otilde;ue+te_kohaselt+0 //_D_ //
+esitatud    esitatud+0 //_A_ pos //
+kandidaadid    kandidaat+d //_S_ com pl nom //
+j&auml;rgmisel    j&auml;rgmine+l //_A_ pos sg ad //
+p&auml;eval    p&auml;ev+l //_S_ com sg ad //
+p&auml;rast    p&auml;rast+0 //_K_ pre //
+kandidaatide    kandidaat+de //_S_ com pl gen //
+registreerimiseks    registreeri=mine+ks //_S_ com sg tr //
+esitamise    esita=mine+0 //_S_ com sg gen //
+t&auml;htaja    t&auml;ht_aeg+0 //_S_ com sg gen //
+l&otilde;ppemist    l&otilde;ppe=mine+t //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+9    9+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Kandidaadid    kandidaat+d //_S_ com pl nom //
+registreeritakse    registreeri+takse //_V_ main indic pres imps af //
+nende    tema+de //_P_ pl gen //
+registreerimiseks    registreeri=mine+ks //_S_ com sg tr //
+esitamise    esita=mine+0 //_S_ com sg gen //
+j&auml;rjekorras    j&auml;rje_kord+s //_S_ com sg in //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+10    10+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+P&auml;rast    p&auml;rast+0 //_K_ pre //
+kandidaatide    kandidaat+de //_S_ com pl gen //
+registreerimist    registreeri=mine+t //_S_ com sg part //
+ei    ei+0 //_V_ aux neg //
+v&otilde;i    v&otilde;i+0 //_V_ mod indic pres ps neg //
+h&auml;&auml;letamissedelile    h&auml;&auml;leta=mis_sedel+le //_S_ com sg all //
+kantavate    kantav+te //_A_ pos pl gen //
+kandidaatide    kandidaat+de //_S_ com pl gen //
+nimekirjas    nime_kiri+s //_S_ com sg in //
+teha    tege+a //_V_ main inf //
+muudatusi    muudatus+i //_S_ com pl part //
+,    , //_Z_ Com //
+v&auml;lja    v&auml;lja+0 //_D_ //
+arvatud    arva+tud //_V_ main partic past imps //
+kandidaadi    kandidaat+0 //_S_ com sg gen //
+surma    surm+0 //_S_ com sg gen //
+korral    korral+0 //_K_ post //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+kui    kui+0 //_J_ sub //
+esitatakse    esita+takse //_V_ main indic pres imps af //
+dokument    dokument+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+mis    mis+0 //_P_ sg nom //
+t&otilde;endab    t&otilde;enda+b //_V_ main indic pres ps3 sg ps af //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+m&otilde;ni    m&otilde;ni+0 //_P_ sg nom //
+kandidaat    kandidaat+0 //_S_ com sg nom //
+ei    ei+0 //_V_ aux neg //
+vasta    vasta+0 //_V_ main indic pres ps neg //
+k&auml;esoleva    k&auml;es_olev+0 //_A_ pos sg gen //
+seaduse    seadus+0 //_S_ com sg gen //
+&sect;-s    &sect;+s //_Y_ nominal sg in //
+2    2+0 //_N_ card ? digit //
+nimetatud    nimetatud+0 //_A_ pos //
+n&otilde;uetele    n&otilde;ue+tele //_S_ com pl all //
+.    . //_Z_ Fst //
+</s>
+<s>
+&sect;    &sect;+0 //_Y_ nominal ? //
+16    16+0 //_N_ card ? digit //
+.    . //_Z_ Fst //
+</s>
+<s>
+Esimene    esimene+0 //_N_ ord sg nom l //
+h&auml;&auml;letusvoor    h&auml;&auml;letus_voor+0 //_S_ com sg nom //
+</s>
+<s>
+Esimeseks    esimene+ks //_N_ ord sg tr l //
+h&auml;&auml;letusvooruks    h&auml;&auml;letus_voor+ks //_S_ com sg tr //
+kantakse    kand+takse //_V_ main indic pres imps af //
+h&auml;&auml;letamissedelile    h&auml;&auml;leta=mis_sedel+le //_S_ com sg all //
+selleks    see+ks //_P_ sg tr //
+vooruks    voor+ks //_S_ com sg tr //
+registreeritud    registreeritud+0 //_A_ pos //
+kandidaatide    kandidaat+de //_S_ com pl gen //
+nimed    nimi+d //_S_ com pl nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+2    2+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Valituks    valitud+ks //_A_ pos sg tr //
+tunnistatakse    tunnista+takse //_V_ main indic pres imps af //
+kandidaat    kandidaat+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+kelle    kes+0 //_P_ sg gen //
+poolt    poolt+0 //_K_ post //
+h&auml;&auml;letab    h&auml;&auml;leta+b //_V_ main indic pres ps3 sg ps af //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+koosseisu    koos_seis+0 //_S_ com sg gen //
+kahekolmandikuline    kahe_kolmandiku=line+0 //_A_ pos sg nom //
+enamus    enamus+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+3    3+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Kui    kui+0 //_J_ sub //
+&uuml;kski    &uuml;ks+ki //_P_ sg nom //
+kandidaat    kandidaat+0 //_S_ com sg nom //
+ei    ei+0 //_V_ aux neg //
+saa    saa+0 //_V_ main indic pres ps neg //
+n&otilde;utavat    n&otilde;utav+t //_A_ pos sg part //
+h&auml;&auml;lteenamust    h&auml;&auml;l+te_enamus+t //_S_ com sg part //
+,    , //_Z_ Com //
+korraldatakse    korralda+takse //_V_ main indic pres imps af //
+j&auml;rgmisel    j&auml;rgmine+l //_A_ pos sg ad //
+p&auml;eval    p&auml;ev+l //_S_ com sg ad //
+teine    teine+0 //_N_ ord sg nom l //
+h&auml;&auml;letusvoor    h&auml;&auml;letus_voor+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+4    4+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Presidendi    president+0 //_S_ com sg gen //
+valimise    valimine+0 //_S_ com sg gen //
+teise    teine+0 //_N_ ord sg gen l //
+h&auml;&auml;letusvooru    h&auml;&auml;letus_voor+0 //_S_ com sg gen //
+algusaja    algus_aeg+0 //_S_ com sg gen //
+teatab    teata+b //_V_ main indic pres ps3 sg ps af //
+istungi    istung+0 //_S_ com sg gen //
+juhataja    juhataja+0 //_S_ com sg nom //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+liikmetele    liige+tele //_S_ com pl all //
+kohe    kohe+0 //_D_ //
+p&auml;rast    p&auml;rast+0 //_K_ pre //
+esimese    esimene+0 //_N_ ord sg gen l //
+h&auml;&auml;letusvooru    h&auml;&auml;letus_voor+0 //_S_ com sg gen //
+valimistulemuse    valimis_tulemus+0 //_S_ com sg gen //
+teatavakstegemist    teatava+ks_tege=mine+t //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+&sect;    &sect;+0 //_Y_ nominal ? //
+17    17+0 //_N_ card ? digit //
+.    . //_Z_ Fst //
+</s>
+<s>
+Kandidaatide    kandidaat+de //_S_ com pl gen //
+&uuml;lesseadmine    &uuml;les_sead=mine+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+registreerimiseks    registreeri=mine+ks //_S_ com sg tr //
+esitamine    esita=mine+0 //_S_ com sg nom //
+ja    ja+0 //_J_ crd //
+registreerimine    registreeri=mine+0 //_S_ com sg nom //
+teiseks    teine+ks //_N_ ord sg tr l //
+h&auml;&auml;letusvooruks    h&auml;&auml;letus_voor+ks //_S_ com sg tr //
+</s>
+<s>
+Teiseks    teine+ks //_N_ ord sg tr l //
+h&auml;&auml;letusvooruks    h&auml;&auml;letus_voor+ks //_S_ com sg tr //
+toimub    toimu+b //_V_ main indic pres ps3 sg ps af //
+kandidaatide    kandidaat+de //_S_ com pl gen //
+uus    uus+0 //_A_ pos sg nom //
+&uuml;lesseadmine    &uuml;les_sead=mine+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+registreerimiseks    registreeri=mine+ks //_S_ com sg tr //
+esitamine    esita=mine+0 //_S_ com sg nom //
+ja    ja+0 //_J_ crd //
+registreerimine    registreeri=mine+0 //_S_ com sg nom //
+vastavalt    vastavalt+0 //_K_ pre //
+k&auml;esoleva    k&auml;es_olev+0 //_A_ pos sg gen //
+seaduse    seadus+0 //_S_ com sg gen //
+&sect;    &sect;+0 //_Y_ nominal ? //
+15    15+0 //_N_ card ? digit //
+l&otilde;igetele    l&otilde;ige+tele //_S_ com pl all //
+1    1+0 //_N_ card ? digit //
+,    , //_Z_ Com //
+2    2+0 //_N_ card ? digit //
+,    , //_Z_ Com //
+4--7    4--7+0 //_N_ card ? digit //
+,    , //_Z_ Com //
+9    9+0 //_N_ card ? digit //
+ja    ja+0 //_J_ crd //
+10    10+0 //_N_ card ? digit //
+.    . //_Z_ Fst //
+</s>
+<s>
+Esimeseks    esimene+ks //_N_ ord sg tr l //
+vooruks    voor+ks //_S_ com sg tr //
+registreeritud    registreeritud+0 //_A_ pos //
+kandidaadi    kandidaat+0 //_S_ com sg gen //
+registreerimiseks    registreeri=mine+ks //_S_ com sg tr //
+esitamise    esita=mine+0 //_S_ com sg gen //
+korral    korral+0 //_K_ post //
+ei    ei+0 //_V_ aux neg //
+ole    ole+0 //_V_ aux indic pres ps neg //
+vaja    vaja+0 //_V_ main indic pres ps neg //
+esildisele    esildis+le //_S_ com sg all //
+lisada    lisa+da //_V_ main inf //
+k&auml;esoleva    k&auml;es_olev+0 //_A_ pos sg gen //
+seaduse    seadus+0 //_S_ com sg gen //
+&sect;    &sect;+0 //_Y_ nominal ? //
+15    15+0 //_N_ card ? digit //
+l&otilde;ike    l&otilde;ige+0 //_S_ com sg gen //
+5    5+0 //_N_ card ? digit //
+punktides    punkt+des //_S_ com pl in //
+2    2+0 //_N_ card ? digit //
+ja    ja+0 //_J_ crd //
+3    3+0 //_N_ card ? digit //
+nimetatud    nimetatud+0 //_A_ pos //
+dokumente    dokument+e //_S_ com pl part //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+2    2+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Kandidaatide    kandidaat+de //_S_ com pl gen //
+registreerimiseks    registreeri=mine+ks //_S_ com sg tr //
+esitamine    esita=mine+0 //_S_ com sg nom //
+algab    alga+b //_V_ main indic pres ps3 sg ps af //
+neli    neli+0 //_N_ card sg nom l //
+tundi    tund+0 //_S_ com sg part //
+ja    ja+0 //_J_ crd //
+l&otilde;peb    l&otilde;ppe+b //_V_ main indic pres ps3 sg ps af //
+kaks    kaks+0 //_N_ card sg nom l //
+tundi    tund+0 //_S_ com sg part //
+enne    enne+0 //_K_ pre //
+teise    teine+0 //_N_ ord sg gen l //
+h&auml;&auml;letusvooru    h&auml;&auml;letus_voor+0 //_S_ com sg gen //
+algust    algus+t //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+3    3+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Valimiskomisjon    valimis_komisjon+0 //_S_ com sg nom //
+registreerib    registreeri+b //_V_ main indic pres ps3 sg ps af //
+n&otilde;uetekohaselt    n&otilde;ue+te_kohaselt+0 //_D_ //
+esitatud    esitatud+0 //_A_ pos //
+kandidaadid    kandidaat+d //_S_ com pl nom //
+enne    enne+0 //_K_ pre //
+teise    teine+0 //_N_ ord sg gen l //
+h&auml;&auml;letusvooru    h&auml;&auml;letus_voor+0 //_S_ com sg gen //
+algust    algus+t //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+&sect;    &sect;+0 //_Y_ nominal ? //
+18    18+0 //_N_ card ? digit //
+.    . //_Z_ Fst //
+</s>
+<s>
+Teine    teine+0 //_N_ ord sg nom l //
+h&auml;&auml;letusvoor    h&auml;&auml;letus_voor+0 //_S_ com sg nom //
+(    ( //_Z_ Opr //
+1    1+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Teiseks    teine+ks //_N_ ord sg tr l //
+h&auml;&auml;letusvooruks    h&auml;&auml;letus_voor+ks //_S_ com sg tr //
+kantakse    kand+takse //_V_ main indic pres imps af //
+h&auml;&auml;letamissedelile    h&auml;&auml;leta=mis_sedel+le //_S_ com sg all //
+selleks    see+ks //_P_ sg tr //
+h&auml;&auml;letusvooruks    h&auml;&auml;letus_voor+ks //_S_ com sg tr //
+registreeritud    registreeritud+0 //_A_ pos //
+kandidaatide    kandidaat+de //_S_ com pl gen //
+nimed    nimi+d //_S_ com pl nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+2    2+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Valituks    valitud+ks //_A_ pos sg tr //
+tunnistatakse    tunnista+takse //_V_ main indic pres imps af //
+kandidaat    kandidaat+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+kelle    kes+0 //_P_ sg gen //
+poolt    poolt+0 //_K_ post //
+h&auml;&auml;letab    h&auml;&auml;leta+b //_V_ main indic pres ps3 sg ps af //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+koosseisu    koos_seis+0 //_S_ com sg gen //
+kahekolmandikuline    kahe_kolmandiku=line+0 //_A_ pos sg nom //
+enamus    enamus+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+3    3+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Kui    kui+0 //_J_ sub //
+&uuml;kski    &uuml;ks+ki //_P_ sg nom //
+kandidaat    kandidaat+0 //_S_ com sg nom //
+ei    ei+0 //_V_ aux neg //
+saa    saa+0 //_V_ main indic pres ps neg //
+n&otilde;utavat    n&otilde;utav+t //_A_ pos sg part //
+h&auml;&auml;lteenamust    h&auml;&auml;l+te_enamus+t //_S_ com sg part //
+,    , //_Z_ Com //
+korraldatakse    korralda+takse //_V_ main indic pres imps af //
+samal    sama+l //_P_ sg ad //
+p&auml;eval    p&auml;ev+l //_S_ com sg ad //
+kolmas    kolmas+0 //_N_ ord sg nom l //
+h&auml;&auml;letusvoor    h&auml;&auml;letus_voor+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+4    4+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Presidendi    president+0 //_S_ com sg gen //
+valimise    valimine+0 //_S_ com sg gen //
+kolmanda    kolmas+0 //_N_ ord sg gen l //
+h&auml;&auml;letusvooru    h&auml;&auml;letus_voor+0 //_S_ com sg gen //
+algusaja    algus_aeg+0 //_S_ com sg gen //
+teatab    teata+b //_V_ main indic pres ps3 sg ps af //
+istungi    istung+0 //_S_ com sg gen //
+juhataja    juhataja+0 //_S_ com sg nom //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+liikmetele    liige+tele //_S_ com pl all //
+kohe    kohe+0 //_D_ //
+p&auml;rast    p&auml;rast+0 //_K_ pre //
+teise    teine+0 //_N_ ord sg gen l //
+h&auml;&auml;letusvooru    h&auml;&auml;letus_voor+0 //_S_ com sg gen //
+valimistulemuse    valimis_tulemus+0 //_S_ com sg gen //
+teatavakstegemist    teatava+ks_tege=mine+t //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+&sect;    &sect;+0 //_Y_ nominal ? //
+19    19+0 //_N_ card ? digit //
+.    . //_Z_ Fst //
+</s>
+<s>
+Kolmas    kolmas+0 //_N_ ord sg nom l //
+h&auml;&auml;letusvoor    h&auml;&auml;letus_voor+0 //_S_ com sg nom //
+(    ( //_Z_ Opr //
+1    1+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Kolmandaks    kolmas+ks //_N_ ord sg tr l //
+h&auml;&auml;letusvooruks    h&auml;&auml;letus_voor+ks //_S_ com sg tr //
+kantakse    kand+takse //_V_ main indic pres imps af //
+h&auml;&auml;letamissedelile    h&auml;&auml;leta=mis_sedel+le //_S_ com sg all //
+kahe    kaks+0 //_N_ card sg gen l //
+teises    teine+s //_N_ ord sg in l //
+voorus    voor+s //_S_ com sg in //
+k&otilde;ige    k&otilde;ige+0 //_D_ //
+rohkem    rohkem+0 //_D_ //
+h&auml;&auml;li    h&auml;&auml;l+i //_S_ com pl part //
+saanud    saa=nud+0 //_A_ pos //
+kandidaadi    kandidaat+0 //_S_ com sg gen //
+nimed    nimi+d //_S_ com pl nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Kui    kui+0 //_J_ sub //
+teises    teine+s //_N_ ord sg in l //
+h&auml;&auml;letusvoorus    h&auml;&auml;letus_voor+s //_S_ com sg in //
+saab    saa+b //_V_ main indic pres ps3 sg ps af //
+v&auml;hemalt    v&auml;hemalt+0 //_D_ //
+kaks    kaks+0 //_N_ card sg nom l //
+kandidaati    kandidaat+0 //_S_ com sg part //
+v&otilde;rdse    v&otilde;rdne+0 //_A_ pos sg gen //
+arvu    arv+0 //_S_ com sg gen //
+h&auml;&auml;li    h&auml;&auml;l+i //_S_ com pl part //
+,    , //_Z_ Com //
+kantakse    kand+takse //_V_ main indic pres imps af //
+h&auml;&auml;letamissedelile    h&auml;&auml;leta=mis_sedel+le //_S_ com sg all //
+vanema    vanem+0 //_A_ comp sg gen //
+kandidaadi    kandidaat+0 //_S_ com sg gen //
+nimi    nimi+0 //_S_ com sg nom //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+vanemate    vanem+te //_A_ comp pl gen //
+kandidaatide    kandidaat+de //_S_ com pl gen //
+nimed    nimi+d //_S_ com pl nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Kui    kui+0 //_J_ sub //
+teises    teine+s //_N_ ord sg in l //
+h&auml;&auml;letusvoorus    h&auml;&auml;letus_voor+s //_S_ com sg in //
+kandideerib    kandideeri+b //_V_ main indic pres ps3 sg ps af //
+ainult    ainult+0 //_D_ //
+&uuml;ks    &uuml;ks+0 //_N_ card sg nom l //
+kandidaat    kandidaat+0 //_S_ com sg nom //
+ja    ja+0 //_J_ crd //
+ta    tema+0 //_P_ sg nom //
+ei    ei+0 //_V_ aux neg //
+saa    saa+0 //_V_ main indic pres ps neg //
+n&otilde;utavat    n&otilde;utav+t //_A_ pos sg part //
+h&auml;&auml;lteenamust    h&auml;&auml;l+te_enamus+t //_S_ com sg part //
+,    , //_Z_ Com //
+kantakse    kand+takse //_V_ main indic pres imps af //
+h&auml;&auml;letamissedelile    h&auml;&auml;leta=mis_sedel+le //_S_ com sg all //
+ainult    ainult+0 //_D_ //
+tema    tema+0 //_P_ sg gen //
+nimi    nimi+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+2    2+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Valituks    valitud+ks //_A_ pos sg tr //
+tunnistatakse    tunnista+takse //_V_ main indic pres imps af //
+kandidaat    kandidaat+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+kelle    kes+0 //_P_ sg gen //
+poolt    poolt+0 //_K_ post //
+h&auml;&auml;letab    h&auml;&auml;leta+b //_V_ main indic pres ps3 sg ps af //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+koosseisu    koos_seis+0 //_S_ com sg gen //
+kahekolmandikuline    kahe_kolmandiku=line+0 //_A_ pos sg nom //
+enamus    enamus+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+3    3+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Kui    kui+0 //_J_ sub //
+&uuml;kski    &uuml;ks+ki //_P_ sg nom //
+kandidaat    kandidaat+0 //_S_ com sg nom //
+ei    ei+0 //_V_ aux neg //
+saa    saa+0 //_V_ main indic pres ps neg //
+n&otilde;utavat    n&otilde;utav+t //_A_ pos sg part //
+h&auml;&auml;lteenamust    h&auml;&auml;l+te_enamus+t //_S_ com sg part //
+,    , //_Z_ Com //
+kutsub    kutsu+b //_V_ main indic pres ps3 sg ps af //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+esimees    esi_mees+0 //_S_ com sg nom //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Presidendi    president+0 //_S_ com sg gen //
+valimiseks    valimine+ks //_S_ com sg tr //
+kokku    kokku+0 //_D_ //
+valimiskogu    valimis_kogu+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+5.    5.+0 //_N_ ord ? digit //
+peat&uuml;kk    pea_t&uuml;kk+0 //_S_ com sg nom //
+VABARIIGI    vaba_riik+0 //_S_ com sg gen //
+PRESIDENDI    president+0 //_S_ com sg gen //
+VALIMINE    valimine+0 //_S_ com sg nom //
+VALIMISKOGUS    valimis_kogu+s //_S_ com sg in //
+</s>
+<s>
+&sect;    &sect;+0 //_Y_ nominal ? //
+20    20+0 //_N_ card ? digit //
+.    . //_Z_ Fst //
+</s>
+<s>
+Valimiskogu    valimis_kogu+0 //_S_ com sg gen //
+kokkukutsumine    kokku_kutsu=mine+0 //_S_ com sg nom //
+</s>
+<s>
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Presidendi    president+0 //_S_ com sg gen //
+valimiskogu    valimis_kogu+0 //_S_ com sg gen //
+kutsub    kutsu+b //_V_ main indic pres ps3 sg ps af //
+kokku    kokku+0 //_D_ //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+esimees    esi_mees+0 //_S_ com sg nom //
+hiljemalt    hiljemalt+0 //_D_ //
+j&auml;rgmisel    j&auml;rgmine+l //_A_ pos sg ad //
+p&auml;eval    p&auml;ev+l //_S_ com sg ad //
+p&auml;rast    p&auml;rast+0 //_K_ pre //
+kolmandat    kolmas+t //_N_ ord sg part l //
+h&auml;&auml;letusvooru    h&auml;&auml;letus_voor+0 //_S_ com sg part //
+Riigikogus    riigi_kogu+s //_S_ com sg in //
+,    , //_Z_ Com //
+tehes    tege+es //_V_ main ger //
+teatavaks    teatav+ks //_A_ pos sg tr //
+valimiskogu    valimis_kogu+0 //_S_ com sg gen //
+istungi    istung+0 //_S_ com sg gen //
+aja    aeg+0 //_S_ com sg gen //
+ja    ja+0 //_J_ crd //
+koha    koht+0 //_S_ com sg gen //
+.    . //_Z_ Fst //
+</s>
+<s>
+Enne    enne+0 //_K_ pre //
+valimiskogu    valimis_kogu+0 //_S_ com sg gen //
+kokkukutsumist    kokku_kutsu=mine+t //_S_ com sg part //
+kuulab    kuula+b //_V_ main indic pres ps3 sg ps af //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+esimees    esi_mees+0 //_S_ com sg nom //
+&auml;ra    &auml;ra+0 //_D_ //
+valimiskomisjoni    valimis_komisjon+0 //_S_ com sg gen //
+arvamuse    arvamus+0 //_S_ com sg gen //
+.    . //_Z_ Fst //
+</s>
+<s>
+&sect;    &sect;+0 //_Y_ nominal ? //
+21    21+0 //_N_ card ? digit //
+.    . //_Z_ Fst //
+</s>
+<s>
+Valimiskogu    valimis_kogu+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+1    1+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Valimiskogu    valimis_kogu+0 //_S_ com sg nom //
+koosneb    koosne+b //_V_ main indic pres ps3 sg ps af //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+liikmetest    liige+test //_S_ com pl el //
+ja    ja+0 //_J_ crd //
+kohaliku    kohalik+0 //_A_ pos sg gen //
+omavalitsuse    oma_valitsus+0 //_S_ com sg gen //
+volikogude    voli_kogu+de //_S_ com pl gen //
+esindajatest    esindaja+test //_S_ com pl el //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+2    2+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Valimiskogu    valimis_kogu+0 //_S_ com sg gen //
+liikmed    liige+d //_S_ com pl nom //
+on    ole+0 //_V_ main indic pres ps3 pl ps af //
+otsuse    otsus+0 //_S_ com sg gen //
+langetamisel    langeta=mine+l //_S_ com sg ad //
+vabad    vaba+d //_A_ pos pl nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+&sect;    &sect;+0 //_Y_ nominal ? //
+22    22+0 //_N_ card ? digit //
+.    . //_Z_ Fst //
+</s>
+<s>
+Kohaliku    kohalik+0 //_A_ pos sg gen //
+omavalitsuse    oma_valitsus+0 //_S_ com sg gen //
+volikogu    voli_kogu+0 //_S_ com sg gen //
+esindajate    esindaja+te //_S_ com pl gen //
+valimine    valimine+0 //_S_ com sg nom //
+</s>
+<s>
+(    ( //_Z_ Opr //
+1    1+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+J&auml;rgmisel    j&auml;rgmine+l //_A_ pos sg ad //
+p&auml;eval    p&auml;ev+l //_S_ com sg ad //
+p&auml;rast    p&auml;rast+0 //_K_ pre //
+kolmandat    kolmas+t //_N_ ord sg part l //
+h&auml;&auml;letusvooru    h&auml;&auml;letus_voor+0 //_S_ com sg part //
+Riigikogus    riigi_kogu+s //_S_ com sg in //
+saadab    saat+b //_V_ main indic pres ps3 sg ps af //
+valimiskomisjon    valimis_komisjon+0 //_S_ com sg nom //
+igale    iga+le //_P_ sg all //
+kohaliku    kohalik+0 //_A_ pos sg gen //
+omavalitsuse    oma_valitsus+0 //_S_ com sg gen //
+volikogule    voli_kogu+le //_S_ com sg all //
+teatise    teatis+0 //_S_ com sg gen //
+tema    tema+0 //_P_ sg gen //
+esindajate    esindaja+te //_S_ com pl gen //
+arvu    arv+0 //_S_ com sg gen //
+kohta    kohta+0 //_K_ post //
+valimiskogus    valimis_kogu+s //_S_ com sg in //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+2    2+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+L&auml;htudes    l&auml;htu+des //_V_ main ger //
+Eesti    Eesti+0 //_S_ prop sg gen //
+h&auml;&auml;le&otilde;iguslike    h&auml;&auml;le_&otilde;igus=lik+e //_A_ pos pl gen //
+kodanike    kodanik+e //_S_ com pl gen //
+riiklikku    riik=lik+0 //_A_ pos sg adit //
+registrisse    register+sse //_S_ com sg ill //
+kantud    kantud+0 //_A_ pos //
+kodanike    kodanik+e //_S_ com pl gen //
+arvust    arv+st //_S_ com sg el //
+kohaliku    kohalik+0 //_A_ pos sg gen //
+omavalitsus&uuml;ksuse    oma_valitsus_&uuml;ksus+0 //_S_ com sg gen //
+haldusterritooriumil    haldus_territoorium+l //_S_ com sg ad //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Presidendi    president+0 //_S_ com sg gen //
+valimise    valimine+0 //_S_ com sg gen //
+aasta    aasta+0 //_S_ com sg gen //
+1.    1.+0 //_N_ ord ? digit //
+jaanuaril    jaanuar+l //_S_ com sg ad //
+,    , //_Z_ Com //
+m&auml;&auml;ratakse    m&auml;&auml;ra+takse //_V_ main indic pres imps af //
+kohaliku    kohalik+0 //_A_ pos sg gen //
+omavalitsuse    oma_valitsus+0 //_S_ com sg gen //
+volikogu    voli_kogu+0 //_S_ com sg gen //
+esindajate    esindaja+te //_S_ com pl gen //
+arv    arv+0 //_S_ com sg nom //
+j&auml;rgmiselt    j&auml;rgmiselt+0 //_D_ //
+:    : //_Z_ Col //
+1    1+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+kuni    kuni+0 //_K_ pre //
+10000    10000+0 //_N_ card ? digit //
+h&auml;&auml;le&otilde;iguslikku    h&auml;&auml;le_&otilde;igus=lik+0 //_A_ pos sg part //
+Eesti    Eesti+0 //_S_ prop sg gen //
+kodanikku    kodanik+0 //_S_ com sg part //
+--    &mdash; //_Z_ Dsd //
+1    1+0 //_N_ card ? digit //
+esindaja    esindaja+0 //_S_ com sg nom //
+;    ; //_Z_ Scl //
+2    2+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+10001--50000    10001--50000+0 //_N_ card ? digit //
+h&auml;&auml;le&otilde;iguslikku    h&auml;&auml;le_&otilde;igus=lik+0 //_A_ pos sg part //
+Eesti    Eesti+0 //_S_ prop sg gen //
+kodanikku    kodanik+0 //_S_ com sg part //
+--    &mdash; //_Z_ Dsd //
+2    2+0 //_N_ card ? digit //
+esindajat    esindaja+t //_S_ com sg part //
+;    ; //_Z_ Scl //
+3    3+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+50001--100000    50001--100000+0 //_N_ card ? digit //
+h&auml;&auml;le&otilde;iguslikku    h&auml;&auml;le_&otilde;igus=lik+0 //_A_ pos sg part //
+Eesti    Eesti+0 //_S_ prop sg gen //
+kodanikku    kodanik+0 //_S_ com sg part //
+--    &mdash; //_Z_ Dsd //
+4    4+0 //_N_ card ? digit //
+esindajat    esindaja+t //_S_ com sg part //
+;    ; //_Z_ Scl //
+4    4+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+&uuml;le    &uuml;le+0 //_D_ //
+100000    100000+0 //_N_ card ? digit //
+h&auml;&auml;le&otilde;igusliku    h&auml;&auml;le_&otilde;igus=lik+0 //_A_ pos sg gen //
+Eesti    Eesti+0 //_S_ prop sg gen //
+kodaniku    kodanik+0 //_S_ com sg gen //
+--    &mdash; //_Z_ Dsd //
+10    10+0 //_N_ card ? digit //
+esindajat    esindaja+t //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+3    3+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Kohaliku    kohalik+0 //_A_ pos sg gen //
+omavalitsuse    oma_valitsus+0 //_S_ com sg gen //
+volikogu    voli_kogu+0 //_S_ com sg gen //
+esindaja    esindaja+0 //_S_ com sg nom //
+peab    pida+b //_V_ mod indic pres ps3 sg ps af //
+olema    ole+ma //_V_ main sup ps ill //
+Eesti    Eesti+0 //_S_ prop sg gen //
+kodanik    kodanik+0 //_S_ com sg nom //
+ja    ja+0 //_J_ crd //
+teda    tema+da //_P_ sg part //
+valinud    vali=nud+0 //_A_ pos //
+kohaliku    kohalik+0 //_A_ pos sg gen //
+omavalitsuse    oma_valitsus+0 //_S_ com sg gen //
+volikogu    voli_kogu+0 //_S_ com sg gen //
+liige    liige+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Kohaliku    kohalik+0 //_A_ pos sg gen //
+omavalitsuse    oma_valitsus+0 //_S_ com sg gen //
+volikogu    voli_kogu+0 //_S_ com sg gen //
+esindajaks    esindaja+ks //_S_ com sg tr //
+ei    ei+0 //_V_ aux neg //
+v&otilde;i    v&otilde;i+0 //_V_ mod indic pres ps neg //
+olla    ole+a //_V_ main inf //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+liige    liige+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+4    4+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Kohaliku    kohalik+0 //_A_ pos sg gen //
+omavalitsuse    oma_valitsus+0 //_S_ com sg gen //
+volikogu    voli_kogu+0 //_S_ com sg nom //
+valib    vali+b //_V_ main indic pres ps3 sg ps af //
+oma    oma+0 //_P_ sg gen //
+esindaja    esindaja+0 //_S_ com sg gen //
+hiljemalt    hiljemalt+0 //_D_ //
+seitsmendal    seitsmes+l //_N_ ord sg ad l //
+p&auml;eval    p&auml;ev+l //_S_ com sg ad //
+enne    enne+0 //_K_ pre //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Presidendi    president+0 //_S_ com sg gen //
+valimiskogus    valimis_kogu+s //_S_ com sg in //
+valimise    valimine+0 //_S_ com sg gen //
+p&auml;eva    p&auml;ev+0 //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+5    5+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Kohaliku    kohalik+0 //_A_ pos sg gen //
+omavalitsuse    oma_valitsus+0 //_S_ com sg gen //
+volikogu    voli_kogu+0 //_S_ com sg gen //
+otsus    otsus+0 //_S_ com sg nom //
+kohaliku    kohalik+0 //_A_ pos sg gen //
+omavalitsuse    oma_valitsus+0 //_S_ com sg gen //
+volikogu    voli_kogu+0 //_S_ com sg gen //
+esindaja    esindaja+0 //_S_ com sg gen //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+esindajate    esindaja+te //_S_ com pl gen //
+valimise    valimine+0 //_S_ com sg gen //
+kohta    kohta+0 //_K_ post //
+edastatakse    edasta+takse //_V_ main indic pres imps af //
+valimiskomisjonile    valimis_komisjon+le //_S_ com sg all //
+viivitamata    viivitamata+0 //_D_ //
+.    . //_Z_ Fst //
+</s>
+<s>
+&sect;    &sect;+0 //_Y_ nominal ? //
+23    23+0 //_N_ card ? digit //
+.    . //_Z_ Fst //
+</s>
+<s>
+Kandidaatide    kandidaat+de //_S_ com pl gen //
+&uuml;lesseadmine    &uuml;les_sead=mine+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+registreerimiseks    registreeri=mine+ks //_S_ com sg tr //
+esitamine    esita=mine+0 //_S_ com sg nom //
+ja    ja+0 //_J_ crd //
+registreerimine    registreeri=mine+0 //_S_ com sg nom //
+esimeseks    esimene+ks //_N_ ord sg tr l //
+h&auml;&auml;letusvooruks    h&auml;&auml;letus_voor+ks //_S_ com sg tr //
+</s>
+<s>
+(    ( //_Z_ Opr //
+1    1+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Kandidaadi    kandidaat+0 //_S_ com sg gen //
+&uuml;lesseadmise    &uuml;les_sead=mine+0 //_S_ com sg gen //
+&otilde;igus    &otilde;igus+0 //_S_ com sg nom //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+v&auml;hemalt    v&auml;hemalt+0 //_D_ //
+21    21+0 //_N_ card ? digit //
+valimiskogu    valimis_kogu+0 //_S_ com sg gen //
+liikmel    liige+l //_S_ com sg ad //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+2    2+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Valimiskogu    valimis_kogu+0 //_S_ com sg gen //
+liige    liige+0 //_S_ com sg nom //
+v&otilde;ib    v&otilde;i+b //_V_ mod indic pres ps3 sg ps af //
+olla    ole+a //_V_ main inf //
+ainult    ainult+0 //_D_ //
+&uuml;he    &uuml;ks+0 //_N_ card sg gen l //
+kandidaadi    kandidaat+0 //_S_ com sg gen //
+&uuml;lesseadjaks    &uuml;les_seadja+ks //_S_ com sg tr //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+3    3+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Kandidaatide    kandidaat+de //_S_ com pl gen //
+registreerimiseks    registreeri=mine+ks //_S_ com sg tr //
+esitamine    esita=mine+0 //_S_ com sg nom //
+ja    ja+0 //_J_ crd //
+registreerimine    registreeri=mine+0 //_S_ com sg nom //
+toimub    toimu+b //_V_ main indic pres ps3 sg ps af //
+vastavalt    vastavalt+0 //_K_ pre //
+k&auml;esoleva    k&auml;es_olev+0 //_A_ pos sg gen //
+seaduse    seadus+0 //_S_ com sg gen //
+&sect;    &sect;+0 //_Y_ nominal ? //
+15    15+0 //_N_ card ? digit //
+l&otilde;igetele    l&otilde;ige+tele //_S_ com pl all //
+3--10    3--10+0 //_N_ card ? digit //
+.    . //_Z_ Fst //
+</s>
+<s>
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+esimeseks    esimene+ks //_N_ ord sg tr l //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+teiseks    teine+ks //_N_ ord sg tr l //
+vooruks    voor+ks //_S_ com sg tr //
+registreeritud    registreeritud+0 //_A_ pos //
+kandidaadi    kandidaat+0 //_S_ com sg gen //
+registreerimiseks    registreeri=mine+ks //_S_ com sg tr //
+esitamise    esita=mine+0 //_S_ com sg gen //
+korral    korral+0 //_K_ post //
+ei    ei+0 //_V_ aux neg //
+ole    ole+0 //_V_ aux indic pres ps neg //
+vaja    vaja+0 //_V_ main indic pres ps neg //
+esildisele    esildis+le //_S_ com sg all //
+lisada    lisa+da //_V_ main inf //
+k&auml;esoleva    k&auml;es_olev+0 //_A_ pos sg gen //
+seaduse    seadus+0 //_S_ com sg gen //
+&sect;    &sect;+0 //_Y_ nominal ? //
+15    15+0 //_N_ card ? digit //
+l&otilde;ike    l&otilde;ige+0 //_S_ com sg gen //
+5    5+0 //_N_ card ? digit //
+punktides    punkt+des //_S_ com pl in //
+2    2+0 //_N_ card ? digit //
+ja    ja+0 //_J_ crd //
+3    3+0 //_N_ card ? digit //
+nimetatud    nimetatud+0 //_A_ pos //
+dokumente    dokument+e //_S_ com pl part //
+.    . //_Z_ Fst //
+</s>
+<s>
+&sect;    &sect;+0 //_Y_ nominal ? //
+24    24+0 //_N_ card ? digit //
+.    . //_Z_ Fst //
+</s>
+<s>
+Valimiskogu    valimis_kogu+0 //_S_ com sg gen //
+liikmete    liige+te //_S_ com pl gen //
+registreerimine    registreeri=mine+0 //_S_ com sg nom //
+</s>
+<s>
+(    ( //_Z_ Opr //
+1    1+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Valimiskogu    valimis_kogu+0 //_S_ com sg gen //
+liikmete    liige+te //_S_ com pl gen //
+registreerimine    registreeri=mine+0 //_S_ com sg nom //
+valimiskogu    valimis_kogu+0 //_S_ com sg gen //
+istungiks    istung+ks //_S_ com sg tr //
+algab    alga+b //_V_ main indic pres ps3 sg ps af //
+kaks    kaks+0 //_N_ card sg nom l //
+tundi    tund+0 //_S_ com sg part //
+enne    enne+0 //_K_ pre //
+valimiskogu    valimis_kogu+0 //_S_ com sg gen //
+istungi    istung+0 //_S_ com sg gen //
+algust    algus+t //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+2    2+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Valimiskogu    valimis_kogu+0 //_S_ com sg gen //
+liikmed    liige+d //_S_ com pl nom //
+registreeritakse    registreeri+takse //_V_ main indic pres imps af //
+isikut    isik+t //_S_ com sg part //
+ja    ja+0 //_J_ crd //
+kodakondsust    kodakondsus+t //_S_ com sg part //
+t&otilde;endava    t&otilde;enda=v+0 //_A_ pos sg gen //
+dokumendi    dokument+0 //_S_ com sg gen //
+esitamisel    esita=mine+l //_S_ com sg ad //
+.    . //_Z_ Fst //
+</s>
+<s>
+&sect;    &sect;+0 //_Y_ nominal ? //
+25    25+0 //_N_ card ? digit //
+.    . //_Z_ Fst //
+</s>
+<s>
+Esimene    esimene+0 //_N_ ord sg nom l //
+h&auml;&auml;letusvoor    h&auml;&auml;letus_voor+0 //_S_ com sg nom //
+(    ( //_Z_ Opr //
+1    1+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Esimeseks    esimene+ks //_N_ ord sg tr l //
+h&auml;&auml;letusvooruks    h&auml;&auml;letus_voor+ks //_S_ com sg tr //
+kantakse    kand+takse //_V_ main indic pres imps af //
+h&auml;&auml;letamissedelile    h&auml;&auml;leta=mis_sedel+le //_S_ com sg all //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+kolmandas    kolmas+s //_N_ ord sg in l //
+h&auml;&auml;letusvoorus    h&auml;&auml;letus_voor+s //_S_ com sg in //
+osalenud    osale=nud+0 //_A_ pos //
+kandidaatide    kandidaat+de //_S_ com pl gen //
+ja    ja+0 //_J_ crd //
+valimiskogu    valimis_kogu+0 //_S_ com sg gen //
+esimeseks    esimene+ks //_N_ ord sg tr l //
+h&auml;&auml;letusvooruks    h&auml;&auml;letus_voor+ks //_S_ com sg tr //
+registreeritud    registreeritud+0 //_A_ pos //
+kandidaatide    kandidaat+de //_S_ com pl gen //
+nimed    nimi+d //_S_ com pl nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+2    2+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Valituks    valitud+ks //_A_ pos sg tr //
+tunnistatakse    tunnista+takse //_V_ main indic pres imps af //
+kandidaat    kandidaat+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+kelle    kes+0 //_P_ sg gen //
+poolt    poolt+0 //_K_ post //
+h&auml;&auml;letab    h&auml;&auml;leta+b //_V_ main indic pres ps3 sg ps af //
+h&auml;&auml;letamisest    h&auml;&auml;leta=mine+st //_S_ com sg el //
+osav&otilde;tnud    osa_v&otilde;t=nud+0 //_A_ pos //
+valimiskogu    valimis_kogu+0 //_S_ com sg gen //
+liikmete    liige+te //_S_ com pl gen //
+enamus    enamus+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+3    3+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Kui    kui+0 //_J_ sub //
+&uuml;kski    &uuml;ks+ki //_P_ sg nom //
+kandidaat    kandidaat+0 //_S_ com sg nom //
+ei    ei+0 //_V_ aux neg //
+saa    saa+0 //_V_ main indic pres ps neg //
+n&otilde;utavat    n&otilde;utav+t //_A_ pos sg part //
+h&auml;&auml;lteenamust    h&auml;&auml;l+te_enamus+t //_S_ com sg part //
+,    , //_Z_ Com //
+korraldatakse    korralda+takse //_V_ main indic pres imps af //
+samal    sama+l //_P_ sg ad //
+p&auml;eval    p&auml;ev+l //_S_ com sg ad //
+teine    teine+0 //_N_ ord sg nom l //
+h&auml;&auml;letusvoor    h&auml;&auml;letus_voor+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+4    4+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Valimiskogu    valimis_kogu+0 //_S_ com sg gen //
+istungi    istung+0 //_S_ com sg gen //
+juhataja    juhataja+0 //_S_ com sg nom //
+teatab    teata+b //_V_ main indic pres ps3 sg ps af //
+valimiskogu    valimis_kogu+0 //_S_ com sg gen //
+liikmetele    liige+tele //_S_ com pl all //
+teise    teine+0 //_N_ ord sg gen l //
+h&auml;&auml;letusvooru    h&auml;&auml;letus_voor+0 //_S_ com sg gen //
+algusaja    algus_aeg+0 //_S_ com sg gen //
+kohe    kohe+0 //_D_ //
+p&auml;rast    p&auml;rast+0 //_K_ pre //
+esimese    esimene+0 //_N_ ord sg gen l //
+vooru    voor+0 //_S_ com sg gen //
+valimistulemuse    valimis_tulemus+0 //_S_ com sg gen //
+teatavakstegemist    teatava+ks_tege=mine+t //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+&sect;    &sect;+0 //_Y_ nominal ? //
+26    26+0 //_N_ card ? digit //
+.    . //_Z_ Fst //
+</s>
+<s>
+Teine    teine+0 //_N_ ord sg nom l //
+h&auml;&auml;letusvoor    h&auml;&auml;letus_voor+0 //_S_ com sg nom //
+</s>
+<s>
+(    ( //_Z_ Opr //
+1    1+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Teiseks    teine+ks //_N_ ord sg tr l //
+h&auml;&auml;letusvooruks    h&auml;&auml;letus_voor+ks //_S_ com sg tr //
+kantakse    kand+takse //_V_ main indic pres imps af //
+h&auml;&auml;letamissedelile    h&auml;&auml;leta=mis_sedel+le //_S_ com sg all //
+kahe    kaks+0 //_N_ card sg gen l //
+esimeses    esimene+s //_N_ ord sg in l //
+voorus    voor+s //_S_ com sg in //
+enim    enim+0 //_A_ super sg nom //
+h&auml;&auml;li    h&auml;&auml;l+i //_S_ com pl part //
+saanud    saa=nud+0 //_A_ pos //
+kandidaadi    kandidaat+0 //_S_ com sg gen //
+nimed    nimi+d //_S_ com pl nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Kui    kui+0 //_J_ sub //
+esimeses    esimene+s //_N_ ord sg in l //
+h&auml;&auml;letusvoorus    h&auml;&auml;letus_voor+s //_S_ com sg in //
+saab    saa+b //_V_ main indic pres ps3 sg ps af //
+v&auml;hemalt    v&auml;hemalt+0 //_D_ //
+kaks    kaks+0 //_N_ card sg nom l //
+kandidaati    kandidaat+0 //_S_ com sg part //
+v&otilde;rdse    v&otilde;rdne+0 //_A_ pos sg gen //
+arvu    arv+0 //_S_ com sg gen //
+h&auml;&auml;li    h&auml;&auml;l+i //_S_ com pl part //
+,    , //_Z_ Com //
+kantakse    kand+takse //_V_ main indic pres imps af //
+h&auml;&auml;letamissedelile    h&auml;&auml;leta=mis_sedel+le //_S_ com sg all //
+vanema    vanem+0 //_A_ comp sg gen //
+kandidaadi    kandidaat+0 //_S_ com sg gen //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+vanemate    vanem+te //_A_ comp pl gen //
+kandidaatide    kandidaat+de //_S_ com pl gen //
+nimed    nimi+d //_S_ com pl nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Kui    kui+0 //_J_ sub //
+esimeses    esimene+s //_N_ ord sg in l //
+h&auml;&auml;letusvoorus    h&auml;&auml;letus_voor+s //_S_ com sg in //
+kandideerib    kandideeri+b //_V_ main indic pres ps3 sg ps af //
+ainult    ainult+0 //_D_ //
+&uuml;ks    &uuml;ks+0 //_N_ card sg nom l //
+kandidaat    kandidaat+0 //_S_ com sg nom //
+ja    ja+0 //_J_ crd //
+ta    tema+0 //_P_ sg nom //
+ei    ei+0 //_V_ aux neg //
+saa    saa+0 //_V_ main indic pres ps neg //
+n&otilde;utavat    n&otilde;utav+t //_A_ pos sg part //
+h&auml;&auml;lteenamust    h&auml;&auml;l+te_enamus+t //_S_ com sg part //
+,    , //_Z_ Com //
+kantakse    kand+takse //_V_ main indic pres imps af //
+h&auml;&auml;letamissedelile    h&auml;&auml;leta=mis_sedel+le //_S_ com sg all //
+ainult    ainult+0 //_D_ //
+tema    tema+0 //_P_ sg gen //
+nimi    nimi+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+2    2+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Valituks    valitud+ks //_A_ pos sg tr //
+tunnistatakse    tunnista+takse //_V_ main indic pres imps af //
+kandidaat    kandidaat+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+kelle    kes+0 //_P_ sg gen //
+poolt    poolt+0 //_K_ post //
+h&auml;&auml;letab    h&auml;&auml;leta+b //_V_ main indic pres ps3 sg ps af //
+h&auml;&auml;letamisest    h&auml;&auml;leta=mine+st //_S_ com sg el //
+osav&otilde;tnud    osa_v&otilde;t=nud+0 //_A_ pos //
+valimiskogu    valimis_kogu+0 //_S_ com sg gen //
+liikmete    liige+te //_S_ com pl gen //
+enamus    enamus+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+3    3+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Kui    kui+0 //_J_ sub //
+&uuml;kski    &uuml;ks+ki //_P_ sg nom //
+kandidaat    kandidaat+0 //_S_ com sg nom //
+ei    ei+0 //_V_ aux neg //
+saa    saa+0 //_V_ main indic pres ps neg //
+n&otilde;utavat    n&otilde;utav+t //_A_ pos sg part //
+h&auml;&auml;lteenamust    h&auml;&auml;l+te_enamus+t //_S_ com sg part //
+,    , //_Z_ Com //
+korraldatakse    korralda+takse //_V_ main indic pres imps af //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Presidendi    president+0 //_S_ com sg gen //
+valimine    valimine+0 //_S_ com sg nom //
+vastavalt    vastavalt+0 //_K_ pre //
+k&auml;esoleva    k&auml;es_olev+0 //_A_ pos sg gen //
+seaduse    seadus+0 //_S_ com sg gen //
+&sect;    &sect;+0 //_Y_ nominal ? //
+3    3+0 //_N_ card ? digit //
+l&otilde;ike    l&otilde;ige+0 //_S_ com sg gen //
+2    2+0 //_N_ card ? digit //
+punktile    punkt+le //_S_ com sg all //
+3    3+0 //_N_ card ? digit //
+.    . //_Z_ Fst //
+</s>
+<s>
+6.    6.+0 //_N_ ord ? digit //
+peat&uuml;kk    pea_t&uuml;kk+0 //_S_ com sg nom //
+</s>
+<s>
+L&Otilde;PPS&Auml;TTED    l&otilde;pp_s&auml;te+d //_S_ com pl nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+&sect;    &sect;+0 //_Y_ nominal ? //
+27    27+0 //_N_ card ? digit //
+.    . //_Z_ Fst //
+</s>
+<s>
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Presidendi    president+0 //_S_ com sg gen //
+ametisseastumine    ameti+sse_astu=mine+0 //_S_ com sg nom //
+</s>
+<s>
+(    ( //_Z_ Opr //
+1    1+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Korraliselt    korraliselt+0 //_D_ //
+valitud    valitud+0 //_A_ pos //
+uus    uus+0 //_A_ pos sg nom //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+President    president+0 //_S_ com sg nom //
+astub    astu+b //_V_ main indic pres ps3 sg ps af //
+ametisse    amet+sse //_S_ com sg ill //
+ametivande    ameti_vanne+0 //_S_ com sg gen //
+andmisega    and=mine+ga //_S_ com sg kom //
+esimesel    esimene+l //_N_ ord sg ad l //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+istungil    istung+l //_S_ com sg ad //
+,    , //_Z_ Com //
+mis    mis+0 //_P_ sg nom //
+j&auml;rgneb    j&auml;rgne+b //_V_ main indic pres ps3 sg ps af //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Presidendi    president+0 //_S_ com sg gen //
+ametiaja    ameti_aeg+0 //_S_ com sg gen //
+l&otilde;ppemise    l&otilde;ppe=mine+0 //_S_ com sg gen //
+p&auml;evale    p&auml;ev+le //_S_ com sg all //
+.    . //_Z_ Fst //
+</s>
+<s>
+(    ( //_Z_ Opr //
+2    2+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Erakorraliselt    era_korraliselt+0 //_D_ //
+valitud    valitud+0 //_A_ pos //
+uus    uus+0 //_A_ pos sg nom //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+President    president+0 //_S_ com sg nom //
+astub    astu+b //_V_ main indic pres ps3 sg ps af //
+ametisse    amet+sse //_S_ com sg ill //
+ametivande    ameti_vanne+0 //_S_ com sg gen //
+andmisega    and=mine+ga //_S_ com sg kom //
+esimesel    esimene+l //_N_ ord sg ad l //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+istungil    istung+l //_S_ com sg ad //
+,    , //_Z_ Com //
+mis    mis+0 //_P_ sg nom //
+j&auml;rgneb    j&auml;rgne+b //_V_ main indic pres ps3 sg ps af //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Presidendi    president+0 //_S_ com sg gen //
+valimise    valimine+0 //_S_ com sg gen //
+p&auml;evale    p&auml;ev+le //_S_ com sg all //
+.    . //_Z_ Fst //
+</s>
+<s>
+&sect;    &sect;+0 //_Y_ nominal ? //
+28    28+0 //_N_ card ? digit //
+.    . //_Z_ Fst //
+</s>
+<s>
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+kodukorra    kodu_kord+0 //_S_ com sg gen //
+seaduse    seadus+0 //_S_ com sg gen //
+&sect;    &sect;+0 //_Y_ nominal ? //
+42    42+0 //_N_ card ? digit //
+muutmine    muut=mine+0 //_S_ com sg nom //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+kodukorra    kodu_kord+0 //_S_ com sg gen //
+seaduse    seadus+0 //_S_ com sg gen //
+(    ( //_Z_ Opr //
+RT    RT+0 //_Y_ nominal ? //
+I    I+0 //_N_ ord ? roman //
+1994    1994+0 //_N_ card ? digit //
+,    , //_Z_ Com //
+90    90+0 //_N_ card ? digit //
+,    , //_Z_ Com //
+1517    1517+0 //_N_ card ? digit //
+;    ; //_Z_ Scl //
+1995    1995+0 //_N_ card ? digit //
+,    , //_Z_ Com //
+11    11+0 //_N_ card ? digit //
+,    , //_Z_ Com //
+115    115+0 //_N_ card ? digit //
+;    ; //_Z_ Scl //
+20    20+0 //_N_ card ? digit //
+,    , //_Z_ Com //
+295    295+0 //_N_ card ? digit //
+;    ; //_Z_ Scl //
+74    74+0 //_N_ card ? digit //
+,    , //_Z_ Com //
+1285    1285+0 //_N_ card ? digit //
+;    ; //_Z_ Scl //
+83    83+0 //_N_ card ? digit //
+,    , //_Z_ Com //
+1440    1440+0 //_N_ card ? digit //
+ja    ja+0 //_J_ crd //
+1444    1444+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+&sect;    &sect;+0 //_Y_ nominal ? //
+42    42+0 //_N_ card ? digit //
+l&otilde;ike    l&otilde;ige+0 //_S_ com sg gen //
+2    2+0 //_N_ card ? digit //
+punkt    punkt+0 //_S_ com sg nom //
+1    1+0 //_N_ card ? digit //
+muudetakse    muut+takse //_V_ main indic pres imps af //
+ja    ja+0 //_J_ crd //
+s&otilde;nastatakse    s&otilde;nasta+takse //_V_ main indic pres imps af //
+j&auml;rgmiselt    j&auml;rgmiselt+0 //_D_ //
+:    : //_Z_ Col //
+"    " //_Z_ Quo //
+1    1+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Presidendi    president+0 //_S_ com sg gen //
+valimiseks    valimine+ks //_S_ com sg tr //
+--    &mdash; //_Z_ Dsd //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Presidendi    president+0 //_S_ com sg gen //
+,    , //_Z_ Com //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Valitsuse    valitsus+0 //_S_ com sg gen //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+v&auml;hemalt    v&auml;hemalt+0 //_D_ //
+viiendiku    viiendik+0 //_N_ card sg gen l //
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+koosseisu    koos_seis+0 //_S_ com sg gen //
+ettepanekul    ette_panek+l //_S_ com sg ad //
+;    ; //_Z_ Scl //
+"    " //_Z_ Quo //
+.    . //_Z_ Fst //
+</s>
+<s>
+&sect;    &sect;+0 //_Y_ nominal ? //
+29    29+0 //_N_ card ? digit //
+.    . //_Z_ Fst //
+</s>
+<s>
+Seaduse    seadus+0 //_S_ com sg gen //
+kehtetuks    kehtetu+ks //_A_ pos sg tr //
+tunnistamine    tunnista=mine+0 //_S_ com sg nom //
+</s>
+<s>
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+Presidendi    president+0 //_S_ com sg gen //
+valimise    valimine+0 //_S_ com sg gen //
+seadus    seadus+0 //_S_ com sg nom //
+(    ( //_Z_ Opr //
+RT    RT+0 //_Y_ nominal ? //
+1992    1992+0 //_N_ card ? digit //
+,    , //_Z_ Com //
+31    31+0 //_N_ card ? digit //
+,    , //_Z_ Com //
+413    413+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+tunnistatakse    tunnista+takse //_V_ main indic pres imps af //
+kehtetuks    kehtetu+ks //_A_ pos sg tr //
+.    . //_Z_ Fst //
+</s>
+<s>
+Riigikogu    riigi_kogu+0 //_S_ com sg gen //
+esimees    esi_mees+0 //_S_ com sg nom //
+Toomas    Toomas+0 //_S_ prop sg nom //
+SAVI    Savi+0 //_S_ prop sg nom //
+</s>

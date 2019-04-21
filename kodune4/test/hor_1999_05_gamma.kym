@@ -1,0 +1,2445 @@
+<s>
+Horisont    Horisont+0 //_S_ prop sg nom //
+05    05+0 //_N_ card ? digit //
+,    , //_Z_ Com //
+1999    1999+0 //_N_ card ? digit //
+</s>
+<s>
+Gammakiirguse    gamma_kiirgus+0 //_S_ com sg gen //
+s&auml;hvatused    s&auml;hvatus+d //_S_ com pl nom //
+-    &mdash; //_Z_ Dsh //
+surmaoht    surma_oht+0 //_S_ com sg nom //
+tsivilisatsiooni    tsivilisatsioon+0 //_S_ com sg gen //
+kohal    kohal+0 //_K_ post //
+</s>
+<p>
+<s>
+MIHKEL    Mihkel+0 //_S_ prop sg nom //
+J&Otilde;EVEER    J&otilde;e_veer+0 //_S_ prop sg nom //
+(    ( //_Z_ Opr //
+1937    1937+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+Tartu    Tartu+0 //_S_ prop sg gen //
+Observatooriumi    Observatoorium+0 //_S_ prop sg gen //
+kosmoloogiar&uuml;hma    kosmoloogia_r&uuml;hm+0 //_S_ com sg gen //
+juhtteadur    juht_teadur+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+F&uuml;&uuml;sika-matemaatikakandidaat    f&uuml;&uuml;sika-matemaatika_kandidaat+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Astronoomias    astronoomia+s //_S_ com sg in //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+tavaliselt    tavaliselt+0 //_D_ //
+tegemist    tegemine+t //_S_ com sg part //
+suurte    suur+te //_A_ pos pl gen //
+arvudega    arv+dega //_S_ com pl kom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Suured    suur+d //_A_ pos pl nom //
+on    ole+0 //_V_ main indic pres ps3 pl ps af //
+taevakehade    taeva_keha+de //_S_ com pl gen //
+m&otilde;&otilde;tmed    m&otilde;&otilde;de+d //_S_ com pl nom //
+ja    ja+0 //_J_ crd //
+omavahelised    oma_vaheline+d //_A_ pos pl nom //
+kaugused    kaugus+d //_S_ com pl nom //
+,    , //_Z_ Com //
+vastavalt    vastavalt+0 //_K_ pre //
+sellele    see+le //_P_ sg all //
+on    ole+0 //_V_ main indic pres ps3 pl ps af //
+pikad    pikk+d //_A_ pos pl nom //
+ka    ka+0 //_D_ //
+muutustega    muutus+tega //_S_ com pl kom //
+seotud    seotud+0 //_A_ pos //
+ajavahemikud    aja_vahemik+d //_S_ com pl nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Meie    mina+0 //_P_ pl gen //
+P&auml;ike    P&auml;ike+0 //_S_ prop sg nom //
+on    ole+0 //_V_ aux indic pres ps3 sg ps af //
+mitu    mitu+0 //_P_ sg nom //
+miljardit    miljard+t //_N_ card sg part l //
+aastat    aasta+t //_S_ com sg part //
+s&auml;ranud    s&auml;ra+nud //_V_ main partic past ps //
+enam-v&auml;hem    enam-v&auml;hem+0 //_D_ //
+sama    sama+0 //_P_ sg gen //
+heledusega    heledus+ga //_S_ com sg kom //
+kui    kui+0 //_J_ sub //
+n&uuml;&uuml;disajal    n&uuml;&uuml;dis_aeg+l //_S_ com sg ad //
+ja    ja+0 //_J_ crd //
+nii    nii+0 //_D_ //
+peaks    pida+ks //_V_ mod cond pres ps3 sg ps af //
+see    see+0 //_P_ sg nom //
+j&auml;tkuma    j&auml;tku+ma //_V_ main sup ps ill //
+ka    ka+0 //_D_ //
+mitme    mitu+0 //_P_ sg gen //
+j&auml;rgneva    j&auml;rgnev+0 //_A_ pos sg gen //
+miljardi    miljard+0 //_N_ card sg gen l //
+aasta    aasta+0 //_S_ com sg gen //
+jooksul    jooksul+0 //_K_ post //
+.    . //_Z_ Fst //
+</s>
+<s>
+&Otilde;ige    &otilde;ige+0 //_D_ //
+p&uuml;sivad    p&uuml;siv+d //_A_ pos pl nom //
+on    ole+0 //_V_ main indic pres ps3 pl ps af //
+ka    ka+0 //_D_ //
+valdav    valdav+0 //_A_ pos sg nom //
+enamik    enamik+0 //_S_ com sg nom //
+teisi    teine+0 //_P_ pl part //
+t&auml;hti    t&auml;ht+i //_S_ com pl part //
+.    . //_Z_ Fst //
+</s>
+<s>
+Antiikajal    antiik_aeg+l //_S_ com sg ad //
+s&auml;tendas    s&auml;tenda+s //_V_ main indic impf ps3 sg ps af //
+taevas    taevas+0 //_S_ com sg nom //
+inimeste    inimene+te //_S_ com pl gen //
+peade    pea+de //_S_ com pl gen //
+kohal    kohal+0 //_K_ post //
+samamoodi    sama_moodi+0 //_D_ //
+nagu    nagu+0 //_J_ sub //
+praegu    praegu+0 //_D_ //
+.    . //_Z_ Fst //
+</s>
+<s>
+Suurteks    suur+teks //_A_ pos pl tr //
+ja    ja+0 //_J_ crd //
+harvadeks    harv+deks //_A_ pos pl tr //
+eranditeks    erand+teks //_S_ com pl tr //
+on    ole+0 //_V_ main indic pres ps3 pl ps af //
+aeg-ajalt    aeg-ajalt+0 //_D_ //
+ootamatult    ootamatult+0 //_D_ //
+s&uuml;ttivad    s&uuml;ttiv+d //_A_ pos pl nom //
+noovad    noova+d //_S_ com pl nom //
+ja    ja+0 //_J_ crd //
+eriti    eriti+0 //_D_ //
+supernoovad    supernoova+d //_S_ com pl nom //
+,    , //_Z_ Com //
+kus    kus+0 //_D_ //
+t&auml;he    t&auml;ht+0 //_S_ com sg gen //
+heledus    heledus+0 //_S_ com sg nom //
+v&otilde;ib    v&otilde;i+b //_V_ mod indic pres ps3 sg ps af //
+m&otilde;ne    m&otilde;ni+0 //_P_ sg gen //
+p&auml;evaga    p&auml;ev+ga //_S_ com sg kom //
+kasvada    kasva+da //_V_ main inf //
+miljoneid    miljon+id //_N_ card pl part l //
+kordi    kord+i //_S_ com pl part //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+j&auml;&auml;da    j&auml;&auml;+da //_V_ main inf //
+maksimumi    maksimum+0 //_S_ com sg gen //
+&uuml;mbruses    &uuml;mbrus+s //_S_ com sg in //
+m&otilde;neks    m&otilde;ni+ks //_P_ sg tr //
+p&auml;evaks    p&auml;ev+ks //_S_ com sg tr //
+stabiilseks    stabiilne+ks //_A_ pos sg tr //
+ja    ja+0 //_J_ crd //
+seej&auml;rel    see_j&auml;rel+0 //_D_ //
+aegam&ouml;&ouml;da    aega_m&ouml;&ouml;da+0 //_D_ //
+kustuda    kustu+da //_V_ main inf //
+.    . //_Z_ Fst //
+</s>
+<s>
+Aastak&uuml;mneid    aasta_k&uuml;mme+id //_S_ com pl part //
+peeti    pida+ti //_V_ main indic impf imps af //
+supernoovasid    supernoova+sid //_S_ com pl part //
+k&otilde;ige    k&otilde;ige+0 //_D_ //
+&ldquo;    &ldquo; //_Z_ Oqu //
+&auml;kilisemateks    &auml;kilise=m+teks //_A_ comp pl tr //
+&rdquo;    &rdquo; //_Z_ Cqu //
+suure    suur+0 //_A_ pos sg gen //
+v&otilde;imsusega    v&otilde;imsus+ga //_S_ com sg kom //
+astronoomiliste    astronoomiline+te //_A_ pos pl gen //
+s&uuml;ndmuste    s&uuml;ndmus+te //_S_ com pl gen //
+seas    seas+0 //_K_ post //
+ning    ning+0 //_J_ crd //
+enamik    enamik+0 //_S_ com sg nom //
+astronoome    astronoom+e //_S_ com pl part //
+ei    ei+0 //_V_ aux neg //
+n&auml;inud    n&auml;ge+nud //_V_ main indic impf ps neg //
+vist    vist+0 //_D_ //
+uneski    uni+ski //_S_ com sg in //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+kuskil    kuskil+0 //_D_ //
+palju    palju+0 //_D_ //
+hullemaid    hullem+id //_A_ comp pl part //
+plahvatusi    plahvatus+i //_S_ com pl part //
+ette    ette+0 //_D_ //
+tuleb    tule+b //_V_ main indic pres ps3 sg ps af //
+.    . //_Z_ Fst //
+</s>
+<s>
+Kui    kui+0 //_J_ sub //
+t&auml;histaevast    t&auml;his_taevas+t //_S_ com sg part //
+j&auml;lgitaks    j&auml;lgi+taks //_V_ main cond pres imps af //
+vaid    vaid+0 //_D_ //
+traditsiooniliste    traditsiooniline+te //_A_ pos pl gen //
+optiliste    optiline+te //_A_ pos pl gen //
+vahenditega    vahend+tega //_S_ com pl kom //
+,    , //_Z_ Com //
+siis    siis+0 //_J_ sub //
+arvaksime    arva+ksime //_V_ main cond pres ps1 pl ps af //
+seda    see+da //_P_ sg part //
+siiani    siiani+0 //_D_ //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Gammakiirguse    gamma_kiirgus+0 //_S_ com sg gen //
+militaarsed    militaarne+d //_A_ pos pl nom //
+vahimehed    vahi_mees+d //_S_ com pl nom //
+</s>
+</p>
+<p>
+<s>
+1950.    1950.+0 //_N_ ord ? digit //
+aastate    aasta+te //_S_ com pl gen //
+l&otilde;pul    l&otilde;pp+l //_S_ com sg ad //
+sai    saa+i //_V_ main indic impf ps3 sg ps af //
+suurriikidele    suur_riik+dele //_S_ com pl all //
+selgeks    selge+ks //_A_ pos sg tr //
+tuumakatsetustest    tuuma_katsetus+test //_S_ com pl el //
+tekitatud    tekita=tud+0 //_A_ pos //
+radioaktiivse    radio_aktiivne+0 //_A_ pos sg gen //
+saasta    saast+0 //_S_ com sg gen //
+ohtlikkus    ohtlikkus+0 //_S_ com sg nom //
+keskkonnale    keskkond+le //_S_ com sg all //
+ning    ning+0 //_J_ crd //
+alustati    alusta+ti //_V_ main indic impf imps af //
+l&auml;bir&auml;&auml;kimisi    l&auml;bi_r&auml;&auml;kimine+i //_S_ com pl part //
+tuumakatsetuste    tuuma_katsetus+te //_S_ com pl gen //
+keelustamiseks    keelustamine+ks //_S_ com sg tr //
+Maa    Maa+0 //_S_ prop sg gen //
+atmosf&auml;&auml;ris    atmo_sf&auml;&auml;r+s //_S_ com sg in //
+ja    ja+0 //_J_ crd //
+kosmoses    kosmos+s //_S_ com sg in //
+.    . //_Z_ Fst //
+</s>
+<s>
+Kohe    kohe+0 //_D_ //
+tekkis    tekki+s //_V_ main indic impf ps3 sg ps af //
+aga    aga+0 //_J_ crd //
+k&uuml;simus    k&uuml;simus+0 //_S_ com sg nom //
+:    : //_Z_ Col //
+kuidas    kuidas+0 //_D_ //
+kontrollida    kontrolli+da //_V_ main inf //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+partner    partner+0 //_S_ com sg nom //
+ikka    ikka+0 //_D_ //
+lubadusi    lubadus+i //_S_ com pl part //
+t&auml;idab    t&auml;it+b //_V_ main indic pres ps3 sg ps af //
+.    . //_Z_ Fst //
+</s>
+<s>
+Kosmoses    kosmos+s //_S_ com sg in //
+plahvatav    plahvatav+0 //_A_ pos sg nom //
+tuumapomm    tuuma_pomm+0 //_S_ com sg nom //
+tekitab    tekita+b //_V_ main indic pres ps3 sg ps af //
+v&otilde;imsa    v&otilde;imas+0 //_A_ pos sg gen //
+r&ouml;ntgenikiirguse    r&ouml;ntgeni_kiirgus+0 //_S_ com sg gen //
+impulsi    impulss+0 //_S_ com sg gen //
+,    , //_Z_ Com //
+millega    mis+ga //_P_ sg kom //
+kaasnevad    kaasne+vad //_V_ main indic pres ps3 pl ps af //
+energiarikas    energia_rikas+0 //_A_ pos sg nom //
+gammakiirgus    gamma_kiirgus+0 //_S_ com sg nom //
+ja    ja+0 //_J_ crd //
+neutronite    neutron+te //_S_ com pl gen //
+voog    voog+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+USA    USA+0 //_Y_ nominal ? //
+tuumauuringute    tuuma_uuring+te //_S_ com pl gen //
+keskuses    keskus+s //_S_ com sg in //
+Los    Los+0 //_S_ prop sg nom //
+Alamoses    Alamos+s //_S_ prop sg in //
+asuti    asu+ti //_V_ main indic impf imps af //
+kiiresti    kiiresti+0 //_D_ //
+projekteerima    projekteeri+ma //_V_ main sup ps ill //
+ja    ja+0 //_J_ crd //
+ehitama    ehita+ma //_V_ main sup ps ill //
+vastavate    vastav+te //_A_ pos pl gen //
+detektoritega    detektor+tega //_S_ com pl kom //
+varustatud    varusta=tud+0 //_A_ pos //
+Maa    Maa+0 //_S_ prop sg gen //
+tehiskaaslasi    tehis_kaaslane+i //_S_ com pl part //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+1963.    1963.+0 //_N_ ord ? digit //
+aasta    aasta+0 //_S_ com sg gen //
+oktoobris    oktoober+s //_S_ com sg in //
+lennutasid    lennuta+sid //_V_ main indic impf ps3 pl ps af //
+USA    USA+0 //_Y_ nominal ? //
+&otilde;huj&otilde;ud    &otilde;hu_j&otilde;ud+d //_S_ com pl nom //
+250000    250000+0 //_N_ card ? digit //
+km    km+0 //_Y_ nominal ? //
+k&otilde;rgusele    k&otilde;rgune+le //_A_ pos sg all //
+orbiidile    orbiit+le //_S_ com sg all //
+tuumakatsetuste    tuuma_katsetus+te //_S_ com pl gen //
+j&auml;lgija    j&auml;lgija+0 //_S_ com sg gen //
+Vela    Vela+0 //_S_ prop sg gen //
+1    1+0 //_N_ card ? digit //
+(    ( //_Z_ Opr //
+hispaania    hispaania+0 //_G_ //
+k.    k+0 //_Y_ nominal ? //
+&ouml;&ouml;valve    &ouml;&ouml;_valve+0 //_S_ com sg nom //
+)    ) //_Z_ Cpr //
+.    . //_Z_ Fst //
+</s>
+<s>
+Tegemist    tegemine+t //_S_ com sg part //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+kahe    kaks+0 //_N_ card sg gen l //
+identse    identne+0 //_A_ pos sg gen //
+satelliidiga    satelliit+ga //_S_ com sg kom //
+,    , //_Z_ Com //
+mis    mis+0 //_P_ pl nom //
+liikusid    liiku+sid //_V_ main indic impf ps3 pl ps af //
+samal    sama+l //_P_ sg ad //
+orbiidil    orbiit+l //_S_ com sg ad //
+,    , //_Z_ Com //
+aga    aga+0 //_J_ crd //
+&uuml;ks    &uuml;ks+0 //_P_ sg nom //
+teisest    teine+st //_P_ sg el //
+pool    pool+0 //_N_ card sg nom l //
+ringi    ring+0 //_S_ com sg part //
+eespool    ees_pool+0 //_D_ //
+,    , //_Z_ Com //
+nii    nii+0 //_D_ //
+et    et+0 //_J_ sub //
+&uuml;ks    &uuml;ks+0 //_P_ sg nom //
+kaksikutest    kaksik+test //_S_ com pl el //
+registreeris    registreeri+s //_V_ main indic impf ps3 sg ps af //
+Maa    Maa+0 //_S_ prop sg gen //
+&uuml;hel    &uuml;ks+l //_P_ sg ad //
+poolel    pool+l //_S_ com sg ad //
+,    , //_Z_ Com //
+teine    teine+0 //_P_ sg nom //
+vastaspoolel    vastas_pool+l //_S_ com sg ad //
+toimuvat    toimu=v+t //_A_ pos sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+Vela    Vela+0 //_S_ prop sg nom //
+1    1+0 //_N_ card ? digit //
+ja    ja+0 //_J_ crd //
+selle    see+0 //_P_ sg gen //
+j&auml;rglased    j&auml;rglane+d //_S_ com pl nom //
+tegutsesid    tegutse+sid //_V_ main indic impf ps3 pl ps af //
+edukalt    edukalt+0 //_D_ //
+,    , //_Z_ Com //
+aga    aga+0 //_J_ crd //
+&otilde;nneks    &otilde;nn+ks //_S_ com sg tr //
+maapealseid    maa_pealne+id //_A_ pos pl part //
+tuumaplahvatusi    tuuma_plahvatus+i //_S_ com pl part //
+nad    tema+d //_P_ pl nom //
+ei    ei+0 //_V_ aux neg //
+registreerinud    registreeri+nud //_V_ main indic impf ps neg //
+.    . //_Z_ Fst //
+</s>
+<s>
+Tuumariigid    tuuma_riik+d //_S_ com pl nom //
+pidasid    pida+sid //_V_ main indic impf ps3 pl ps af //
+kinni    kinni+0 //_D_ //
+katsetuste    katsetus+te //_S_ com pl gen //
+keelustamise    keelustamine+0 //_S_ com sg gen //
+kokkuleppest    kokku_lepe+st //_S_ com sg el //
+.    . //_Z_ Fst //
+</s>
+<s>
+Kuid    kuid+0 //_J_ crd //
+p&auml;ris    p&auml;ris+0 //_D_ //
+ilma    ilma+0 //_K_ pre //
+t&ouml;&ouml;ta    t&ouml;&ouml;+ta //_S_ com sg abes //
+vahimehed    vahi_mees+d //_S_ com pl nom //
+ei    ei+0 //_V_ aux neg //
+olnud    ole+nud //_V_ main indic impf ps neg //
+,    , //_Z_ Com //
+vahetevahel    vahete_vahel+0 //_D_ //
+registreerisid    registreeri+sid //_V_ main indic impf ps3 pl ps af //
+nende    tema+de //_P_ pl gen //
+vastuv&otilde;tjad    vastu_v&otilde;tja+d //_S_ com pl nom //
+l&uuml;hiajalisi    l&uuml;hi_ajaline+i //_A_ pos pl part //
+gammakiirguse    gamma_kiirgus+0 //_S_ com sg gen //
+s&auml;hvatusi    s&auml;hvatus+i //_S_ com pl part //
+.    . //_Z_ Fst //
+</s>
+<s>
+Et    et+0 //_J_ sub //
+Vela    Vela+0 //_S_ prop sg gen //
+kiirgusdetektorid    kiirgus_detektor+d //_S_ com pl nom //
+nendeni    tema+deni //_P_ pl term //
+j&otilde;udnud    j&otilde;ud=nud+0 //_A_ pos //
+gamma-kvantide    gamma-kvant+de //_S_ com pl gen //
+saabumissuunda    saabumis_suund+0 //_S_ com sg part //
+ei    ei+0 //_V_ aux neg //
+osanud    oska+nud //_V_ main indic impf ps neg //
+m&auml;&auml;rata    m&auml;&auml;ra+ta //_V_ main inf //
+,    , //_Z_ Com //
+siis    siis+0 //_J_ sub //
+j&auml;i    j&auml;&auml;+i //_V_ main indic impf ps3 sg ps af //
+kiirte    kiir+te //_S_ com pl gen //
+allikate    allikas+te //_S_ com pl gen //
+osas    osas+0 //_K_ post //
+peaaegu    pea_aegu+0 //_D_ //
+k&otilde;ik    k&otilde;ik+0 //_P_ pl nom //
+lahtiseks    lahtine+ks //_A_ pos sg tr //
+.    . //_Z_ Fst //
+</s>
+<s>
+Esialgu    esi_algu+0 //_D_ //
+&otilde;nnestus    &otilde;nnestu+s //_V_ main indic impf ps3 sg ps af //
+v&auml;listada    v&auml;lista+da //_V_ main inf //
+vaid    vaid+0 //_D_ //
+tuumakatsetuste    tuuma_katsetus+te //_S_ com pl gen //
+v&otilde;imalus    v&otilde;imalus+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+sest    sest+0 //_J_ sub //
+gammas&auml;hvatustega    gamma_s&auml;hvatus+tega //_S_ com pl kom //
+samaaegseid    sama_aegne+id //_A_ pos pl part //
+,    , //_Z_ Com //
+tuumapommide    tuuma_pomm+de //_S_ com pl gen //
+plahvatustele    plahvatus+tele //_S_ com pl all //
+iseloomulikke    ise_loomulik+e //_A_ pos pl part //
+tugevaid    tugev+id //_A_ pos pl part //
+r&ouml;ntgens&auml;hvatusi    r&ouml;ntgen_s&auml;hvatus+i //_S_ com pl part //
+ei    ei+0 //_V_ aux neg //
+registreeritud    registreeri+tud //_V_ main indic impf imps neg //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Et    et+0 //_J_ sub //
+asi    asi+0 //_S_ com sg nom //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+intrigeeriv    intrigeeri=v+0 //_A_ pos sg nom //
+,    , //_Z_ Com //
+hakati    hakka+ti //_V_ main indic impf imps af //
+j&auml;rgmistele    j&auml;rgmine+tele //_A_ pos pl all //
+vahimeestele    vahi_mees+tele //_S_ com pl all //
+paigaldama    paigalda+ma //_V_ main sup ps ill //
+t&auml;pseid    t&auml;pne+id //_A_ pos pl part //
+kellasid    kell+sid //_S_ com pl part //
+.    . //_Z_ Fst //
+</s>
+<s>
+Vela    Vela+0 //_S_ prop sg nom //
+5    5+0 //_N_ card ? digit //
+ja    ja+0 //_J_ crd //
+Vela    Vela+0 //_S_ prop sg nom //
+6    6+0 //_N_ card ? digit //
+registreerisid    registreeri+sid //_V_ main indic impf ps3 pl ps af //
+gammas&auml;hvatuste    gamma_s&auml;hvatus+te //_S_ com pl gen //
+toimumisaegasid    toimu=mis_aeg+sid //_S_ com pl part //
+t&auml;psusega    t&auml;psus+ga //_S_ com sg kom //
+1/64    1/64+0 //_N_ card ? digit //
+sekundit    sekund+t //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+Kellaaegade    kella_aeg+de //_S_ com pl gen //
+v&otilde;rdlemise    v&otilde;rdlemine+0 //_S_ com sg gen //
+kaudu    kaudu+0 //_K_ post //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+lihtne    lihtne+0 //_A_ pos sg nom //
+n&auml;ha    n&auml;ge+a //_V_ main inf //
+,    , //_Z_ Com //
+milline    milline+0 //_P_ sg nom //
+satelliit    satelliit+0 //_S_ com sg nom //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+s&uuml;ndmusele    s&uuml;ndmus+le //_S_ com sg all //
+l&auml;hemal    l&auml;hemal+0 //_D_ //
+,    , //_Z_ Com //
+milline    milline+0 //_P_ sg nom //
+kaugemal    kaugemal+0 //_D_ //
+ja    ja+0 //_J_ crd //
+nii    nii+0 //_D_ //
+sai    saa+i //_V_ mod indic impf ps3 sg ps af //
+hinnata    hinda+ta //_V_ main inf //
+allika    allikas+0 //_S_ com sg gen //
+suunda    suund+0 //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+Selline    selline+0 //_P_ sg nom //
+suuna    suund+0 //_S_ com sg gen //
+m&auml;&auml;ramine    m&auml;&auml;ra=mine+0 //_S_ com sg nom //
+vastava    vastav+0 //_A_ pos sg gen //
+geomeetria    geomeetria+0 //_S_ com sg gen //
+&uuml;lesande    &uuml;les_anne+0 //_S_ com sg gen //
+lahendamise    lahenda=mine+0 //_S_ com sg gen //
+kaudu    kaudu+0 //_K_ post //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+seda    see+da //_P_ sg part //
+t&auml;psem    t&auml;psem+0 //_A_ comp sg nom //
+,    , //_Z_ Com //
+mida    mis+da //_P_ sg part //
+t&auml;psemad    t&auml;psem+d //_A_ comp pl nom //
+on    ole+0 //_V_ main indic pres ps3 pl ps af //
+satelliitidel    satelliit+del //_S_ com pl ad //
+asuvad    asu=v+d //_A_ pos pl nom //
+kellad    kell+d //_S_ com pl nom //
+,    , //_Z_ Com //
+mida    mis+da //_P_ sg part //
+kaugemal    kaugemal+0 //_D_ //
+satelliidid    satelliit+d //_S_ com pl nom //
+&uuml;ksteisest    &uuml;ks_teise+st //_P_ sg el //
+asuvad    asu+vad //_V_ main indic pres ps3 pl ps af //
+ja    ja+0 //_J_ crd //
+mida    mis+da //_P_ sg part //
+rohkem    rohkem+0 //_D_ //
+neid    see+d //_P_ pl part //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+.    . //_Z_ Fst //
+</s>
+<s>
+&Uuml;hese    &uuml;hene+0 //_A_ pos sg gen //
+lahendi    lahend+0 //_S_ com sg gen //
+saab    saa+b //_V_ main indic pres ps3 sg ps af //
+,    , //_Z_ Com //
+kui    kui+0 //_J_ sub //
+m&otilde;&otilde;tmisi    m&otilde;&otilde;tmine+i //_S_ com pl part //
+teevad    tege+vad //_V_ main indic pres ps3 pl ps af //
+4    4+0 //_N_ card ? digit //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+rohkem    rohkem+0 //_D_ //
+satelliiti    satelliit+0 //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+Niiviisi    nii_viisi+0 //_D_ //
+&otilde;nnestus    &otilde;nnestu+s //_V_ main indic impf ps3 sg ps af //
+v&otilde;imalike    v&otilde;imalik+e //_A_ pos pl gen //
+gammas&auml;hvatuste    gamma_s&auml;hvatus+te //_S_ com pl gen //
+allikate    allikas+te //_S_ com pl gen //
+seast    seast+0 //_K_ post //
+k&otilde;rvale    k&otilde;rvale+0 //_D_ //
+j&auml;tta    j&auml;t+a //_V_ main inf //
+Maa    Maa+0 //_S_ prop sg nom //
+ja    ja+0 //_J_ crd //
+P&auml;ike    P&auml;ike+0 //_S_ prop sg nom //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+1973.    1973.+0 //_N_ ord ? digit //
+aastaks    aasta+ks //_S_ com sg tr //
+olid    ole+id //_V_ aux indic impf ps3 pl ps af //
+m&auml;&auml;ratud    m&auml;&auml;ra+tud //_V_ main partic past imps //
+16    16+0 //_N_ card ? digit //
+gammas&auml;hvatuse    gamma_s&auml;hvatus+0 //_S_ com sg gen //
+asukohad    asu_koht+d //_S_ com pl nom //
+taevasf&auml;&auml;ril    taeva_sf&auml;&auml;r+l //_S_ com sg ad //
+,    , //_Z_ Com //
+nende    see+de //_P_ pl gen //
+jaotuses    jaotus+s //_S_ com sg in //
+polnud    ole+nud //_V_ main indic impf ps neg //
+eelissuundi    eelis_suund+i //_S_ com pl part //
+.    . //_Z_ Fst //
+</s>
+<s>
+See    see+0 //_P_ sg nom //
+peaaegu    pea_aegu+0 //_D_ //
+v&auml;listas    v&auml;lista+s //_V_ main indic impf ps3 sg ps af //
+v&otilde;imaluse    v&otilde;imalus+0 //_S_ com sg gen //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+s&auml;hvatused    s&auml;hvatus+d //_S_ com pl nom //
+toimuvad    toimu+vad //_V_ main indic pres ps3 pl ps af //
+P&auml;ikeses&uuml;steemis    P&auml;ikese_s&uuml;steem+s //_S_ prop sg in //
+ning    ning+0 //_J_ crd //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+alust    alus+t //_S_ com sg part //
+kahtlustada    kahtlusta+da //_V_ main inf //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+s&auml;hvatuste    s&auml;hvatus+te //_S_ com pl gen //
+allikad    allikas+d //_S_ com pl nom //
+v&otilde;ivad    v&otilde;i+vad //_V_ mod indic pres ps3 pl ps af //
+asuda    asu+da //_V_ main inf //
+koguni    koguni+0 //_D_ //
+v&auml;ljaspool    v&auml;ljas_pool+0 //_K_ pre //
+Galaktikat    Galaktika+t //_S_ prop sg part //
+,    , //_Z_ Com //
+kusagil    kusagil+0 //_D_ //
+v&auml;ga    v&auml;ga+0 //_D_ //
+kaugel    kaugel+0 //_D_ //
+.    . //_Z_ Fst //
+</s>
+<s>
+Lihtsad    lihtne+d //_A_ pos pl nom //
+kalkulatsioonid    kalkulatsioon+d //_S_ com pl nom //
+n&auml;itasid    n&auml;ita+sid //_V_ main indic impf ps3 pl ps af //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+t&otilde;en&auml;oliselt    t&otilde;e_n&auml;oliselt+0 //_D_ //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+tegemist    tegemine+t //_S_ com sg part //
+v&auml;ga    v&auml;ga+0 //_D_ //
+energiarikaste    energia_rikas+te //_A_ pos pl gen //
+protsessidega    protsess+dega //_S_ com pl kom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Et    et+0 //_J_ sub //
+aga    aga+0 //_J_ crd //
+k&otilde;ik    k&otilde;ik+0 //_P_ sg nom //
+toimub    toimu+b //_V_ main indic pres ps3 sg ps af //
+v&auml;ga    v&auml;ga+0 //_D_ //
+kaugel    kaugel+0 //_D_ //
+ning    ning+0 //_J_ crd //
+tegemist    tegemine+t //_S_ com sg part //
+ei    ei+0 //_V_ aux neg //
+ole    ole+0 //_V_ main indic pres ps neg //
+vaenuliku    vaenulik+0 //_A_ pos sg gen //
+riigi    riik+0 //_S_ com sg gen //
+militaarse    militaarne+0 //_A_ pos sg gen //
+tegevusega    tegevus+ga //_S_ com sg kom //
+,    , //_Z_ Com //
+siis    siis+0 //_J_ sub //
+l&auml;ks    mine+s //_V_ main indic impf ps3 sg ps af //
+n&auml;htuse    n&auml;htus+0 //_S_ com sg gen //
+edasine    edasine+0 //_A_ pos sg nom //
+uurimine    uurimine+0 //_S_ com sg nom //
+kaitseministeeriumide    kaitse_ministeerium+de //_S_ com pl gen //
+valdkonnast    valdkond+st //_S_ com sg el //
+tsiviilteadlastele    tsiviil_teadlane+tele //_S_ com pl all //
+.    . //_Z_ Fst //
+</s>
+<s>
+Uute    uus+te //_A_ pos pl gen //
+gammakiirguse    gamma_kiirgus+0 //_S_ com sg gen //
+teleskoopide    tele_skoop+de //_S_ com pl gen //
+ja    ja+0 //_J_ crd //
+observatooriumide    observatoorium+de //_S_ com pl gen //
+ehitamine    ehitamine+0 //_S_ com sg nom //
+ja    ja+0 //_J_ crd //
+projekteerimine    projekteerimine+0 //_S_ com sg nom //
+hakkas    hakka+s //_V_ main indic impf ps3 sg ps af //
+k&auml;ima    k&auml;i+ma //_V_ main sup ps ill //
+astronoomide    astronoom+de //_S_ com pl gen //
+eestvedamisel    eest_vedamine+l //_S_ com sg ad //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+T&auml;nap&auml;evased    t&auml;na_p&auml;evane+d //_A_ pos pl nom //
+gammakiirguse    gamma_kiirgus+0 //_S_ com sg gen //
+observatooriumid    observatoorium+d //_S_ com pl nom //
+</s>
+</p>
+<p>
+<s>
+Praegu    praegu+0 //_D_ //
+liigub    liiku+b //_V_ main indic pres ps3 sg ps af //
+maaringsetel    maa_ringne+tel //_A_ pos pl ad //
+orbiitidel    orbiit+del //_S_ com pl ad //
+k&uuml;mmekond    k&uuml;mmekond+0 //_N_ card sg nom l //
+gammakiirguse    gamma_kiirgus+0 //_S_ com sg gen //
+vastuv&otilde;tjatega    vastu_v&otilde;tja+tega //_S_ com pl kom //
+varustatud    varusta=tud+0 //_A_ pos //
+satelliiti    satelliit+0 //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+Parimate    parim+te //_A_ super pl gen //
+vaatlusv&otilde;imalustega    vaatlus_v&otilde;imalus+tega //_S_ com pl kom //
+on    ole+0 //_V_ aux indic pres ps3 sg ps af //
+1991.    1991.+0 //_N_ ord ? digit //
+aastal    aasta+l //_S_ com sg ad //
+&uuml;les    &uuml;les+0 //_D_ //
+saadetud    saat+tud //_V_ main partic past imps //
+USA    USA+0 //_Y_ nominal ? //
+17tonnine    17_tonnine+0 //_A_ pos sg nom //
+gammaobservatoorium    gamma_observatoorium+0 //_S_ com sg nom //
+CGRO    CGRO+0 //_Y_ nominal ? //
+(    ( //_Z_ Opr //
+Compton    Compton+0 //_S_ prop sg nom //
+Gamma    Gamma+0 //_S_ prop sg nom //
+Ray    Ray+0 //_S_ prop sg nom //
+Observatory    Observatory+0 //_S_ prop sg nom //
+)    ) //_Z_ Cpr //
+.    . //_Z_ Fst //
+</s>
+<s>
+Sellel    see+l //_P_ sg ad //
+observatooriumil    observatoorium+l //_S_ com sg ad //
+asub    asu+b //_V_ main indic pres ps3 sg ps af //
+&uuml;ks    &uuml;ks+0 //_P_ sg nom //
+tema    tema+0 //_P_ sg gen //
+olulisem    olu=lisem+0 //_A_ comp sg nom //
+seade    seade+0 //_S_ com sg nom //
+-    &mdash; //_Z_ Dsh //
+BATSE    BATSE+0 //_Y_ nominal ? //
+(    ( //_Z_ Opr //
+Burst    Burst+0 //_S_ prop sg nom //
+and    and+0 //_T_ //
+Transient    Transient+0 //_S_ prop sg nom //
+Source    Source+0 //_S_ prop sg nom //
+Experiment    Experiment+0 //_S_ prop sg nom //
+,    , //_Z_ Com //
+S&auml;hvatavate    S&auml;hvata=v+te //_S_ prop pl gen //
+ja    ja+0 //_J_ crd //
+Ajutiste    Ajutine+te //_S_ prop pl gen //
+Kiirgusallikate    Kiirgus_allikas+te //_S_ prop pl gen //
+Detektor    Detektor+0 //_S_ prop sg nom //
+)    ) //_Z_ Cpr //
+.    . //_Z_ Fst //
+</s>
+<s>
+BATSE    BATSE+0 //_Y_ nominal ? //
+gammakiirguse    gamma_kiirgus+0 //_S_ com sg gen //
+vastuv&otilde;tjad    vastu_v&otilde;tja+d //_S_ com pl nom //
+on    ole+0 //_V_ main indic pres ps3 pl ps af //
+palju    palju+0 //_D_ //
+tundlikumad    tund=likum+d //_A_ comp pl nom //
+kui    kui+0 //_J_ sub //
+varasematel    varasem+tel //_A_ comp pl ad //
+vahimeestel    vahi_mees+tel //_S_ com pl ad //
+.    . //_Z_ Fst //
+</s>
+<s>
+See    see+0 //_P_ sg nom //
+v&otilde;imaldab    v&otilde;imalda+b //_V_ main indic pres ps3 sg ps af //
+kindlaks    kindel+ks //_A_ pos sg tr //
+m&auml;&auml;rata    m&auml;&auml;ra+ta //_V_ main inf //
+ka    ka+0 //_D_ //
+hoopis    hoopis+0 //_D_ //
+n&otilde;rgemaid    n&otilde;rgem+id //_A_ comp pl part //
+gammas&auml;hvatusi    gamma_s&auml;hvatus+i //_S_ com pl part //
+.    . //_Z_ Fst //
+</s>
+<s>
+Kui    kui+0 //_J_ sub //
+varem    varem+0 //_D_ //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+uue    uus+0 //_A_ pos sg gen //
+gammas&auml;hvatuse    gamma_s&auml;hvatus+0 //_S_ com sg gen //
+avastamine    avasta=mine+0 //_S_ com sg nom //
+t&auml;helepanuv&auml;&auml;rne    t&auml;hele_panu_v&auml;&auml;rne+0 //_A_ pos sg nom //
+s&uuml;ndmus    s&uuml;ndmus+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+siis    siis+0 //_J_ sub //
+BATSE    BATSE+0 //_Y_ nominal ? //
+jaoks    jaoks+0 //_K_ post //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+see    see+0 //_P_ sg nom //
+s&otilde;na    s&otilde;na+0 //_S_ com sg gen //
+otseses    otsene+s //_A_ pos sg in //
+m&otilde;ttes    m&otilde;te+s //_S_ com sg in //
+igap&auml;evane    iga_p&auml;evane+0 //_A_ pos sg nom //
+tegevus    tegevus+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+sest    sest+0 //_J_ sub //
+pea    pea+0 //_D_ //
+iga    iga+0 //_P_ sg nom //
+p&auml;ev    p&auml;ev+0 //_S_ com sg nom //
+registreeritakse    registreeri+takse //_V_ main indic pres imps af //
+m&otilde;ni    m&otilde;ni+0 //_P_ sg nom //
+uus    uus+0 //_A_ pos sg nom //
+s&auml;hvatus    s&auml;hvatus+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+BATSE    BATSE+0 //_Y_ nominal ? //
+m&auml;&auml;rab    m&auml;&auml;ra+b //_V_ main indic pres ps3 sg ps af //
+ka    ka+0 //_D_ //
+s&auml;hvatuse    s&auml;hvatus+0 //_S_ com sg gen //
+allika    allikas+0 //_S_ com sg gen //
+suuna    suund+0 //_S_ com sg gen //
+.    . //_Z_ Fst //
+</s>
+<s>
+Gammaobservatoorium    gamma_observatoorium+0 //_S_ com sg nom //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+suure    suur+0 //_A_ pos sg gen //
+kasti    kast+0 //_S_ com sg gen //
+kujuline    kuju=line+0 //_A_ pos sg nom //
+,    , //_Z_ Com //
+mille    mis+0 //_P_ sg gen //
+igas    iga+s //_P_ sg in //
+nurgas    nurk+s //_S_ com sg in //
+asub    asu+b //_V_ main indic pres ps3 sg ps af //
+kiirgustajur    kiirgus_tajur+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Millises    milline+s //_P_ sg in //
+ootamatus    ootamatu+s //_A_ pos sg in //
+suunas    suund+s //_S_ com sg in //
+ka    ka+0 //_D_ //
+j&auml;rjekordne    j&auml;rje_kordne+0 //_A_ pos sg nom //
+gammas&auml;hvatus    gamma_s&auml;hvatus+0 //_S_ com sg nom //
+ei    ei+0 //_V_ aux neg //
+toimu    toimu+0 //_V_ main indic pres ps neg //
+,    , //_Z_ Com //
+ikka    ikka+0 //_D_ //
+&ldquo;    &ldquo; //_Z_ Oqu //
+valgustab    valgusta+b //_V_ main indic pres ps3 sg ps af //
+&rdquo;    &rdquo; //_Z_ Cqu //
+ta    tema+0 //_P_ sg nom //
+kasti    kast+0 //_S_ com sg gen //
+nelja    neli+0 //_N_ card sg part l //
+nurka    nurk+0 //_S_ com sg part //
+,    , //_Z_ Com //
+m&otilde;nda    m&otilde;ni+da //_P_ sg part //
+otse    otse+0 //_D_ //
+,    , //_Z_ Com //
+m&otilde;nda    m&otilde;ni+da //_P_ sg part //
+kaldu    kaldu+0 //_D_ //
+.    . //_Z_ Fst //
+</s>
+<s>
+Selle    see+0 //_P_ sg gen //
+j&auml;rgi    j&auml;rgi+0 //_K_ post //
+,    , //_Z_ Com //
+kui    kui+0 //_D_ //
+intensiivselt    intensiivselt+0 //_D_ //
+&uuml;he    &uuml;ks+0 //_P_ sg gen //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+teise    teine+0 //_P_ sg gen //
+nurga    nurk+0 //_S_ com sg gen //
+detektorid    detektor+d //_S_ com pl nom //
+kiirgust    kiirgus+t //_S_ com sg part //
+registreerivad    registreeri+vad //_V_ main indic pres ps3 pl ps af //
+,    , //_Z_ Com //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+v&otilde;imalik    v&otilde;imalik+0 //_A_ pos sg nom //
+leida    leid+a //_V_ main inf //
+suund    suund+0 //_S_ com sg nom //
+kiirgusallikale    kiirgus_allikas+le //_S_ com sg all //
+.    . //_Z_ Fst //
+</s>
+<s>
+Seda    see+da //_P_ sg part //
+k&uuml;ll    k&uuml;ll+0 //_D_ //
+ainult    ainult+0 //_D_ //
+t&auml;psusega    t&auml;psus+ga //_S_ com sg kom //
+m&otilde;ni    m&otilde;ni+0 //_P_ sg nom //
+kaarekraad    kaare_kraad+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Peagi    peagi+0 //_D_ //
+selgus    selgu+s //_V_ main indic impf ps3 sg ps af //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+eelissuundi    eelis_suund+i //_S_ com pl part //
+ei    ei+0 //_V_ aux neg //
+ole    ole+0 //_V_ main indic pres ps neg //
+,    , //_Z_ Com //
+allikad    allikas+d //_S_ com pl nom //
+jaotuvad    jaotu+vad //_V_ main indic pres ps3 pl ps af //
+&uuml;htlaselt    &uuml;htlaselt+0 //_D_ //
+&uuml;le    &uuml;le+0 //_K_ pre //
+taevasf&auml;&auml;ri    taeva_sf&auml;&auml;r+0 //_S_ com sg gen //
+.    . //_Z_ Fst //
+</s>
+<s>
+S&auml;hvatuste    s&auml;hvatus+te //_S_ com pl gen //
+ajalise    ajaline+0 //_A_ pos sg gen //
+arengu    areng+0 //_S_ com sg gen //
+uurimine    uurimine+0 //_S_ com sg nom //
+n&auml;itas    n&auml;ita+s //_V_ main indic impf ps3 sg ps af //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+igal    iga+l //_P_ sg ad //
+s&auml;hvatusel    s&auml;hvatus+l //_S_ com sg ad //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+oma    oma+0 //_P_ sg gen //
+n&auml;gu    n&auml;gu+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Vahel    vahel+0 //_D_ //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+selleks    see+ks //_P_ sg tr //
+ainult    ainult+0 //_D_ //
+sekundiline    sekundi=line+0 //_A_ pos sg nom //
+terav    terav+0 //_A_ pos sg nom //
+&uuml;ksikimpulss    &uuml;ksik_impulss+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+m&otilde;nel    m&otilde;ni+l //_P_ sg ad //
+s&auml;hvatusel    s&auml;hvatus+l //_S_ com sg ad //
+v&otilde;ib    v&otilde;i+b //_V_ mod indic pres ps3 sg ps af //
+olla    ole+a //_V_ main inf //
+&uuml;ks    &uuml;ks+0 //_N_ card sg nom l //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+mitu    mitu+0 //_P_ sg nom //
+laiemat    laiem+t //_A_ comp sg part //
+maksimumi    maksimum+0 //_S_ com sg part //
+,    , //_Z_ Com //
+teisel    teine+l //_P_ sg ad //
+j&auml;lle    j&auml;lle+0 //_D_ //
+hulk    hulk+0 //_S_ com sg nom //
+kammipiide-kujulisi    kammi_pii+de-kuju=line+i //_A_ pos pl part //
+teravaid    terav+id //_A_ pos pl part //
+impulsse    impulss+e //_S_ com pl part //
+jne    jne+0 //_Y_ adverbial //
+.    . //_Z_ Fst //
+</s>
+<s>
+N&auml;htus    n&auml;htus+0 //_S_ com sg nom //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+alati    alati+0 //_D_ //
+l&uuml;hiajaline    l&uuml;hi_ajaline+0 //_A_ pos sg nom //
+ja    ja+0 //_J_ crd //
+sulab    sula+b //_V_ main indic pres ps3 sg ps af //
+sadakonna    sadakond+0 //_N_ card sg gen l //
+sekundiga    sekund+ga //_S_ com sg kom //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+kiiremini    kiiremini+0 //_D_ //
+&uuml;ldise    &uuml;ldine+0 //_A_ pos sg gen //
+gammakiirguse    gamma_kiirgus+0 //_S_ com sg gen //
+fooni    foon+0 //_S_ com sg gen //
+sisse    sisse+0 //_K_ post //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+BATSE-le    BATSE+le //_Y_ nominal sg all //
+pandi    pane+di //_V_ main indic impf imps af //
+suuri    suur+i //_A_ pos pl part //
+lootusi    lootus+i //_S_ com pl part //
+.    . //_Z_ Fst //
+</s>
+<s>
+Usuti    usku+ti //_V_ main indic impf imps af //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+tema    tema+0 //_P_ sg gen //
+poolt    poolt+0 //_K_ post //
+leitavate    lei=tav+te //_A_ pos pl gen //
+arvukate    arvukas+te //_A_ pos pl gen //
+s&auml;hvatuste    s&auml;hvatus+te //_S_ com pl gen //
+seast    seast+0 //_K_ post //
+&otilde;nnestub    &otilde;nnestu+b //_V_ main indic pres ps3 sg ps af //
+kohe    kohe+0 //_D_ //
+identifitseerida    identifitseeri+da //_V_ main inf //
+v&auml;hemalt    v&auml;hemalt+0 //_D_ //
+osa    osa+0 //_S_ com sg nom //
+objekte    objekt+e //_S_ com pl part //
+ka    ka+0 //_D_ //
+optilises    optiline+s //_A_ pos sg in //
+kiirguses    kiirgus+s //_S_ com sg in //
+.    . //_Z_ Fst //
+</s>
+<s>
+Optiline    optiline+0 //_A_ pos sg nom //
+kiirgus    kiirgus+0 //_S_ com sg nom //
+kannab    kand+b //_V_ main indic pres ps3 sg ps af //
+endas    ise+s //_P_ sg in //
+rikkalikku    rikkalik+0 //_A_ pos sg part //
+informatsiooni    informatsioon+0 //_S_ com sg part //
+,    , //_Z_ Com //
+ja    ja+0 //_J_ crd //
+astronoomidel    astronoom+del //_S_ com pl ad //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+palju    palju+0 //_D_ //
+kogemusi    kogemus+i //_S_ com pl part //
+selle    see+0 //_P_ sg gen //
+anal&uuml;&uuml;simiseks    anal&uuml;&uuml;si=mine+ks //_S_ com sg tr //
+.    . //_Z_ Fst //
+</s>
+<s>
+Kuid    kuid+0 //_J_ crd //
+gammas&auml;hvatuste    gamma_s&auml;hvatus+te //_S_ com pl gen //
+alal    ala+l //_S_ com sg ad //
+varjab    varja+b //_V_ main indic pres ps3 sg ps af //
+loodus    loodus+0 //_S_ com sg nom //
+hoolega    hool+ga //_S_ com sg kom //
+oma    oma+0 //_P_ sg gen //
+saladusi    saladus+i //_S_ com pl part //
+.    . //_Z_ Fst //
+</s>
+<s>
+Kui    kui+0 //_J_ sub //
+optilised    optiline+d //_A_ pos pl nom //
+teleskoobid    tele_skoop+d //_S_ com pl nom //
+j&otilde;udsid    j&otilde;ud+sid //_V_ main indic impf ps3 pl ps af //
+uurima    uuri+ma //_V_ main sup ps ill //
+BATSE    BATSE+0 //_Y_ nominal ? //
+n&auml;idatud    n&auml;ida=tud+0 //_A_ pos //
+taevaalasid    taeva_ala+sid //_S_ com pl part //
+,    , //_Z_ Com //
+ei    ei+0 //_V_ aux neg //
+leitud    leid+tud //_V_ main indic impf imps neg //
+sealt    sealt+0 //_D_ //
+enam    enam+0 //_D_ //
+midagi    miski+dagi //_P_ sg part //
+t&auml;helepanuv&auml;&auml;rset    t&auml;hele_panu_v&auml;&auml;rne+t //_A_ pos sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+Asuti    asu+ti //_V_ main indic impf imps af //
+otsima    otsi+ma //_V_ main sup ps ill //
+v&otilde;imalusi    v&otilde;imalus+i //_S_ com pl part //
+koordinaatide    koordinaat+de //_S_ com pl gen //
+t&auml;psemaks    t&auml;psem+ks //_A_ comp sg tr //
+m&auml;&auml;ramiseks    m&auml;&auml;ra=mine+ks //_S_ com sg tr //
+ning    ning+0 //_J_ crd //
+kiiremini    kiiremini+0 //_D_ //
+reageerivaid    reageeri=v+id //_A_ pos pl part //
+optilisi    optiline+i //_A_ pos pl part //
+vaatlusvahendeid    vaatlus_vahend+id //_S_ com pl part //
+tegema    tege+ma //_V_ main sup ps ill //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Esimene    esimene+0 //_N_ ord sg nom l //
+l&auml;bimurre    l&auml;bi_murre+0 //_S_ com sg nom //
+toimus    toimu+s //_V_ main indic impf ps3 sg ps af //
+1997    1997+0 //_N_ card ? digit //
+,    , //_Z_ Com //
+kui    kui+0 //_J_ sub //
+Itaalia-Hollandi    Itaalia-Holland+0 //_S_ prop sg gen //
+satelliit    satelliit+0 //_S_ com sg nom //
+BeppoSax    BeppoSax+0 //_S_ prop sg nom //
+,    , //_Z_ Com //
+millel    mis+l //_P_ sg ad //
+asuvad    asu+vad //_V_ main indic pres ps3 pl ps af //
+nii    nii+0 //_D_ //
+gamma-    gamma+0 //_S_ com sg gen //
+kui    kui+0 //_J_ sub //
+r&ouml;ntgenikiirguse    r&ouml;ntgeni_kiirgus+0 //_S_ com sg gen //
+vastuv&otilde;tjad    vastu_v&otilde;tja+d //_S_ com pl nom //
+,    , //_Z_ Com //
+registreeris    registreeri+s //_V_ main indic impf ps3 sg ps af //
+28.    28.+0 //_N_ ord ? digit //
+veebruaril    veebruar+l //_S_ com sg ad //
+gammas&auml;hvatuse    gamma_s&auml;hvatus+0 //_S_ com sg gen //
+GRB    GRB+0 //_Y_ nominal ? //
+970228    970228+0 //_N_ card ? digit //
+(    ( //_Z_ Opr //
+Gamma    Gamma+0 //_S_ prop sg nom //
+Ray    Ray+0 //_S_ prop sg nom //
+Burst    Burst+0 //_S_ prop sg nom //
+,    , //_Z_ Com //
+aasta    aasta+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+kuu    kuu+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+p&auml;ev    p&auml;ev+0 //_S_ com sg nom //
+;    ; //_Z_ Scl //
+gammakiirguse    gamma_kiirgus+0 //_S_ com sg gen //
+s&auml;hvatus    s&auml;hvatus+0 //_S_ com sg nom //
+niisiis    nii_siis+0 //_D_ //
+1997.    1997.+0 //_N_ ord ? digit //
+aasta    aasta+0 //_S_ com sg gen //
+28.    28.+0 //_N_ ord ? digit //
+veebruaril    veebruar+l //_S_ com sg ad //
+)    ) //_Z_ Cpr //
+.    . //_Z_ Fst //
+</s>
+<s>
+&Otilde;nneks    &otilde;nn+ks //_S_ com sg tr //
+vaatas    vaata+s //_V_ main indic impf ps3 sg ps af //
+samal    sama+l //_P_ sg ad //
+ajal    aeg+l //_S_ com sg ad //
+&otilde;iges    &otilde;ige+s //_A_ pos sg in //
+suunas    suund+s //_S_ com sg in //
+satelliidi    satelliit+0 //_S_ com sg gen //
+laia    lai+0 //_A_ pos sg gen //
+vaatev&auml;ljaga    vaate_v&auml;li+ga //_S_ com sg kom //
+(    ( //_Z_ Opr //
+40x40    40x40+0 //_Y_ nominal ? //
+kraadi    kraad+0 //_S_ com sg part //
+)    ) //_Z_ Cpr //
+r&ouml;ntgenikaamera    r&ouml;ntgeni_kaamera+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+mis    mis+0 //_P_ sg nom //
+registreeris    registreeri+s //_V_ main indic impf ps3 sg ps af //
+uue    uus+0 //_A_ pos sg gen //
+r&ouml;ntgenikiirguseallika    r&ouml;ntgeni_kiirguse_allikas+0 //_S_ com sg gen //
+tekke    teke+0 //_S_ com sg gen //
+ja    ja+0 //_J_ crd //
+m&auml;&auml;ras    m&auml;&auml;ra+s //_V_ main indic impf ps3 sg ps af //
+selle    see+0 //_P_ sg gen //
+t&auml;pse    t&auml;pne+0 //_A_ pos sg gen //
+asukoha    asu_koht+0 //_S_ com sg gen //
+.    . //_Z_ Fst //
+</s>
+<s>
+Ajalise    ajaline+0 //_A_ pos sg gen //
+kokkulangemise    kokku_langemine+0 //_S_ com sg gen //
+t&otilde;ttu    t&otilde;ttu+0 //_K_ post //
+polnud    ole+nud //_V_ main indic impf ps neg //
+kahtlust    kahtlus+t //_S_ com sg part //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+tegemist    tegemine+t //_S_ com sg part //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+sama    sama+0 //_P_ sg gen //
+s&uuml;ndmuse    s&uuml;ndmus+0 //_S_ com sg gen //
+registreerimisega    registreeri=mine+ga //_S_ com sg kom //
+erinevates    erinev+tes //_A_ pos pl in //
+kiirgustes    kiirgus+tes //_S_ com pl in //
+.    . //_Z_ Fst //
+</s>
+<s>
+Allika    allikas+0 //_S_ com sg gen //
+koordinaadid    koordinaat+d //_S_ com pl nom //
+teatati    teata+ti //_V_ main indic impf imps af //
+optilistele    optiline+tele //_A_ pos pl all //
+astronoomidele    astronoom+dele //_S_ com pl all //
+,    , //_Z_ Com //
+aga    aga+0 //_J_ crd //
+kulus    kulu+s //_V_ main indic impf ps3 sg ps af //
+siiski    siiski+0 //_D_ //
+21    21+0 //_N_ card ? digit //
+tundi    tund+0 //_S_ com sg part //
+,    , //_Z_ Com //
+kuniks    kuniks+0 //_D_ //
+optilised    optiline+d //_A_ pos pl nom //
+teleskoobid    tele_skoop+d //_S_ com pl nom //
+j&otilde;udsid    j&otilde;ud+sid //_V_ main indic impf ps3 pl ps af //
+vaatlemiseni    vaatle=mine+ni //_S_ com sg term //
+.    . //_Z_ Fst //
+</s>
+<s>
+BeppoSaxi    BeppoSax+0 //_S_ prop sg gen //
+r&ouml;ntgenikaameralt    r&ouml;ntgeni_kaamera+lt //_S_ com sg abl //
+n&auml;idatud    n&auml;ida=tud+0 //_A_ pos //
+asukohas    asu_koht+s //_S_ com sg in //
+leiti    leid+ti //_V_ main indic impf imps af //
+v&auml;ga    v&auml;ga+0 //_D_ //
+n&otilde;rk    n&otilde;rk+0 //_A_ pos sg nom //
+udune    udune+0 //_A_ pos sg nom //
+laik    laik+0 //_S_ com sg nom //
+(    ( //_Z_ Opr //
+t&otilde;en&auml;oliselt    t&otilde;e_n&auml;oliselt+0 //_D_ //
+&uuml;likauge    &uuml;li_kauge+0 //_A_ pos sg nom //
+galaktika    galaktika+0 //_S_ com sg nom //
+)    ) //_Z_ Cpr //
+,    , //_Z_ Com //
+mille    mis+0 //_P_ sg gen //
+servas    serv+s //_S_ com sg in //
+asus    asu+s //_V_ main indic impf ps3 sg ps af //
+kiiresti    kiiresti+0 //_D_ //
+n&otilde;rgenev    n&otilde;rgene=v+0 //_A_ pos sg nom //
+punktallikas    punkt_allikas+0 //_S_ com sg nom //
+(    ( //_Z_ Opr //
+t&otilde;en&auml;oliselt    t&otilde;e_n&auml;oliselt+0 //_D_ //
+see    see+0 //_P_ sg nom //
+,    , //_Z_ Com //
+mis    mis+0 //_P_ sg nom //
+plahvatavast    plahvatav+st //_A_ pos sg el //
+objektist    objekt+st //_S_ com sg el //
+oli    ole+i //_V_ aux indic impf ps3 sg ps af //
+j&auml;rele    j&auml;rele+0 //_D_ //
+j&auml;&auml;nud    j&auml;&auml;+nud //_V_ main partic past ps //
+)    ) //_Z_ Cpr //
+.    . //_Z_ Fst //
+</s>
+<s>
+Objekti    objekt+0 //_S_ com sg gen //
+n&otilde;rkuse    n&otilde;rkus+0 //_S_ com sg gen //
+t&otilde;ttu    t&otilde;ttu+0 //_K_ post //
+ei    ei+0 //_V_ aux neg //
+suudetud    suut+tud //_V_ main indic impf imps neg //
+temast    tema+st //_P_ sg el //
+suurt    suur+t //_A_ pos sg part //
+midagi    miski+dagi //_P_ sg part //
+teada    tead+a //_V_ main inf //
+saada    saa+da //_V_ mod inf //
+.    . //_Z_ Fst //
+</s>
+<s>
+K&uuml;ll    k&uuml;ll+0 //_D_ //
+sai    saa+i //_V_ main indic impf ps3 sg ps af //
+tugeva    tugev+0 //_A_ pos sg gen //
+kinnituse    kinnitus+0 //_S_ com sg gen //
+oletus    oletus+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+gammas&auml;hvatused    gamma_s&auml;hvatus+d //_S_ com pl nom //
+toimuvad    toimu+vad //_V_ main indic pres ps3 pl ps af //
+kaugetes    kauge+tes //_A_ pos pl in //
+galaktikates    galaktika+tes //_S_ com pl in //
+.    . //_Z_ Fst //
+</s>
+<s>
+Selgus    selgu+s //_V_ main indic impf ps3 sg ps af //
+ka    ka+0 //_D_ //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+astronoomide    astronoom+de //_S_ com pl gen //
+koost&ouml;&ouml;d    koos_t&ouml;&ouml;+d //_S_ com sg part //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+vaja    vaja+0 //_D_ //
+veelgi    veelgi+0 //_D_ //
+t&otilde;hustada    t&otilde;husta+da //_V_ main inf //
+.    . //_Z_ Fst //
+</s>
+<s>
+T&auml;istabamuseni    t&auml;is_tabamus+ni //_S_ com sg term //
+j&auml;i    j&auml;&auml;+i //_V_ main indic impf ps3 sg ps af //
+siis    siis+0 //_D_ //
+veel    veel+0 //_D_ //
+peaaegu    pea_aegu+0 //_D_ //
+kaks    kaks+0 //_N_ card sg nom l //
+aastat    aasta+t //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+L&otilde;puks    l&otilde;pp+ks //_S_ com sg tr //
+ometi    ometi+0 //_D_ //
+tabatakse    taba+takse //_V_ main indic pres imps af //
+ka    ka+0 //_D_ //
+optiline    optiline+0 //_A_ pos sg nom //
+s&auml;hvatus    s&auml;hvatus+0 //_S_ com sg nom //
+</s>
+</p>
+<p>
+<s>
+Selle    see+0 //_P_ sg gen //
+aasta    aasta+0 //_S_ com sg gen //
+23.    23.+0 //_N_ ord ? digit //
+jaanuaril    jaanuar+l //_S_ com sg ad //
+kell    kell+0 //_S_ com sg nom //
+9    9+0 //_N_ card ? digit //
+:    : //_Z_ Col //
+47    47+0 //_N_ card ? digit //
+Greenwichi    Greenwich+0 //_S_ prop sg gen //
+ajas    aeg+s //_S_ com sg in //
+registreeris    registreeri+s //_V_ main indic impf ps3 sg ps af //
+BATSE    BATSE+0 //_Y_ nominal ? //
+j&auml;rjekordse    j&auml;rje_kordne+0 //_A_ pos sg gen //
+gammas&auml;hvatuse    gamma_s&auml;hvatus+0 //_S_ com sg gen //
+alguse    algus+0 //_S_ com sg gen //
+,    , //_Z_ Com //
+m&auml;&auml;ras    m&auml;&auml;ra+s //_V_ main indic impf ps3 sg ps af //
+kohe    kohe+0 //_D_ //
+allika    allikas+0 //_S_ com sg gen //
+ligikaudsed    ligi_kaudne+d //_A_ pos pl nom //
+koordinaadid    koordinaat+d //_S_ com pl nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+J&auml;tkates    j&auml;tka+tes //_V_ main ger //
+ise    ise+0 //_P_ sg nom //
+s&auml;hvatuse    s&auml;hvatus+0 //_S_ com sg gen //
+arengu    areng+0 //_S_ com sg gen //
+j&auml;lgimist    j&auml;lgi=mine+t //_S_ com sg part //
+,    , //_Z_ Com //
+saatis    saat+is //_V_ main indic impf ps3 sg ps af //
+teate    teade+0 //_S_ com sg gen //
+toimuvast    toimu=v+st //_A_ pos sg el //
+Maale    Maa+le //_S_ prop sg all //
+.    . //_Z_ Fst //
+</s>
+<s>
+Idapoolkeral    ida_pool_kera+l //_S_ com sg ad //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+p&auml;ev    p&auml;ev+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+l&auml;&auml;nepoolkeral    l&auml;&auml;ne_pool_kera+l //_S_ com sg ad //
+&ouml;&ouml;    &ouml;&ouml;+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+4    4+0 //_N_ card ? digit //
+sekundit    sekund+t //_S_ com sg part //
+p&auml;rast    p&auml;rast+0 //_K_ pre //
+s&auml;hvatuse    s&auml;hvatus+0 //_S_ com sg gen //
+algust    algus+t //_S_ com sg part //
+j&otilde;udis    j&otilde;ud+is //_V_ main indic impf ps3 sg ps af //
+teade    teade+0 //_S_ com sg nom //
+interneti    internet+0 //_S_ com sg gen //
+vahendusel    vahendus+l //_S_ com sg ad //
+Los    Los+0 //_S_ prop sg nom //
+Alamoses    Alamos+s //_S_ prop sg in //
+m&ouml;&ouml;dunud    m&ouml;&ouml;dunud+0 //_A_ pos //
+kevadest    kevad+st //_S_ com sg el //
+tegutseva    tegutsev+0 //_A_ pos sg gen //
+automaatkaamera    automaat_kaamera+0 //_S_ com sg gen //
+ROTSE-1    ROTSE-1+0 //_Y_ nominal ? //
+juhtarvutisse    juht_arvuti+sse //_S_ com sg ill //
+.    . //_Z_ Fst //
+</s>
+<s>
+ROTSE-1    ROTSE-1+0 //_Y_ nominal ? //
+(    ( //_Z_ Opr //
+Robotic    Robotic+0 //_S_ prop sg nom //
+Optical    Optical+0 //_S_ prop sg nom //
+Transient    Transient+0 //_S_ prop sg nom //
+Search    Search+0 //_S_ prop sg nom //
+Experiment    Experiment+0 //_S_ prop sg nom //
+)    ) //_Z_ Cpr //
+kujutab    kujuta+b //_V_ main indic pres ps3 sg ps af //
+endast    ise+st //_P_ sg el //
+nelja    neli+0 //_N_ card sg part l //
+Canoni    Canon+0 //_S_ prop sg gen //
+telefoto-objektiivi    tele_foto-objektiiv+0 //_S_ com sg part //
+(    ( //_Z_ Opr //
+iga&uuml;he    iga_&uuml;ks+0 //_P_ sg gen //
+l&auml;bim&otilde;&otilde;t    l&auml;bi_m&otilde;&otilde;t+0 //_S_ com sg nom //
+11    11+0 //_N_ card ? digit //
+cm    cm+0 //_Y_ nominal ? //
+)    ) //_Z_ Cpr //
+ja    ja+0 //_J_ crd //
+CCD-t&uuml;&uuml;pi    CCD-t&uuml;&uuml;p+0 //_S_ com sg part //
+kiirgusdetektorite    kiirgus_detektor+te //_S_ com pl gen //
+baasil    baas+l //_S_ com sg ad //
+ehitatud    ehitatud+0 //_A_ pos //
+suhteliselt    suhteliselt+0 //_D_ //
+odavat    odav+t //_A_ pos sg part //
+(    ( //_Z_ Opr //
+hind    hind+0 //_S_ com sg nom //
+200000    200000+0 //_N_ card ? digit //
+dollarit    dollar+t //_S_ com sg part //
+)    ) //_Z_ Cpr //
+automatiseeritud    automatiseeri=tud+0 //_A_ pos //
+v&auml;iketeleskoopi    v&auml;ike_tele_skoop+0 //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+T&auml;nu    t&auml;nu+0 //_K_ pre //
+v&auml;iksusele    v&auml;iksus+le //_S_ com sg all //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+ta    tema+0 //_P_ sg nom //
+kiirelt    kiirelt+0 //_D_ //
+man&ouml;&ouml;verdav    man&ouml;&ouml;verda=v+0 //_A_ pos sg nom //
+ja    ja+0 //_J_ crd //
+tal    tema+l //_P_ sg ad //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+suur    suur+0 //_A_ pos sg nom //
+vaatev&auml;li    vaate_v&auml;li+0 //_S_ com sg nom //
+(    ( //_Z_ Opr //
+16x16    16x16+0 //_Y_ nominal ? //
+kraadi    kraad+0 //_S_ com sg part //
+)    ) //_Z_ Cpr //
+.    . //_Z_ Fst //
+</s>
+<s>
+Oma    oma+0 //_P_ sg gen //
+tavaliste    tavaline+te //_A_ pos pl gen //
+&ouml;iste    &ouml;ine+te //_A_ pos pl gen //
+patrullvaatluste    patrull_vaatlus+te //_S_ com pl gen //
+ajal    ajal+0 //_K_ post //
+j&otilde;uab    j&otilde;ud+b //_V_ main indic pres ps3 sg ps af //
+ta    tema+0 //_P_ sg nom //
+ekspositsioonidega    ekspositsioon+dega //_S_ com pl kom //
+katta    kat+a //_V_ main inf //
+kogu    kogu+0 //_A_ pos //
+asupaigakohas    asu_paiga_koht+s //_S_ com sg in //
+n&auml;ha    n&auml;ge+a //_V_ main inf //
+oleva    olev+0 //_A_ pos sg gen //
+t&auml;histaeva    t&auml;his_taevas+0 //_S_ com sg gen //
+ning    ning+0 //_J_ crd //
+niiviisi    nii_viisi+0 //_D_ //
+silma    silm+0 //_S_ com sg part //
+peal    peal+0 //_D_ //
+hoida    hoid+a //_V_ main inf //
+miljonitel    miljon+tel //_N_ card pl ad l //
+t&auml;htedel    t&auml;ht+del //_S_ com pl ad //
+,    , //_Z_ Com //
+j&auml;&auml;dvustada    j&auml;&auml;dvusta+da //_V_ main inf //
+meteoorn&auml;htusi    meteoor_n&auml;htus+i //_S_ com pl part //
+(    ( //_Z_ Opr //
+vt.    vt+0 //_Y_ verbal //
+Horisont    Horisont+0 //_S_ prop sg nom //
+nr.    nr+0 //_Y_ nominal ? //
+3    3+0 //_N_ card ? digit //
+1999    1999+0 //_N_ card ? digit //
+,    , //_Z_ Com //
+lk.    lk+0 //_Y_ nominal ? //
+12    12+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+,    , //_Z_ Com //
+avastada    avasta+da //_V_ main inf //
+komeete    komeet+e //_S_ com pl part //
+jne    jne+0 //_Y_ adverbial //
+.    . //_Z_ Fst //
+</s>
+<s>
+P&auml;rast    p&auml;rast+0 //_K_ pre //
+BATSE-lt    BATSE+lt //_Y_ nominal sg abl //
+teate    teade+0 //_S_ com sg gen //
+saamist    saamine+t //_S_ com sg part //
+katkestas    katkesta+s //_V_ main indic impf ps3 sg ps af //
+ROTSE-1    ROTSE-1+0 //_Y_ nominal ? //
+parajasti    parajasti+0 //_D_ //
+poolelioleva    pooleli_olev+0 //_A_ pos sg gen //
+patrullvaatluse    patrull_vaatlus+0 //_S_ com sg gen //
+,    , //_Z_ Com //
+p&ouml;&ouml;ras    p&ouml;&ouml;ra+s //_V_ main indic impf ps3 sg ps af //
+kaamera    kaamera+0 //_S_ com sg gen //
+objektiivid    objektiiv+d //_S_ com pl nom //
+Karjuse    Karjuse+0 //_S_ prop sg gen //
+t&auml;htkuju    t&auml;ht_kuju+0 //_S_ com sg gen //
+poole    poole+0 //_K_ post //
+GRB    GRB+0 //_Y_ nominal ? //
+990123    990123+0 //_N_ card ? digit //
+allika    allikas+0 //_S_ com sg gen //
+suunas    suunas+0 //_K_ post //
+ja    ja+0 //_J_ crd //
+alustas    alusta+s //_V_ main indic impf ps3 sg ps af //
+uut    uus+t //_A_ pos sg part //
+ekspositsiooni    ekspositsioon+0 //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+Orbiidil    orbiit+l //_S_ com sg ad //
+registreeritud    registreeritud+0 //_A_ pos //
+s&auml;hvatuse    s&auml;hvatus+0 //_S_ com sg gen //
+algusest    algus+st //_S_ com sg el //
+oli    ole+i //_V_ aux indic impf ps3 sg ps af //
+m&ouml;&ouml;dunud    m&ouml;&ouml;du+nud //_V_ main partic past ps //
+ainult    ainult+0 //_D_ //
+10    10+0 //_N_ card ? digit //
+sekundit    sekund+t //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+Tundub    tundu+b //_V_ main indic pres ps3 sg ps af //
+,    , //_Z_ Com //
+nagu    nagu+0 //_J_ sub //
+oleks    ole+ks //_V_ aux cond pres ps3 sg ps af //
+automaatki    automaat+ki //_S_ com sg nom //
+n&auml;rveerinud    n&auml;rveeri+nud //_V_ main partic past ps //
+olulise    oluline+0 //_A_ pos sg gen //
+vaatluse    vaatlus+0 //_S_ com sg gen //
+tegemisel    tegemine+l //_S_ com sg ad //
+,    , //_Z_ Com //
+esimene    esimene+0 //_N_ ord sg nom l //
+v&otilde;te    v&otilde;te+0 //_S_ com sg nom //
+eba&otilde;nnestus    eba_&otilde;nnestu+s //_V_ main indic impf ps3 sg ps af //
+!    ! //_Z_ Exc //
+</s>
+<s>
+Kuid    kuid+0 //_J_ crd //
+22    22+0 //_N_ card ? digit //
+sekundit    sekund+t //_S_ com sg part //
+p&auml;rast    p&auml;rast+0 //_K_ pre //
+gammas&auml;hvatuse    gamma_s&auml;hvatus+0 //_S_ com sg gen //
+algust    algus+t //_S_ com sg part //
+tehtud    tehtud+0 //_A_ pos //
+teine    teine+0 //_N_ ord sg nom l //
+5sekundiline    5_sekundi=line+0 //_A_ pos sg nom //
+ekspositsioon    ekspositsioon+0 //_S_ com sg nom //
+ja    ja+0 //_J_ crd //
+j&auml;rgnevad    j&auml;rgnev+d //_A_ pos pl nom //
+tabasid    taba+sid //_V_ main indic impf ps3 pl ps af //
+k&uuml;mnesse    k&uuml;mme+sse //_N_ card sg ill l //
+.    . //_Z_ Fst //
+</s>
+<s>
+ROTSE-1    ROTSE-1+0 //_Y_ nominal ? //
+&uuml;he    &uuml;ks+0 //_N_ card sg gen l //
+ekspositsiooniga    ekspositsioon+ga //_S_ com sg kom //
+j&auml;&auml;dvustatakse    j&auml;&auml;dvusta+takse //_V_ main indic pres imps af //
+suurusj&auml;rgus    suurus_j&auml;rk+s //_S_ com sg in //
+100000    100000+0 //_N_ card ? digit //
+t&auml;hte    t&auml;ht+0 //_S_ com sg part //
+ning    ning+0 //_J_ crd //
+esialgu    esi_algu+0 //_D_ //
+polnud    ole+nud //_V_ main indic impf ps neg //
+astronoomidel    astronoom+del //_S_ com pl ad //
+selgust    selgus+t //_S_ com sg part //
+,    , //_Z_ Com //
+kas    kas+0 //_D_ //
+neil    tema+l //_P_ pl ad //
+midagi    miski+dagi //_P_ sg part //
+kasulikku    kasulik+0 //_A_ pos sg part //
+piltidele    pilt+dele //_S_ com pl all //
+j&auml;i    j&auml;&auml;+i //_V_ main indic impf ps3 sg ps af //
+.    . //_Z_ Fst //
+</s>
+<s>
+Tuli    tule+i //_V_ main indic impf ps3 sg ps af //
+veidi    veidi+0 //_D_ //
+oodata    oota+ta //_V_ main inf //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Samal    sama+l //_P_ sg ad //
+ajal    aeg+l //_S_ com sg ad //
+j&auml;tkasid    j&auml;tka+sid //_V_ main indic impf ps3 pl ps af //
+t&ouml;&ouml;d    t&ouml;&ouml;+d //_S_ com sg part //
+orbitaalobservatooriumid    orbitaal_observatoorium+d //_S_ com pl nom //
+ning    ning+0 //_J_ crd //
+USA    USA+0 //_Y_ nominal ? //
+mitme    mitu+0 //_P_ sg gen //
+suure    suur+0 //_A_ pos sg gen //
+optilise    optiline+0 //_A_ pos sg gen //
+teleskoobi    tele_skoop+0 //_S_ com sg gen //
+vaatlejatel    vaatleja+tel //_S_ com pl ad //
+oli    ole+i //_V_ aux indic impf ps3 sg ps af //
+v&auml;lja    v&auml;lja+0 //_D_ //
+kuulutatud    kuuluta+tud //_V_ main partic past imps //
+valmisolek    valmis_olek+0 //_S_ com sg nom //
+nr.    nr+0 //_Y_ nominal ? //
+1.    1.+0 //_N_ ord ? digit //
+</s>
+<s>
+&Otilde;hus    &otilde;hk+s //_S_ com sg in //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+elektrit    elekter+t //_S_ com sg part //
+,    , //_Z_ Com //
+aeg    aeg+0 //_S_ com sg nom //
+jooksis    jooks+is //_V_ main indic impf ps3 sg ps af //
+ja    ja+0 //_J_ crd //
+hommik    hommik+0 //_S_ com sg nom //
+ligines    ligine+s //_V_ main indic impf ps3 sg ps af //
+.    . //_Z_ Fst //
+</s>
+<s>
+Idarannikul    ida_rannik+l //_S_ com sg ad //
+oli    ole+i //_V_ aux indic impf ps3 sg ps af //
+p&auml;ike    p&auml;ike+0 //_S_ com sg nom //
+juba    juba+0 //_D_ //
+t&otilde;usnud    t&otilde;us+nud //_V_ main partic past ps //
+,    , //_Z_ Com //
+kui    kui+0 //_J_ sub //
+3,7    3,7+0 //_N_ card ? digit //
+tundi    tund+0 //_S_ com sg part //
+p&auml;rast    p&auml;rast+0 //_K_ pre //
+s&auml;hvatust    s&auml;hvatus+t //_S_ com sg part //
+&otilde;nnestus    &otilde;nnestu+s //_V_ main indic impf ps3 sg ps af //
+meile    mina+le //_P_ pl all //
+juba    juba+0 //_D_ //
+tuttaval    tuttav+l //_A_ pos sg ad //
+BeppoSaxil    BeppoSax+l //_S_ prop sg ad //
+oma    oma+0 //_P_ sg gen //
+r&ouml;ntgeniteleskoobiga    r&ouml;ntgeni_tele_skoop+ga //_S_ com sg kom //
+tehtud    tehtud+0 //_A_ pos //
+vaatluste    vaatlus+te //_S_ com pl gen //
+alusel    alus+l //_S_ com sg ad //
+m&auml;&auml;rata    m&auml;&auml;ra+ta //_V_ main inf //
+GRB    GRB+0 //_Y_ nominal ? //
+990123    990123+0 //_N_ card ? digit //
+t&auml;psem    t&auml;psem+0 //_A_ comp sg nom //
+asukoht    asu_koht+0 //_S_ com sg nom //
+ning    ning+0 //_J_ crd //
+saata    saat+a //_V_ main inf //
+andmed    andmed+d //_S_ com pl nom //
+Maale    Maa+le //_S_ prop sg all //
+.    . //_Z_ Fst //
+</s>
+<s>
+Kohe    kohe+0 //_D_ //
+l&auml;ksid    mine+sid //_V_ main indic impf ps3 pl ps af //
+l&auml;&auml;nerannikul    l&auml;&auml;ne_rannik+l //_S_ com sg ad //
+Californias    California+s //_S_ prop sg in //
+t&ouml;&ouml;le    t&ouml;&ouml;+le //_S_ com sg all //
+Palomari    Palomar+0 //_S_ prop sg gen //
+observatooriumi    observatoorium+0 //_S_ com sg gen //
+1,5    1,5+0 //_N_ card ? digit //
+m    m+0 //_Y_ nominal ? //
+ja    ja+0 //_J_ crd //
+5    5+0 //_N_ card ? digit //
+m    m+0 //_Y_ nominal ? //
+optilised    optiline+d //_A_ pos pl nom //
+teleskoobid    tele_skoop+d //_S_ com pl nom //
+ning    ning+0 //_J_ crd //
+ka    ka+0 //_D_ //
+neil    see+l //_P_ pl ad //
+&otilde;nnestus    &otilde;nnestu+s //_V_ main indic impf ps3 sg ps af //
+allika    allikas+0 //_S_ com sg gen //
+suunalt    suund+lt //_S_ com sg abl //
+pilt    pilt+0 //_S_ com sg nom //
+teha    tege+a //_V_ main inf //
+.    . //_Z_ Fst //
+</s>
+<s>
+Oli    ole+i //_V_ main indic impf ps3 sg ps af //
+ka    ka+0 //_D_ //
+viimane    viimane+0 //_A_ pos sg nom //
+aeg    aeg+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+idataevas    ida_taevas+0 //_S_ com sg nom //
+juba    juba+0 //_D_ //
+ahetas    aheta+s //_V_ main indic impf ps3 sg ps af //
+,    , //_Z_ Com //
+p&auml;ikeset&otilde;usuni    p&auml;ikese_t&otilde;us+ni //_S_ com sg term //
+j&auml;i    j&auml;&auml;+i //_V_ main indic impf ps3 sg ps af //
+tund    tund+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Sellal    sellal+0 //_D_ //
+,    , //_Z_ Com //
+kui    kui+0 //_J_ sub //
+Palomari    Palomar+0 //_S_ prop sg gen //
+mehed    mees+d //_S_ com pl nom //
+oma    oma+0 //_P_ sg gen //
+hiiglastega    hiiglane+tega //_S_ com pl kom //
+t&ouml;&ouml;d    t&ouml;&ouml;+d //_S_ com sg part //
+tegid    tege+id //_V_ main indic impf ps3 pl ps af //
+,    , //_Z_ Com //
+uuris    uuri+s //_V_ main indic impf ps3 sg ps af //
+ROTSE-1    ROTSE-1+0 //_Y_ nominal ? //
+meeskond    meeskond+0 //_S_ com sg nom //
+eesotsas    ees_ots+s //_S_ com sg in //
+prof.    prof+0 //_Y_ nominal ? //
+Carl    Carl+0 //_S_ prop sg nom //
+Akerlofiga    Akerlof+ga //_S_ prop sg kom //
+,    , //_Z_ Com //
+kas    kas+0 //_D_ //
+nende    tema+de //_P_ pl gen //
+tehtud    tehtud+0 //_A_ pos //
+piltidel    pilt+del //_S_ com pl ad //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+mingeid    mingi+id //_P_ pl part //
+GRB    GRB+0 //_Y_ nominal ? //
+990123    990123+0 //_N_ card ? digit //
+j&auml;lgi    j&auml;lg+i //_S_ com pl part //
+BeppoSaxi    BeppoSax+0 //_S_ prop sg gen //
+n&auml;idatud    n&auml;ida=tud+0 //_A_ pos //
+koha    koht+0 //_S_ com sg gen //
+l&auml;hedal    l&auml;hedal+0 //_K_ post //
+.    . //_Z_ Fst //
+</s>
+<s>
+Oh    oh+0 //_I_ //
+seda    see+da //_P_ sg part //
+r&otilde;&otilde;mu    r&otilde;&otilde;m+0 //_S_ com sg part //
+,    , //_Z_ Com //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+k&uuml;ll    k&uuml;ll+0 //_D_ //
+ning    ning+0 //_J_ crd //
+tervelt    tervelt+0 //_D_ //
+kuuel    kuus+l //_N_ card sg ad l //
+pildil    pilt+l //_S_ com sg ad //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+gammas&auml;hvatuse    gamma_s&auml;hvatus+0 //_S_ com sg gen //
+allika    allikas+0 //_S_ com sg gen //
+t&auml;heline    t&auml;he=line+0 //_A_ pos sg nom //
+optiline    optiline+0 //_A_ pos sg nom //
+kujutis    kujutis+0 //_S_ com sg nom //
+selgelt    selgelt+0 //_D_ //
+olemas    ole+mas //_V_ main sup ps in //
+.    . //_Z_ Fst //
+</s>
+<s>
+Esimesel    esimene+l //_N_ ord sg ad l //
+&otilde;nnestunud    &otilde;nnestunud+0 //_A_ pos //
+ekspositsioonil    ekspositsioon+l //_S_ com sg ad //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+ta    tema+0 //_P_ sg nom //
+n&auml;htav    n&auml;htav+0 //_A_ pos sg nom //
+12.    12.+0 //_N_ ord ? digit //
+t&auml;hesuurusega    t&auml;he_suurus+ga //_S_ com sg kom //
+t&auml;hena    t&auml;ht+na //_S_ com sg es //
+,    , //_Z_ Com //
+25    25+0 //_N_ card ? digit //
+sekundit    sekund+t //_S_ com sg part //
+hiljem    hiljem+0 //_D_ //
+tehtud    tehtud+0 //_A_ pos //
+pildil    pilt+l //_S_ com sg ad //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+ta    tema+0 //_P_ sg nom //
+14    14+0 //_N_ card ? digit //
+korda    kord+0 //_S_ com sg part //
+heledam    heleda=m+0 //_A_ comp sg nom //
+(    ( //_Z_ Opr //
+t&auml;hesuurus    t&auml;he_suurus+0 //_S_ com sg nom //
+8,95    8,95+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+,    , //_Z_ Com //
+aga    aga+0 //_J_ crd //
+edasi    edasi+0 //_D_ //
+hakkas    hakka+s //_V_ main indic impf ps3 sg ps af //
+s&auml;hvataja    s&auml;hvata=ja+0 //_S_ com sg gen //
+heledus    heledus+0 //_S_ com sg nom //
+kiiresti    kiiresti+0 //_D_ //
+langema    lange+ma //_V_ main sup ps ill //
+.    . //_Z_ Fst //
+</s>
+<s>
+9,5    9,5+0 //_N_ card ? digit //
+minutit    minut+t //_S_ com sg part //
+p&auml;rast    p&auml;rast+0 //_K_ pre //
+maksimumi    maksimum+0 //_S_ com sg part //
+(    ( //_Z_ Opr //
+kuues    kuues+0 //_N_ ord sg nom l //
+ekspositsioon    ekspositsioon+0 //_S_ com sg nom //
+)    ) //_Z_ Cpr //
+oli    ole+i //_V_ aux indic impf ps3 sg ps af //
+allika    allikas+0 //_S_ com sg gen //
+heledus    heledus+0 //_S_ com sg nom //
+v&auml;henenud    v&auml;hene+nud //_V_ main partic past ps //
+juba    juba+0 //_D_ //
+170    170+0 //_N_ card ? digit //
+korda    kord+0 //_S_ com sg part //
+(    ( //_Z_ Opr //
+14,53    14,53+0 //_N_ card ? digit //
+t&auml;hesuuruseni    t&auml;he_suurus+ni //_S_ com sg term //
+)    ) //_Z_ Cpr //
+ning    ning+0 //_J_ crd //
+j&auml;rgmistel    j&auml;rgmine+tel //_A_ pos pl ad //
+piltidel    pilt+del //_S_ com pl ad //
+objekti    objekt+0 //_S_ com sg part //
+enam    enam+0 //_D_ //
+n&auml;ha    n&auml;ge+a //_V_ main inf //
+ei    ei+0 //_V_ aux neg //
+olnud    ole+nud //_V_ main indic impf ps neg //
+.    . //_Z_ Fst //
+</s>
+<s>
+Siiski    siiski+0 //_D_ //
+oli    ole+i //_V_ aux indic impf ps3 sg ps af //
+ROTSE-1    ROTSE-1+0 //_Y_ nominal ? //
+teinud    tege+nud //_V_ main partic past ps //
+t&ouml;&ouml;    t&ouml;&ouml;+0 //_S_ com sg gen //
+,    , //_Z_ Com //
+mida    mis+da //_P_ sg part //
+mitmed    mitu+d //_P_ pl nom //
+suured    suur+d //_A_ pos pl nom //
+observatooriumid    observatoorium+d //_S_ com pl nom //
+olid    ole+id //_V_ aux indic impf ps3 pl ps af //
+&uuml;ritanud    &uuml;rita+nud //_V_ main partic past ps //
+k&uuml;mneid    k&uuml;mme+id //_N_ card pl part l //
+aastaid    aasta+id //_S_ com pl part //
+.    . //_Z_ Fst //
+</s>
+<s>
+Esmakordselt    esma_kordse=lt+0 //_D_ //
+oli    ole+i //_V_ aux indic impf ps3 sg ps af //
+j&auml;&auml;dvustatud    j&auml;&auml;dvusta+tud //_V_ main partic past imps //
+gammas&auml;hvatuse    gamma_s&auml;hvatus+0 //_S_ com sg gen //
+optiline    optiline+0 //_A_ pos sg nom //
+heledusk&otilde;ver    heledus_k&otilde;ver+0 //_S_ com sg nom //
+maksimumheleduse    maksimum_heledus+0 //_S_ com sg gen //
+ajal    ajal+0 //_K_ post //
+.    . //_Z_ Fst //
+</s>
+<s>
+Osutus    osutu+s //_V_ main indic impf ps3 sg ps af //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+s&auml;hvatus    s&auml;hvatus+0 //_S_ com sg nom //
+optilises    optiline+s //_A_ pos sg in //
+valguses    valgus+s //_S_ com sg in //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+pea    pea+0 //_D_ //
+sama    sama+0 //_D_ //
+&auml;kiline    &auml;kiline+0 //_A_ pos sg nom //
+kui    kui+0 //_J_ sub //
+gammakiirtes    gamma_kiir+tes //_S_ com pl in //
+.    . //_Z_ Fst //
+</s>
+<s>
+Optiline    optiline+0 //_A_ pos sg nom //
+s&auml;hvatus    s&auml;hvatus+0 //_S_ com sg nom //
+v&otilde;is    v&otilde;i+s //_V_ mod indic impf ps3 sg ps af //
+j&otilde;uda    j&otilde;ud+a //_V_ main inf //
+maksimumi    maksimum+0 //_S_ com sg adit //
+m&otilde;ni    m&otilde;ni+0 //_P_ sg nom //
+sekund    sekund+0 //_S_ com sg nom //
+p&auml;rast    p&auml;rast+0 //_K_ pre //
+gamma    gamma+0 //_S_ com sg gen //
+maksimumi    maksimum+0 //_S_ com sg part //
+ja    ja+0 //_J_ crd //
+langus    langus+0 //_S_ com sg nom //
+v&otilde;is    v&otilde;i+s //_V_ mod indic impf ps3 sg ps af //
+olla    ole+a //_V_ main inf //
+veidi    veidi+0 //_D_ //
+aeglasem    aeglase=m+0 //_A_ comp sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Milline    milline+0 //_P_ sg nom //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+optiliste    optiline+te //_A_ pos pl gen //
+s&auml;hvatuste    s&auml;hvatus+te //_S_ com pl gen //
+peenstruktuur    peen_struktuur+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+seda    see+da //_P_ sg part //
+tuleb    tule+b //_V_ main indic pres ps3 sg ps af //
+m&auml;&auml;rata    m&auml;&auml;ra+ta //_V_ main inf //
+j&auml;rgmistel    j&auml;rgmine+tel //_A_ pos pl ad //
+&ldquo;    &ldquo; //_Z_ Oqu //
+kiirreageerijatel    kiir_reageeri=ja+tel //_S_ com pl ad //
+&rdquo;    &rdquo; //_Z_ Cqu //
+.    . //_Z_ Fst //
+</s>
+<s>
+Juba    juba+0 //_D_ //
+praegu    praegu+0 //_D_ //
+v&otilde;ib    v&otilde;i+b //_V_ mod indic pres ps3 sg ps af //
+&ouml;elda    &uuml;tle+da //_V_ main inf //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+ROTSE-1    ROTSE-1+0 //_Y_ nominal ? //
+oleks    ole+ks //_V_ aux cond pres ps3 sg ps af //
+v&otilde;inud    v&otilde;i+nud //_V_ mod partic past ps //
+teha    tege+a //_V_ main inf //
+rohkem    rohkem+0 //_D_ //
+ja    ja+0 //_J_ crd //
+l&uuml;hemaid    l&uuml;hem+id //_A_ comp pl part //
+ekspositsioone    ekspositsioon+e //_S_ com pl part //
+,    , //_Z_ Com //
+aga    aga+0 //_J_ crd //
+kes    kes+0 //_P_ sg nom //
+seda    see+da //_P_ sg part //
+ette    ette+0 //_D_ //
+teadis    tead+is //_V_ main indic impf ps3 sg ps af //
+!    ! //_Z_ Exc //
+</s>
+<s>
+Astronoomid    astronoom+d //_S_ com pl nom //
+olid    ole+id //_V_ main indic impf ps3 pl ps af //
+valmis    valmis+0 //_D_ //
+&uuml;llatusteks    &uuml;llatus+teks //_S_ com pl tr //
+ning    ning+0 //_J_ crd //
+j&auml;&auml;dvustatud    j&auml;&auml;dvusta=tud+0 //_A_ pos //
+s&auml;hvatuse    s&auml;hvatus+0 //_S_ com sg gen //
+k&otilde;rge    k&otilde;rge+0 //_A_ pos sg nom //
+maksimaalheledus    maksimaal_heledus+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+ehkki    ehkki+0 //_J_ sub //
+l&uuml;hiajaline    l&uuml;hi_ajaline+0 //_A_ pos sg nom //
+,    , //_Z_ Com //
+oligi    ole+igi //_V_ main indic impf ps3 sg ps af //
+k&otilde;ige    k&otilde;ige+0 //_D_ //
+&uuml;llatavam    &uuml;llata=vam+0 //_A_ comp sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Peaaegu    pea_aegu+0 //_D_ //
+universumi    universum+0 //_S_ com sg gen //
+teisel    teine+l //_P_ sg ad //
+serval    serv+l //_S_ com sg ad //
+toimunud    toimunud+0 //_A_ pos //
+s&uuml;ndmus    s&uuml;ndmus+0 //_S_ com sg nom //
+olnuks    ole+nuks //_V_ main cond past ps3 sg ps af //
+n&auml;htav    n&auml;htav+0 //_A_ pos sg nom //
+isegi    isegi+0 //_D_ //
+tavalise    tavaline+0 //_A_ pos sg gen //
+binokliga    binokkel+ga //_S_ com sg kom //
+varustatud    varusta=tud+0 //_A_ pos //
+vaatlejale    vaatleja+le //_S_ com sg all //
+,    , //_Z_ Com //
+muidugi    muidugi+0 //_D_ //
+&otilde;igel    &otilde;ige+l //_A_ pos sg ad //
+ajal    aeg+l //_S_ com sg ad //
+&otilde;iges    &otilde;ige+s //_A_ pos sg in //
+suunas    suund+s //_S_ com sg in //
+vaadates    vaata+tes //_V_ main ger //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Kui    kui+0 //_J_ sub //
+Palomari    Palomar+0 //_S_ prop sg gen //
+astronoomid    astronoom+d //_S_ com pl nom //
+oma    oma+0 //_P_ sg gen //
+pilte    pilt+e //_S_ com pl part //
+uurima    uuri+ma //_V_ main sup ps ill //
+asusid    asu+sid //_V_ main indic impf ps3 pl ps af //
+,    , //_Z_ Com //
+sai    saa+i //_V_ main indic impf ps3 sg ps af //
+selgeks    selge+ks //_A_ pos sg tr //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+nendegi    tema+degi //_P_ pl gen //
+kiirustamine    kiirustamine+0 //_S_ com sg nom //
+polnud    ole+nud //_V_ main indic impf ps neg //
+asjatu    asjatu+0 //_A_ pos sg nom //
+,    , //_Z_ Com //
+gammaobjekt    gamma_objekt+0 //_S_ com sg nom //
+paistis    paist+is //_V_ main indic impf ps3 sg ps af //
+piltidel    pilt+del //_S_ com pl ad //
+selgelt    selgelt+0 //_D_ //
+,    , //_Z_ Com //
+kuid    kuid+0 //_J_ crd //
+vaid    vaid+0 //_D_ //
+m&otilde;ni    m&otilde;ni+0 //_P_ sg nom //
+tund    tund+0 //_S_ com sg nom //
+varem    varem+0 //_D_ //
+tehtud    tehtud+0 //_A_ pos //
+ROTSE-1    ROTSE-1+0 //_Y_ nominal ? //
+vaatlustega    vaatlus+tega //_S_ com pl kom //
+v&otilde;rreldes    v&otilde;rdle+des //_V_ main ger //
+oli    ole+i //_V_ aux indic impf ps3 sg ps af //
+ta    tema+0 //_P_ sg gen //
+heledus    heledus+0 //_S_ com sg nom //
+j&otilde;udnud    j&otilde;ud+nud //_V_ main partic past ps //
+v&auml;heneda    v&auml;hene+da //_V_ main inf //
+juba    juba+0 //_D_ //
+10000    10000+0 //_N_ card ? digit //
+korda    kord+0 //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+Ehkki    ehkki+0 //_J_ sub //
+GRB    GRB+0 //_Y_ nominal ? //
+990123    990123+0 //_N_ card ? digit //
+optiline    optiline+0 //_A_ pos sg nom //
+j&auml;relheledus    j&auml;rel_heledus+0 //_S_ com sg nom //
+kahanes    kahane+s //_V_ main indic impf ps3 sg ps af //
+kiiresti    kiiresti+0 //_D_ //
+ka    ka+0 //_D_ //
+j&auml;rgmiste    j&auml;rgmine+te //_A_ pos pl gen //
+p&auml;evadega    p&auml;ev+dega //_S_ com pl kom //
+,    , //_Z_ Com //
+j&auml;i    j&auml;&auml;+i //_V_ main indic impf ps3 sg ps af //
+ta    tema+0 //_P_ sg nom //
+suurtele    suur+tele //_A_ pos pl all //
+teleskoopidele    tele_skoop+dele //_S_ com pl all //
+k&auml;ttesaadavaks    k&auml;tte_saadav+ks //_A_ pos sg tr //
+siiski    siiski+0 //_D_ //
+mitmeks    mitu+ks //_P_ sg tr //
+j&auml;rgnevaks    j&auml;rgnev+ks //_A_ pos sg tr //
+n&auml;dalaks    n&auml;dal+ks //_S_ com sg tr //
+.    . //_Z_ Fst //
+</s>
+<s>
+Allika    allikas+0 //_S_ com sg gen //
+spektrites    spekter+tes //_S_ com pl in //
+registreeriti    registreeri+ti //_V_ main indic impf imps af //
+palju    palju+0 //_D_ //
+ioniseeritud    ioniseeri=tud+0 //_A_ pos //
+metallidele    metall+dele //_S_ com pl all //
+(    ( //_Z_ Opr //
+Al    Al+0 //_Y_ nominal ? //
+,    , //_Z_ Com //
+Zn    Zn+0 //_Y_ nominal ? //
+,    , //_Z_ Com //
+Cr    Cr+0 //_Y_ nominal ? //
+,    , //_Z_ Com //
+Fe    Fe+0 //_Y_ nominal ? //
+,    , //_Z_ Com //
+Mg    Mg+0 //_Y_ nominal ? //
+)    ) //_Z_ Cpr //
+iseloomulikke    ise_loomulik+e //_A_ pos pl part //
+neeldumisjooni    neeldumis_joon+i //_S_ com pl part //
+.    . //_Z_ Fst //
+</s>
+<s>
+Sellised    selline+d //_P_ pl nom //
+jooned    joon+d //_S_ com pl nom //
+esinevad    esine+vad //_V_ main indic pres ps3 pl ps af //
+ka    ka+0 //_D_ //
+paljude    palju+de //_P_ pl gen //
+kaugete    kauge+te //_A_ pos pl gen //
+kvasarite    kvasar+te //_S_ com pl gen //
+spektrites    spekter+tes //_S_ com pl in //
+.    . //_Z_ Fst //
+</s>
+<s>
+Nende    see+de //_P_ pl gen //
+joonte    joon+te //_S_ com pl gen //
+asukohtade    asu_koht+de //_S_ com pl gen //
+j&auml;rgi    j&auml;rgi+0 //_K_ post //
+m&otilde;&otilde;deti    m&otilde;&otilde;t+ti //_V_ main indic impf imps af //
+allika    allikas+0 //_S_ com sg gen //
+punanihkeks    puna_nihe+ks //_S_ com sg tr //
+z    z+0 //_Y_ nominal ? //
+=    = //_T_ //
+1,60    1,60+0 //_N_ card ? digit //
+.    . //_Z_ Fst //
+</s>
+<s>
+Allika    allikas+0 //_S_ com sg gen //
+n&otilde;rgenedes    n&otilde;rgene+des //_V_ main ger //
+,    , //_Z_ Com //
+ilmus    ilmu+s //_V_ main indic impf ps3 sg ps af //
+tema    tema+0 //_P_ sg gen //
+hajunud    haju=nud+0 //_A_ pos //
+valguse    valgus+0 //_S_ com sg gen //
+tagant    tagant+0 //_K_ post //
+v&auml;lja    v&auml;lja+0 //_D_ //
+n&otilde;rk    n&otilde;rk+0 //_A_ pos sg nom //
+galaktika    galaktika+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+milles    mis+s //_P_ sg in //
+grandioosne    grandioosne+0 //_A_ pos sg nom //
+plahvatus    plahvatus+0 //_S_ com sg nom //
+ilmselt    ilmselt+0 //_D_ //
+toimus    toimu+s //_V_ main indic impf ps3 sg ps af //
+.    . //_Z_ Fst //
+</s>
+<s>
+Galaktika    galaktika+0 //_S_ com sg gen //
+punanihe    puna_nihe+0 //_S_ com sg nom //
+osutus    osutu+s //_V_ main indic impf ps3 sg ps af //
+v&otilde;rdseks    v&otilde;rdne+ks //_A_ pos sg tr //
+gammaallika    gamma_allikas+0 //_S_ com sg gen //
+omaga    oma+ga //_P_ sg kom //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Kauge    kauge+0 //_A_ pos sg gen //
+plahvatuse    plahvatus+0 //_S_ com sg gen //
+ohtlik    ohtlik+0 //_A_ pos sg nom //
+energia    energia+0 //_S_ com sg nom //
+</s>
+</p>
+<p>
+<s>
+Levinuima    levi=nuim+0 //_A_ super sg gen //
+kosmoloogilise    kosmoloogiline+0 //_A_ pos sg gen //
+mudeli    mudel+0 //_S_ com sg gen //
+j&auml;rgi    j&auml;rgi+0 //_K_ post //
+vastab    vasta+b //_V_ main indic pres ps3 sg ps af //
+punanihkele    puna_nihe+le //_S_ com sg all //
+1,6    1,6+0 //_N_ card ? digit //
+kaugus    kaugus+0 //_S_ com sg nom //
+3,7    3,7+0 //_N_ card ? digit //
+x10    x10+0 //_Y_ nominal ? //
+25    25+0 //_N_ card ? digit //
+km    km+0 //_Y_ nominal ? //
+.    . //_Z_ Fst //
+</s>
+<s>
+Kaugust    kaugus+t //_S_ com sg part //
+teades    tead+es //_V_ main ger //
+saab    saa+b //_V_ mod indic pres ps3 sg ps af //
+teha    tege+a //_V_ main inf //
+hinnanguid    hinnang+id //_S_ com pl part //
+gammas&auml;hvatusel    gamma_s&auml;hvatus+l //_S_ com sg ad //
+eraldunud    eraldunud+0 //_A_ pos //
+energia    energia+0 //_S_ com sg gen //
+kohta    kohta+0 //_K_ post //
+.    . //_Z_ Fst //
+</s>
+<s>
+Kui    kui+0 //_J_ sub //
+plahvatus    plahvatus+0 //_S_ com sg nom //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+enam-v&auml;hem    enam-v&auml;hem+0 //_D_ //
+s&uuml;mmeetriline    s&uuml;mmeetriline+0 //_A_ pos sg nom //
+,    , //_Z_ Com //
+siis    siis+0 //_J_ sub //
+ainu&uuml;ksi    ainu_&uuml;ksi+0 //_D_ //
+gammakiirgust    gamma_kiirgus+t //_S_ com sg part //
+vabanes    vabane+s //_V_ main indic impf ps3 sg ps af //
+3,4    3,4+0 //_N_ card ? digit //
+x    x+0 //_Y_ nominal ? //
+10    10+0 //_N_ card ? digit //
+54    54+0 //_N_ card ? digit //
+ergi    erg+0 //_S_ com sg part //
+,    , //_Z_ Com //
+mille    mis+0 //_P_ sg gen //
+massi    mass+0 //_S_ com sg gen //
+ekvivalent    ekvi_valent+0 //_S_ com sg nom //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+1,9    1,9+0 //_N_ card ? digit //
+P&auml;ikese    P&auml;ike+0 //_S_ prop sg gen //
+massi    mass+0 //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+Kaks    kaks+0 //_N_ card sg nom l //
+P&auml;ikest    P&auml;ike+t //_S_ prop sg part //
+oleks    ole+ks //_V_ aux cond pres ps3 pl ps af //
+nagu    nagu+0 //_D_ //
+m&otilde;ne    m&otilde;ni+0 //_P_ sg gen //
+sekundi    sekund+0 //_S_ com sg gen //
+jooksul    jooksul+0 //_K_ post //
+muutunud    muutu+nud //_V_ main partic past ps //
+energiaks    energia+ks //_S_ com sg tr //
+ja    ja+0 //_J_ crd //
+hajunud    haju+nud //_V_ main partic past ps //
+maailmaruumi    maa_ilma_ruum+0 //_S_ com sg adit //
+.    . //_Z_ Fst //
+</s>
+<s>
+Seda    see+da //_P_ sg part //
+koletut    koletu+t //_A_ pos sg part //
+energiahulka    energia_hulk+0 //_S_ com sg part //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+raske    raske+0 //_A_ pos sg nom //
+millegi    miski+gi //_P_ sg gen //
+kogemuslikuga    kogemuslik+ga //_A_ pos sg kom //
+v&otilde;rrelda    v&otilde;rdle+da //_V_ main inf //
+.    . //_Z_ Fst //
+</s>
+<s>
+V&otilde;rdlusv&otilde;imalus    v&otilde;rdlus_v&otilde;imalus+0 //_S_ com sg nom //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+olemas    ole+mas //_V_ main sup ps in //
+optilise    optiline+0 //_A_ pos sg gen //
+kiirguse    kiirgus+0 //_S_ com sg gen //
+osas    osas+0 //_K_ post //
+.    . //_Z_ Fst //
+</s>
+<s>
+ROTSE-1-lt    ROTSE-1+lt //_Y_ nominal sg abl //
+registreeritud    registreeritud+0 //_A_ pos //
+heledusmaksimumi    heledus_maksimum+0 //_S_ com sg gen //
+ajal    ajal+0 //_K_ post //
+kiirgas    kiirga+s //_V_ main indic impf ps3 sg ps af //
+GRB    GRB+0 //_Y_ nominal ? //
+990123    990123+0 //_N_ card ? digit //
+nagu    nagu+0 //_J_ sub //
+3x10    3x10+0 //_Y_ nominal ? //
+16    16+0 //_N_ card ? digit //
+P&auml;ikest    P&auml;ike+t //_S_ prop sg part //
+,    , //_Z_ Com //
+ehk    ehk+0 //_J_ crd //
+miljon    miljon+0 //_N_ card sg nom l //
+korda    kord+0 //_S_ com sg part //
+rohkem    rohkem+0 //_D_ //
+kui    kui+0 //_J_ sub //
+normaalgalaktika    normaal_galaktika+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Kui    kui+0 //_J_ sub //
+plahvatus    plahvatus+0 //_S_ com sg nom //
+toimunuks    toimu+nuks //_V_ main cond past ps3 sg ps af //
+naabergalaktikas    naaber_galaktika+s //_S_ com sg in //
+Andromeeda    Andromeeda+0 //_S_ prop sg gen //
+udukogus    udu_kogu+s //_S_ com sg in //
+,    , //_Z_ Com //
+siis    siis+0 //_J_ sub //
+oleks    ole+ks //_V_ aux cond pres ps3 sg ps af //
+Maa-pealne    maa-pealne+0 //_A_ pos sg nom //
+vaatleja    vaatleja+0 //_S_ com sg nom //
+n&auml;inud    n&auml;ge+nud //_V_ main partic past ps //
+ootamatult    ootamatult+0 //_D_ //
+taevasse    taevas+sse //_S_ com sg ill //
+ilmunud    ilmu=nud+0 //_A_ pos //
+t&auml;iskuud    t&auml;is_kuu+d //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+Meie    mina+0 //_P_ pl gen //
+kodugalaktikas    kodu_galaktika+s //_S_ com sg in //
+plahvatamise    plahvata=mine+0 //_S_ com sg gen //
+korral    korral+0 //_K_ post //
+n&auml;inuksime    n&auml;ge+nuksime //_V_ main cond past ps1 pl ps af //
+taevasse    taevas+sse //_S_ com sg ill //
+ilmumas    ilmu+mas //_V_ main sup ps in //
+teist    teine+t //_P_ sg part //
+P&auml;ikest    P&auml;ike+t //_S_ prop sg part //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+&Otilde;nneks    &otilde;nn+ks //_S_ com sg tr //
+toimub    toimu+b //_V_ main indic pres ps3 sg ps af //
+neid    see+d //_P_ pl part //
+plahvatusi    plahvatus+i //_S_ com pl part //
+galaktika    galaktika+0 //_S_ com sg gen //
+kohta    kohta+0 //_K_ post //
+mitte    mitte+0 //_D_ //
+igal    iga+l //_P_ sg ad //
+aastal    aasta+l //_S_ com sg ad //
+ega    ega+0 //_J_ crd //
+igal    iga+l //_P_ sg ad //
+sajandil    sajand+l //_S_ com sg ad //
+,    , //_Z_ Com //
+vaid    vaid+0 //_J_ crd //
+vahest    vahest+0 //_D_ //
+kord    kord+0 //_S_ com sg nom //
+m&otilde;nesaja    m&otilde;ni_sada+0 //_N_ card sg gen l //
+miljoni    miljon+0 //_N_ card sg gen l //
+aasta    aasta+0 //_S_ com sg gen //
+kohta    kohta+0 //_K_ post //
+.    . //_Z_ Fst //
+</s>
+<s>
+Milline    milline+0 //_P_ sg nom //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+selliste    selline+te //_P_ pl gen //
+plahvatuste    plahvatus+te //_S_ com pl gen //
+tekkemehhanism    tekke_mehhanism+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+pole    ole+0 //_V_ main indic pres ps neg //
+seni    seni+0 //_D_ //
+selge    selge+0 //_A_ pos sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Arutatud    aruta+tud //_V_ main partic past imps //
+on    ole+0 //_V_ aux indic pres ps3 sg ps af //
+isegi    isegi+0 //_D_ //
+galaktikatevaheliste    galaktika+te_vaheline+te //_A_ pos pl gen //
+s&otilde;dade    s&otilde;da+de //_S_ com pl gen //
+varianti    variant+0 //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+Enne    enne+0 //_K_ pre //
+23.    23.+0 //_N_ ord ? digit //
+jaanuari    jaanuar+0 //_S_ com sg gen //
+s&uuml;ndmust    s&uuml;ndmus+t //_S_ com sg part //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+levinuimaks    levi=nuim+ks //_A_ super sg tr //
+seletuseks    seletus+ks //_S_ com sg tr //
+kahe    kaks+0 //_N_ card sg gen l //
+&uuml;litiheda    &uuml;li_tihe+0 //_A_ pos sg gen //
+t&auml;he    t&auml;ht+0 //_S_ com sg gen //
+kokkup&otilde;rkel    kokku_p&otilde;rge+l //_S_ com sg ad //
+tekkiv    tekki=v+0 //_A_ pos sg nom //
+plahvatus    plahvatus+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Enamus    enamus+0 //_S_ com sg nom //
+t&auml;htedest    t&auml;ht+dest //_S_ com pl el //
+asub    asu+b //_V_ main indic pres ps3 sg ps af //
+kaksik-    kaksik+0 //_S_ com sg nom //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+mitmiks&uuml;steemides    mitmik_s&uuml;steem+des //_S_ com pl in //
+,    , //_Z_ Com //
+vananedes    vanane+des //_V_ main ger //
+v&otilde;ivad    v&otilde;i+vad //_V_ mod indic pres ps3 pl ps af //
+neist    see+st //_P_ pl el //
+saada    saa+da //_V_ main inf //
+neutront&auml;hed    neutron_t&auml;ht+d //_S_ com pl nom //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+mustad    must+d //_A_ pos pl nom //
+augud    auk+d //_S_ com pl nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Gravitatsioonilise    gravitatsiooni=line+0 //_A_ pos sg gen //
+vastastikm&otilde;ju    vastastik_m&otilde;ju+0 //_S_ com sg gen //
+tagaj&auml;rjel    taga_j&auml;rg+l //_S_ com sg ad //
+aja    aeg+0 //_S_ com sg gen //
+jooksul    jooksul+0 //_K_ post //
+t&auml;hed    t&auml;ht+d //_S_ com pl nom //
+l&auml;henevad    l&auml;hene+vad //_V_ main indic pres ps3 pl ps af //
+&uuml;ksteisele    &uuml;ks_teise+le //_P_ sg all //
+ning    ning+0 //_J_ crd //
+l&otilde;puks    l&otilde;puks+0 //_D_ //
+p&otilde;rkuvad    p&otilde;rku+vad //_V_ main indic pres ps3 pl ps af //
+.    . //_Z_ Fst //
+</s>
+<s>
+Kuid    kuid+0 //_J_ crd //
+23.    23.+0 //_N_ ord ? digit //
+jaanuari    jaanuar+0 //_S_ com sg gen //
+s&uuml;ndmus    s&uuml;ndmus+0 //_S_ com sg nom //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+sedav&otilde;rd    seda_v&otilde;rd+0 //_D_ //
+v&otilde;imas    v&otilde;imas+0 //_A_ pos sg nom //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+neutront&auml;htede    neutron_t&auml;ht+de //_S_ com pl gen //
+omaste    omane+te //_A_ pos pl gen //
+massidega    mass+dega //_S_ com pl kom //
+kehade    keha+de //_S_ com pl gen //
+kokkup&otilde;rkel    kokku_p&otilde;rge+l //_S_ com sg ad //
+vabanevast    vabane=v+st //_A_ pos sg el //
+energiast    energia+st //_S_ com sg el //
+j&auml;&auml;ks    j&auml;&auml;+ks //_V_ main cond pres ps3 sg ps af //
+v&auml;heseks    v&auml;hene+ks //_A_ pos sg tr //
+.    . //_Z_ Fst //
+</s>
+<s>
+Vaja    vaja+0 //_D_ //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+otsida    otsi+da //_V_ main inf //
+uusi    uus+i //_A_ pos pl part //
+seletusi    seletus+i //_S_ com pl part //
+.    . //_Z_ Fst //
+</s>
+<s>
+Arutatakse    aruta+takse //_V_ main indic pres imps af //
+v&otilde;imalust    v&otilde;imalus+t //_S_ com sg part //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+nendel    see+del //_P_ pl ad //
+&uuml;liplahvatustel    &uuml;li_plahvatus+tel //_S_ com pl ad //
+energia    energia+0 //_S_ com sg nom //
+ei    ei+0 //_V_ aux neg //
+kiirgu    kiirgu+0 //_V_ main indic pres ps neg //
+&uuml;htlaselt    &uuml;htlaselt+0 //_D_ //
+igas    iga+s //_P_ sg in //
+suunas    suund+s //_S_ com sg in //
+,    , //_Z_ Com //
+vaid    vaid+0 //_J_ crd //
+p&otilde;hiliselt    p&otilde;hiliselt+0 //_D_ //
+kitsa    kitsas+0 //_A_ pos sg gen //
+kimbuna    kimp+na //_S_ com sg es //
+.    . //_Z_ Fst //
+</s>
+<s>
+Seega    seega+0 //_D_ //
+23.    23.+0 //_N_ ord ? digit //
+jaanuari    jaanuar+0 //_S_ com sg gen //
+plahvatus    plahvatus+0 //_S_ com sg nom //
+v&otilde;is    v&otilde;i+s //_V_ mod indic impf ps3 sg ps af //
+meile    mina+le //_P_ pl all //
+tunduda    tundu+da //_V_ main inf //
+eriti    eriti+0 //_D_ //
+v&otilde;imas    v&otilde;imas+0 //_A_ pos sg nom //
+seet&otilde;ttu    see_t&otilde;ttu+0 //_D_ //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+kiirtekimp    kiir+te_kimp+0 //_S_ com sg nom //
+oli    ole+i //_V_ aux indic impf ps3 sg ps af //
+suunatud    suuna+tud //_V_ main partic past imps //
+otse    otse+0 //_D_ //
+meie    mina+0 //_P_ pl gen //
+poole    poole+0 //_K_ post //
+.    . //_Z_ Fst //
+</s>
+<s>
+M&otilde;ne    m&otilde;ni+0 //_P_ sg gen //
+teise    teine+0 //_P_ sg gen //
+kauge    kauge+0 //_A_ pos sg gen //
+galaktika    galaktika+0 //_S_ com sg gen //
+astronoomid    astronoom+d //_S_ com pl nom //
+,    , //_Z_ Com //
+kes    kes+0 //_P_ pl nom //
+s&uuml;ndmust    s&uuml;ndmus+t //_S_ com sg part //
+vaatlesid    vaatle+sid //_V_ main indic impf ps3 pl ps af //
+teisest    teine+st //_P_ sg el //
+k&uuml;ljest    k&uuml;lg+st //_S_ com sg el //
+,    , //_Z_ Com //
+v&otilde;isid    v&otilde;i+sid //_V_ mod indic impf ps3 pl ps af //
+plahvatuse    plahvatus+0 //_S_ com sg gen //
+v&otilde;imsuseks    v&otilde;imsus+ks //_S_ com sg tr //
+saada    saa+da //_V_ main inf //
+10-50    10-50+0 //_N_ card ? digit //
+korda    kord+0 //_S_ com sg part //
+v&auml;iksema    v&auml;ikse=m+0 //_A_ comp sg gen //
+arvu    arv+0 //_S_ com sg gen //
+kui    kui+0 //_J_ sub //
+Linnutee    Linnu_tee+0 //_S_ prop sg gen //
+astronoomid    astronoom+d //_S_ com pl nom //
+,    , //_Z_ Com //
+nende    tema+de //_P_ pl gen //
+hulgas    hulgas+0 //_K_ post //
+ka    ka+0 //_D_ //
+meie    mina+0 //_P_ pl nom //
+siin    siin+0 //_D_ //
+-    &mdash; //_Z_ Dsh //
+Maal    Maa+l //_S_ prop sg ad //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Kahtlematult    kahtlematult+0 //_D_ //
+sai    saa+i //_V_ main indic impf ps3 sg ps af //
+aga    aga+0 //_J_ crd //
+selgeks    selge+ks //_A_ pos sg tr //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+tegemist    tegemine+t //_S_ com sg part //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+erakordselt    era_kordselt+0 //_D_ //
+v&otilde;imsa    v&otilde;imas+0 //_A_ pos sg gen //
+ja    ja+0 //_J_ crd //
+ohtliku    ohtlik+0 //_A_ pos sg gen //
+n&auml;htusega    n&auml;htus+ga //_S_ com sg kom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Meid    mina+d //_P_ pl part //
+kosmosest    kosmos+st //_S_ com sg el //
+&auml;hvardavate    &auml;hvarda=v+te //_A_ pos pl gen //
+katastrofaalsete    katastrofaal_sete+0 //_S_ com sg nom //
+s&uuml;ndmuste    s&uuml;ndmus+te //_S_ com pl gen //
+(    ( //_Z_ Opr //
+asteroidi    asteroid+0 //_S_ com sg gen //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+komeedi    komeet+0 //_S_ com sg gen //
+pommitus    pommitus+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+l&auml;hedase    l&auml;hedane+0 //_A_ pos sg gen //
+supernoova    supernoova+0 //_S_ com sg gen //
+plahvatus    plahvatus+0 //_S_ com sg nom //
+)    ) //_Z_ Cpr //
+ritta    rida+0 //_S_ com sg adit //
+lisandus    lisandu+s //_V_ main indic impf ps3 sg ps af //
+teadmine    teadmine+0 //_S_ com sg nom //
+kodugalaktikas    kodu_galaktika+s //_S_ com sg in //
+toimuda    toimu+da //_V_ main inf //
+v&otilde;ivast    v&otilde;i=v+st //_A_ pos sg el //
+tugeva    tugev+0 //_A_ pos sg gen //
+gammas&auml;hvatuse    gamma_s&auml;hvatus+0 //_S_ com sg gen //
+ohust    oht+st //_S_ com sg el //
+.    . //_Z_ Fst //
+</s>
+<s>
+23.    23.+0 //_N_ ord ? digit //
+jaanuari    jaanuar+0 //_S_ com sg gen //
+s&auml;hvatuse    s&auml;hvatus+0 //_S_ com sg gen //
+v&otilde;imsusega    v&otilde;imsus+ga //_S_ com sg kom //
+plahvatus    plahvatus+0 //_S_ com sg nom //
+v&otilde;iks    v&otilde;i+ks //_V_ mod cond pres ps3 sg ps af //
+l&otilde;hkuda    l&otilde;hku+da //_V_ main inf //
+planeetide    planeet+de //_S_ com pl gen //
+atmosf&auml;&auml;rid    atmo_sf&auml;&auml;r+d //_S_ com pl nom //
+ja    ja+0 //_J_ crd //
+h&auml;vitada    h&auml;vita+da //_V_ main inf //
+elu    elu+0 //_S_ com sg gen //
+m&auml;rgatavas    m&auml;rgatav+s //_A_ pos sg in //
+osas    osa+s //_S_ com sg in //
+Galaktika    Galaktika+0 //_S_ prop sg gen //
+ruumalast    ruum_ala+st //_S_ com sg el //
+.    . //_Z_ Fst //
+</s>
+<s>
+Juba    juba+0 //_D_ //
+on    ole+0 //_V_ aux indic pres ps3 sg ps af //
+j&otilde;utud    j&otilde;ud+tud //_V_ main partic past imps //
+avaldada    avalda+da //_V_ main inf //
+arvamust    arvamus+t //_S_ com sg part //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+on    ole+0 //_V_ aux indic pres ps3 sg ps af //
+leitud    leid+tud //_V_ main partic past imps //
+p&otilde;hjus    p&otilde;hjus+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+miks    miks+0 //_D_ //
+raadioastronoomide    raadio_astronoom+de //_S_ com pl gen //
+pingutustele    pingutus+tele //_S_ com pl all //
+vaatamata    vaatamata+0 //_K_ post //
+pole    ole+0 //_V_ aux indic pres ps neg //
+suudetud    suut+tud //_V_ main partic past imps //
+leida    leid+a //_V_ main inf //
+kosmosenaabreid    kosmose_naaber+id //_S_ com pl part //
+.    . //_Z_ Fst //
+</s>
+<s>
+Tsivilisatsioonid    tsivilisatsioon+d //_S_ com pl nom //
+on    ole+0 //_V_ main indic pres ps3 pl ps af //
+v&auml;ga    v&auml;ga+0 //_D_ //
+haruldased    haruldane+d //_A_ pos pl nom //
+,    , //_Z_ Com //
+sest    sest+0 //_J_ sub //
+aeg-ajalt    aeg-ajalt+0 //_D_ //
+korduvad    korduv+d //_A_ pos pl nom //
+v&otilde;imsad    v&otilde;imas+d //_A_ pos pl nom //
+gammakiirguse    gamma_kiirgus+0 //_S_ com sg gen //
+s&auml;hvatused    s&auml;hvatus+d //_S_ com pl nom //
+h&auml;vitavad    h&auml;vita+vad //_V_ main indic pres ps3 pl ps af //
+elu    elu+0 //_S_ com sg gen //
+galaktikates    galaktika+tes //_S_ com pl in //
+.    . //_Z_ Fst //
+</s>
+</p>

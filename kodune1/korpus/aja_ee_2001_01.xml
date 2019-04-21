@@ -1,0 +1,513 @@
+<teiCorpus xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0"> 
+<xi:include href="../../bin/koondkorpus_main_header.xml" /> 
+<teiCorpus> 
+<xi:include href="../bin/header_aja_EE.xml" /> 
+	<TEI> 
+		<teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:lang="et" xml:id="koondkorpus_local_header" n="$Id:$"> 
+			<fileDesc> 
+				<titleStmt> 
+					<title> Eesti Ekspress 04. jaanuar 2001 </title> 
+  				</titleStmt> 
+				<publicationStmt> 
+  					<p> Vt publitseerimisandmeid failist 
+						<ref target="#publicationStmt-main">koondkorpus_main_header.xml</ref> 
+					</p> 
+  				</publicationStmt> 
+				<sourceDesc> 
+					<p> Vt allkorpuse päis 
+						<ref target="#header_aja_EE">header_aja_EE.xml</ref> 
+					</p> 
+  				</sourceDesc> 
+  			</fileDesc> 
+		</teiHeader>
+  <text>
+    <body>
+      <div1 type="ajalehenumber">
+        <head> Eesti Ekspress </head>
+        <div2 type="alaosa">
+          <head> A-OSA </head>
+          <div3 type="rubriik">
+            <div4 type="alamrubriik">
+              <div5 type="artikkel"><head> Palju toredaid inimesi </head>
+<p> <s> Eesti Ekspress esitleb : 11 haruldast pilti elust Eestimaal aastal 2000. </s> </p></div5>
+            </div4>
+            <div4 type="alamrubriik">
+              <div5 type="artikkel"><head> Oleme ehmunud maamehed </head>
+<p> <bibl> <author> <s> Hans H. Luik </s> </author> </bibl> </p>
+<p rend="kaldkiri"> <s> Eesti Ekspressi vastutav väljaandja </s> </p>
+<p> <s> Semiitide vanas raamatus on üks lugu , millele isa kunagi mu tähelepanu juhtis . </s> <s> See on lugu vangikukkunud Hesekielist , Buusi pojast , kes hommikul jõe ääres äkki nägi ... helikopteri maandumist . </s> <s> SHokist toibununa püüdis kohkunud mehike teistele ausalt kirjeldada , kuidas see kõik oli . </s> <s> Hesekieli jutt seisab teatavasti kirjas Vanas Testamendis Hesekieli raamatus . </s> <s> See on selline kirjeldus , et kuku pikali - just nagu mees ise helikopteri ees pikali kukkus . </s> </p>
+<p> <s> “ Ennäe , põhja poolt tuli marutuul suure pilve ja leegitseva tulega ! </s> <s> Tule keskelt paistis otsegu hiilgav metall ! </s> <s> Keset seda paistis midagi , mis koosnes neljast olendist ! </s> <s> Ja nad hiilgasid nagu läikiv vask ! </s> <s> Neil olid inimese käed tiibade all , neljas küljes ; ja neil neljal olid oma näod ja oma tiivad ! </s> <s> Nende tiivad olid üksteise küljes kinni . </s> <s> Liikudes nad ei pöördunud , igaüks läks otse edasi . </s> <s> Ja nende näod olid niisugused : esiküljes inimese nägu , neliku paremal pool lõukoera nägu , neliku vasakul pool härja nägu ja neliku tagaküljes kotka nägu ! </s> <s> Ja olendite vahel oli näha otsegu tuliseid süsi , mis põlesid tõrvikute sarnaselt , ja tulest väljus välk ! ” </s> <s> ( Eriti vaimustas mehikest see , et masina tiivad-rattad olid ühesuurused ja liikusid korraga . </s> <s> “ Kuhu vaim iganes tahtis minna , sinna nad läksid , liikudes nad ei pöördunud ! ” ) </s> </p>
+<p> <s> “ Ennäe , olendite kõrval , igas neljas esiküljes , oli allpool üks ratas ! </s> <s> Kõigil neljal rattal oli ühesugune kuju . </s> <s> Ja nende pöiad olid kõrged ning kohutavad ja täis silmi ! </s> <s> Ja kui olendid tõusid maast üles , siis tõusid rattadki üles ! </s> <s> Rattad tõusid üles samuti kui nemad , sest rattais oli olendite vaim . </s> <s> Ja olendite peade kohal oli midagi taevalaotuse taolist , kohutava jää sarnast ! </s> <s> Ja laotuse all olid nende tiivad välja sirutatud üksteise poole . </s> <s> Kui nad liikusid , siis ma kuulsin nende tiibade kahinat otsegu Kõigevägevama häält , müristamise kaja . </s> <s> Ja kui nad seisid , siis lasksid nad oma tiivad longu . ” </s> </p>
+<p> <s> ( Nüüd kirjeldab Hesekiel lennumasina kabiini . ) </s> <s> “ Ja taevalaotuse peal oli midagi , mis paistis safiirikividena , midagi aujärje sarnast ! </s> <s> Ja aujärje sarnase peal oli keegi , kes välimuselt inimese sarnane ! </s> <s> Ja ma nägin otsegu hiilgavat metalli , välimuselt nagu tuld , otsegu vikerkaare paistus , see oli Jehoova auhiilguse ilmutuse paistus ! </s> <s> Ja kui ma seda nägin , siis ma langesin silmili maha ja ma kuulsin häält , mis kõneles ! ” </s> </p>
+<p> <s> Noh , mõnes mõttes iseloomustab see piiblilõik välisinvestorite saabumist Eestisse . </s> <s> Meie oleme alles lollikesed . </s> <s> Vägev maailmamajandus “ nagu marutuul suure pilve ja leegiga ” on nüüd päral . </s> <s> Maailmamajandus on särades eestlaste ellu tunginud , aga meie jaoks on see seni veel mingi lõukoerte , kalliskivide ja kõrge aujärje kombinatsioon . </s> <s> Meil on liberaalne riik . </s> <s> See tähendab , et Eesti riik juhib elu ainult nii palju kui hädapärast tarvis . </s> </p>
+<p> <s> Elu juhivad välismaa pangad , välismaa telefonifirmad , välismaa väetisetootjad , kütusemüüjad , piimakombinaadid ja kaubandusketid . </s> <s> Nende tegevust üritavad kajastada siinsed välismaa telejaamad , teadeteagentuurid ja ajalehed . </s> <s> Teevad seda aga üsnagi abitult . </s> <s> Terve hulk ideid , teavet ja eriti just tulevikuplaane sünnivad juhtimiskabiinis “ safiirikivi taga ” . </s> <s> Teistes keeltes . </s> <s> Teiste “ generaalplaanide ” alusel . </s> <s> Me peaks sellest värgist palju rohkem taipama . </s> </p>
+<p> <s> Põen seda uudishimu juba mõnda aega . </s> <s> Kui Eesti Ekspressil täitus kümme aastat , avaldasin arvamust , et nüüd peaks leht üritama hõlmata meie majanduse tegelike otsustajate mõttemaailma . </s> <s> Õpetada inimestele selgeks Eesti elu otsustajate välismaised nimed . </s> <s> Vaadata senist käekäiku , vendi on ehk neil või õde , isa-ema elavad ? </s> </p>
+<p> <s> Öelge , kes on Hansapanga nõukogu esimees . </s> <s> ( Sellest pangast sõltub , kui suure osa oma tulevase korteri või maja hinnast ise peate maksma , kui palju pank laenab . ) </s> <s> Kes kamandab Tele2 ja Radiolinjat ( nende firmade käes on meie lootus telefonikõne hinnad odavamaks saada ) . </s> <s> Millisest kasumiprotsendist unistab Kesko juhatuse esimees ? </s> <s> ( Eks Soome hiigelkaubandusfirma suru siis oma kasumiprotsendi siinsetelegi ostjatele kraesse . ) </s> </p>
+<p> <s> Tegelikke otsustajaid näeb ja kuuleb eestlane täna hulga vähem kui seitse aastat tagasi . </s> <s> Meie rahuldume ainult PR-esinduskujudega . </s> <s> Aga ega Epp Kiviaed või Hede-Kerstin Luik tegelikult ju Statoili või Shelli bensiinihindu määra . </s> <s> Kes määravad ? </s> <s> Raske öelda ... </s> <s> Igatahes on neil meestel-naistel meie igapäevaelu jaoks rohkem tähtsust kui Jüri Otil , Annika Laasil või Toivo Tootsenil , kelle pilte ja ütlemisi meile pidevalt esitletakse . </s> </p>
+<p> <s> Mind huvitab näiteks , kas Eestit veel üldse peetakse tormiliselt arenevaks maaks . </s> <s> Minu naaber Toom-Rüütli tänavas oli Ernesto Preatoni kompanjon Davide Bizzi . </s> <s> Ta lahkus Eestist ja ütles , et tema arust Ernesto eksib , kui loodab , et Eestis veel mingi äge areng ees seisab . </s> <s> Nüüd töötab ja investeerib mees Kuubal . </s> <s> “ Vaat siin saabub kohe-kohe tõus , mis tõus on , ” ütleb ta . </s> <s> Hirmsasti huvitaks , kuhu Hansapank-Swedbanki rattad ja pöiad pöörduvad . </s> <s> Kas tõesti kolivad Lätti ? </s> <s> On see otsustamisel , otsustatud või üleüldse tühi kõlakas ? </s> </p>
+<p> <s> Ma tahaks ka teada , kuniks ehitus ja ehitusmaterjalid Eestis odavaks jäävad . </s> <s> Ehitusmaterjalitööstus on meil ju Põhjamaade firmade käes , kellele ka kartell pole mingi võõras nähtus . </s> <s> Kas meid õnnistatakse veel kaua madalate hindadega , nagu see paberikaupadega siiamaani sündis ? </s> <s> Kas plaanib keegi meile ka tselluloositehast või jäämegi palke parvetama ? </s> </p>
+<p> <s> Veel tahaks teada Eesti Merelaevanduse saatusest . </s> <s> Kas pooledki laevad on veel alles või on enamus müüdud ? </s> <s> Kus need nüüd seilavad ja kes uus omanik on ? </s> <s> Või kas keegi on kuulnud , kui kaua Maersk veel Estonian Airile peale viitsib maksta . </s> <s> Kas vannutakse siis SAS-i alla või istutakse mõnele suuremale saba peale ? </s> <s> Muuseas , 7 aastat tagasi teadsime ( aga praegu ei tea ) Eesti Merelaevanduse ja Estonian Airi juhtide nimesid . </s> <s> Antti Oidsalust ja Toivo Ninnasest tehti telesaateid , saateks poliitika ja perekond . </s> </p>
+<p> <s> Võib-olla on see tunne ainult minul , aga kohe kui mingi elav ettevõte eestlaste otsustuse alt välja läheb , kaoks see firma nagu meie vaateväljast . </s> <s> Samas usun , et moodsa ühiskonna algrakuke polegi enam nii väga perekond , vaid just ettevõte . </s> </p>
+<p> <s> Kuni me tegelike otsustajate ideid ei tea ega analüüsi , oleme ju karjased-tobukesed jõe ääres . </s> <s> Keeleoskus justkui oleks , aga teavet saada ei oska . </s> <s> Kui see pole võõrandumine , mis see siis on ? </s> </p>
+<p> <s> Meie rootsi ärilehtki kotib tuimalt ainult omi , niipalju kui neid veel jäänud on . </s> </p>
+<p> <s> Peaksime ikkagi ise huvi tundma , mis plaanid kaugelttulijatel meie palkade , töökorralduse , toiduvaliku ja pensionidega on . </s> <s> Oleks meist ainult küsijaid . </s> </p>
+<p> <s> “ Ja hääl ütles mulle : Inimesepoeg , tõuse jalule , ma tahan sinuga rääkida ! ” </s> <s> ( Hesekiel 2.2 ) . </s> </p></div5>
+              <div5 type="artikkel"><head> Eesti Ekspressi avalik teade Vabariigi Valitsusele ja advokaat Udustele </head>
+<p> <s> Eesti Ekspress peab vaidlust Vabariigi Valitsusega ministrite grupipildi avaldamise küsimuses lõpetatuks . </s> </p>
+<p> <s> Vabariigi Valitsuse ja Eesti Ekspressi esindajad kohtusid esimest ja viimast korda 23. novembril 2000. </s> <s> Eesti Ekspressi palvele esitada konkreetne ja põhjendatud pretensioon , millest nähtuks , milliseid nende õigusi rikutakse , pole Vabariigi Valitsuse esindaja seni vastanud . </s> </p>
+<p> <s> Selle asemel on Vabariigi Valitsuse esindajad pöördunud BNSi poole , teatades , et läbirääkimised venivad justkui Eesti Ekspressi süül . </s> </p>
+<p> <s> Kuna Vabariigi Valitsus pole enam teinud ühtegi tõsist katset Eesti Ekspressiga asja üle vaielda , vaid on saatnud asja kohta üksnes moonutatud infot uudisteagentuuridele , siis me ei pea Vabariigi Valitsuse käitumist ja nõudmisi tõsiselt võetavateks ja käsitleme seda nõuet kui katset võita rahva seas populaarsust . </s> </p>
+<p> <s> Kaido Uduste on esinenud kui Vabariigi Valitsuse esindaja . </s> <s> Meile on seni arusaamatu , mismoodi rikub nimetatud foto Eesti Vabariigi õigusi . </s> <s> Veelgi enam tekitab meis aga küsimusi , miks Vabariigi Valitsus palkab omale esindaja ja nõuab kompensatsiooni mõningate riigiametnike väidetava eraelu puutumatuse rikkumise eest , ajades sellega segamini riigi ja isikliku rahakoti . </s> </p></div5>
+            </div4>
+            <div4 type="alamrubriik">
+              <div5 type="artikkel"><head> Ninapidi suures poliitikas </head>
+<p> <s> Mis saab siis , kui Eesti astumine Euroopa Liitu venib või suisa läbi kukub ? </s> <s> Kas sellest võidab rohkem praegune valitsus või opositsioon ? </s> </p>
+<p> <s> Artikli autor Sven Mikser ( 27 ) on Keskerakonna abiesimees ja tõenäoline välisministri kandidaat 2003. aasta valimistel . </s> </p>
+<p> <s> Unistus sellest , kuidas väike Eesti riik integreeruks suure Lääne majandus- ja sõjandusühendustesse , on sama vana või vanemgi kui meie uus iseseisvus . </s> <s> Paljude jaoks on mõte Eesti kuulumisest euroliitu ja NATOsse võtnud tosina aasta jooksul selged piirjooned . </s> </p>
+<p> <s> Ent tuleb möönda , et suure osa rahva teadvuses on mõlemad ühendused äärmiselt ähmased ja abstraktsed . </s> <s> Uskudes avaliku arvamuse uurijaid , on viimastel kuudel kasvama hakanud pigem skepsis kui optimism , mille põhjused on üsnagi aimatavad . </s> </p>
+<p> <s> Et euroküsimus Eesti inimesele siiani eluküsimuseks pole olnud , selle tõestamiseks sobib suurepäraselt <hi rend="rasvane"> Jaanus Raidali </hi> juhitud Tuleviku Eesti Erakonna esinemine kahtedel viimastel parlamendivalimistel . </s> </p>
+<p> <s> 1995. aastal saavutati kasinad kolm protsenti häältest , neli aastat hiljem ei pääsenud tulevikueestlastest eurokriitikute üksteist kandidaati isegi valimisnimekirjadesse . </s> <s> Skeptikute valimisfiasko tõestas seda , mida oligi tarvis tõestada : ehkki europessimistide osakaal ühiskonnas polnud just väike , kaalusid elulisemad probleemid - palk , pension , maksud , arstiabi - valimisotsustuste tegemisel euroküsimuse selgelt üles . </s> </p>
+<p> <s> 2003. aasta valimistel on eurovastaste nishshi kindlasti palju rohkem trügijaid . </s> <s> Võimalik liitumispäev läheneb ning ühes sellega kasvab tõenäosus , et vähemalt hetkeks tekib ka valimiste eel olukord , kus euroküsimus rahvale argiprobleemidest tähtsam on . </s> <s> On iseloomulik , et seda tõttavad ära kasutama eelkõige poliitilised marginaalid , need erakonnad , mil muidu parlamenti asja ei ole ja mis on varmalt valmis kasutama mistahes tavaolukorrast hälbivat hetke , et kordki oma eksistentsi jooksul marjamaale jõuda . </s> </p>
+<p> <s> Et ühiskonna hetkelise tundepuhangu harjal parlamenti pääsemine pole võimatu , seda on hilisajaloos tõestanud kuningriiklased ja toomepuulased-eestikodanikud . </s> </p>
+<p> <s> Viimaste kuude ajakirjanduses kõlabki eurovastasuse noote eeskätt <hi rend="rasvane"> Tiit Toomsalu </hi> sotsiaaldemokraatide ja eksraidallastest iseseisvuslaste suust ja sulest . </s> </p>
+<p> <s> Tõsi , selgelt määratletud eurokriitikute hulgas on ka üks jõud , kes ka euroratsul sõitmata tulevastel parlamendivalimistel edukas suudab olla , nimelt Kristlik Rahvapartei , ent euroküsimuses on nemad pigem erandiks kui reegliks . </s> </p>
+<p> <s> Suured parlamendierakonnad on oma euroeelistuste kirjeldamisel tunduvalt vaoshoitumad . </s> <s> Sellegi põhjusi pole keeruline mõista . </s> <s> Raske tööga kätte võidetud positsiooni poliitikamaastikul võib rabeda europoliitikaga pigem murendada kui kindlustada . </s> </p>
+<p rend="rasvane"> <s> Valitsuse pettumuseks laienemine viibib </s> </p>
+<p> <s> Nii kandidaatriikide kui ka Euroopa Liidu liikmesmaade poliitikud peavad kogu aeg mõtlema , kuidas harmoneerida liidu laienemisrütme kodumaistest valimistsüklitest ja teistest poliitilistest protsessidest põhjustatud lainetusega . </s> </p>
+<p> <s> Põhjendades selgeid laienemistähtaegu nimetavate otsuste pidevat venimist , on meie eurointegraatorid mõnigi kord toonitanud , et taolisi potentsiaalselt ebamugavaid otsuseid eelistavad sakslased , prantslased ja teised eurooplased teha pigem vahetult pärast kui vahetult enne siseriiklikke valimisi . </s> </p>
+<p> <s> Kindlasti on selles väites uba ning samavõrd kindel on seegi , et sisepoliitilistest kaalutlustest pole vaba ka Eesti eurotee . </s> </p>
+<p> <s> Eelmise koonderakondliku valitsuse lõpul ja praeguse isamaalise valituse alguspäevil oli kodumaiseks tarbimiseks käibel selline tähtaegade graafik , mille kohaselt läbirääkimised lõpetataks 2001. aasta jooksul , 2002. aasta kestel jõutaks valmis ratifitseerimisringiga ning 2003. aasta jaanuaris oleksime Liidu täieõiguslikud liikmed . </s> </p>
+<p> <s> Pretensioonika plaani koostamises pole miskit paha . </s> <s> Ent tuleb arvestada , et kui ei toimu ettenägematuid siseriiklikke vapustusi , siis toimuvad 2003. aasta märtsis riigikogu valimised . </s> </p>
+<p> <s> Kui tähtaegu õnnestuks täita , oleks valimiskuupäev istuvale valitsusele ilmselt soodus , kuna täidetud lubadus on teadagi tõhus kampaaniarelv ning samas poleks liitumisjärgne esimene pettumuslaine ( sellise tekkimisele osutavad kõik viimase laienemislaine riigid ) veel jõudnud jõudu koguda . </s> </p>
+<p> <s> Hetkel näib aga enam kui tõenäoline , et tegelik laienemine , kui selline ikka aset leiab , ei saa teoks enne 2004. aastat . </s> <s> Selline olukord seab kodumaise parlamendiopositsiooni valitsusega võrreldes eurotemaatika kampaaniaotstarbelisel kasutamisel soodsamasse seisu . </s> </p>
+<p> <s> Lisaks võimalusele rünnata istuvat ja läbirääkimisi pidavat <hi rend="rasvane"> Mart Laari </hi> valitsust eurokriitiliselt positsioonilt saab leigelt eurosõbralik osa opositsioonist - ja just sinna kuuluvad praeguse Eesti valitsusvälised suurparteid Keskerakond ja Rahvaliit - hea võimaluse teritada hambaid valitsuse saamatuse aadressil , kuna enda poolt püstitatud tähtaegu ei ole suudetud täita . </s> </p>
+<p> <s> Ja kui liitumine 2004. või 2005. aastal teoks saab , võib praegune opositsioon ilmselt õigusega öelda : meie tegime , nemad ainult lubasid . </s> </p>
+<p rend="rasvane"> <s> Võimulolijad vajavad süüdlast </s> </p>
+<p> <s> Mida praegune valitsus sellise olukorra leevendamiseks saaks ette võtta ? </s> <s> Üheks loogilisemaks sammuks oleks katse vastutus tekkiva ummiku eest endast eemale veeretada . </s> </p>
+<p> <s> Paraku ei saa seda lükata riigisisese opositsiooni kaela ning sel juhul on ainsaks võimalikuks patuoinaks Euroliit ise . </s> <s> Juba täna annavad Eesti valitsusmeelsed välispoliitikud vargsi mõista , et kui ladus liitumisprotsess peaks kuidagi takerduma , siis ei ole selles süüdi mitte meie kasin eurovalmidus , vaid praegused liikmesriigid , mis tähtaegade ja tingimuste seadmises ning omavahelises võimu jagamises kokkuleppele ei suuda jõuda . </s> </p>
+<p> <s> Selline taktika on aga valitsuse jaoks kahe teraga mõõk . </s> <s> Kui eesmärk täidetakse ja vastutus täitumata lubaduste eest õnnestubki Brüsselile veeretada , siis muutub edaspidi raskemaks euroreferendumi positiivse tulemuse saavutamine , kuna inimestes kultiveeritakse alateadlikku tunnet , et teine , tugevam läbirääkimiste pool manipuleerib meie ja meie huvidega . </s> </p>
+<p> <s> Kibestumine põhimõttel “ ei taha teie meid , siis pole ka meile teid tarvis ” võib sel puhul rahvahääletusel realiseeruda negatiivseks tulemuseks . </s> <s> Tegelikult kasvab eitava referendumitulemuse tõenäosus niigi sedamööda , kuidas liitumistähtaeg kaugemasse tulevikku nihkub . </s> </p>
+<p> <s> Muidugi on praeguse valitsuse jaoks ahvatlev näidata kõike Brüsselist lähtuvat head omaenda tubli tööna ning serveerida kodumaistest rumalustest tulenevat kahju kurjade eurokraatide sepitsusena , ent siis tuleb arvestada ka tagajärgedega , mida selline käitumine kaasa toob . </s> </p>
+<p> <s> Olen veendunud , et eitav otsus euroreferendumil oleks rumalaim poliitiline otsus , mida Eesti algaval kümnendil võiks langetada . </s> <s> Eriti traagiline oleks meie majandus- ja julgeolekupoliitilisele tulevikule see , kui Läti-Leedu samal ajal Euroliidule “ jah ” ütleksid . </s> </p>
+<p> <s> Ilmselt ei jääks meil siis muud üle kui esimese aga-me-teile-alles-näitasime-pohmeluse järel uus liitumistaotlus Brüsselisse viia ning uusi vaevarikkaid läbirääkimisi alustada . </s> </p>
+<p rend="rasvane"> <s> NATO naudib Moskva nõrkust </s> </p>
+<p> <s> Seda , et Eesti integratsioonipüüdlused on viimase aastakümne jooksul killustunud Euroopa Liidu ja NATO vahel , ei eita keegi , ehkki ühed käsitlevad toda tõika otsustusvõimetuse , teised teadliku valiku ja poliitilise tarkusena . </s> </p>
+<p> <s> Argumente jagub mõlemal : NATOsse kuulumise plusse ei ole seni vaidlustanud ükski poliitiline jõud peale etniliselt erilaadse EÜRP . </s> <s> Ka ei ole üheselt selge , kas NATO-integratsioonile suunatud hiiglaslikud riigikaitselised rahaeraldised meie europonnistusi pärsivad või hoopiski edasi aitavad . </s> </p>
+<p> <s> Igal juhul ei ole ükski valitsus tahtnud otsesõnu öelda , kumb kahest organisatsioonist on meie esimene , kumb teine prioriteet . </s> </p>
+<p> <s> Neile , kelle jaoks Läände minek tähendab eelkõige kaitset Venemaa eest , on Euroliit ja NATO mõneti teineteist asendavad turvagarantiid ja ühe liitumisprotsessi kiirendamiseks võiks teise nihutada pisut kaugemasse tulevikku . </s> </p>
+<p> <s> Paraku on otsuse tegemine erakordselt raske . </s> <s> Avalik arvamus näib enam soosivat NATOt , kuna kaasnevad alateadlikud hirmud seoses rahvuslike püsiväärtuste kaotamisega on sel puhul väiksemad . </s> </p>
+<p> <s> Samas toimuvad euroläbirääkimised vähemalt näiliselt stabiilsemas tempos ja väiksemate jõnksutamistega . </s> <s> Poliitikud jälgivad pingsalt ka seda , kuidas USA ja Euroopa kaitsekoostöö Atlandi ookeani idakallast puudutav osa üha enam Euroliidu pädevusse üle läheb ning sellega Euro-kaardile tugevust lisab . </s> </p>
+<p> <s> Eesti NATO-pürgimuse resoluutsusele annab lisaks tegelikule turvataotlusele jõudu ka soov suurt idanaabrit trotsida ning tõestada oma õigust olulisi otsuseid “ päris ise ” langetada . </s> </p>
+<p> <s> Sellepärast nuiavadki pea kõik meie välispoliitikud igal foorumil Lääne liidritelt kinnitust , et Venemaal ei ole NATO laienemisel mingit sõnaõigust ning Eesti liitumine on vaid meie endi ja alliansi vaheline asi . </s> <s> Iseenesestmõistetavalt saadakse - vähemalt seni , kuni telekaamerad töötavad - ka meid rahuldav vastus , et kõik ongi just täpselt nii . </s> </p>
+<p> <s> Tegelikkuses on paradoksaalne tõsiasi , et Moskva võib tõkestada meie NATO-teed täna mitte oma tugevuse , vaid nõrkusega . </s> <s> See , et Venemaa on minetanud oma positsiooni militaarse superriigina ( vähemalt siis , kui jutt käib tavarelvastusest ) , annab Washingtonile ammuoodatud võimaluse tegelda enam teiste rahvusvahelist julgeolekut ohustavate regioonidega , nagu Korea , Lähis-Ida või Iraak . </s> </p>
+<p> <s> Tillukesed Balti riigid , millel täna puudub isegi reaalne oht langeda uue okupatsiooni ohvriks , ei ole ilmselt piisav argument , et sundida ameeriklasi provotseerima Vene karu muskleid pingutama . </s> </p>
+<p> <s> Taoline pragmatism meie võõrandamatute õiguste arvel võib näida ebaõiglasena , kuid on tõsiasi , et Läänemere-regioon ei ole täna tõesti selleks piirkonnaks , mis maailmarahu kõige enam ohustaks . </s> </p>
+<p> <s> Ma olen veendunud , et Lääne poliitliidrite väärtushinnangud on endiselt paigas ja kui idast lähtuv oht kord taas tugevneb , ei ole NATO kitsi oma vihmavarju meie kohale nihutama . </s> </p>
+<p rend="rasvane"> <s> Mõistus ja tunded </s> </p>
+<p> <s> Nii Läände minekut kui ka rahvuslikku iseolemist pooldavas retoorikas on viimasel ajal ratsionaalsed argumendid segunenud emotsionaalsetega . </s> </p>
+<p> <s> Usun minagi , et Euro- ja NATO-optimistide retoorika on pragmaatilisem ning skeptikute oma enam emotsioonidest kantud , ent tegelikult on nii ratsionaalsed kui ka emotsionaalsed argumendid võrdselt maksvad . </s> </p>
+<p> <s> Meenutagem , et nii esimene kui ka taastatud iseseisvus võideldi kätte pigem ebaratsionaalse eufooria kui kaalutletud pragmatismi toel . </s> </p>
+<p> <s> Uue sajandi väljakutse on eestlaste jaoks mitte niivõrd valik iseseisvuse säilitamise ja loovutamise vahel , kuivõrd globaliseerumise tegeliku tähenduse mõistmine ning oma identiteedi säilitamine mitte maailmastumise kiuste , vaid selle abil . </s> </p>
+<p> <s> Ma olen kindlalt veendunud , et kuigi rahvuslik keel , kultuur ja isegi rahvusriiklus ei ole oma tähendust minetanud , on kolklusele rajatud ühiskonnafilosoofia uue aastatuhande maailmas hukutav . </s> </p></div5>
+            </div4>
+            <div4 type="alamrubriik">
+              <div5 type="artikkel"><head> Lahkunud aastal 2000 </head>
+<p rend="rasvane"> <s> JAANUAR </s> </p>
+<p> <s> <hi rend="rasvane"> - 3. jaanuar </hi> - suri Eesti tekstiilikunsti <hi rend="kaldkiri"> grand old lady </hi> <hi rend="rasvane"> Mari Adamson </hi> ( sünd 1908 ) . </s> <s> Erilised teened olid Mari Adamsonil kunstiinstituudi juurde tekstiilikateedri rajamisel , selle säilitamisel ja juhtimisel läbi nõukogude aastate . </s> <s> Samuti poleks ilma temata avatud abikaasast kunstniku Adamson-Ericu majamuuseumi . </s> </p>
+<p rend="rasvane"> <s> VEEBRUAR </s> </p>
+<p> <s> <hi rend="rasvane"> - 20. veebruar </hi> - suri <hi rend="rasvane"> Heino Aassalu </hi> ( sünd 1932 ) , üldtantsupidude pealavastaja , tantsupedagoog ja -publitsist . </s> <s> Heino Aassalu oli muuhulgas üks järjekindlamaid Eesti balletiteatrist kirjutajaid . </s> </p>
+<p rend="rasvane"> <s> MÄRTS </s> </p>
+<p> <s> <hi rend="rasvane"> - 17. märts </hi> - suri Eesti Draamateatri kauaaegsemaid kingseppmeistreid <hi rend="rasvane"> Paul Oper </hi> ( sünd 1916 ) . </s> <s> Paul Oper töötas Eesti Draamateatris 50 aastat ja tema tehtud kingades on lavalaudu tallanud mitu näitlejapõlvkonda Aino Talvist Mait Malmstenini . </s> </p>
+<p rend="rasvane"> <s> APRILL </s> </p>
+<p> <s> <hi rend="rasvane"> - 12. aprill </hi> - suri keeleteadlane ja majandusanalüütik <hi rend="rasvane"> Mart Remmel </hi> ( sünd 1944 ) . </s> <s> Töötades 1970ndatel Keele ja Kirjanduse Instituudis , võttis ta oma põhiülesandeks arvutustehniliste meetodite juurutamise humanitaarteadustesse . </s> <s> Kirjutas Eesti Ekspressile keerulisi ja üllatavaid majandusartikleid . </s> </p>
+<p> <s> <hi rend="rasvane"> - 15. aprill </hi> - suri etnograaf <hi rend="rasvane"> Aino Voolmaa </hi> ( sünd 1920 ) , kes oli koostajaks ja põhiautoriks 1981. aastal ilmunud kolmeköitelisele suurteosele “ Eesti rahvarõivad ” . </s> <s> Näitusi korraldades tutvustas ta Eesti rahvarõivapärandit ka väljaspool Eestit - Moskvas ja Helsingis . </s> </p>
+<p> <s> <hi rend="rasvane"> - 15. aprill </hi> - 26aastaselt suri <hi rend="rasvane"> Imre Perli </hi> , Eesti isikute illegaalse andmebaasi koostaja . </s> </p>
+<p> <s> <hi rend="rasvane"> - 24. aprill </hi> - suri kunstnik <hi rend="rasvane"> Lagle Israel </hi> ( sünd 1923 ) , kelle loometöö ulatus portree- ja monumentaalskulpuurist mosaiikpannoode ja pastellmaalideni . </s> </p>
+<p rend="rasvane"> <s> MAI </s> </p>
+<p> <s> <hi rend="rasvane"> - 16. mai </hi> - suri näitleja ja lavastaja <hi rend="rasvane"> Evald Hermaküla </hi> ( sünd 1941 ) , üks tähtsamaid Eesti teatriuuendajaid . </s> <s> Tema koostöö Jaan Toomingaga Vanemuise teatris 1970ndate algul värskendas ja avardas tormiliselt eesti teatri sisu ja vormi . </s> <s> Evald Hermaküla on töötanud ka Eesti Draamateatri ja Eesti Nukuteatri peanäitejuhina . </s> </p>
+<p rend="rasvane"> <s> JUUNI </s> </p>
+<p> <s> <hi rend="rasvane"> - 2. juuni </hi> - suri helilooja <hi rend="rasvane"> Lepo Sumera </hi> ( sünd 1950 ) , üks olulisemaid Eesti heliloojaid . </s> <s> Tema loomingu keskmes oli sümfooniline muusika - teoste loetelus on kuus sümfooniat . </s> <s> Sumera teoseid on esitatud paljudes Euroopa maades , USAs , Kanadas ja Austraalias . </s> <s> Alates 1970ndate algusest oli Sumera üks nõutavamaid filmi- ja sõnalavastuste muusika autoreid Eestis . </s> </p>
+<p> <s> <hi rend="rasvane"> - 3. juuni </hi> - Stockholmis suri <hi rend="rasvane"> Harri Kiisk </hi> ( sünd 1922 ) , koorijuht , organist ja klaverisaatja ning üks väliseesti kultuurielu jõulisemaid korraldajaid . </s> <s> Tegutses pikka aega ka ajalehe Teataja tegevtoimetajana . </s> </p>
+<p> <s> <hi rend="rasvane"> - 11. juuni </hi> - suri muusikateadlane <hi rend="rasvane"> Helga Tõnson </hi> ( sünd 1927 ) , kes on eelkõige tuntud monograafia “ Georg Ots ” autorina . </s> <s> Helga Tõnson tegutses aktiivselt ka muusikateatri kriitikuna . </s> </p>
+<p rend="rasvane"> <s> JUULI </s> </p>
+<p> <s> <hi rend="rasvane"> - 2. juuli </hi> - suri helilooja <hi rend="rasvane"> Ülo Vinter </hi> ( sünd 1924 ) , kes on enim tuntud lavateoste autorina . </s> <s> Ülo Raudmäega kahasse kirjutatud muusikali “ Pipi Pikksukk ” on mängitud mitme põlvkonna laste ees . </s> <s> Sümboolseks lauluks on saanud Ülo Vinteri “ Põhjamaa ” , samuti on tuntud tema filmimuusika Eesti kinoklassikasse kuuluvates linateostes “ Siin me oleme ” , “ Noor pensionär ” ja “ Mehed ei nuta ” . </s> </p>
+<p> <s> <hi rend="rasvane"> - 12. juuli </hi> - suri Rakvere teatri kauaaegne näitleja <hi rend="rasvane"> Aleksander Viilma </hi> ( sünd 1921 ) . </s> </p>
+<p> <s> <hi rend="rasvane"> - 16. juuli </hi> - suri näitleja <hi rend="rasvane"> Mati Klooren </hi> ( sünd 1938 ) . </s> <s> Elu jooksul mängis ta sajakonna teatrirolli kõrval ka filmides ja 1980ndatel juhtis Eesti Draamateatrit direktorina . </s> </p>
+<p> <s> <hi rend="rasvane"> - 16. juuli </hi> - suri kunstikriitik ja ajakirjanik <hi rend="rasvane"> Jaak Olep </hi> ( sünd 1945 ) , kes 1970ndatel laiendas kunstitoimetajana oluliselt kultuurilehe Sirp ja Vasar haaret ja kõlapinda . </s> <s> Elu lõpuni oli kunsti kõrval tema huvisfääris poliitika , mida lahkas viimasel ajal ajalehe KesKus toimetuses töötades . </s> </p>
+<p> <s> <hi rend="rasvane"> - 19. juuli </hi> - suri muusikateatri näitleja ja muusikapedagoog <hi rend="rasvane"> Ervin Kärvet </hi> ( sünd 1932 ) , kes tegi osi nii oopereis , muusikalides kui ka operettides . </s> <s> Publikut veensid Ervin Kärveti kandev ja väljendusrikas bass ning tugevad näitlejavõimed . </s> </p>
+<p> <s> <hi rend="rasvane"> - 21. juuli </hi> - suri maalikunstniku ja arstina tuntud <hi rend="rasvane"> Aksel Eist </hi> ( sünd 1930 ) . </s> <s> Näitustel hakkas ta esinema aastal 1965 , tema värvimahedaid pilte on näidatud ka Soomes . </s> </p>
+<p rend="rasvane"> <s> AUGUST </s> </p>
+<p> <s> <hi rend="rasvane"> - 18. august </hi> - suri helilooja <hi rend="rasvane"> Vello Lipand </hi> ( sünd 1926 ) , kes lisaks süvamuusikale kirjutas ka mõned ülipopulaarseks saanud levilaulud , näiteks “ Musta kassi jenka ” ja “ Vana türklane ” . </s> </p>
+<p> <s> <hi rend="rasvane"> - 29. august </hi> - suri kirjanik ja raadiomees <hi rend="rasvane"> Ott Kool </hi> ( sünd 1930 ) . </s> <s> Raadios käsitles Ott Kool põllumajandust ja keskkonnakaitset , temalt on ilmunud kolm proosakogumikku . </s> <s> Viljandi ja Rakvere teatris on lavastatud Ott Kooli näidendeid . </s> </p>
+<p rend="rasvane"> <s> SEPTEMBER </s> </p>
+<p> <s> <hi rend="rasvane"> - 13. september </hi> - suri legendaarne Eesti Televisiooni reporter ja saatejuht <hi rend="rasvane"> Endel Sõerde </hi> ( sünd 1926 ) . </s> <s> Lisaks põhitööle uudistetoimetajana “ Aktuaalses kaameras ” tõi ta publiku ette mitmeid aastaid kestnud , peamiselt põllumajanduse ja looduseteemalisi saatesarju . </s> </p>
+<p> <s> <hi rend="rasvane"> - 19. september </hi> - Austraalias suri 104aastane väliseestlane <hi rend="rasvane"> Alfriede Voit </hi> . </s> </p>
+<p> <s> <hi rend="rasvane"> - 21. september </hi> - suri näitekirjanik ja luuletaja <hi rend="rasvane"> Harald Suislepp </hi> ( sünd 1921 ) . </s> <s> Suislepa teoseid iseloomustab leebe huumor , ta on kirjutanud ka lastele , lühiproosat ja kirjanduskriitikat . </s> </p>
+<p> <s> <hi rend="rasvane"> - 26. september </hi> - 102aastaselt suri Eesti vanim mees <hi rend="rasvane"> Jaan Kraav </hi> . </s> <s> Ta töötas agronoomi ja põllumajandusinsenerina Lõuna-Eestis . </s> <s> Jaan Kraav oli ühtlasi vanim EÜSi vilistlane . </s> </p>
+<p rend="rasvane"> <s> OKTOOBER </s> </p>
+<p> <s> <hi rend="rasvane"> - 4. oktoober </hi> - suri kauaaegne Pärnu teatri näitleja <hi rend="rasvane"> Lembit Kees </hi> ( sünd 1931 ) . </s> <s> Ta on mänginud üle 50 rolli , Hisslingi osa eest Arbuzovi “ Pihtimuste öös ” pälvis ta 1968. aastal Teatriliidu preemia . </s> </p>
+<p> <s> <hi rend="rasvane"> l 6. oktoober </hi> - 100aastaselt suri viimane Vabaduse Risti kavaler <hi rend="rasvane"> Karl Jaanus </hi> . </s> <s> Eesti iseseisvusaastatel pidas Karl Jaanus oma vanematelt päritud talu , nõukogude ajal töötas pärast vangilaagrites veedetud aastaid kolhoosis loomatalitajana . </s> </p>
+<p> <s> <hi rend="rasvane"> - 9. oktoober </hi> - 80aastaselt suri Göteborgis eesti soost näitleja , lasteteatri lavastaja ja draamapedagoog <hi rend="rasvane"> Tiiu Viires-Haamer </hi> , kes kuulus tegevliikmena Rootsi Teatriliitu ja Rahvusliku Marionetiteatri ühingu liikmeskonda . </s> </p>
+<p> <s> <hi rend="rasvane"> l 28. oktoober </hi> - suri näitleja , lavastaja ja teatripedagoog <hi rend="rasvane"> Aare Laanemets </hi> ( sünd 1954 ) , kes Oskar Lutsu “ Kevade ” legendaarses ekraniseeringus kehastas Joosep Tootsi . </s> <s> Lisaks teatritükkidele mängis ta paarikümnes filmis . </s> <s> Asutas 1984 Pärnu Kooliteatri ja oli selle juhendajaks . </s> </p>
+<p> <s> <hi rend="rasvane"> l 29. oktoober </hi> - suri keele- ja kirjandusteadlane <hi rend="rasvane"> Eeva Niinivaara </hi> ( sünd 1901 ) , kes alates aastast 1930 elas Soomes . </s> <s> Töötas 1945-71 Helsingi ülikoolis eesti keele ja kirjanduse lektorina . </s> <s> Filosoofia magister aastast 1947 uurimusega “ Eesti rahvarõivad ja nende terminoloogia ” . </s> <s> Friedebert Tuglase selts on alates 1982. aastast välja andnud Niinivaara stipendiumi eesti kultuuri tutvustajaile Soomes . </s> </p>
+<p> <s> <hi rend="rasvane"> - 31. oktoober </hi> - suri pedagoog <hi rend="rasvane"> Ferdinand Eisen </hi> ( sünd 1914 ) , Eesti NSV haridusminister aastail 1960-1980. </s> <s> Ta lõi Nõukogude Liidus erandliku 11klassilise keskkoolisüsteemi . </s> <s> Koolirahvas meenutab , et Eisen tegi oma ajas ja oludes eesti haridusele palju head . </s> </p>
+<p rend="rasvane"> <s> NOVEMBER </s> </p>
+<p> <s> <hi rend="rasvane"> - 29. november </hi> - Stockholmis suri esseist ja luuletaja <hi rend="rasvane"> Ilmar Laaban </hi> ( sünd 1921 ) , Eesti sürrealismi isa . </s> </p>
+<p rend="rasvane"> <s> DETSEMBER </s> </p>
+<p> <s> <hi rend="rasvane"> - 19. detsember </hi> - suri <hi rend="rasvane"> Toivo Kuldsepp </hi> ( sünd 1945 ) , endine kultuuriministeeriumi asekantsler , tegutsenud ka Tartu ülikooli õppejõuna . </s> </p>
+<p> <s> <hi rend="rasvane"> - 21. detsember </hi> - suri Nukuteatri näitleja ja ansambli Kosmikud laulja <hi rend="rasvane"> Taavi Pedriks </hi> ( sünd 1971 ) . </s> </p></div5>
+            </div4>
+            <div4 type="alamrubriik">
+              <div5 type="artikkel"><head> Kümme miljonit sõna </head>
+<p> <s> Vähemalt nii palju sõnu jõudis Toomas Uba 40 aastaga nii teles kui ka raadios teile spordist rääkida . </s> <s> Proovige mõelda tema kohta üheksa ja vaadake , mis mees välja tuleb . </s> <s> Ma pakun oma variandi . </s> </p>
+<p rend="rasvane"> <s> Poisike </s> </p>
+<p> <s> Suhtumises sporti jäi ta uudishimulikuks lapseks terveks eluks ja see on minu jaoks suur mõistatus . </s> <s> Istume õhtul kuskil lauas ja ajame lobajuttu , järsku haarab Tom mobiili ja helistab kellelegi , et kes see ikkagi kuskil teises liigas kedagi jalgpallis võitis . </s> <s> Esiteks enamikule ei oma see mingit tähtsust , ja teiseks oleks vabalt võinud oodata ka homseni , aga ei - tema pidi kohe teada saama . </s> </p>
+<p rend="rasvane"> <s> Kirglik </s> </p>
+<p> <s> Kui asi puudutas Eesti sportlasi , siis elas ta sellele nii kaasa , et piire polnud . </s> <s> Kui midagi suurt oli silmapiiril , siis hakkas ta kohe kiiremini hingama , hääl hakkas kähisema ja tema pikkade lausete lõpus jäi õhku väheseks . </s> </p>
+<p> <s> See muide oli tema edu suurim saladus , sest niisugustel puhkudel oli ta täpselt nagu vaataja , ja selle tundis igamees hästi ära . </s> </p>
+<p> <s> Sydneys oli ta juba palju jahedam , aga ma mäletan tema silmi enne Erki Noole viimast odakatset . </s> </p>
+<p> <s> Siis tuli temasse rahu . </s> <s> Väikeriigi ajakirjanikul on võimalus näha ja kommenteerida kümnevõistluse olümpiakulda suure tõenäosusega vaid üks kord elus . </s> <s> Toomasel oli jõudu see võimalus ära oodata ja välja võidelda . </s> </p>
+<p rend="rasvane"> <s> Juurikas </s> </p>
+<p> <s> Kui asi puudutas tööd , ajas ta juuksekarva pikuti pooleks ja siis veel neljaks . </s> </p>
+<p> <s> Barcelona lõputseremoonia ülekande järel jäi Tomil mulje , et Tallinnas võeti liinid liiga vara maha . </s> <s> Küll ta siis müristas ! </s> <s> Et me teised seda asja väga tõsiselt ei võtnud , siis veel solvus kah - läks nurka ja istus ilmatu aeg üksi . </s> <s> Järsku mõtles ringi , tuli , tegi dringi ja teisegi . </s> <s> Rohkem me sel teemal pole rääkinud . </s> </p>
+<p rend="rasvane"> <s> Kaaslane </s> </p>
+<p> <s> Reisidel oli Tomiga hea käia , ta oli lahe ja hea tujuga mees . </s> <s> Me olime võistluste ajal palju koos , välja arvatud poed , sest minu aeglus ja otsustusvõimetus ajasid ta hulluks . </s> </p>
+<p> <s> Erihobi oli tal paljudest markidest drinkide segamine ja siin oli ta virtuoos . </s> <s> Mida jälgima segu tegi , seda õnnelikum oli . </s> <s> Oota , sa ! - mõtlesin ja tema 55. sünnipäevaks kinkisin pudeli , mis sisaldas vähemalt 25 eri marki . </s> <s> Tom oli hästi rahul ja leidis , et kui kaua koolitada , siis inimene ikka õpib ka midagi . </s> </p>
+<p rend="rasvane"> <s> Visa </s> </p>
+<p> <s> Kui ta midagi pähe võttis , siis enamasti viis selle ka lõpule . </s> <s> Paljudel juhtudel oleks teine mees seitse korda sülitanud ja minema kõndinud , tema mitte . </s> <s> Suur osa üle-eelmise kümnendi otseülekannetest sündisid just tema järjekindluse tulemusena , sest “ normaalne ” asjaajamine poleks toonud mingit tulemust . </s> </p>
+<p> <s> Milliste kombinatsioonidega sündis Allar Levandi pronksisõidu ülekanne Calgaryst , on siiani toimetuse legend ja tegelikult omamoodi ime . </s> <s> Keda ja mismoodi Uba kaugel Kanadas ära rääkis , jääb detailides vist lõpuni saladuseks . </s> </p>
+<p rend="rasvane"> <s> Pehme </s> </p>
+<p> <s> Saan aru , et see sõna võib paljusid imestama panna , aga see on minu arvamus . </s> <s> Kõvamees oli väline vorm ja ehk isegi omamoodi kaitserefleks . </s> </p>
+<p> <s> Ei taha seda teemat laiendada ja oleksin rahul , kui kas või mõnigi jääks mõtlema ja ütleks - “ aga võib-olla tõesti ” . </s> </p>
+<p rend="rasvane"> <s> Leplik </s> </p>
+<p> <s> Ka see võib tunduda viimase omadussõnana , millega Uba saaks iseloomustada . </s> <s> Viimastel aastatel , kui see igavese “ ärapanemise ” tung oli möödas , vaatas ta elule hoopis teisiti . </s> <s> Enne oli elu olnud sport , nüüd vaatas ta sporti kui osa elust , mõtestas seda hoopis sügavamalt . </s> <s> Tuline kahju , et meil jääb nüüd nägemata rahulik ja filosoofiline Uba . </s> <s> Ta oli vääramatult sinnapoole teel . </s> </p>
+<p rend="rasvane"> <s> Vastuoluline </s> </p>
+<p> <s> Kõik uuringud näitasid , et oli hästi palju neid , kes Tomist lugu pidasid , aga ka parasjagu vastaseid . </s> <s> Nii suure eetrimahu puhul on see loomulik ja nii suhtus ta asjasse ka ise . </s> <s> Ühele vaidlusi tekitanud asjale aga on andnud aeg ise vastuse . </s> </p>
+<p> <s> 6-7 aastat tagasi kutsusid eesti keele õpetajad mind konverentsile , kus süüdistati , et eesti keele allakäigus on süüdi eelkõige Toomas Uba ja temaga kaasaskäivad isikud . </s> <s> Ei saanud neid kuidagi lohutada , juba siis oli selge , et kiiresti jõuab kätte aeg , kus Uba keelekasutus tundub keskmise ajakirjanduskeele kõrval lausa virtuooslikuna . </s> <s> Selles vallas on isegi paigaljooks nüüd kiire edasiminek . </s> </p>
+<p> <s> Vähe on staare , kelle komistusi saaks võtta isikupärana . </s> <s> “ Ja nüüd finisheerib Berit Aunli , kes vahepeal on saanud lapse ” või “ Bauer laseb maandumisel veidikene alla ” käisid Tomiga koos , ja jumal tänatud . </s> </p>
+<p rend="rasvane"> <s> Õnnelik </s> </p>
+<p> <s> Minu meelest pole ta elu jooksul õiget tööd teinud , üks meelelahutus puha . </s> <s> Kui palju siis neid on , kel on õnne poisikesest peale teha seda , mis väga meeldib , ja nii surmani välja . </s> </p>
+<p> <s> Enamik mehi on lihtsalt mehed , Tom sai legendiks juba eluajal ja jääb selleks väga kauaks . </s> </p>
+<p> <s> Niipalju siis sõnu . </s> <s> See meie Toomas oli ikka üks uskumatu mees . </s> </p></div5>
+            </div4>
+            <div4 type="alamrubriik">
+              <div5 type="artikkel"><head> Areeni kultuuripreemiad 2001 </head>
+<p> <s> Paljud eesti kultuuri loovjõud veedavad tihti tunde igasuguste kultuuriauhindade , abirahade ja sihtkapitalide komisjonides . </s> <s> Et auhindu on masendav hulk , kängub ajapuudusel auhindajate isiklik Looming . </s> <s> Tänavu jäävad valikupiinad ära , sest Areen tuleb appi . </s> <s> Me jagasime õiglaselt ja vastutustundlikult ära kõik 2001. aasta kultuuripreemiad ja enamgi veel ! </s> </p>
+<p> <s> Kultuurkapitali aastapreemia - Areenile eesti kultuuri põhiheli järjekindla tabamise eest . </s> </p>
+<p> <s> Riigi kultuuripreemiad - vendadele Kenderitele , Kadri Kõusaarele ja Rain Lõhmusele elulähedase itaalia suurromaani kirjutamiseks . </s> </p>
+<p> <s> Riigi elutööpreemia ( 200 000 krooni ) - luuletajatele Triin Soometsale ( 30 ) ja Contrale ( 26 ) elutöökogude avaldamise eest . </s> </p>
+<p> <s> Aasta Ajakiri - auhind läheb jagamisele Naela ( peatoimetaja Mihkel Raud ) ja X-i ( peatoimetaja Lea Larin ) vahel . </s> </p>
+<p> <s> Aasta Estofiil - Neil Tennant , kes käis üks kord avalikult ja peale selle korduvalt salaja Eestis . </s> </p>
+<p> <s> Aasta Peokunstnik - Gerly Tinn . </s> <s> Vt ka Aasta Moelooja ja Guinnessi rekordite raamatu sissekanne kui aasta jooksul kõige rohkem ühe ajalehe seltskonnalehekülgdel esinenud avaliku elu tegelasest . </s> </p>
+<p> <s> Ado Vabbe preemia - kunstiteadlasele Kaire Nurgale Palamuse ja Tartu kunstielu elektriseerimise eest . </s> </p>
+<p> <s> Ain Kaalepi tõlkepreemia - Tõnu Õnnepalule ja Indrek Hirvele , kes tõlkisid Baudelaire'i “ Kurja lilled ” Tõnu Õnnepalu ja Indrek Hirve keelde . </s> </p>
+<p> <s> Alar Kotli nim arhitektuuripreemia - Raivo Puusepale järjekordsete õnnestumiste eest klaasi kasutamisel arhitektuuris ( Sikupilli näitel ) . </s> </p>
+<p> <s> Albert Speeri nim arhitektuuripreemia - Peil , Urbel &amp; Tamjärv - Rocca al Mare kool . </s> </p>
+<p> <s> Anton Suurkase kirjanduspreemia - Jaan Kaplinskile kõigi aegade kõige paksema luuleraamatu eest ( 7,5 cm ) . </s> </p>
+<p> <s> Arkaadi A loominguline stipendium - Rein Veidemannile . </s> </p>
+<p> <s> Arvo Mägi preemia - Oskar Kruusile seenioride seksuaalfantaasiate ausa kajastamise eest eesti kirjanduses . </s> </p>
+<p> <s> Barbi Pilvre nimeline valvefeministi preemia - Esta Kübarsepale söaka naisajakirjanduse viljelemise eest Kroonikas ja Kanal 2s . </s> </p>
+<p> <s> Betti Alveri debüüdi-auhind - Maie Parrikule Jürgen Rooste koostatud pungi-antoloogias ilmunud kunstiküpsete tekstide eest . </s> </p>
+<p> <s> Bonnieri auhind - Elu Sõna lehele Tallinna moshee ehitamise vastustamise eest . </s> </p>
+<p> <s> Boy George'i kübar - Eda-Ines Ettile . </s> </p>
+<p> <s> Contra preemia - Hando Runnelile eesti elu rahvaliku kajastamise eest . </s> </p>
+<p> <s> Edition 49 preemia - Arvo Pärdile vokaalteose “ Käin juba lasteaias ” viisi eest . </s> </p>
+<p> <s> Doris Kareva nimeline Õllekõrre preemia - Andres Langemetsale ja Ott Arderile luule viljelemiseks . </s> </p>
+<p> <s> Eduard Taska nahakunstipreemia - Peter Greenawayle “ Padjaraamatu ” eest . </s> </p>
+<p> <s> Eesti Ajalehtede Liidu auhind - Kadri Kõusaarele beibementaliteedi juurutamise eest eesti ajakirjanduses . </s> </p>
+<p> <s> Eesti Sisearhitektide Liidu interjööri aastapreemia - Taevase Rahu Väljakule Tallinnas Vabaduse ( end. Võidu ) väljakul . </s> </p>
+<p> <s> Eesti Ettekandjate Liidu Jaan Tatika nimeline papist auraha - abilinnapea Liisa Pakostale tema kunstimuusemi ehitamist puudutavate seisukohtade esitamise eest . </s> </p>
+<p> <s> “ Ela ja sära ” stipendium - Areeni püsiautorile Peeter Künstlerile endiselt väsimatu kirjutamistegevuse eest . </s> </p>
+<p> <s> Emil Tode Oluliste Asjade preemia - <hi rend="kaldkiri">gay-</hi>kirjanik Ivar Sillale kapist välja tuleku eest enne Linnar Priimäge . </s> </p>
+<p> <s> Enno Tammeri Roheline Pastapliiats - Claire's Birthdayle sütitavate intervjuude eest . </s> </p>
+<p> <s> e-preemia - Peeter Marvetile ja Henn Sarvele e-tegude ja e-mõtete eest e-ruumis ja mujal . </s> </p>
+<p> <s> Eugen Püssi nimeline stipp - Raoul Kurvitzale Ameerika avastamise eest . </s> </p>
+<p> <s> Friedrich Nietzsche preemia - teoloog Jaan Tepile uusi horisonte avava teose “ Kurjuse kuningriik ” avaldamise eest . </s> </p>
+<p> <s> Gerbert Rappapordi nimeline kinematograafiaauhind - filmile “ Suur Õde ” ( Maimik , Kilmi , Pilvre &amp; Aru ) . </s> </p>
+<p> <s> Hans Leberechti kolhoosikirjanduse preemia - Andrus Kivirähule külaelu idiotismi õudustäratava kajastamise eest romaanis “ Rehepapp ” . </s> </p>
+<p> <s> Hermanni reisistipendium - Toomas H. Liivile Sannikovi maa külastamiseks ja selle maa lastest reisikirja kirjutamiseks Eesti Ekspressile . </s> </p>
+<p> <s> Huumoriauhind Meie Mats - Lea Veelmale aastatepikkuse töö eest muutmaks “ Kunstikanalit ” konkurentsitult parimaks huumorisaateks Eesti ringhäälingus . </s> </p>
+<p> <s> Hugh Hefneri Raudriist - pornokunn Aivar Palumäele </s> </p>
+<p> <s> Hvostovi auhind “ Monomahhi müts ” - Sergei Stadnikovile integratsiooniteema permanentse ja kirgliku käsitlemise eest . </s> </p>
+<p> <s> Hõbekõri auhind - Signe Kivile rahvale armsaks saanud laulude eelarvamustevaba esitamise eest mitmel pool . </s> </p>
+<p> <s> Ivan Julma preemia - DJ P. Julmale õudse neegrite klubimuusika levitamise eest Pärnus ja Tallinnas . </s> </p>
+<p> <s> Isadora Duncani nimeline tantsupreemia - eesti-norra tantsutaadile Teet Kasele . </s> </p>
+<p> <s> Jakob von Uexkülli Taassünni auhind - Vello Orumetsale taassünni eest nii Oruka kui ka Jõululauljana . </s> </p>
+<p> <s> Juhan Liivi preemia - Janek Mäggile vaimuliku luule värskendamise eest . </s> </p>
+<p> <s> Juhan Smuuli preemia - Priit Pulleritsule ja Triip Rilleputsile rahvaliku , seksika ja kõigile arusaadava ajakirjanduse eest Arteris ja Kranaadis . </s> </p>
+<p> <s> Kalju Komissarovi nimeline teenelise kommunisti preemia - Jaak Allikule . </s> </p>
+<p> <s> Kalju Suure medal - Helmut Newtonile sihikindla ja huvitava naisekeha pildistamise eest . </s> </p>
+<p> <s> Karl Ernst v. Baeri preemia - Puhkide villa lammutajatele . </s> <s> Nende tegu parandab rahva sanitaarolukorda ja väldib pisikute levikut Kadriorus ; nimeliselt ära märkida : arhitekt Künnapu , Liivi . </s> </p>
+<p> <s> Karl Inno stipp - akadeemik Anto Raukasele inspiratsiooniks KesKusi elavdamisel . </s> </p>
+<p> <s> Kenny pildiga South Parki rinnamärk - Linnar Priimäele &amp; Raimo Poomile North Parki eest . </s> </p>
+<p> <s> Kommunismivastase võitluse raudrist - Tõnis Paltsile uue Kunstimuuseumi ehitajate tegeliku meelsuse paljastamise eest . </s> </p>
+<p> <s> Konrad Mäe medal - skulptor Tauno Kangrole poliitilise loodustemaatika ( ninasarvik , konn , tarvas ) elushoidmise eest . </s> </p>
+<p> <s> Kristina Shmiguni kuldne kepp - Contrale elu ja suusatamise ühtsuse mõistmise eest luulekogus “ Suusamütsitutt ” . </s> </p>
+<p> <s> Kristjan Raua preemia - Andy Warholile postuumse triumfi eest Eestis . </s> </p>
+<p> <s> Kuldne Mikrofon - Äripäeva <hi rend="kaldkiri">web</hi>-TV ennastsalgavale toimetusele . </s> </p>
+<p> <s> “ Kuldne nõel ” - firmadele Adiads , Neki , Kalvin Clein ja Lives Eesti elanike varustamise eest hinnalt kättesaadavate ja välimuselt moodsate rõivaste ja jalatsitega . </s> </p>
+<p> <s> Kunst.ee preemia - internetileheküljele <gap rend="hüperlink"/> </s> </p>
+<p> <s> Kunstiakadeemia rektori valimiste igavese II koha preemia - professor Leo Lapinile . </s> </p>
+<p> <s> Leander-Georg Vehiku nimeline stipp - Pilu-Kellukesele . </s> <s> Pilu-Kellukese luulet on raske mõista , tundmata keerulist filosoofilist tagapõhja . </s> <s> Eksperimenteeriva luuletajana on ta loonud ka uudissõnu . </s> <s> Vt ka Juhan Liivi preemiat . </s> </p>
+<p> <s> Leni Riefenstahli preemia - Kristiina Heinmetsale , kes filmis “ Suur õde ” ihaleb Adolf Hitlerit . </s> </p>
+<p> <s> Liina Reimanni sõrmus - Mart Sanderile . </s> </p>
+<p> <s> Mario Kivistiku nimeline õuduskirjanduse preemia - Andrus Kivirähule “ Rehepapi ” eest . </s> </p>
+<p> <s> Marta Lepp-Utuste nimeline Maaema medal - mesmerist Meelis A. Pillerile filosoof Arnold v. Keyserlingi maalähedase käsitlemise eest filmikunstis . </s> </p>
+<p> <s> Miina Härma preemia - Jüri Homenjale naiste hinge kriipiva muusika eest . </s> </p>
+<p> <s> Manastõrskaja Izba veinipreemia - Beaujolais Nouveau 2000. </s> </p>
+<p> <s> Navitrolla aukiri - Aavo Kokale noore kunsti ja ärimaailma kokkuviimise eest . </s> </p>
+<p> <s> Nemirovitsh-Dantshenko teatripreemia - Andrus Laansalule elutõe läbitunnetatud psühhologistliku peegeldamise ja hingestatud ansamblimängu kultiveerimise eest Tartu Teatrilaboris . </s> </p>
+<p> <s> Nobeli kirjanduspreemia - Kaur Kenderile postapokalüptilise , globaalse ja postmodernistliku pihtimusromaani “ Ebanormaalne ” eest . </s> </p>
+<p> <s> Noore teadlase preemia - Tiit Hennostele eesti ajakirjanduse , eriti Areeni , suulise eesti keele mehhanismide , eesti kirjanduse viletsuse , postmodernismi ja Kaanoni paljastamise eest . </s> </p>
+<p> <s> Oskar Kruusi preemia - Arvo Mägile seenioride seksuaalfantaasiate ausa kajastamise eest rootsi kirjanduses . </s> </p>
+<p> <s> Panso preemia - Helle Pihlakule , parima kõrvalosa täitmise eest Eesti vabariigis . </s> </p>
+<p> <s> Pariisi eestlaste II korjandus - Helena ja Jaan-Eik Tulvele kodanliku elu jätkamiseks kodumaal . </s> </p>
+<p> <s> Pekka Salmi preemia - Hasso Krullile “ Millimallika ” ja Fanny de Siversile “ Johannese evangeeliumi ” eest . </s> </p>
+<p> <s> Perekond Rothschildi Noore Pankuri Abiraha - Janek Mäggile kapitali poeetika avamise eest luulekogus “ Ood rõõmule ” . </s> </p>
+<p> <s> Pornokunn Palumäe preemia - Peeter Sauterile filmi “ Armas tuss 50 aastat hiljem ” stsenaariumi eest ning ümberkehastumise eest Lembit Eelmäeks . </s> </p>
+<p> <s> Prantsuse Kommunistliku Partei punane viisnurk - endisele kommunistile Mark Soosaarele revolutsioonilise mõtte säilitamise eest Pärnus . </s> </p>
+<p> <s> Presidendi kultuurirahastu Pythease stipendium - jahtlaeva Lennuk meeskonnale , et see kordaks Pythease kangelaslikku merereisi . </s> </p>
+<p> <s> Presidendi kultuurirahastu soome keele õppimise abiraha - Arnold Rüütlile venekeelse kõne pidamise eest Helsingis rahvusvahelisel ugri-mugri kohtumisel . </s> </p>
+<p> <s> Priit Põldroosi preemia - Dan Põldroosile Haista Gängi rolli loomise eest . </s> </p>
+<p> <s> Põllumajandusminister Ivari Padari roostevaba sõnnikuhark - ansamblile Meie Mees rahvaliku repertuaari elushoidmise eest . </s> <s> Vrdl ka Tanel Padar . </s> </p>
+<p> <s> Püha Pjotr Rozhoki 1. järgu orden ( koos akselbantidega ) - Andrei Hvostovile suurvene mõtte hoidmise eest eesti kultuuris . </s> </p>
+<p> <s> Rahvusvahelise Mausoleumiarhitektuuri Edendamise Seltsi auhind - Aldo Tammsaarele tema kodumaja eest Maarjamäel . </s> </p>
+<p> <s> Robert Lepiksoni fondi eetikapreemia - ajakirjandusõppejõud Halliki Harrole järjekindlate ja visade katsetuste eest langetada eesti ajakirjanike valuläve . </s> </p>
+<p> <s> Salme Masso Kuldkulp - veini- ja toiduajakirjanik Kalev Keskülale aeglase toidu kultuuri juurutamise eest . </s> </p>
+<p> <s> Seksi-Kristi maalipreemia - Evald Okasele jätkuva loomingulise potentsiaali eest . </s> </p>
+<p> <s> Simon Wiesenthali noore jäljeküti preemia - Pekka Ereltile Kolmanda Reichi pahategude pideva meeldetuletamise eest Eesti Ekspressis . </s> </p>
+<p> <s> Sirbi arhitektuuripreemia - Allan Strusile villa Kaasiku ja Aare Uukadole villa Albohhadzhievi eest . </s> </p>
+<p> <s> Spice Girlsi auhind - ansamblile Laine <hi rend="kaldkiri"> girl power </hi> 'i näitamise eest . </s> </p>
+<p> <s> Stupid Oxford Baby Prize - muinsuskaitsetegelasele Anneli Randlale fundamentaalse avastuse eest , et hävinud ehitiste asemele pole õige ehitada koopiaid , millest Lääne-Euroopas on juba ammu aru saadud . </s> </p>
+<p> <s> Särgava-nimelise kolhoosi kirjandusauhind - Wimbergile luulekogu “ Maaaraamat ” eest . </s> </p>
+<p> <s> Tallinna Graafikatriennaali grand prix - viimaste aastakümnete suurima sotsiaalse kõlajõuga graafikule Ülo Kiplele ( postuumselt ) . </s> </p>
+<p> <s> Tammsaare-nimelise kolhoosi kirjandusauhind - Wimbergile luulekogu “ Maaaraamat ” eest ja eriti esile tõstes poeesi “ Ma seisan mesilas karuna ... ” . </s> </p>
+<p> <s> Tartu Kultuurkapitali auhind - Riho Sibulale Tartu vaimu sügavusi avava ballaadi “ Emajõe delta blues ” eest . </s> <s> ( “ Oi , mul on halb . </s> <s> Oi , mul on halb . </s> <s> Oi , mul on halb ” jne. ) Vt ka Tartu Kunstniku Peeter Alliku maali “ Oksendav tüdruk ” . </s> </p>
+<p> <s> Toomas Volkmanni fotopreemia - läheb jagamisele püstolfotograafide Rob . </s> <s> Lepiksoni ja Joh . </s> <s> Kerdi vahel . </s> </p>
+<p> <s> Vaala galerii harpuun - rahva hulgast kerkinud talendile Enn Koortile kalanahkadest taieste valmistamise eest . </s> </p>
+<p> <s> Vardo Rumesseni pianistipreemia - Carmen Kassile mehhaanilisel , sisseehitatud cd-mängijaga bubingal Estonia mängimise eest . </s> </p>
+<p> <s> Vilde-nimelise kolhoosi kirjandusauhind - Wimbergile luulekogu “ Maaaraamat ” eest . </s> </p>
+<p> <s> Villem Raami nimeline muinsuskaitseauhind - Tallinna Narva kohviku kollektiivile 80ndate vaimu eduka säilitamise eest . </s> </p>
+<p> <s> Voitkade preemia - Tiina Tammetalule metsateema loova käsitlemise eest kaasaegses kunstis . </s> </p>
+<p> <s> Väliseesti kunstniku Mare Tralla preemia - professor Ando Keskkülale väliseesti kunstniku Mare Tralla töölevõtmise eest Kunstiakadeemiasse . </s> </p>
+<p> <s> Wiiralti graafikapreemia - Peeter Allikule linoollõike “ Tugev keskklass ” eest , mis viib edasi maaliga “ Oksendav tüdruk ” alanud liini . </s> </p>
+<p rend="kaldkiri"> <s> Preemiakomisjon : </s> </p>
+<p> <s> TõNU KAALEP KALEV KESKüLA HARRY LIIVRAND MARKO MäGI BARBI PILVRE </s> </p></div5>
+            </div4>
+            <div4 type="alamrubriik">
+              <div5 type="artikkel"><head> Margiaasta 2000 </head>
+<p> <s> Postmark on enesestmõistetav pisike värviline paberitükk . </s> <s> Igal korralikul riigil on oma postmargid . </s> <s> Eestis ilmus neid möödunud aastal 25 tükki , piisav arv , et olla soliidne riik . </s> <s> Ja mitte liiga palju , liiga palju marke väljaandvaid riike peetakse arengumaadeks , kelle tuluallikaist margid moodustavad suure osa . </s> </p>
+<p> <s> Me küsisime viielt asjatundjalt , missugused on Eesti postmargid väljanägemiselt . </s> <s> Nagu kõik muu , mis trükimasinaist välja tuleb , peaks ka postmarkide kujundus vastama teatud reeglitele ja mängima kaasa ka moega , kõlagu see kui solvavalt tahes . </s> </p>
+<p> <s> Ja samas , postmark pole midagi nii erilist , kui seda vahete-vahel ette kujutatakse . </s> <s> See on lihtsalt üks graafilise disaini zhanre , mille eritingimuseks on vaid väike formaat . </s> <s> Nagu näitab paljude riikide kogemus , on võimalik teha äärmiselt erinevaid postmarke . </s> <s> Postmark peaks ideaalis looma pildist ja kirjakujundusest terviku . </s> <s> Seda kummalisem oli hiljutine Eesti Posti margikavandite võistlus , kus sooviti vaid illustratiivset osa ! </s> <s> Kummaline on seegi , et Eesti marke trükitakse praegu ainult ühes , pealegi piiratud tehniliste võimalustega trükikojas Vaba Maa . </s> </p>
+<p> <s> Siin möödunud aasta margisaagist oma arvamust avaldavad inimesed on kahtlemata professionaalid , ja me arvame , et Eesti Post peaks nende mõtetesse suhtuma väga tõsiselt . </s> <s> Sest juba praegu on ühel riigi sümbolil oht muutuda naeruväärseks anakronistlikuks keskpärasuseks . </s> </p>
+<p rend="rasvane"> <s> TõNU KAALEP PEKKA ERELT </s> </p>
+<p rend="rasvane"> <s> Kuidas hindate Eesti postmarkide kujunduse taset aastal 2000 ? </s> </p>
+<p> <s> <hi rend="rasvane"> Rain Pikand </hi> <hi rend="kaldkiri"> reklaamifirma Division kreatiivdirektor </hi> </s> </p>
+<p> <s> 10 palli süsteemis 1. </s> </p>
+<p> <s> <hi rend="rasvane"> Priidu Zilmer </hi> <hi rend="kaldkiri"> veebidisainer </hi> </s> </p>
+<p> <s> Lapates läbi nelja aasta margid , ei saa öelda , et 1997. aastal väljaantud margid tänavustest suurt erineks . </s> <s> Meie markidel tundub standardiks olevat tuhm toon , tagasihoidlik värvikasutus ja veider shriftivalik . </s> <s> Ma ei oska öelda , kas see on hea või halb , aga vaadates graafilise disaini üldisi arengujooni , oleks oodanud aastaks 2000 suuremat sammu modernsuse poole . </s> </p>
+<p> <s> <hi rend="rasvane"> Ivar Sakk </hi> <hi rend="kaldkiri"> disainer </hi> </s> </p>
+<p> <s> Vaatasin neid marke ja päris naljakas tuttav tunne tuli . </s> <s> Olen ise poisipõlves marke kogunud ja ju on seda teinud ka lugupeetud kunstnikud , kes täna Eesti marke kavandavad . </s> <s> Nii sarnane on see kompositsioonilaad ja visuaalne keel ( eriti Vello Lillemetsa 10 aastat Eesti Kongressist - vaheta vaid sinine punasega ja lisa XXV kongressi tekst ) . </s> <s> Vahet pole , kas on aasta 1972 või 2000. </s> <s> Elu on olemuselt ju igal ajal sarnane . </s> <s> Aga ikkagi ei tahaks leppida , et keskmine Eesti mark selline välja näeb . </s> </p>
+<p> <s> Postmark on tõenäoliselt üks konservatiivsemaid graafilise disaini objekte . </s> <s> Ka ameerika disainerid kurdavad , et USA post on konservatiivne ja tellib üksnes traditsioonilise kujundusega asju ning kasutab ainult illustraatoreid . </s> <s> Marko Kekishev , kes vahepeal ka mõne margi tegi , rääkis , et kavandeid valib umbes eluaegsetest filatelistidest-vanameestest koosnev Eesti posti konsiilium ja et midagi uuemat ei lähe iialgi läbi . </s> <s> On näha , et seal on stammautoritest koosnev seltskond , kes aastast aastasse marke kujundab . </s> <s> Aga kui muudmoodi ei saa , siis andku või siirupit peale ( nagu Soomes ja USAs ) , vähemalt mingigi nägu asjal . </s> <s> Jüri Kass teebki niimoodi ( jõulumargid ) . </s> <s> Kuid miks peab kasutama nõukogude halvimat stiili nagu Lillemets ? </s> </p>
+<p> <s> <hi rend="rasvane"> Ruth Huimerind </hi> <hi rend="kaldkiri"> disainer </hi> </s> </p>
+<p> <s> Nukker ja väsind . </s> </p>
+<p rend="rasvane"> <s> Mida muudaksite markide kujunduses ? </s> </p>
+<p> <s> <hi rend="rasvane"> Rain Pikand </hi> <hi rend="kaldkiri"> reklaamifirma Division kreatiivdirektor </hi> </s> </p>
+<p> <s> Mõtteviisi . </s> <s> Tooksin selle eelmise sajandi 70ndatest ( Brezhnev oli just siis NLKP Keskkomitee Presiidiumi Esimene Sekretär või midagi sellist ) selle sajandi esimesse kümnendisse . </s> </p>
+<p> <s> <hi rend="rasvane"> Priidu Zilmer </hi> <hi rend="kaldkiri"> veebidisainer </hi> </s> </p>
+<p> <s> See on maitse küsimus . </s> <s> Aga kuna maitseid on mitmeid , siis ma arvan , et oleks õige neile võimalus anda . </s> <s> Ma arvan , et muudatust näeb kindlasti , kui kaasata teistsuguse mõttelaadiga kujundajate loomingut . </s> <s> Kujunduse põhimõtteid ei saa niikuinii pea peale keerata , aga kindlasti on olemas värskeid nägemusi , kuidas margindust elavdada . </s> </p>
+<p> <s> <hi rend="rasvane"> Ivar Sakk </hi> <hi rend="kaldkiri"> disainer </hi> </s> </p>
+<p> <s> Kui soovitada teistmoodi tegemist selles võtmes , mis praeguses margikujunduses valitseb , siis - kes ei oska joonistada , ärgu joonistagu . </s> <s> Eriti spordimarkidel tahavad Lillemets ja Riho Luuse sportlasi joonistada , aga ei tule välja . </s> <s> Hoopis piinlik hakkab . </s> <s> Mari Kaarma ja Jüri Kass võivad joonistada , nemad oskavad . </s> <s> Aga saab ju kasutada fotot ja teha üldse sadat moodi . </s> <s> 1992 tegi Tõnis Vint Barcelona olümpiamargid ja neist paremaid ei ole siiani Eesti Vabariigis ilmunud . </s> </p>
+<p> <s> Teine nõrk koht on tüpograafia . </s> <s> Ei osata valida kirjatüüpi ja seda kompositsioonis mängima panna . </s> <s> Juhuslik ja tihtipeale abitu . </s> <s> Nii palju juugendlikku Benguiat'd ei kohta kuskil mujal maailmas . </s> </p>
+<p> <s> Sisuga on kah tihtipeale sandisti . </s> <s> 475 aastat esimese eestikeelse trükise ilmumisest - mis trükis ? milline välja nägi ? kus trükiti ? </s> <s> Ei tea seda Lillemets ega saa seda teada ka teised . </s> <s> Üks ihtüoloog kirjutas lehes , et kala(d) olid ka margi peal vale(d) ( Saar ) . </s> <s> Mari Kaarma rahvariided on küll ilusad ja informatiivsed . </s> <s> Sandor Sterni loomad on ka õiged , aga tema ei oska värvide , tüpograafia ja kompaga midagi peale hakata . </s> <s> 100 aastat raudteed Eestis ( Tarmo Tali ) - nagu idabloki maade veduritehase ajaloo mark . </s> <s> Võiks ju näidata vana Balti jaama või raudtee-ettevõtjat von der Pahlenit . </s> </p>
+<p> <s> <hi rend="rasvane"> Ruth Huimerind </hi> <hi rend="kaldkiri"> disainer </hi> </s> </p>
+<p> <s> Alustuseks jagaks tellimusi Tiit Jürnale , Raul Rajangule ja Andres Toltsile . </s> </p>
+<p rend="rasvane"> <s> Milline on Eesti õnnestunuim postmark ? </s> </p>
+<p> <s> <hi rend="rasvane"> Rain Pikand </hi> <hi rend="kaldkiri"> reklaamifirma Division kreatiivdirektor </hi> </s> </p>
+<p> <s> See jäi kahjuks tegemata . </s> </p>
+<p> <s> <hi rend="rasvane"> Priidu Zilmer </hi> <hi rend="kaldkiri"> veebidisainer </hi> </s> </p>
+<p> <s> Mulle meeldis Europa 2000 , aga selle autor ei ole kahjuks Eestist . </s> <s> Meie omadest jäi silma Ülle Marksi ja Jüri Kassi fennougristika kongressi mark . </s> <s> Selles oli isikupära . </s> </p>
+<p> <s> <hi rend="rasvane"> Ivar Sakk </hi> <hi rend="kaldkiri"> disainer </hi> </s> </p>
+<p> <s> Ehk oli parim Lembit Lõhmuse August Mälk ? </s> <s> Neutraalne , nn eestilik koloriit , Mälgu vähenähtud portree . </s> <s> Luuse Tartu rahulepingul pole ka viga oma aktiivse värviga . </s> <s> Kassi-Marksi margid on minu jaoks ehk liiga fotoshopitud . </s> </p>
+<p> <s> Võibolla tulid vastused liiga purustavad . </s> <s> Aga algusest peale on Eesti margindusel juures formaalsuse ja sunduslikkuse maik , millest kuidagi ei paista lahti saavat . </s> <s> Nagu polekski oma riik ja oma post ja omad margid . </s> </p>
+<p> <s> Eelmise vabariigi margid tunduvad küll südamlikud . </s> <s> Isegi buldoginäoga Päts kümnetes värvivarjundites . </s> </p>
+<p> <s> <hi rend="rasvane"> Ruth Huimerind </hi> <hi rend="kaldkiri"> disainer </hi> </s> </p>
+<p> <s> Vapimark ehk , jõulumargid on ka rõõmsakesed . </s> </p>
+<p rend="rasvane"> <s> Jüri Hain <hi rend="kaldkiri"> Eesti Kunstiakadeemia postigraafika õppejõud </hi> </s> </p>
+<p> <s> Eesti tänaste postmarkide kujunduse tase on kõikuv , kohati võib näha üsna küündimatut kunstnikutööd . </s> <s> Päris kindlasti saab väita , et eesti disainigraafikute tegelikku loomingulist potentsiaali pole selles vallas kasutatud sihipäraselt . </s> <s> Meie kunstnike võimed lubavad enamat , kui on saavutatud . </s> <s> Rida silmapaistvaid kunstnikke , kelle looming võiks kaunistada eesti postigraafikat , on sellest tegevusest kõrvale jäetud . </s> <s> Teisalt on mitmeid noori lootustandvaid disainigraafikuid , kes on saanud korraliku väljaõppe postigraafika alal , kusjuures mõned Eesti Kunstiakadeemias õppetööna valminud margid on pälvinud rahvusvahelistki tunnustust . </s> <s> Nende noorte võimed Eesti postmarkide loojatena on täiesti rakendamata . </s> <s> Hüpoteetilisi võimalusi on veelgi - näiteks mind vaevab aastatetagune juhtum , kus Eesti Post lausa ebaviisakal kombel lükkas tagasi Kanada disainigraafikute tippu ning Põhja-Ameerika parimate postmargiloojate hulka kuuluva Tiit Telmeti koostööpakkumise . </s> </p>
+<p> <s> Lõppeva aasta postmargiproduktsioon tekitab vastakaid tundeid . </s> <s> Kas näiteks kaks kehva marki kavandanud kunstnikule pidi tingimata andma võimaluse teha veel üks vilets mark ? </s> </p>
+<p> <s> Kokkuvõte pole siiski negatiivne ning see on paljuski kunstniketandemi Ülle Marks - Jüri Kass teene , kelle loodud kolm marki ( eriti fennougristika kongressi mark ) lisavad jumet aneemiliseks kalduvale üldpildile . </s> <s> Tuleviku suhtes on aga võibolla kõige olulisem postmarkide kui rahvusvaheliselt leviva trükigraafika tähtsustamine , sellega seonduvate probleemide teadvustamine . </s> <s> Aasta 2000 markidele hinnangu andmiseks ei pea enam olema filatelistikalduvusi , sest aastaraamatut “ Kes ? </s> <s> Kus ? ” avades saab kohe ülevaate kätte . </s> <s> Loodetavasti pole see mitte juhuslik , vaid korduv , traditsiooniks saav nähtus . </s> </p></div5>
+            </div4>
+            <div4 type="alamrubriik">
+              <div5 type="artikkel"><head> Aasta garderoobitädid </head>
+<p> <s> Eesti Ekspress nimetab 2000. aastal kõige </s> </p>
+<p> <s> maitsetumalt riietunud avaliku elu tegelased . </s> </p>
+<p rend="rasvane"> <s> Halva maitse tipp 10 </s> </p>
+<p> <s> Inna Uit , endine kulturist </s> </p>
+<p> <s> Odava klubimoe halvim näide . </s> <s> Eksponeerib ennast liialt , kuigi põhjust pole . </s> <s> Jätab mulje , nagu oleks rindade “ taaskasvamiseks ” matti võetud stiilitunnetuselt . </s> </p>
+<p> <s> Tauno Kangro , skulptor </s> </p>
+<p> <s> Tõeline ugri-<hi rend="kaldkiri">power</hi> . </s> <s> Külasepana oleks stiilipuhas , aga seltskonda tulles võiks ennast vähemalt puhtaks pesta . </s> <s> Välimuselt mats , käitumiselt aadlik . </s> </p>
+<p> <s> Vilja Savisaar , Tallinna linnavolikogu liige </s> </p>
+<p> <s> Miks peab üks kena naine kandma nõmedaid tanusid ja ennast oma riietusega juba praegu tädide kategooriasse liigitama ? </s> </p>
+<p> <s> Anne Veski ja Marju Länik , popmuusikud </s> </p>
+<p> <s> 80. aastatesse lõksu jäänud tädid , kelle õnneks hakkavad tolle ajastu rõivad jälle moodi tulema . </s> <s> Aga teatud uuendustega , mida Venemaa turule orienteeritud soengutega lauljad pole tähele pannud . </s> <s> Veel tasub ära märkida : </s> </p>
+<p> <s> Reet Linna , Valve Kirsipuu , Daisy Järva , Marica Lillemets , Epp Alatalu </s> </p>
+<p rend="rasvane"> <s> Kurioosumite tipp 5 </s> </p>
+<p> <s> Üllar Jörberg ja tema neli metsikut naist Tiia-Ester Loitme , Signe Kivi , Ivi Eenmaa ja Marju Kuut , kes kõik on oma maitselageduses ääretult stiilipuhtad ! </s> </p>
+<p rend="rasvane"> <s> Hea maitse tipp 10 </s> </p>
+<p> <s> Annaleena Pihel , Anne moetoimetaja </s> </p>
+<p> <s> Suudab oma vaiksel ja tagasihoidlikul viisil alati üllatada , lisades stiilsele ja väljapeetud riietusele ootamatu kriuksu . </s> <s> Ei komista kunagi või peaaegu mitte kunagi . </s> <s> Ilus inimene , kes oskab oma parimad küljed välja tuua . </s> </p>
+<p> <s> Aigi Vahing , BDG filmide PR-tüdruk </s> </p>
+<p> <s> Alati silmatorkavalt shikk ! </s> <s> Lahedat ja hoogsat rühti rõhutavad seksikad riided . </s> <s> Ohtlik naine . </s> </p>
+<p> <s> Janika Sootna , Christine Collectioni disainer </s> </p>
+<p> <s> Kõige malbem ja esteetilisem naine . </s> </p>
+<p> <s> Ülle Kaldvee , Toomas Sildmäe ärinaisest abikaasa </s> </p>
+<p> <s> Kaldvee võiks ennast vabalt eksponeerida igas rahvusvahelises seltskonnalehes , ilma et ta ise või abikaasa peaks piinlikkust tundma . </s> </p>
+<p> <s> Rain Tamm , investeerimispankur </s> </p>
+<p> <s> Armastab üle kõige helesinist ja roosat värvi . </s> <s> Vabal ajal armastab riides käia nii , et tema iseloom kõigile näha oleks - nunnu ja sõbralik inimene , kes armastab beebisid . </s> <s> Argipäeva hommikul tõmbab aga selga range ülikonna ja asub raudteed erastama . </s> </p>
+<p> <s> Veel tasub ära märkida : </s> </p>
+<p> <s> Tiina Tammetalu </s> </p>
+<p> <s> Rain Lõhmus </s> </p>
+<p> <s> Helen Mahmastol </s> </p>
+<p> <s> Beatrice </s> </p>
+<p> <s> Toomas Volkmann </s> </p></div5>
+            </div4>
+            <div4 type="alamrubriik">
+              <div5 type="artikkel"><head> USA presidendiks sai tuhvlialune </head>
+<p> <s> Raamatukoguhoidja Laura Bush sundis oma mehe alkoholist loobuma . </s> </p>
+<p> <bibl> <author> <s> Tom Rhodes </s> </author> </bibl> </p>
+<p rend="kaldkiri"> <s> The Sunday Times </s> </p>
+<p> <s> Kõrvaltvaatajale paistab <hi rend="rasvane"> Laura Bush </hi> , Ameerika järgmine esimene leedi , häbeliku , pensionil oleva raamatukoguhoidjana , kes ta ka oli . </s> <s> Pisut hiirelikust väljanägemisest hoolimata on ta siiski otsustanud võidelda oma meelisvaldkondade eest riiklikul tasandil . </s> </p>
+<p> <s> Ehkki sõbrad räägivad , et ta võtab kuulda <hi rend="rasvane"> Barbara </hi> , oma pärlitega ehitud ämma nõuandeid , loodab Laura Bush ( 54 ) , et leiab viisi , kuidas mängida Washingtonis omaenda rolli , mis välistab <hi rend="rasvane"> Hillary Clintoni </hi> poliitilise aktiivsuse ja <hi rend="rasvane"> Nancy Reagani </hi> jumaldava loomuse . </s> </p>
+<p> <s> Need , kes on jälginud Laura iseloomu kujunemist kuue aasta jooksul Texase kuberneri naisena , ütlevad , et ta jääb endiselt sõltumatuks ja sirgjooneliseks , oma abikaasale pühendunud naiseks , kellest ei saa iialgi uksematti . </s> </p>
+<p> <s> Sellal , kui ta abikaasa veedab päevi Ovaalsaalis riigiasjadega tegeledes , pühendab Laura suurema osa oma energiast kirjandusele , laste haridusele , kaunitele kunstidele ja rinnavähile , mida põdes kunagi ta ema <hi rend="rasvane"> Jenna Welch </hi> . </s> </p>
+<p> <s> “ Ta pühendab end asjadele , mis on talle südamelähedased , ” ütles Texase raamatufestivali direktor <hi rend="rasvane"> Cindy Hughes </hi> . </s> <s> Festivali auesimeheks on Laura Bush . </s> <s> “ Võib jääda mulje , et ta on kinnine , kuid ta on auahne asjade suhtes , mis talle korda lähevad . ” </s> </p>
+<p rend="rasvane"> <s> Auahne naine kutsub lapsi lugema </s> </p>
+<p> <s> Laura Bush pani aluse festivalile , mis on riiklikule raamatukogusüsteemile sisse toonud ligi miljon dollarit . </s> <s> Ta algatas ka laste hariduskampaaniaid , mis aitasid kokku saada 17 miljonit dollarit koolieelikute lugemaõpetamise programmi jaoks möödunud aastal . </s> </p>
+<p> <s> Ta järgib oma ämma eeskuju , toetades laste kirjaoskust , ja väidetavalt kavandab ta juba koosviibimisi Valges Majas , et innustada noori lugema . </s> <s> Paljud arvavad , et tema mehe kirglik soov parandada ameeriklaste haridustaset tulenes temalt . </s> </p>
+<p> <s> “ See on Laura meelistegevus . </s> <s> See on ta eluaegne kirg , ” ütles kuberneri vanemnõustaja <hi rend="rasvane"> Margaret LaMontagne </hi> . </s> </p>
+<p> <s> Laura , kellele kuulub au selle eest , et tema survel loobus ta mees oma 40. sünnipäeval alkoholi tarvitamisest , on reklaaminud naiste terviseprojekte ja pannud aluse kahepoolsele liidule demokraatide naistega Texases , et keelitada kollektsionääre annetama Austini kunstimuuseumile oma 19. sajandi ja 20. sajandi alguse maale . </s> </p>
+<p rend="rasvane"> <s> Bush pidi õhtul koju minema </s> </p>
+<p> <s> Kuna Laura on reisinud rohkem kui ta mees , pühendas ta hulga aega <hi rend="rasvane"> Jenna </hi> ja <hi rend="rasvane"> Barbara </hi> - abielupaari 18aastaste kaksikutest laste harimisele ja hoolitses selle eest , et nad ei elaks poliitilises akvaariumis . </s> </p>
+<p> <s> Tüdrukud , kes on järginud oma vanemate eelistusi ülikoolide suhtes - üks õpib Yale'is , teine Texase ülikoolis - , ei esine poliitilistes reklaamides ega anna intervjuusid . </s> <s> Laura Bush on alati sundinud oma meest veetma laste seltsis nii palju aega kui võimalik . </s> </p>
+<p> <s> “ See oli kampaania ajal alaline nali , kuidas W pidi igal õhtul koju perekonna juurde minema , ” ütles Austini poliitikaanalüütik <hi rend="rasvane"> Harvey Kronberg </hi> . </s> </p>
+<p> <s> Pärast seda , kui Laura end Kennebunkportis Maine'is tutvustades vastas küsimusele , millega ta tegeleb : “ Ma loen , suitsetan ja imetlen , ” suhtutakse Bushide peres temasse teatava ärevusega . </s> <s> Suitsetamisest on ta nüüd loobunud . </s> </p>
+<p> <s> Teatakse , et tulevasel presidendil on lähedased suhted oma emaga . </s> <s> Kuid sõbrad ütlevad , et ta naine on täiesti võimeline ajama asju matriarhiga , keda tuntakse Ameerika lemmikvanaemana . </s> </p>
+<p> <s> “ Laura ei suuda küll igas asjas Barbaraga võistelda , ” ütles <hi rend="rasvane"> Craig Stapleton </hi> , kes on sugulane abielu kaudu . </s> <s> “ Ta küll kuulab Barbarat , kuid teeb siis seda , mida vajalikuks peab . </s> <s> Laura suudab endale kindlaks jääda . ” </s> </p>
+<p rend="rasvane"> <s> Surm autoõnnetusel 35 aastat tagasi </s> </p>
+<p> <s> Siiski on ta varem pöördunud nõu saamiseks vanema naise poole , eriti siis , kui esitati küsimusi 35 aastat tagasi toimunud traagilise autoõnnetuse kohta , mille toimumise ajal oli roolis tollane 17aastane Laura Welch . </s> </p>
+<p> <s> Politseiraportis , mis avaldati selle aasta algul , öeldakse , et ta sõitis mööda peatumismärgist Midlandis Texases , kus tema ja ta tulevane abikaasa üles kasvasid . </s> <s> Sõber , kes juhtis teist autot , sai surma . </s> <s> Barbara Bush käskis oma minial küsitluse ajal rahulikuks jääda , mida too ka tegi . </s> </p>
+<p> <s> See , et ta kavatseb jääda iseendaks , sai selgeks aasta algul toimunud intervjuul , kui talt küsiti , kas ta järgib Barbara Bushi või Hillary Clintoni eeskuju . </s> <s> “ Arvan , et olen lihtsalt Laura Bush , ” vastas ta . </s> </p></div5>
+            </div4>
+            <div4 type="alamrubriik">
+              <div5 type="artikkel"><head> Passiivne vastupanu okupantidele </head>
+<p> <s> Üliõpilane Mart Laar istub all vasakus nurgas ja aplodeerib Tartu ülikooli raamatukogu avamisel 22. veebruaril 1982. </s> </p>
+<p> <s> Presiidiumis aplodeerivad raamatukogu direktor Laine Peep , Eesti kompartei ideoloogiasekretär Rein Ristlaan , rektor Arnold Koop , Eesti ministrite nõukogu esimehe asetäitja Bruno Saul ja Tartu parteikomitee esimene sekretär Indrek Toome . </s> </p></div5>
+              <div5 type="artikkel"><head> Autoga sumdi lainetesse ! </head>
+<p> <s> Eesti Naise värske tellimiskampaania keskne pilt kujutab prouat , kes on oma särtsaka sõiduki ajanud merre ja sirvib jalgu vees solistades naisteajakirja . </s> <s> Sõnum selle juures kõlab - tellija võib võita sõiduauto , mis annab vabaduse lugeda oma lemmikut kas või mererannas . </s> </p>
+<p> <s> No , andke andeks ! </s> <s> Rannas , palun väga . </s> <s> Aga autoga otse vees ? </s> <s> Eesti naistekate vanaemalt on see enam kui üllatav üleskutse . </s> <s> Kui dzhiibirallitajad oma neliveolistega mereääred üles künnavad ja jetimehed nikeldatud kängururaudadega maastikuautod üle luidete otse vette tagurdavad , haarab enamikku kodanikest jõuetu viha . </s> <s> Naisteajakirja reklaamigeeniused näikse propageerivat samasugust looduselt-ei-tule-ande-oodata mõttelaadi . </s> </p>
+<p> <s> Kuvand Eesti Naise keskmisest lugejast joonistab pildi keskealisest maaõpetajast , kes randa minnes pakib abikaasa 1980ndatel välja lastud autosse hulga võileibu ja pesakonna lapsi . </s> <s> Võibolla on see pilt ekslik . </s> <s> Aga loodame , et auto jätavad Eesti Naise lugupeetud lugejad siiski viisakasse kohta . </s> </p>
+<p> <s> MIHKEL KäRMAS </s> </p></div5>
+              <div5 type="artikkel"><head> Sakslased kuulutasid Eesti Põhja-Euroopa maaks </head>
+<p> <s> Maailma tuntuim postmargikataloogide firma Michel hakkab alates järgmisest Euroopa-kataloogist Eestit käsitlema kui Põhja-Euroopa riiki . </s> <s> Varasemates kataloogides kuulus Eesti Ida-Euroopa riikide alla . </s> </p>
+<p> <s> Lisaks Eestile on Põhja-Euroopa riigid kõik Põhjamaad , Suurbritannia , Iirimaa , Luksemburg , Holland ning ka Läti ja Leedu . </s> <s> Ida-Euroopa riikideks peavad sakslased Moldovat , Poolat , Rumeeniat , Venemaad , Slovakkiat , Tshehhit , Ukrainat , Valgevenet ja Ungarit . </s> </p>
+<p> <s> Micheli liigitus peaks eriti rõõmustama Eesti välisministrit Toomas Hendrik Ilvest , kelle arvates Eesti kuulub Põhjamaade hulka ja väljend “ Baltikum ” on ebatäpne ning Eestile pealesunnitud termin . </s> </p>
+<p> <s> PEKKA ERELT </s> </p></div5>
+              <div5 type="artikkel"><head> Eha Urbsalu hakkas lauljaks </head>
+<p> <s> Eelmisel nädalal Eestis viibinud USAs elav modell Eha Urbsalu pidas Kanal 2-ga läbirääkimisi ühe oma laulu video salvestamiseks . </s> <s> Ameerikas on Urbsalu välja andnud oma lauludega CD . </s> <s> “ See on muidugi väga kallis , olen selle peale pannud kogu oma raha , ” nendib Urbsalu . </s> <s> Praegu peab ta läbirääkimisi ühe tuntud plaadifirmaga , mille nime veel nimetada ei taha , sest tulemused selguvad alles kevadeks . </s> </p>
+<p> <s> Eestis pole Urbsalu oma CDd müügiks pakkunud . </s> <s> “ Ameerikas on see lihtsam , ma ei tunne siinseid muusikainimesi , ” ütleb Urbsalu tagasihoidlikult . </s> <s> Osalt kardab ta ka kriitikat : “ Kindlasti tuleb ütlemist , et modell hakkas laulma , ” arvab Urbsalu , kes on õppinud muusikat süvaõppega 22. keskkoolis ja laulnud Nooruse kooris . </s> </p>
+<p> <s> ANNE PROMMIK </s> </p></div5>
+            </div4>
+            <div4 type="alamrubriik">
+              <div5 type="artikkel"><head> Keelesegadus ja naftaunistus </head>
+<p> <s> Riik , kus sajandi jooksul on neli korda tähestikku vahetatud . </s> <s> Anna Gerretz külastab Aserbaidžaani . </s> </p>
+<p> <s> Bakuu oli minu elu esimene aasiahõnguline linn . </s> <s> Mälestused kaugest stagnaajast on justkui värvikad mosaiigikillud : legendid siiditeest , paar lagunevat mošeed , idamaine turg ja igas vanuses mehed , kes teed juues mind häbitult vahtisid . </s> <s> Nüüd -- aastaid hiljem -- , kui olen näinud nii siiditee südant , tõelist Aasiat ja islamit , vaatasin Bakuud hoopis teise pilguga . </s> <s> Kui tavaliselt on multikulturaalsed linnad eriti põnevad , siis Bakuus meenus üle aastate taas sõna “ sovjetlik ” , just selles tähenduses , nagu me teda omal ajal kultuurist rääkides kasutasime . </s> </p>
+<p> <s> Kindlasti on selline suhtumine veidi ülekohtune , sest kultuuri puudumisest ei saa kohe päris kindlasti rääkida . </s> <s> Bakuus on olemas kõik , et olla tõeliselt suurejooneline linn : mereäärsed promenaadid , vanalinn , õlibuumiaegsed naftaparunite villad , pargid , mis suure töö ja vaevaga kõrbesse rajatud , pompöössed stalinistlikud avenüüd ja jumal teab mis ajast pärit värvikad vaestekvartalid . </s> <s> Ainult et kõik see ei moodusta minu meelest tervikut . </s> <s> Bakuu on lõpetamata mosaiik , mida nüüd on taas usinalt täiendama asutud . </s> </p>
+<p> <s> Kuigi kõik nõukogudeaegne laguneb ja Karabahhia probleem pole lõplikku lahendust leidnud , on Bakuu taas kord saamas rahvusvaheliseks linnaks , nagu sajandivahetuse õlibuumi ajal. </s> <s> Kerkivad uued klaasist kõrghooned , Texaco , Shelli , BP Amoco , Lukoili esindused , Radisson SAS ja luksuslik Hyatt . </s> <s> Lisaks õli lõhnale on juba tunda ka raha lõhna . </s> <s> On välismaalaste kohvikud välismaalaste hindadega ja kirevad reklaamid . </s> </p>
+<p> <s> Aseri kirjakeel on üks suur segadus . </s> <s> Nimelt on Aserbaidžaan küll vist ainus riik maailmas , kus ühe sajandi jooksul on tähestikku neli korda vahetatud . </s> <s> Seitsmendal sajandil tõid araablastest vallutajad koos islami usuga ka oma tähestiku . </s> <s> Sajandivahetusel hakkasid progressiivsemad haritlased propageerima ladina tähestikku . </s> <s> Alternatiivina pakuti välja ka kirillitsa . </s> <s> 1923 , seega juba nõukogude ajal , algaski üleminek aseri keele jaoks kohendatud ladina omale . </s> <s> Juba 1929. aastal keelati araabia tähestiku paralleelne kasutamine lõplikult , millele järgnes raamatute põletamise kampaania . </s> <s> Kõigest kümnend hiljem võeti ametlikult kasutusele kirillitsa . </s> <s> Ajaloolane Alakbaroo põhjendab seda sammu Stalini hirmuga Türgi mõjude ees . </s> <s> “ Ei maksa unustada , et 1928 võttis ladina tähestiku kasutusele ka Türgi , kes mõlemas maailmasõjas toetas Saksamaad . </s> <s> Meie keeled on aga kaunis sarnased . ” </s> </p>
+<p> <s> Taasiseseisvunud Aserbaidžaani valitsuse üks esimesi otsuseid oli taastada ladina tähestik , mida on omakorda veel kord kohendatud . </s> </p>
+<p> <s> Ükski nendest reformidest pole olnud edukas . </s> <s> Alati on nooremalt põlvkonnalt võetud ära võimalus tutvuda oma esivanemate kultuuriga kirjasõnas . </s> <s> Paljude ajaloolaste arvates on just pidev tähestiku vahetamine Aserbaidžaani selle sajandi kõige suurem tragöödia . </s> <s> Bakuu käsikirjade instituudi suurepärast araabia vanade käsikirjade kogu suudavad lugeda vaid üksikud spetsialistid ja ilmselt ka osa miljonitest aseritest , kes elavad Iraani territooriumil . </s> <s> Rahvusraamatukogu direktor Leila Gafunova kardab , et sama saatus ootab ka 4,5 miljonit raamatut nende kogudes ning tema põlvkonna kirjanike ja teadlaste töö muutub mõttetuks . </s> </p>
+<p> <s> Ka ajakirja Azerbaijan International toimetaja Betty Blair leiab , et olukord on tõsine : “ Tagasihoidlikud arvutused näitavad , et hea organiseerimise ja finantseerimise korral kulub üksnes kõige väärtuslikumate raamatute ümberkirjutamiseks viisteist aastat . </s> <s> Maailm areneb aga kiiresti , mobiiltelefon ja internet on Bakuus popid , nii et vaevalt on keegi nõus praegu investeerima minevikku . </s> <s> Kui sajandi alguses oli haridus privileeg , nii et suhteliselt vähesed pidid uuesti lugema õppima , siis viimase seitsmekümne aastaga on aseritest saanud kirjaoskaja rahvas . ” </s> </p>
+<p> <s> Veel täna , seega kümme aastat pärast ladina tähestiku taaskasutuselevõttu , on kõik aserikeelsed lehed trükitud kirillitsas ja vaid mõned kasutavad pealkirjades ladina tähti , nii et lapsed oskavad lugeda pealkirju , nende vanemad aga ülejäänut . </s> <s> Uute õpikute puuduse tõttu on hariduse tase juba langenud . </s> </p>
+<p> <s> Ka Bakuu tänavatel valitseb täielik keeleline segadus . </s> <s> Korraga kasutatakse nii vene kui ka aseri keelt ja mõlemat tähestikku täiesti suvaliselt . </s> <s> Koos islamiga on tänavapilti ilmunud taas ka araabia tähestik . </s> <s> Kuigi 1995. aasta konstitutsioon kuulutas aseri keele ainukeseks riigikeeleks , räägivad ka paljud aserid omavahel vene keelt . </s> <s> Kiruvad uut võimu , viletsat elu , vigast keelereformi ja igatsevad tagasi nõukogude aega . </s> </p>
+<p> <s> Marta ( 28 ) käis venekeelses koolis ja ülikoolis just nii nagu paljud aseri haritlaste lapsed . </s> <s> “ Vene keel oli Aserbaidžaanis prestiižne . </s> <s> Aserit peeti külamatside keeleks . </s> <s> Häbi tunnistada , aga bakuulased on end alati teistest paremateks pidanud . </s> <s> Nii et kes vähegi tahtis elus edasi jõuda , läks vene kooli , ” selgitab Marta ja lisab : “ Samas ei maksa unustada , et oktoobrirevolutsioon leidis siinkandis palju toetajaid , sest suure õlibuumi ajal jagus raha ja rikkust kõigile peale aserite . ” </s> <s> Kuigi Marta on Londonis õppinud , töötab välisfirmas ja on igati edukas , õhkus kogu tema jutust nostalgilist igatsust nõukogude aja järele . </s> <s> Tekkis tunne , et minevikumälestused ja tulevikulootused on olulisemad kui segane olevik . </s> <s> “ Ma mõtlen ikka veel vene keeles . </s> <s> Ma muidugi püüan oma aseri keelt parandada , aga ega ma vist eriti pinguta , pigem õpin võõrkeeli . ” </s> </p>
+<p> <s> Paljud virisevad ja kritiseerivad , aga varem või hiljem teatavad uhkelt , et keelereform on ikkagi tagasipöördumine oma kultuuri , oma juurte juurde . </s> <s> Kõrvaltvaatajale võib jääda arusaamatuks , et miks just ladina , aga mitte araabia tähestik , mida kasutati ju üle tuhande aasta . </s> </p>
+<p> <s> Selleks , et seda mõista , peaks süvenema mitte üksnes Aserbaidžaani , vaid kõigi türgi rahvaste keerulisse ajalukku ja Atatürgi poolt läbiviidud reformide tagamaadesse Türgis . </s> </p>
+<p> <s> Ka on parlament on hädas seaduste tegemisega . </s> <s> Seda , et riiklik dokumentatsioon ja tänavasildid on aseri keeles ja ladina tähestikus , peetakse enesestmõistetavaks . </s> <s> Aga mida teha eraettevõtlusega ? </s> <s> Äärmuslased püüavad läbi suruda eelnõu , mis nõuab kõikidelt välistöölistelt aseri keele oskust . </s> <s> Paraku jäävad nad hüüdjaks hääleks kõrbes . </s> </p>
+<p> <s> Rahvusvaheliseks ärikeeleks on alati olnud raha ja suhtlema on hakatud üha enam inglise keeles . </s> <s> Nii võtavadki kohalikud firmad endale tihti võõrapärase nime ja kasutavad ladina tähestikku vaid internetis surfates . </s> <s> Välisfirmad aga palkavad vene keele oskajaid , sest Venemaa on suur naftariik . </s> </p>
+<p> <s> Kurb küll , aga Aserbaidžaani lähitulevik ei sõltu mitte keelereformi edukusest , vaid sellest , kas järjekordsel proovipuurimisel satutakse lõpuks kauaoodatud suurtele naftavarudele . </s> <s> Lahendamata on ka transpordiprobleem . </s> <s> Kevadel Aserbaidžaani , Gruusia ja Türgi poolt alla kirjutatud leping meeldib küll väga Ameerika poliitikutele , ei sobi aga erafirmadele , sest leidub ka odavamaid võimalusi . </s> <s> Kuigi hiljutised suured naftaleiud ja kohalikud gaasimaardlad annavad lootust , hakkavad rahvusvahelised firmad kasumit oodates kärsituks muutuma . </s> <s> Kui lähemal ajal läbimurret ei toimu , võidakse investeeringud mujale suunata ja siis võib Bakuu taas muutuda lihtsalt üheks vaesuses vaevlevaks kõrbelinnaks , mis pakub huvi vaid eksootikajanus turistidele , kes tahavad näha ehtsat <hi rend="kaldkiri">karavanserai</hi>'d , vanu käsikirju , iidset Zarathustra templit ja vanade puurtornide roostetavat metsa . </s> </p></div5>
+            </div4>
+            <div4 type="alamrubriik">
+              <div5 type="artikkel"><head> New Yorgi kolumn </head>
+<p> <bibl> <author> <s> Arne Pajula </s> </author> </bibl> </p>
+<p rend="kaldkiri"> <s> arne@ekspress.ee </s> </p>
+<p> <s> Elu suurlinnas , mida hellitavalt kutsutakse Suureks Õunaks , keeb ööl ja päeval . </s> <s> New York on ametlikult linn , mis eales ei maga , ja vaadates välja oma aknast , võin ma selles kord-korralt taas veenduda . </s> <s> Autod sagivad ja taksojuhid tuututavad kella vaatamata . </s> <s> Tuled akendes ei kustu ka varahommikul . </s> <s> Sadakond TV ja raadioprogrammi ketravad lõputus 24/7/365 rütmis . </s> </p>
+<p> <s> Asustustihedus on selline , et kauge kodumaa näib üpris inimtühja kohana . </s> <s> Kokku üle 20 000 000 inimese ( neist New Yorgis 8,7 miljonit ja lähiümbruses 11,4 ) mahuvad ära tunduvalt väiksemale maalapile kui Eesti . </s> <s> Püüd sellistesse numbritesse süveneda tekitab tunde , nagu oleksid sääsesuurune mutukas hiigelparves . </s> </p>
+<p> <s> Selline võrdlus on siiski kohane vaid Eestis . </s> <s> New Yorgi terve mõistusega elanik end naljalt sääsega ei võrdleks . </s> <s> Tegemist on ju kohutava mõrtsukputukaga , mis levitab Lääne-Niiluse viirust - entsefaliiti põhjustavat haigusetekitajat , mis viletsama vastupanuvõimega inimesed hauda viib . </s> </p>
+<p> <s> Siinne sääsk on otsekui Eesti puuk . </s> <s> Nii polegi midagi imestada , et juba üle aasta on sääsed New Yorgis lindpriid putukad . </s> <s> On ju nende kaasabil tänaseks siit ilmast lahkunud üle kümne Lääne-Niiluse viiruse ohvri . </s> <s> Augustis ja septembris oli sääsetõrje tavaliseks uudismaterjaliks siinsetele ajakirjanikele . </s> <s> Ärevate rindeteadetena kanti ette uute haigestumisjuhtumite ja viiruseleidude kohti . </s> <s> Inimeste ja sääskedes pesitseva viiruse vahelise sõja rindejoon liikus New Yorgist üha kaugemale . </s> </p>
+<p> <s> Linnas endas aga tegeldi pideva ja süstemaatilise hävituskampaaniaga . </s> <s> Teadaanded öistest mürgitamisaktsioonidest muutusid juba sedavõrd monotoonseks litaaniaks , et isegi otse koduakna taha planeeritud mürgipihustamised hakkasid pisitasa mõjuma tüütu nuhtlusena . </s> </p>
+<p> <s> Mürgitamine tõi kaasa ka järgmise uudistelaine , mis kirjeldas linnalegendilikke lugusid inimestest , kes on jäänud mürgipritsimise ajal otse mürgijoa ette - tulemuseks viirushaigusega üpris sarnased halva enesetunde ilmingud . </s> <s> Järgnes mürgitamisvastase rahvaliikumise teke ja New Yorgi linnavalitsuse kohtusse kaebamine mürgitamiste keelustamise eesmärgiga . </s> <s> Hagi jäeti rahuldamata . </s> <s> Lõpuks sekkus lisaks kohtunikule sääsetõrjesse ka ilmataat - jahenemine muutis sääsetõrje mõttetuks . </s> </p>
+<p> <s> Mullune lahing sääskedega läks New Yorgile maksma 30 miljonit dollarit ehk üle poole miljardi krooni . </s> <s> Pole kahtlust , et heitlus jätkub ka sel aastal . </s> <s> Lahinguks valmistub ka naabermaa Kanada , kus on mobiliseeritud piirivalvekanad . </s> <s> Nende vaprate lindude ülesandeks on oma nahal järele proovida sääsehammustused ja võimalikud viirused . </s> </p>
+<p> <s> Nimelt vajab Lääne-Niiluse viirus oma levikuks lisaks sääskedele ka linde , kelle veres paljuneda . </s> <s> Piiri äärde paigutatud kanu pidevalt jälgides loodavadki kanadalased ohtliku viiruse ebaseaduslikust immigreerumisest täppisinfot saada . </s> </p>
+<p> <s> Sääskedeta uusaastat Sullegi , armas lugeja ! </s> </p></div5>
+            </div4>
+            <div4 type="alamrubriik">
+              <div5 type="artikkel"><head> Mudilase rõivad maksavad 20 000 krooni </head>
+<p> <bibl> <author> <s> John Follain </s> </author> </bibl> </p>
+<p rend="kaldkiri"> <s> The Sunday Times </s> </p>
+<p> <s> Vähesed moekujundajad peavad taluma kliente , kes nende hindamatut loomingut selga proovides sellele pitsakatet või shokolaadijäätist pudistavad . </s> <s> Kuid Itaalia disainer <hi rend="rasvane"> Stefano Cavalleri </hi> ( 49 ) riietab rikaste ja kuulsate võsukesi : tema rõivad ehivad nii <hi rend="rasvane"> Madonna </hi> kui ka <hi rend="rasvane"> Gillian Andersoni </hi> lapsi . </s> </p>
+<p> <s> “ Iga kord , kui laps mu loomingule jogurtit tilgutab , murdub mul süda sees . </s> <s> Aga mu naine on rohkem mammalik . </s> <s> Ta on minust praktilisem : ta ütleb vaid , et see tuleb pesus välja , ” räägib Cavalleri , kes koos oma naise <hi rend="rasvane"> Imeldega </hi> asutas I Pinco Pallino ( kõnekeelne väljend , mis tõlkes tähendab Hr Eikeegi ) , mida nad juhivad idüllilises maakohas Alpide jalamil Bergamo linna lähedal asuvast ateljeest . </s> </p>
+<p> <s> Ebalevale algusele vaatamata on firma kasvanud ettevõtteks , mis meeleldi nimetab end laste kõrgmoe Chaneliks : siit tulevad mõningad kõige kallimad põngerjate rõivad , mida raha eest osta saab . </s> </p>
+<p> <s> Paar kohtus ja otsustas firma asutada 20 aastat tagasi . </s> <s> “ Laste mood ei ulatunud tollal kaugemale kuldnööpidega meremehekostüümidest . </s> <s> Sõitsime ringi mööda Itaaliat - Milanost Palermoni , auto näidistest tulvil . </s> <s> Otsisime igas linnas üles kõige ilusama poe ja alustasime juttu . </s> <s> Inimesi polnud kerge veenda , ” meenutas Stefano . </s> </p>
+<p> <s> Murrang saabus siis , kui Milano kaubamaja Via della Spigal , kus Prada ja Ferre seisavad kõrvu Dolce &amp; Gabbanaga , pani I Pinco Pallino 2-14aastastele lastele mõeldud rõivad välja kaupluseaknale . </s> <s> Äkitselt leidis firma end Vogue Bambini esikaanelt . </s> <s> Täna võivad rahakad lapsevanemad koos võsukestega külastada kauplustevõrku , mis ulatub Knightsbridge'ist Champs Elysees'ni ja New Yorgi Madison Avenue'st Taipeini . </s> </p>
+<p> <s> Massiturgu siiski välditakse , nagu näitas tõik , et viimastel laste moeetendustel Firenzes pääses firma laoruumidesse vaid kutsetega ning ostjatele pakuti jooke kuldäärega peekritest . </s> <s> Suurbritannias tarnib Pinco Pallino sarja vaid Harrods , samas kui kahel Londoni ja ühel Nottinghami kaubamajal lubatakse välja panna vaid igapäevasemaid , odavama 1950s sarja tooteid . </s> </p>
+<p> <s> Kõige odavamad selle hinnaklassi rõivad on T-särgid , mis maksavad umbes tuhat krooni . </s> <s> Täielik tütarlapse rõivakomplekt tippsarjast , näiteks lilleaplikatsioonidega villane seelik , puuvillane ülaosa , kampsun ja jakk , läheb maksma üle 22 000 krooni . </s> <s> Ja kui teie laps soovib veel juurde sobivat käekotti , tuleb lisada 2600 krooni . </s> </p>
+<p> <s> “ Inimesed ostavad neid rõivaid , kuna need on nii ebatavalised , nii erinevad kõigist teistest , ” kinnitab Harrodsi ostja <hi rend="rasvane"> Julia Coak </hi> . </s> <s> “ Firmamärk pole nii tuntud kui Armani , aga rõivad on heast materjalist , ilusa tikandiga ja väga väljapeetud . </s> <s> Ilus kleit meeldib igale väikesele tüdrukule . ” </s> </p>
+<p> <s> Oma järgmise talvekollektsiooni jaoks kavandab Stefano reisi Skandinaaviasse koos kuueaastase poja <hi rend="rasvane"> Giovanniga </hi> , kes on tõusnud Pinco Pallino nõustaja rolli . </s> <s> “ Ta on meie inspiratsiooniallikas : läheme koos mõnda kauplusse ja ta ütleb : “ See on kohutav , ” ” jutustab Imelde . </s> <s> “ Ta astub ateljeest läbi ja mõnikord annab ta halvustava hinnangu . </s> <s> Kuid Pinco Pallino sarja suhtes on ta pisut kõhklev , argisem 1950s kollektsioon huvitab teda rohkem . ” </s> </p>
+<p> <s> Paar tõmbab harja turri , kui neilt küsida , kas nende pööraselt kõrged hinnad ei muuda last moeripatsiks või , veelgi hullem , hellitatud jõmpsikaks . </s> </p>
+<p> <s> “ Arvan , et lapsi ei huvita , palju riided maksavad . </s> <s> Neile meie kujundatud rõivaid ostes seisneb risk vaid selles , et nad hakkavad hindama ilusaid asju . </s> <s> Ja kui sul on silma ilu jaoks , siis elad sa paremini . ” </s> <s> Ma ei oska arvata , kui paljud lapsevanemad sellega nõustuvad . </s> </p></div5>
+            </div4>
+          </div3>
+          <div3 type="rubriik">
+            <head> AUTO </head>
+            <div4 type="alamrubriik">
+              <div5 type="artikkel"><head> TÜÜPILINE JAAPANLANE </head>
+<p> <s> Uue generatsiooni Honda Civic on esialgu saadaval vaid neljaukselise sedaanina . </s> </p></div5>
+              <div5 type="artikkel"><head> Civicu seitsmes põlvkond </head>
+<p> <bibl> <author> <s> Toomas Vabamäe </s> </author> </bibl> </p>
+<p rend="kaldkiri"> <s> toomas.vabamae@ekspress.ee </s> </p>
+<p> <s> Minu esimene lähem tutvus uue põlvkonna Honda Civicuga osutus üsna valuliseks . </s> <s> Sedaankerega Civicu pakiruumi luugi paigalhoidmiseks mõeldud vedrud osutusid nii pehmeteks , et hoogsalt avatud luuk kohe uuesti alla sadas . </s> <s> Õnnetuseks olin ma juba jõudnud pakiruumi koti järele kummarduda . </s> <s> Koti saingi kätte , aga “ kaasaandena ” tekkis otsmikule paras muhk . </s> <s> Veel nädal aega hiljem tuletas see meelde , et ühtki tundmatut asja ei saa päris pimesi usaldada . </s> </p>
+<p rend="rasvane"> <s> Moetrendi kiiluvees </s> </p>
+<p> <s> Õnneks oli intsident pakiruumi luugiga ainus tõsiselt ebameeldiv kogemus . </s> <s> Üldiselt on seitsmenda generatsiooni Civic täitsa kobe auto . </s> <s> Eriti silmatorkav on edasiminek siis , kui võrrelda uudismudelit tema eelkäijaga . </s> <s> Madal hind pole enam olnud eesmärk omaette ning seeläbi on lõpptulemus saanud tunduvalt parem . </s> </p>
+<p> <s> Väliselt ei ole erinevused kuigi suured . </s> <s> Civicu disain pole viimasel pooleteisel aastakümnel suuri vapustusi läbi teinud . </s> <s> Iga järgmine põlvkond tuletati sujuvalt eelmisest , arvestades parasjagu valitsevaid moetrende . </s> <s> Värske Civic-sedaangi on jäänud anonüümseks ja silmapaistmatuks . </s> <s> Säilinud on ka ainus vähegi individuaalsusele pretendeeriv motiiv - ebaproportsionaalselt suured esituled . </s> <s> Ainult siluett on muutunud saledamaks ning ülisujuvale lutsukommikujule on siia-sinna lisandunud tagasihoidlikke volte ja kante - et moodsam oleks . </s> </p>
+<p> <s> Kere juures toimunud olulised muutused jäävad aga varju . </s> <s> Üldpikkus ja telgede vahe on muutumatuna säilinud , kõik muu aga uus . </s> <s> Põhiline erinevus - salongiosa on nihkunud tublisti ettepoole . </s> <s> Selle arvelt on suurenenud nii pakiruum ( varem 420 , nüüd 450 liitrit ) kui ka salong ise . </s> <s> Märgatavalt mugavamaks on tehtud tagaistujate elu - katus on nüüd kõrgemal ja põrand tagaistme ees täiesti sile . </s> </p>
+<p> <s> Eelmine Civic oli arvatavasti üks viimaseid moodsaid sõiduautosid , kus salongi ventilatsiooni juhtiti hoobadega . </s> <s> Tühine detail , kuid täiesti sobimatu Honda <hi rend="kaldkiri">hi-tech</hi>-imagoga . </s> <s> Nüüd on ka Civicult hoovad kadunud ning õhuvahetust reguleeritakse kolme väikese nupuga . </s> <s> Need on pika ja astmelise käiguga nagu heal autoraadiol . </s> </p>
+<p rend="rasvane"> <s> Mootor tehti taltsamaks </s> </p>
+<p> <s> Neljaukselise Civicu mootorivalik algab endiselt 1,4 -liitrise bensiinimootoriga . </s> <s> Kuigi selle töömaht ja võimsus pole muutunud ( 1396 cm<hi rend="ülaindeks">3</hi> ja 90 hj ) , on jõuallikas nüüd palju kasutajasõbralikum . </s> </p>
+<p> <s> Kui Honda omal ajal 1,4 -liitrisest mahust töökindlad 90 hobujõudu kätte sai , oli tegemist tõsise tehnikasaavutusega . </s> <s> Ent jõu ja ökonoomia kompromiss polnud eriti õnnestunud . </s> <s> Et mootor korralikult veaks , tuli ta hirmsat moodi pöördesse ajada - maksimaalne moment saabus alles 4600 pöörde juures . </s> <s> Keskmine autosõitja niimoodi paarutada ei julge , pealegi ulatus keskmine kütusekulu 7,5 liitrini 100 km kohta . </s> <s> Uskumatu , aga veerandi võrra võimsam 1,5 -liitrine mootor nõudis sama maa läbimiseks vaid 6,6 liitrit . </s> </p>
+<p> <s> Nüüd on need vead parandatud . </s> <s> Mootor on jõulisem , selle jõu saab lihtsamalt kätte ja bensiinigi kulub liitri jagu vähem . </s> <s> Numbriliselt pole erinevused teab mis suured , kuid igapäevases liikluses jätab Civic 1.4 meeldivalt paindliku mulje . </s> <s> Vaid mürafoon on häirivalt vali . </s> <s> Esiteks on mootor liialt häälekas ja teiseks ei ole tehases peetud vajalikuks tagarataste koopaid korralikult mastiksiga katta . </s> </p>
+<p> <s> Mõlemad puudused on odavamatele Jaapanis valmistatud autodele üsna tüüpilised . </s> <s> Mitme auto puhul on isegi juhtunud , et Euroopast pärit variandid on tunduvalt vaiksemad Kaug-Idas tehtud liigikaaslastest . </s> <s> Mootorimüraga tuleb Civicu tulevastel omanikel leppida kui paratamatusega . </s> <s> Suvel turule jõudev viieukseline Civic hakkab meile tulema Inglismaalt , loodetavasti on see euroopa maitse kohaselt vaikne . </s> <s> Teemüra vastu aga pakub rohtu kohalik müügifirma , varustades kõik autod tagumiste logaritega . </s> </p>
+<p rend="rasvane"> <s> Elekter aitab rooli keerata </s> </p>
+<p> <s> Civicu vedrustus , varem samuti võidusõidust inspireeritud , on muutunud tublisti tsiviliseeritumaks . </s> <s> Ühtlasi kasvas seeläbi pisut ka pakiruum . </s> <s> Põgusa proovisõidu alusel ei saa juhitavuse kohta põhjapanevaid järeldusi teha , kuid sõidumugavusele on kindlasti kasuks tulnud kõrgema profiiliga rehvid . </s> <s> Meie kehvades teeoludes on 185/70 palju mõnusam kui sportlikkusele pretendeeriv 185/60 . </s> </p>
+<p> <s> Tõelist uuenduse hõngu pakub Civicu elektriline roolivõimendi . </s> <s> Iseenesest mõistlik lahendus - elektriline võimendi tarbib energiat ainult siis , kui rooli keeratakse . </s> <s> Rihmaga käitatav hüdrauliline võimendi seevastu koormab mootorit pidevalt . </s> <s> Kahjuks vaevab Civicut sama häda mis teistegi odavamate autode samalaadseid seadmeid - rool on üle võimendatud . </s> <s> Kui auto paigal seisab , võib sõna otseses mõttes ühe sõrmega rooli servast servani keerata . </s> <s> Kitsukeses parklas manööverdades on see täitsa meeldiv . </s> <s> Kuid ühtlasi on kaotsi läinud teetunnetus - tavalisel linnakiirusel on imelihtne rooli “ üle keerata ” , isegi ilma võimendi abita . </s> </p></div5>
+            </div4>
+            <div4 type="alamrubriik">
+              <div5 type="artikkel"><head> Mini Cooperi looja surnud </head>
+<p> <s> Jõulude ajal suri 77 aasta vanuselt John Cooper , legendaarse Mini sportversiooni Mini Cooper looja . </s> <s> Cooper leidis , et originaal-Mini 34 hobujõudu on vähe ja varustas auto üheliitrise võidusõidumootoriga . </s> <s> Hiljem mootori mahtu suurendati ning esialgu planeeritud 1000 auto asemel tehti Mini Coopereid üle 150 000. </s> <s> Kuulu järgi olla John Cooper saanud iga müüdud auto pealt kaks naela ning see oli üks põhjus , miks tootmine 1971. aastal lõpetati . </s> <s> 1990. aastal jõudis Mini Cooper uuesti vooluliinile ning viimane sellenimeline auto valmis mullu . </s> </p>
+<p> <s> Enne Mini-ajastut sai John Cooper tuntuks eduka vormelikonstruktorina . </s> <s> Tema Cooper-Climaxite säravaimaks saavutuseks jäi kaks vormel-1 tiitlit . </s> </p></div5>
+              <div5 type="artikkel"><head> Rekordiline müügiaasta </head>
+<p> <s> 2000. aastal müüdi Eestis 10 876 uut sõiduautot - see on kõigi aegade parim tulemus . </s> <s> Edukaimad automargid olid Volkswagen ( 959 müüdud autot ) , Peugeot ( 951 ) ja Toyota ( 927 ) . </s> <s> Populaarseimateks mudeliteks osutusid Volkswagen Golf/Bora/Beetle , Peugeot 206 ja Nissan Almera . </s> </p></div5>
+              <div5 type="artikkel"><head> Pariisist Dakari </head>
+<p> <s> 1. jaanuaril startis 23. </s> <s> Pariisi-Dakari maratonralli . </s> <s> Tänavune võistlus koosneb 20 etapist üldpikkusega umbes 10 000 kilomeetrit . </s> <s> Täna hommikul algas Maroko linnast Nadorist ralli esimene Aafrika-etapp . </s> <s> Ralli finish on Senegali pealinnas Dakaris 22. jaanuaril . </s> </p>
+<p> <s> Kuid korraldajad ja osalejad sattusid ägeda kriitikatule alla juba enne starti . </s> <s> Liikumine “ Mouvement Critique du Sport ” süüdistas neid “ ümbritseva vaesuse keskel luksusega eputamises “ . </s> </p>
+<p> <s> Osalejatel tuleb karta ka kõikvõimalikke terroriste ja lihtsalt röövleid . </s> <s> Mullusel rallil jäeti mitu etappi ära Alzheeria islamifundamentalistide rünnaku kartuses . </s> </p>
+<p> <s> <gap rend="hüperlink"/> </s> </p></div5>
+            </div4>
+          </div3>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI>
+</teiCorpus>
+</teiCorpus>

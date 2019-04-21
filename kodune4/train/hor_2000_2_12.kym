@@ -1,0 +1,3653 @@
+<s>
+Horisont    Horisont+0 //_S_ prop sg nom //
+2    2+0 //_N_ card ? digit //
+,    , //_Z_ Com //
+2000    2000+0 //_N_ card ? digit //
+</s>
+<s>
+ZIGFRIDS    Zigfrids+0 //_S_ prop sg nom //
+MEIEROVICS    Meierovics+0 //_S_ prop sg nom //
+BALTIKUMI    Baltikum+0 //_S_ prop sg gen //
+ANDEKAIM    andeka=im+0 //_A_ super sg nom //
+DIPLOMAAT    diplomaat+0 //_S_ com sg nom //
+</s>
+<p>
+<s>
+HEINO    Heino+0 //_S_ prop sg nom //
+ARUM&Auml;E    aru_m&auml;gi+0 //_S_ com sg gen //
+</s>
+</p>
+<p>
+<s>
+Zigfrids    Zigfrids+0 //_S_ prop sg nom //
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+,    , //_Z_ Com //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+v&auml;lisminister    v&auml;lis_minister+0 //_S_ com sg nom //
+aastail    aasta+il //_S_ com pl ad //
+1919-1924    1919-1924+0 //_N_ card ? digit //
+ja    ja+0 //_J_ crd //
+1924-1925    1924-1925+0 //_N_ card ? digit //
+tervelt    tervelt+0 //_D_ //
+kaheksas    kaheksa+s //_N_ card sg in l //
+erinevas    erinev+s //_A_ pos sg in //
+valitsuses    valitsus+s //_S_ com sg in //
+ning    ning+0 //_J_ crd //
+aastail    aasta+il //_S_ com pl ad //
+1921-1923    1921-1923+0 //_N_ card ? digit //
+ja    ja+0 //_J_ crd //
+1923-1924    1923-1924+0 //_N_ card ? digit //
+&uuml;htlasi    &uuml;htlasi+0 //_D_ //
+peaminister    pea_minister+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+l&otilde;unanaabrite    l&otilde;una_naaber+te //_S_ com pl gen //
+silmapaistvamaid    silma_paistva=m+id //_A_ comp pl part //
+poliitikuid    poliitik+id //_S_ com pl part //
+.    . //_Z_ Fst //
+</s>
+<s>
+Teda    tema+da //_P_ sg part //
+v&otilde;iks    v&otilde;i+ks //_V_ mod cond pres ps3 sg ps af //
+ehk    ehk+0 //_D_ //
+pidada    pida+da //_V_ main inf //
+isegi    isegi+0 //_D_ //
+Balti    balti+0 //_G_ //
+riikide    riik+de //_S_ com pl gen //
+k&otilde;ige    k&otilde;ige+0 //_D_ //
+andekamaks    andeka=m+ks //_A_ comp sg tr //
+diplomaadiks    diplomaat+ks //_S_ com sg tr //
+,    , //_Z_ Com //
+kelle    kes+0 //_P_ sg gen //
+nimega    nimi+ga //_S_ com sg kom //
+on    ole+0 //_V_ aux indic pres ps3 sg ps af //
+tihedasti    tihedasti+0 //_D_ //
+seotud    sidu+tud //_V_ main partic past imps //
+ka    ka+0 //_D_ //
+Eesti-L&auml;ti    Eesti-L&auml;ti+0 //_S_ prop sg gen //
+suhete    suhe+te //_S_ com pl gen //
+areng    areng+0 //_S_ com sg nom //
+iseseisvuse    ise_seisvus+0 //_S_ com sg gen //
+algusaastail    algus_aasta+il //_S_ com pl ad //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Eesti    Eesti+0 //_S_ prop sg gen //
+,    , //_Z_ Com //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+ja    ja+0 //_J_ crd //
+Leedu    Leedu+0 //_S_ prop sg gen //
+iseseisvumisaastatel    ise_seisvu=mis_aasta+tel //_S_ com pl ad //
+leidus    leidu+s //_V_ main indic impf ps3 sg ps af //
+palju    palju+0 //_D_ //
+skeptikuid    skeptik+id //_S_ com pl part //
+,    , //_Z_ Com //
+kes    kes+0 //_P_ pl nom //
+kinnitasid    kinnita+sid //_V_ main indic impf ps3 pl ps af //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+Balti    balti+0 //_G_ //
+v&auml;ikeriigid    v&auml;ike_riik+d //_S_ com pl nom //
+ei    ei+0 //_V_ aux neg //
+suuda    suut+0 //_V_ main indic pres ps neg //
+suver&auml;&auml;nsetena    suver&auml;&auml;nne+tena //_A_ pos pl es //
+p&uuml;sida    p&uuml;si+da //_V_ main inf //
+.    . //_Z_ Fst //
+</s>
+<s>
+Seda    see+da //_P_ sg part //
+p&otilde;hjendati    p&otilde;hjenda+ti //_V_ main indic impf imps af //
+mitte    mitte+0 //_D_ //
+&uuml;ksnes    &uuml;ksnes+0 //_D_ //
+geopoliitiliste    geo_poliitiline+te //_A_ pos pl gen //
+ja    ja+0 //_J_ crd //
+majanduslike    majanduslik+e //_A_ pos pl gen //
+argumentidega    argument+dega //_S_ com pl kom //
+,    , //_Z_ Com //
+vaid    vaid+0 //_J_ crd //
+ka    ka+0 //_D_ //
+kaalutlusega    kaalutlus+ga //_S_ com sg kom //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+neil    see+l //_P_ pl ad //
+rahvastel    rahvas+tel //_S_ com pl ad //
+puudub    puudu+b //_V_ main indic pres ps3 sg ps af //
+riikliku    riiklik+0 //_A_ pos sg gen //
+elu    elu+0 //_S_ com sg gen //
+korraldamiseks    korraldamine+ks //_S_ com sg tr //
+vajalik    vajalik+0 //_A_ pos sg nom //
+intellektuaalne    intellektuaalne+0 //_A_ pos sg nom //
+potentsiaal    potentsiaal+0 //_S_ com sg nom //
+-    &mdash; //_Z_ Dsh //
+riigimehed    riigi_mees+d //_S_ com pl nom //
+,    , //_Z_ Com //
+diplomaadid    diplomaat+d //_S_ com pl nom //
+,    , //_Z_ Com //
+v&auml;ejuhid    v&auml;e_juht+d //_S_ com pl nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+S&uuml;ndmuste    s&uuml;ndmus+te //_S_ com pl gen //
+k&auml;ik    k&auml;ik+0 //_S_ com sg nom //
+l&uuml;kkas    l&uuml;kka+s //_V_ main indic impf ps3 sg ps af //
+sellised    selline+d //_P_ pl nom //
+oletused    oletus+d //_S_ com pl nom //
+otsustavalt    otsustavalt+0 //_D_ //
+&uuml;mber    &uuml;mber+0 //_D_ //
+,    , //_Z_ Com //
+murrangumomentidel    murrangu_moment+del //_S_ com pl ad //
+on    ole+0 //_V_ aux indic pres ps3 pl ps af //
+eestlaste    eestlane+te //_S_ com pl gen //
+,    , //_Z_ Com //
+l&auml;tlaste    l&auml;tlane+te //_S_ com pl gen //
+ja    ja+0 //_J_ crd //
+leedulaste    leedulane+te //_S_ com pl gen //
+seas    seas+0 //_K_ post //
+ikka    ikka+0 //_D_ //
+leidunud    leidu+nud //_V_ main partic past ps //
+isikuid    isik+id //_S_ com pl part //
+,    , //_Z_ Com //
+kes    kes+0 //_P_ pl nom //
+suutsid    suut+sid //_V_ main indic impf ps3 pl ps af //
+rahva    rahvas+0 //_S_ com sg gen //
+huvides    huvi+des //_S_ com pl in //
+realiseerida    realiseeri+da //_V_ main inf //
+ajalook&auml;igu    aja_loo_k&auml;ik+0 //_S_ com sg gen //
+poolt    poolt+0 //_K_ post //
+pakutud    paku=tud+0 //_A_ pos //
+v&otilde;imalused    v&otilde;imalus+d //_S_ com pl nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+&Uuml;heks    &uuml;ks+ks //_P_ sg tr //
+selliseks    selline+ks //_P_ sg tr //
+tundmatuks    tundmatu+ks //_A_ pos sg tr //
+meheks    mees+ks //_S_ com sg tr //
+tundmatult    tundmatu+lt //_A_ pos sg abl //
+maalt    maa+lt //_S_ com sg abl //
+,    , //_Z_ Com //
+kes    kes+0 //_P_ sg nom //
+v&otilde;rdv&auml;&auml;rse    v&otilde;rd_v&auml;&auml;rne+0 //_A_ pos sg gen //
+tegijana    tegija+na //_S_ com sg es //
+t&otilde;usis    t&otilde;us+is //_V_ main indic impf ps3 sg ps af //
+Euroopa    Euroopa+0 //_S_ prop sg gen //
+poliitikute    poliitik+te //_S_ com pl gen //
+ja    ja+0 //_J_ crd //
+diplomaatide    diplomaat+de //_S_ com pl gen //
+perre    pere+0 //_S_ com sg adit //
+,    , //_Z_ Com //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+Zigfrids    Zigfrids+0 //_S_ prop sg nom //
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Maimuke    maimuke+0 //_S_ com sg nom //
+nimega    nimi+ga //_S_ com sg kom //
+Anna    Anna+0 //_S_ prop sg nom //
+</s>
+</p>
+<p>
+<s>
+Zigfrids    Zigfrids+0 //_S_ prop sg nom //
+Anna    Anna+0 //_S_ prop sg nom //
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+s&uuml;ndis    s&uuml;ndi+s //_V_ main indic impf ps3 sg ps af //
+5.    5.+0 //_N_ ord ? digit //
+veebruaril    veebruar+l //_S_ com sg ad //
+1887    1887+0 //_N_ card ? digit //
+Durbes    Durbe+s //_S_ prop sg in //
+.    . //_Z_ Fst //
+</s>
+<s>
+Tema    tema+0 //_P_ sg gen //
+isa    isa+0 //_S_ com sg nom //
+Herman    Herman+0 //_S_ prop sg nom //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+arst    arst+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+ristitud    risti=tud+0 //_A_ pos //
+juut    juut+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+kes    kes+0 //_P_ sg nom //
+k&otilde;rghariduse    k&otilde;rg_haridus+0 //_S_ com sg gen //
+oli    ole+i //_V_ aux indic impf ps3 sg ps af //
+omandanud    omanda+nud //_V_ main partic past ps //
+Tartu    Tartu+0 //_S_ prop sg gen //
+&uuml;likoolis    &uuml;li_kool+s //_S_ com sg in //
+.    . //_Z_ Fst //
+</s>
+<s>
+Ema    ema+0 //_S_ com sg nom //
+Anna    Anna+0 //_S_ prop sg nom //
+(    ( //_Z_ Opr //
+s&uuml;nd    s&uuml;nd+0 //_Y_ nominal ? //
+.    . //_Z_ Fst //
+Filhold    Filhold+0 //_S_ prop sg nom //
+)    ) //_Z_ Cpr //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+teatmeteoste    teatme_teos+te //_S_ com pl gen //
+andmetel    andmed+tel //_S_ com pl ad //
+l&auml;tlanna    l&auml;tlanna+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+kuid    kuid+0 //_J_ crd //
+Saksa    saksa+0 //_G_ //
+Riia    Riia+0 //_S_ prop sg gen //
+saatkonnas    saatkond+s //_S_ com sg in //
+oldi    ole+di //_V_ aux indic impf imps af //
+veendunud    veendu+nud //_V_ main partic past ps //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+tegemist    tegemine+t //_S_ com sg part //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+sakslannaga    sakslanna+ga //_S_ com sg kom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Ema    ema+0 //_S_ com sg nom //
+suri    sure+i //_V_ main indic impf ps3 sg ps af //
+paar    paar+0 //_N_ card sg nom l //
+p&auml;eva    p&auml;ev+0 //_S_ com sg part //
+p&auml;rast    p&auml;rast+0 //_K_ pre //
+poja    poeg+0 //_S_ com sg gen //
+s&uuml;ndi    s&uuml;nd+0 //_S_ com sg part //
+ja    ja+0 //_J_ crd //
+nagu    nagu+0 //_J_ sub //
+see    see+0 //_P_ sg nom //
+katoliiklikus    katoliiklik+s //_A_ pos sg in //
+traditsioonis    traditsioon+s //_S_ com sg in //
+m&otilde;nikord    m&otilde;ni_kord+0 //_D_ //
+esineb    esine+b //_V_ main indic pres ps3 sg ps af //
+,    , //_Z_ Com //
+pandi    pane+di //_V_ main indic impf imps af //
+maimukesele    maimuke+le //_S_ com sg all //
+teiseks    teine+ks //_N_ ord sg tr l //
+eesnimeks    ees_nimi+ks //_S_ com sg tr //
+Anna    Anna+0 //_S_ prop sg nom //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Noor    noor+0 //_A_ pos sg nom //
+Zigfrids    Zigfrids+0 //_S_ prop sg nom //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+tubli    tubli+0 //_A_ pos sg nom //
+,    , //_Z_ Com //
+andekas    andekas+0 //_A_ pos sg nom //
+ja    ja+0 //_J_ crd //
+t&ouml;&ouml;kas    t&ouml;&ouml;kas+0 //_A_ pos sg nom //
+poiss    poiss+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Ta    tema+0 //_P_ sg nom //
+&otilde;ppis    &otilde;ppi+s //_V_ main indic impf ps3 sg ps af //
+Riia    Riia+0 //_S_ prop sg gen //
+Kommertskoolis    kommerts_kool+s //_S_ com sg in //
+ja    ja+0 //_J_ crd //
+seej&auml;rel    see_j&auml;rel+0 //_D_ //
+kuulsas    kuulus+s //_A_ pos sg in //
+Riia    Riia+0 //_S_ prop sg gen //
+pol&uuml;tehnilises    pol&uuml;_tehniline+s //_A_ pos sg in //
+instituudis    instituut+s //_S_ com sg in //
+.    . //_Z_ Fst //
+</s>
+<s>
+P&auml;rast    p&auml;rast+0 //_K_ pre //
+k&otilde;rgkooli    k&otilde;rg_kool+0 //_S_ com sg gen //
+l&otilde;petamist    l&otilde;petamine+t //_S_ com sg part //
+1911    1911+0 //_N_ card ? digit //
+v&otilde;is    v&otilde;i+s //_V_ mod indic impf ps3 sg ps af //
+ta    tema+0 //_P_ sg nom //
+oma    oma+0 //_P_ sg gen //
+nime    nimi+0 //_S_ com sg gen //
+taha    taha+0 //_K_ post //
+kirjutada    kirjuta+da //_V_ main inf //
+l&uuml;hendi    l&uuml;hend+0 //_S_ com sg gen //
+cand    cand+0 //_T_ //
+.    . //_Z_ Fst //
+rer    rer+0 //_T_ //
+.    . //_Z_ Fst //
+merc    merc+0 //_T_ //
+.    . //_Z_ Fst //
+-    &mdash; //_Z_ Dsh //
+majanduskandidaat    majandus_kandidaat+0 //_S_ com sg nom //
+kaubanduse    kaubandus+0 //_S_ com sg gen //
+alal    ala+l //_S_ com sg ad //
+.    . //_Z_ Fst //
+</s>
+<s>
+Esialgu    esi_algu+0 //_D_ //
+t&ouml;&ouml;tas    t&ouml;&ouml;ta+s //_V_ main indic impf ps3 sg ps af //
+Z.    Z.+0 //_Y_ nominal ? //
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+Riia    Riia+0 //_S_ prop sg gen //
+pankades    pank+des //_S_ com pl in //
+,    , //_Z_ Com //
+1916.    1916.+0 //_N_ ord ? digit //
+aastast    aasta+st //_S_ com sg el //
+aga    aga+0 //_J_ crd //
+Moskvas    Moskva+s //_S_ prop sg in //
+riigipangas    riigi_pank+s //_S_ com sg in //
+.    . //_Z_ Fst //
+</s>
+<s>
+Ta    tema+0 //_P_ sg nom //
+sukeldus    sukeldu+s //_V_ main indic impf ps3 sg ps af //
+&uuml;hiskondlikku    &uuml;hiskondlik+0 //_A_ pos sg adit //
+ja    ja+0 //_J_ crd //
+poliitikaellu    poliitika_elu+0 //_S_ com sg adit //
+.    . //_Z_ Fst //
+</s>
+<s>
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+asja    asi+0 //_S_ com sg part //
+ajas    aja+s //_V_ main indic impf ps3 sg ps af //
+ta    tema+0 //_P_ sg nom //
+p&otilde;genikekomiteedes    p&otilde;genik+e_komitee+des //_S_ com pl in //
+,    , //_Z_ Com //
+l&auml;ti    l&auml;ti+0 //_G_ //
+rahvusv&auml;eosade    rahvus_v&auml;e_osa+de //_S_ com pl gen //
+moodustamisega    moodusta=mine+ga //_S_ com sg kom //
+tegelevas    tegele=v+s //_A_ pos sg in //
+komitees    komitee+s //_S_ com sg in //
+ja    ja+0 //_J_ crd //
+mujal    mujal+0 //_D_ //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Iseseisvuse    ise_seisvus+0 //_S_ com sg gen //
+eest    eest+0 //_K_ post //
+</s>
+</p>
+<p>
+<s>
+P&auml;rast    p&auml;rast+0 //_K_ pre //
+Veebruarirevolutsiooni    veebruari_revolutsioon+0 //_S_ com sg part //
+tuli    tule+i //_V_ main indic impf ps3 sg ps af //
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+Riiga    Riia+0 //_S_ prop sg adit //
+,    , //_Z_ Com //
+esimesed    esimene+d //_N_ ord pl nom l //
+diplomaadikogemused    diplomaadi_kogemus+d //_S_ com pl nom //
+sai    saa+i //_V_ main indic impf ps3 sg ps af //
+ta    tema+0 //_P_ sg nom //
+l&auml;bir&auml;&auml;kimistel    l&auml;bi_r&auml;&auml;kimine+tel //_S_ com pl ad //
+Vene    vene+0 //_S_ com sg gen //
+Ajutise    ajutine+0 //_A_ pos sg gen //
+Valitsusega    valitsus+ga //_S_ com sg kom //
+Petrogradis    Petrograd+s //_S_ prop sg in //
+.    . //_Z_ Fst //
+</s>
+<s>
+Tookord    too_kord+0 //_D_ //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+olukord    olu_kord+0 //_S_ com sg nom //
+v&auml;ga    v&auml;ga+0 //_D_ //
+komplitseeritud    komplitseeritud+0 //_A_ pos //
+.    . //_Z_ Fst //
+</s>
+<s>
+Saksa    saksa+0 //_G_ //
+v&auml;ed    v&auml;gi+d //_S_ com pl nom //
+olid    ole+id //_V_ aux indic impf ps3 pl ps af //
+juba    juba+0 //_D_ //
+1915    1915+0 //_N_ card ? digit //
+okupeerinud    okupeeri+nud //_V_ main partic past ps //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+l&otilde;unaosa    l&otilde;una_osa+0 //_S_ com sg gen //
+kuni    kuni+0 //_K_ pre //
+Daugava    Daugava+0 //_S_ prop sg gen //
+j&otilde;eni    j&otilde;gi+ni //_S_ com sg term //
+ja    ja+0 //_J_ crd //
+umbkaudu    umb_kaudu+0 //_D_ //
+kolmveerand    kolm_veerand+0 //_S_ com sg nom //
+miljonit    miljon+t //_N_ card sg part l //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+elanikku    elanik+0 //_S_ com sg part //
+evakueerus    evakueeru+s //_V_ main indic impf ps3 sg ps af //
+tagalasse    tagala+sse //_S_ com sg ill //
+.    . //_Z_ Fst //
+</s>
+<s>
+L&auml;tlased    l&auml;tlane+d //_S_ com pl nom //
+arendasid    arenda+sid //_V_ main indic impf ps3 pl ps af //
+siiski    siiski+0 //_D_ //
+intensiivset    intensiivne+t //_A_ pos sg part //
+poliitilist    poliitiline+t //_A_ pos sg part //
+elu    elu+0 //_S_ com sg part //
+ning    ning+0 //_J_ crd //
+kujunes    kujune+s //_V_ main indic impf ps3 sg ps af //
+v&auml;lja    v&auml;lja+0 //_D_ //
+parteide    partei+de //_S_ com pl gen //
+s&uuml;steem    s&uuml;steem+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Pahempoolsed    pahem_poolne+d //_A_ pos pl nom //
+pidasid    pida+sid //_V_ main indic impf ps3 pl ps af //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+saatust    saatus+t //_S_ com sg part //
+seotuks    seotud+ks //_A_ pos sg tr //
+Venemaaga    Vene_maa+ga //_S_ prop sg kom //
+,    , //_Z_ Com //
+parempoolsete    parem_poolne+te //_A_ pos pl gen //
+seas    seas+0 //_K_ post //
+leidus    leidu+s //_V_ main indic impf ps3 sg ps af //
+Berliini    Berliin+0 //_S_ prop sg gen //
+kursi    kurss+0 //_S_ com sg gen //
+pooldajaid    pooldaja+id //_S_ com pl part //
+,    , //_Z_ Com //
+kuid    kuid+0 //_J_ crd //
+rahva    rahvas+0 //_S_ com sg gen //
+hulgas    hulgas+0 //_K_ post //
+levis    levi+s //_V_ main indic impf ps3 sg ps af //
+&uuml;ha    &uuml;ha+0 //_D_ //
+enam    enam+0 //_D_ //
+iseseisvuse    ise_seisvus+0 //_S_ com sg gen //
+idee    idee+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Ka    ka+0 //_D_ //
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+,    , //_Z_ Com //
+&uuml;ks    &uuml;ks+0 //_N_ card sg nom l //
+Maaliidu    maa_liit+0 //_S_ com sg gen //
+asutajaid    asutaja+id //_S_ com pl part //
+,    , //_Z_ Com //
+asus    asu+s //_V_ main indic impf ps3 sg ps af //
+v&otilde;itlema    v&otilde;itle+ma //_V_ main sup ps ill //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+iseseisvuse    ise_seisvus+0 //_S_ com sg gen //
+eest    eest+0 //_K_ post //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Tunnustus    tunnustus+0 //_S_ com sg nom //
+tuli    tule+i //_V_ main indic impf ps3 sg ps af //
+enne    enne+0 //_K_ pre //
+iseseisvust    ise_seisvus+t //_S_ com sg part //
+!    ! //_Z_ Exc //
+</s>
+</p>
+<p>
+<s>
+Saksa    saksa+0 //_G_ //
+okupatsiooni    okupatsioon+0 //_S_ com sg gen //
+p&auml;evil    p&auml;ev+il //_S_ com pl ad //
+kuulus    kuulu+s //_V_ main indic impf ps3 sg ps af //
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+nende    see+de //_P_ pl gen //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+poliitikute    poliitik+te //_S_ com pl gen //
+sekka    sekka+0 //_K_ post //
+,    , //_Z_ Com //
+kes    kes+0 //_P_ pl nom //
+uskusid    usku+sid //_V_ main indic impf ps3 pl ps af //
+Saksamaa    Saksa_maa+0 //_S_ prop sg gen //
+l&uuml;&uuml;asaamist    l&uuml;&uuml;a_saamine+t //_S_ com sg part //
+ja    ja+0 //_J_ crd //
+Entent'i    Entent+0 //_S_ prop sg gen //
+v&otilde;itu    v&otilde;it+0 //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+1918    1918+0 //_N_ card ? digit //
+s&otilde;itis    s&otilde;it+is //_V_ main indic impf ps3 sg ps af //
+ta    tema+0 //_P_ sg nom //
+Londonisse    London+sse //_S_ prop sg ill //
+selgitamaks    selgita+maks //_V_ main sup ps tr //
+l&auml;tlaste    l&auml;tlane+te //_S_ com pl gen //
+iseseisvusp&uuml;&uuml;deid    ise_seisvus_p&uuml;&uuml;e+id //_S_ com pl part //
+ja    ja+0 //_J_ crd //
+taotlemaks    taotle+maks //_V_ main sup ps tr //
+Briti    briti+0 //_G_ //
+valitsuse    valitsus+0 //_S_ com sg gen //
+abi    abi+0 //_S_ com sg part //
+selle    see+0 //_P_ sg gen //
+realiseerimisel    realiseerimine+l //_S_ com sg ad //
+.    . //_Z_ Fst //
+</s>
+<s>
+Londonis    London+s //_S_ prop sg in //
+kujunesid    kujune+sid //_V_ main indic impf ps3 pl ps af //
+tal    tema+l //_P_ sg ad //
+tihedad    tihe+d //_A_ pos pl nom //
+suhted    suhe+d //_S_ com pl nom //
+Ants    Ants+0 //_S_ prop sg nom //
+Piibuga    Piip+ga //_S_ prop sg kom //
+,    , //_Z_ Com //
+kes    kes+0 //_P_ sg nom //
+oli    ole+i //_V_ aux indic impf ps3 sg ps af //
+kohale    kohale+0 //_D_ //
+j&otilde;udnud    j&otilde;ud+nud //_V_ main partic past ps //
+juba    juba+0 //_D_ //
+aprillis    aprill+s //_S_ com sg in //
+1918    1918+0 //_N_ card ? digit //
+ja    ja+0 //_J_ crd //
+osalt    osalt+0 //_D_ //
+Soome    Soome+0 //_S_ prop sg gen //
+esindaja    esindaja+0 //_S_ com sg gen //
+Rudolf    Rudolf+0 //_S_ prop sg nom //
+Holsti    Holst+0 //_S_ prop sg gen //
+abiga    abi+ga //_S_ com sg kom //
+poliitikaellu    poliitika_elu+0 //_S_ com sg adit //
+sisse    sisse+0 //_D_ //
+elanud    ela+nud //_V_ main partic past ps //
+.    . //_Z_ Fst //
+</s>
+<s>
+N&uuml;&uuml;d    n&uuml;&uuml;d+0 //_D_ //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+A.    A.+0 //_Y_ nominal ? //
+Piibul    Piip+l //_S_ prop sg ad //
+omakorda    oma_korda+0 //_D_ //
+v&otilde;imalus    v&otilde;imalus+0 //_S_ com sg nom //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+kolleegile    kolleeg+le //_S_ com sg all //
+head    hea+d //_A_ pos sg part //
+n&otilde;u    n&otilde;u+0 //_S_ com sg part //
+anda    and+a //_V_ main inf //
+ja    ja+0 //_J_ crd //
+m&otilde;ne    m&otilde;ni+0 //_P_ sg gen //
+vajaliku    vajalik+0 //_A_ pos sg gen //
+isiku    isik+0 //_S_ com sg gen //
+juurde    juurde+0 //_K_ post //
+teed    tee+d //_S_ com sg part //
+sillutada    silluta+da //_V_ main inf //
+.    . //_Z_ Fst //
+</s>
+<s>
+Suuresti    suuresti+0 //_D_ //
+t&auml;nu    t&auml;nu+0 //_K_ pre //
+Meierovicsi    Meierovics+0 //_S_ prop sg gen //
+selgitust&ouml;&ouml;le    selgitus_t&ouml;&ouml;+le //_S_ com sg all //
+teatas    teata+s //_V_ main indic impf ps3 sg ps af //
+Briti    briti+0 //_G_ //
+v&auml;lisminister    v&auml;lis_minister+0 //_S_ com sg nom //
+Arthur    Arthur+0 //_S_ prop sg nom //
+James    James+0 //_S_ prop sg nom //
+Balfour    Balfour+0 //_S_ prop sg nom //
+11.    11.+0 //_N_ ord ? digit //
+novembril    november+l //_S_ com sg ad //
+1918    1918+0 //_N_ card ? digit //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+Suurbritannia    Suur_britannia+0 //_S_ prop sg gen //
+valitsus    valitsus+0 //_S_ com sg nom //
+tunnustab    tunnusta+b //_V_ main indic pres ps3 sg ps af //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+Rahvusn&otilde;ukogu    rahvus_n&otilde;u_kogu+0 //_S_ com sg part //
+de    de+0 //_T_ //
+facto    facto+0 //_T_ //
+iseseisva    ise_seisev+0 //_A_ pos sg gen //
+asutusena    asutus+na //_S_ com sg es //
+.    . //_Z_ Fst //
+</s>
+<s>
+Niisiis    nii_siis+0 //_D_ //
+tunnustas    tunnusta+s //_V_ main indic impf ps3 sg ps af //
+Briti    briti+0 //_G_ //
+valitsus    valitsus+0 //_S_ com sg nom //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+Vabariiki    vaba_riik+0 //_S_ com sg part //
+de    de+0 //_T_ //
+facto    facto+0 //_T_ //
+juba    juba+0 //_D_ //
+enne    enne+0 //_K_ pre //
+viimase    viimane+0 //_A_ pos sg gen //
+iseseisvuse    ise_seisvus+0 //_S_ com sg gen //
+v&auml;ljakuulutamist    v&auml;lja_kuulutamine+t //_S_ com sg part //
+18.    18.+0 //_N_ ord ? digit //
+novembril    november+l //_S_ com sg ad //
+.    . //_Z_ Fst //
+</s>
+<s>
+Ajutine    ajutine+0 //_A_ pos sg nom //
+Valitsus    valitsus+0 //_S_ com sg nom //
+moodustati    moodusta+ti //_V_ main indic impf imps af //
+19.    19.+0 //_N_ ord ? digit //
+novembril    november+l //_S_ com sg ad //
+,    , //_Z_ Com //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+peaministriks    pea_minister+ks //_S_ com sg tr //
+sai    saa+i //_V_ main indic impf ps3 sg ps af //
+Karlis    Karl+s //_S_ prop sg in //
+Ulmanis    Ulmanis+0 //_S_ prop sg nom //
+,    , //_Z_ Com //
+v&auml;lisministriks    v&auml;lis_minister+ks //_S_ com sg tr //
+Zigfrids    Zigfrids+0 //_S_ prop sg nom //
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+&ldquo;    &ldquo; //_Z_ Oqu //
+Poliitikakoolis    poliitika_kool+s //_S_ com sg in //
+&rdquo;    &rdquo; //_Z_ Cqu //
+Pariisis    Pariis+s //_S_ prop sg in //
+</s>
+</p>
+<p>
+<s>
+Jaanuaris    jaanuar+s //_S_ com sg in //
+1919    1919+0 //_N_ card ? digit //
+Pariisis    Pariis+s //_S_ prop sg in //
+t&ouml;&ouml;d    t&ouml;&ouml;+d //_S_ com sg part //
+alustanud    alusta=nud+0 //_A_ pos //
+suurejoonelisele    suure_jooneline+le //_A_ pos sg all //
+rahukonverentsile    rahu_konverents+le //_S_ com sg all //
+s&otilde;itsid    s&otilde;it+sid //_V_ main indic impf ps3 pl ps af //
+ka    ka+0 //_D_ //
+Balti    balti+0 //_G_ //
+riikide    riik+de //_S_ com pl gen //
+delegatsioonid    delegatsioon+d //_S_ com pl nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+omasse    oma+sse //_P_ sg ill //
+kuulus    kuulu+s //_V_ main indic impf ps3 sg ps af //
+m&otilde;istagi    m&otilde;istagi+0 //_D_ //
+Z.    Z.+0 //_Y_ nominal ? //
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+,    , //_Z_ Com //
+kellele    kes+le //_P_ sg all //
+,    , //_Z_ Com //
+nagu    nagu+0 //_J_ sub //
+teistelegi    teine+telegi //_P_ pl all //
+Balti    balti+0 //_G_ //
+riikide    riik+de //_S_ com pl gen //
+esindajatele    esindaja+tele //_S_ com pl all //
+,    , //_Z_ Com //
+kujunesid    kujune+sid //_V_ main indic impf ps3 pl ps af //
+Pariisis    Pariis+s //_S_ prop sg in //
+viibitud    viibi=tud+0 //_A_ pos //
+kuud    kuu+d //_S_ com pl nom //
+t&otilde;eliseks    t&otilde;eline+ks //_A_ pos sg tr //
+diplomaadikutse    diplomaadi_kutse+0 //_S_ com sg gen //
+omandamise    omanda=mine+0 //_S_ com sg gen //
+kooliks    kool+ks //_S_ com sg tr //
+.    . //_Z_ Fst //
+</s>
+<s>
+Rahukonverentsi    rahu_konverents+0 //_S_ com sg gen //
+ajal    aeg+l //_S_ com sg ad //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+Pariis    Pariis+0 //_S_ prop sg nom //
+maailmapoliitika    maa_ilma_poliitika+0 //_S_ com sg gen //
+pealinn    pea_linn+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+kus    kus+0 //_D_ //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+v&otilde;imalik    v&otilde;imalik+0 //_A_ pos sg nom //
+otseselt    otseselt+0 //_D_ //
+tutvuda    tutvu+da //_V_ main inf //
+nii    nii+0 //_D_ //
+erinevate    erinev+te //_A_ pos pl gen //
+riikide    riik+de //_S_ com pl gen //
+eesm&auml;rkide    ees_m&auml;rk+de //_S_ com pl gen //
+ja    ja+0 //_J_ crd //
+taktika    taktika+0 //_S_ com sg gen //
+kui    kui+0 //_J_ sub //
+ka    ka+0 //_D_ //
+diplomaatia    diplomaatia+0 //_S_ com sg gen //
+kui    kui+0 //_D_ //
+sellise    selline+0 //_P_ sg gen //
+k&ouml;&ouml;gipoolega    k&ouml;&ouml;gi_pool+ga //_S_ com sg kom //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Ebanormaalselt    eba_normaalselt+0 //_D_ //
+esinduslik    esinduslik+0 //_A_ pos sg nom //
+</s>
+</p>
+<p>
+<s>
+V&auml;lisministeeriumi    v&auml;lis_ministeerium+0 //_S_ com sg gen //
+praktilise    praktiline+0 //_A_ pos sg gen //
+juhtimise    juhtimine+0 //_S_ com sg gen //
+v&otilde;ttis    v&otilde;t+is //_V_ main indic impf ps3 sg ps af //
+Z.    Z.+0 //_Y_ nominal ? //
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+&uuml;le    &uuml;le+0 //_D_ //
+juulis    juuli+s //_S_ com sg in //
+1919    1919+0 //_N_ card ? digit //
+,    , //_Z_ Com //
+kui    kui+0 //_J_ sub //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+Ajutine    ajutine+0 //_A_ pos sg nom //
+Valitsus    valitsus+0 //_S_ com sg nom //
+p&auml;rast    p&auml;rast+0 //_K_ pre //
+Landeswehr'i    Landeswehr+0 //_S_ prop sg gen //
+purustamist    purusta=mine+t //_S_ com sg part //
+Liepajast    Liepaja+st //_S_ prop sg el //
+Riiga    Riia+0 //_S_ prop sg adit //
+saabus    saabu+s //_V_ main indic impf ps3 sg ps af //
+.    . //_Z_ Fst //
+</s>
+<s>
+Peagi    peagi+0 //_D_ //
+selgusid    selgu+sid //_V_ main indic impf ps3 pl ps af //
+tema    tema+0 //_P_ sg gen //
+hiilgavad    hiilgav+d //_A_ pos pl nom //
+poliitiku-    poliitik+0 //_S_ com sg gen //
+ja    ja+0 //_J_ crd //
+diplomaadiv&otilde;imed    diplomaadi_v&otilde;ime+d //_S_ com pl nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Milles    mis+s //_P_ sg in //
+need    see+d //_P_ pl nom //
+avaldusid    avaldu+sid //_V_ main indic impf ps3 pl ps af //
+?    ? //_Z_ Int //
+</s>
+</p>
+<p>
+<s>
+K&otilde;igepealt    k&otilde;ige_pealt+0 //_D_ //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+Z.    Z.+0 //_Y_ nominal ? //
+Meierovicsil    Meierovics+l //_S_ prop sg ad //
+v&auml;ga    v&auml;ga+0 //_D_ //
+esinduslik    esinduslik+0 //_A_ pos sg nom //
+v&auml;limus    v&auml;limus+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+&Uuml;ks    &uuml;ks+0 //_P_ sg nom //
+Poola    Poola+0 //_S_ prop sg gen //
+ajakirjanik    aja_kirjanik+0 //_S_ com sg nom //
+iseloomustas    ise_loomusta+s //_V_ main indic impf ps3 sg ps af //
+teda    tema+da //_P_ sg part //
+poola-keelses    poola-keelne+s //_A_ pos sg in //
+artiklis    artikkel+s //_S_ com sg in //
+prantsuskeelse    prantsus_keelne+0 //_A_ pos sg gen //
+v&auml;ljendiga    v&auml;ljend+ga //_S_ com sg kom //
+enormement    enormement+0 //_T_ //
+representable    representable+0 //_T_ //
+-    &mdash; //_Z_ Dsh //
+ebanormaalselt    eba_normaalselt+0 //_D_ //
+esinduslik    esinduslik+0 //_A_ pos sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Ajakirjaniku    aja_kirjanik+0 //_S_ com sg gen //
+s&otilde;nul    s&otilde;na+ul //_S_ com pl ad //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+tegemist    tegemine+t //_S_ com sg part //
+sihvaka    sihvakas+0 //_A_ pos sg gen //
+mehega    mees+ga //_S_ com sg kom //
+,    , //_Z_ Com //
+kelle    kes+0 //_P_ sg gen //
+silmist    silm+ist //_S_ com pl el //
+s&auml;rab    s&auml;ra+b //_V_ main indic pres ps3 sg ps af //
+vastu    vastu+0 //_D_ //
+s&uuml;gav    s&uuml;gav+0 //_A_ pos sg nom //
+intelligents    intelligents+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+mehisus    mehisus+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+tuli    tuli+0 //_S_ com sg nom //
+ja    ja+0 //_J_ crd //
+j&otilde;ud    j&otilde;ud+0 //_S_ com sg nom //
+ning    ning+0 //_J_ crd //
+kelle    kes+0 //_P_ sg gen //
+kogu    kogu+0 //_A_ pos //
+keha    keha+0 //_S_ com sg nom //
+reedab    reet+b //_V_ main indic pres ps3 sg ps af //
+mehelikku    mehelik+0 //_A_ pos sg part //
+tugevust    tugevus+t //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Kuid    kuid+0 //_J_ crd //
+m&otilde;istagi    m&otilde;istagi+0 //_D_ //
+polnud    ole+nud //_V_ main indic impf ps neg //
+meeldiv    meeldiv+0 //_A_ pos sg nom //
+v&auml;limus    v&auml;limus+0 //_S_ com sg nom //
+Meierovicsi    Meierovics+0 //_S_ prop sg gen //
+eduteel    edu_tee+l //_S_ com sg ad //
+otsustav    otsustav+0 //_A_ pos sg nom //
+tegur    tegur+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Peamiseks    peamine+ks //_A_ pos sg tr //
+olid    ole+id //_V_ main indic impf ps3 pl ps af //
+siiski    siiski+0 //_D_ //
+vaimsed    vaimne+d //_A_ pos pl nom //
+v&otilde;imed    v&otilde;ime+d //_S_ com pl nom //
+,    , //_Z_ Com //
+tahe    tahe+0 //_S_ com sg nom //
+ja    ja+0 //_J_ crd //
+iseloom    ise_loom+0 //_S_ com sg nom //
+:    : //_Z_ Col //
+kiire    kiire+0 //_A_ pos sg nom //
+m&otilde;tlemine    m&otilde;tlemine+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+v&auml;ga    v&auml;ga+0 //_D_ //
+hea    hea+0 //_A_ pos sg nom //
+v&otilde;&otilde;rkeelteoskus    v&otilde;&otilde;r_keel+te_oskus+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+v&otilde;ime    v&otilde;ime+0 //_S_ com sg nom //
+loogiliselt    loogiliselt+0 //_D_ //
+ning    ning+0 //_J_ crd //
+sisendusj&otilde;uliselt    sisendus_j&otilde;ulise=lt+0 //_D_ //
+oma    oma+0 //_P_ sg gen //
+seisukohti    seisu_koht+i //_S_ com pl part //
+esitada    esita+da //_V_ main inf //
+.    . //_Z_ Fst //
+</s>
+<s>
+Lisaks    lisa+ks //_S_ com sg tr //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+Z.    Z.+0 //_Y_ nominal ? //
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+v&auml;ga    v&auml;ga+0 //_D_ //
+kannatlik    kannatlik+0 //_A_ pos sg nom //
+ja    ja+0 //_J_ crd //
+kompromissivalmis    kompromissi_valmis+0 //_A_ pos sg nom //
+ka    ka+0 //_D_ //
+poliitiliste    poliitiline+te //_A_ pos pl gen //
+vastaste    vastane+te //_S_ com pl gen //
+suhtes    suhtes+0 //_K_ post //
+.    . //_Z_ Fst //
+</s>
+<s>
+Seda    see+da //_P_ sg part //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+juhtivatel    juhtiv+tel //_A_ pos pl ad //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+poliitikutel    poliitik+tel //_S_ com pl ad //
+t&otilde;esti    t&otilde;esti+0 //_D_ //
+vaja    vaja+0 //_D_ //
+,    , //_Z_ Com //
+sest    sest+0 //_J_ sub //
+sisepoliitilised    sise_poliitiline+d //_A_ pos pl nom //
+pinged    pinge+d //_S_ com pl nom //
+nii    nii+0 //_D_ //
+l&auml;tlaste    l&auml;tlane+te //_S_ com pl gen //
+endi    ise+0 //_P_ pl gen //
+vahel    vahel+0 //_K_ post //
+kui    kui+0 //_D_ //
+suhted    suhe+d //_S_ com pl nom //
+rahvusv&auml;hemustega    rahvus_v&auml;hemus+tega //_S_ com pl kom //
+olid    ole+id //_V_ main indic impf ps3 pl ps af //
+t&otilde;esti    t&otilde;esti+0 //_D_ //
+teravad    terav+d //_A_ pos pl nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+&uuml;ks    &uuml;ks+0 //_N_ card sg nom l //
+v&auml;heseid    v&auml;hene+id //_A_ pos pl part //
+,    , //_Z_ Com //
+kes    kes+0 //_P_ sg nom //
+p&auml;lvis    p&auml;lvi+s //_V_ main indic impf ps3 sg ps af //
+ka    ka+0 //_D_ //
+poliitiliste    poliitiline+te //_A_ pos pl gen //
+vastaste    vastane+te //_S_ com pl gen //
+lugupidamise    lugu_pidamine+0 //_S_ com sg gen //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+m&otilde;istis    m&otilde;ist+is //_V_ main indic impf ps3 sg ps af //
+h&auml;sti    h&auml;sti+0 //_D_ //
+,    , //_Z_ Com //
+kui    kui+0 //_J_ sub //
+t&auml;htsad    t&auml;htis+d //_A_ pos pl nom //
+on    ole+0 //_V_ main indic pres ps3 pl ps af //
+poliitikule    poliitik+le //_S_ com sg all //
+head    hea+d //_A_ pos pl nom //
+suhted    suhe+d //_S_ com pl nom //
+avalikkusega    avalikkus+ga //_S_ com sg kom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Ta    tema+0 //_P_ sg nom //
+vestles    vestle+s //_V_ main indic impf ps3 sg ps af //
+sageli    sageli+0 //_D_ //
+kodu-    kodu+0 //_S_ com sg gen //
+ja    ja+0 //_J_ crd //
+v&auml;lismaiste    v&auml;lis_maine+te //_A_ pos pl gen //
+ajakirjanikega    aja_kirjanik+ega //_S_ com pl kom //
+,    , //_Z_ Com //
+andis    and+is //_V_ main indic impf ps3 sg ps af //
+intervjuusid    intervjuu+sid //_S_ com pl part //
+ka    ka+0 //_D_ //
+Eesti    Eesti+0 //_S_ prop sg gen //
+lehtedele    leht+dele //_S_ com pl all //
+.    . //_Z_ Fst //
+</s>
+<s>
+&ldquo;    &ldquo; //_Z_ Oqu //
+P&auml;evalehe    p&auml;eva_leht+0 //_S_ com sg gen //
+&rdquo;    &rdquo; //_Z_ Cqu //
+esindaja    esindaja+0 //_S_ com sg nom //
+v&auml;itis    v&auml;it+is //_V_ main indic impf ps3 sg ps af //
+isegi    isegi+0 //_D_ //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+Eesti    Eesti+0 //_S_ prop sg gen //
+ajakirjanikel    aja_kirjanik+el //_S_ com pl ad //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+p&otilde;hjust    p&otilde;hjus+t //_S_ com sg part //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+kolleege    kolleeg+e //_S_ com pl part //
+nende    tema+de //_P_ pl gen //
+v&auml;lisministri    v&auml;lis_minister+0 //_S_ com sg gen //
+p&auml;rast    p&auml;rast+0 //_K_ post //
+kadestada    kadesta+da //_V_ main inf //
+.    . //_Z_ Fst //
+</s>
+<s>
+L&auml;ti    L&auml;ti+0 //_S_ prop sg nom //
+suutis    suut+is //_V_ main indic impf ps3 sg ps af //
+Meierovicsi    Meierovics+0 //_S_ prop sg gen //
+juhtimisel    juhtimine+l //_S_ com sg ad //
+teha    tege+a //_V_ main inf //
+oskuslikumalt    oskus=likumalt+0 //_D_ //
+v&auml;lispoliitilist    v&auml;lis_poliitiline+t //_A_ pos sg part //
+propagandat    propaganda+t //_S_ com sg part //
+kui    kui+0 //_J_ sub //
+Eesti    Eesti+0 //_S_ prop sg nom //
+ja    ja+0 //_J_ crd //
+anda    and+a //_V_ main inf //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+v&auml;lispoliitilistele    v&auml;lis_poliitiline+tele //_A_ pos pl all //
+&uuml;ritustele    &uuml;ritus+tele //_S_ com pl all //
+suuremat    suurem+t //_A_ comp sg part //
+s&auml;ra    s&auml;ra+0 //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+&Auml;&auml;rmiselt    &auml;&auml;rmiselt+0 //_D_ //
+komplitseeritud    komplitseeritud+0 //_A_ pos //
+oludes    olu+des //_S_ com pl in //
+aastail    aasta+il //_S_ com pl ad //
+1919-1920    1919-1920+0 //_N_ card ? digit //
+suutis    suut+is //_V_ main indic impf ps3 sg ps af //
+Ajutine    ajutine+0 //_A_ pos sg nom //
+Valitsus    valitsus+0 //_S_ com sg nom //
+edukalt    edukalt+0 //_D_ //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+riiklikke    riiklik+e //_A_ pos pl part //
+huve    huvi+e //_S_ com pl part //
+kaitsta    kaits+ta //_V_ main inf //
+.    . //_Z_ Fst //
+</s>
+<s>
+1919.    1919.+0 //_N_ ord ? digit //
+aasta    aasta+0 //_S_ com sg gen //
+s&uuml;gisel    s&uuml;gis+l //_S_ com sg ad //
+suudeti    suut+ti //_V_ main indic impf imps af //
+tagasi    tagasi+0 //_D_ //
+l&uuml;&uuml;a    l&ouml;&ouml;+a //_V_ main inf //
+vene    vene+0 //_G_ //
+ohvitseri    ohvitser+0 //_S_ com sg gen //
+Bermondt-Avalovi    Bermondt-Avalov+0 //_S_ prop sg gen //
+v&auml;gede    v&auml;gi+de //_S_ com pl gen //
+pealetung    peale_tung+0 //_S_ com sg nom //
+Riiale    Riia+le //_S_ prop sg all //
+ja    ja+0 //_J_ crd //
+j&auml;rgnevalt    j&auml;rgnevalt+0 //_D_ //
+tema    tema+0 //_P_ sg gen //
+saksa-vene    saksa-vene+0 //_G_ //
+palgav&auml;elased    palga_v&auml;elane+d //_S_ com pl nom //
+L&auml;tist    L&auml;ti+st //_S_ prop sg el //
+v&auml;lja    v&auml;lja+0 //_D_ //
+t&otilde;rjuda    t&otilde;rju+da //_V_ main inf //
+.    . //_Z_ Fst //
+</s>
+<s>
+Riiale    Riia+le //_S_ prop sg all //
+kriitilistel    kriitiline+tel //_A_ pos pl ad //
+p&auml;evadel    p&auml;ev+del //_S_ com pl ad //
+astus    astu+s //_V_ main indic impf ps3 sg ps af //
+ka    ka+0 //_D_ //
+Z.    Z.+0 //_Y_ nominal ? //
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+ajutiselt    ajutiselt+0 //_D_ //
+s&otilde;jav&auml;kke    s&otilde;ja_v&auml;gi+0 //_S_ com sg adit //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Saladiplomaatia    sala_diplomaatia+0 //_S_ com sg gen //
+ja    ja+0 //_J_ crd //
+j&otilde;uga    j&otilde;ud+ga //_S_ com sg kom //
+Venemaa    Vene_maa+0 //_S_ prop sg gen //
+vastu    vastu+0 //_K_ post //
+</s>
+</p>
+<p>
+<s>
+N.Venega    N._vene+ga //_S_ com sg kom //
+suhete    suhe+te //_S_ com pl gen //
+korraldamisel    korraldamine+l //_S_ com sg ad //
+kasutasid    kasuta+sid //_V_ main indic impf ps3 pl ps af //
+l&auml;tlased    l&auml;tlane+d //_S_ com pl nom //
+nii    nii+0 //_D_ //
+saladiplomaatiat    sala_diplomaatia+t //_S_ com sg part //
+kui    kui+0 //_D_ //
+j&otilde;udu    j&otilde;ud+0 //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+Eesti    Eesti+0 //_S_ prop sg gen //
+ja    ja+0 //_J_ crd //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+&uuml;histest    &uuml;hine+test //_A_ pos pl el //
+rahul&auml;bir&auml;&auml;kimistest    rahu_l&auml;bi_r&auml;&auml;kimine+test //_S_ com pl el //
+N.    N.+0 //_Y_ nominal ? //
+Venemaaga    Vene_maa+ga //_S_ prop sg kom //
+ei    ei+0 //_V_ aux neg //
+saanud    saa+nud //_V_ main indic impf ps neg //
+asja    asi+0 //_S_ com sg part //
+k&otilde;igepealt    k&otilde;ige_pealt+0 //_D_ //
+seet&otilde;ttu    see_t&otilde;ttu+0 //_D_ //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+osa    osa+0 //_S_ com sg nom //
+L&auml;tist    L&auml;ti+st //_S_ prop sg el //
+,    , //_Z_ Com //
+nimelt    nimelt+0 //_D_ //
+Latgale    Latgale+0 //_S_ prop sg nom //
+,    , //_Z_ Com //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+Punaarmee    puna_armee+0 //_S_ com sg gen //
+valduses    valdus+s //_S_ com sg in //
+.    . //_Z_ Fst //
+</s>
+<s>
+Kui    kui+0 //_J_ sub //
+L&auml;ti-N&otilde;ukogude    L&auml;ti-N&otilde;u_kogu+de //_S_ prop pl gen //
+salajastel    salajane+tel //_A_ pos pl ad //
+l&auml;bir&auml;&auml;kimistel    l&auml;bi_r&auml;&auml;kimine+tel //_S_ com pl ad //
+selgus    selgu+s //_V_ main indic impf ps3 sg ps af //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+Moskva    Moskva+0 //_S_ prop sg nom //
+ei    ei+0 //_V_ aux neg //
+soostu    soostu+0 //_V_ main indic pres ps neg //
+Latgalet    Latgale+t //_S_ prop sg part //
+loovutama    loovuta+ma //_V_ main sup ps ill //
+,    , //_Z_ Com //
+saavutas    saavuta+s //_V_ main indic impf ps3 sg ps af //
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+kokkuleppe    kokku_lepe+0 //_S_ com sg gen //
+Poolaga    Poola+ga //_S_ prop sg kom //
+ning    ning+0 //_J_ crd //
+Poola    Poola+0 //_S_ prop sg gen //
+v&auml;gede    v&auml;gi+de //_S_ com pl gen //
+abiga    abi+ga //_S_ com sg kom //
+saigi    saa+igi //_V_ main indic impf ps3 sg ps af //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg nom //
+Latgale    Latgale+0 //_S_ prop sg gen //
+omale    oma+le //_P_ sg all //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Valgat    Valga+t //_S_ prop sg part //
+jagamas    jaga+mas //_V_ main sup ps in //
+</s>
+</p>
+<p>
+<s>
+Ka    ka+0 //_D_ //
+vahekorra    vahe_kord+0 //_S_ com sg gen //
+korraldamisel    korraldamine+l //_S_ com sg ad //
+p&otilde;hja-    p&otilde;hi+0 //_S_ com sg gen //
+ja    ja+0 //_J_ crd //
+l&otilde;unanaabriga    l&otilde;una_naaber+ga //_S_ com sg kom //
+tuli    tule+i //_V_ main indic impf ps3 sg ps af //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+Ajutisel    ajutine+l //_A_ pos sg ad //
+Valitsusel    valitsus+l //_S_ com sg ad //
+ning    ning+0 //_J_ crd //
+isiklikult    isiklikult+0 //_D_ //
+v&auml;lisministril    v&auml;lis_minister+l //_S_ com sg ad //
+palju    palju+0 //_D_ //
+vaeva    vaev+0 //_S_ com sg part //
+n&auml;ha    n&auml;ge+a //_V_ main inf //
+.    . //_Z_ Fst //
+</s>
+<s>
+K&otilde;ige    k&otilde;ige+0 //_D_ //
+komplitseeritumaks    komplitseeri=tum+ks //_A_ comp sg tr //
+osutus    osutu+s //_V_ main indic impf ps3 sg ps af //
+piirik&uuml;simus    piiri_k&uuml;simus+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Nii    nii+0 //_D_ //
+L&auml;ti-Eesti    L&auml;ti-Eesti+0 //_S_ prop sg gen //
+kui    kui+0 //_J_ sub //
+L&auml;ti-Leedu    L&auml;ti-Leedu+0 //_S_ prop sg gen //
+piirialadel    piiri_ala+del //_S_ com pl ad //
+elas    ela+s //_V_ main indic impf ps3 sg ps af //
+segarahvastik    sega_rahvastik+0 //_S_ com sg nom //
+ning    ning+0 //_J_ crd //
+piiri    piir+0 //_S_ com sg gen //
+kindlaksm&auml;&auml;ramine    kindla+ks_m&auml;&auml;ra=mine+0 //_S_ com sg nom //
+etnilisel    etniline+l //_A_ pos sg ad //
+alusel    alus+l //_S_ com sg ad //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+raske    raske+0 //_A_ pos sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Eriti    eriti+0 //_D_ //
+teravaks    terav+ks //_A_ pos sg tr //
+kujunes    kujune+s //_V_ main indic impf ps3 sg ps af //
+Eesti    Eesti+0 //_S_ prop sg gen //
+ja    ja+0 //_J_ crd //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+vaidlus    vaidlus+0 //_S_ com sg nom //
+Valga    Valga+0 //_S_ prop sg gen //
+linna    linn+0 //_S_ com sg gen //
+&uuml;le    &uuml;le+0 //_K_ post //
+.    . //_Z_ Fst //
+</s>
+<s>
+S&uuml;gisel    s&uuml;gis+l //_S_ com sg ad //
+1919    1919+0 //_N_ card ? digit //
+korraldatud    korralda=tud+0 //_A_ pos //
+spetsiaalse    spetsiaalne+0 //_A_ pos sg gen //
+loenduse    loendus+0 //_S_ com sg gen //
+andmetel    andmed+tel //_S_ com pl ad //
+elas    ela+s //_V_ main indic impf ps3 sg ps af //
+Valgas    Valga+s //_S_ prop sg in //
+7064    7064+0 //_N_ card ? digit //
+eestlast    eestlane+t //_S_ com sg part //
+ja    ja+0 //_J_ crd //
+5496    5496+0 //_N_ card ? digit //
+l&auml;tlast    l&auml;tlane+t //_S_ com sg part //
+ning    ning+0 //_J_ crd //
+seega    seega+0 //_D_ //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+lahenduse    lahendus+0 //_S_ com sg gen //
+leidmine    leidmine+0 //_S_ com sg nom //
+raske    raske+0 //_A_ pos sg nom //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+1920.    1920.+0 //_N_ ord ? digit //
+aasta    aasta+0 //_S_ com sg gen //
+kevadel    kevad+l //_S_ com sg ad //
+p&otilde;hjustas    p&otilde;hjusta+s //_V_ main indic impf ps3 sg ps af //
+piiriprobleem    piiri_probleem+0 //_S_ com sg nom //
+Eesti    Eesti+0 //_S_ prop sg gen //
+ja    ja+0 //_J_ crd //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+vahel    vahel+0 //_K_ post //
+&uuml;snagi    &uuml;sna+gi //_D_ //
+terava    terav+0 //_A_ pos sg gen //
+konflikti    konflikt+0 //_S_ com sg gen //
+.    . //_Z_ Fst //
+</s>
+<s>
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+Asutava    asuta=v+0 //_A_ pos sg gen //
+Kogu    kogu+0 //_S_ com sg gen //
+valimiste    valimine+te //_S_ com pl gen //
+eel    eel+0 //_K_ post //
+p&uuml;&uuml;dsid    p&uuml;&uuml;d+sid //_V_ main indic impf ps3 pl ps af //
+parempoolsed    parem_poolne+d //_A_ pos pl nom //
+selle    see+0 //_P_ sg gen //
+k&uuml;simusega    k&uuml;simus+ga //_S_ com sg kom //
+loorbereid    loorber+id //_S_ com pl part //
+l&otilde;igata    l&otilde;ika+ta //_V_ main inf //
+ja    ja+0 //_J_ crd //
+alustasid    alusta+sid //_V_ main indic impf ps3 pl ps af //
+propagandakampaaniat    propaganda_kampaania+t //_S_ com sg part //
+Eesti    Eesti+0 //_S_ prop sg gen //
+vastu    vastu+0 //_K_ post //
+.    . //_Z_ Fst //
+</s>
+<s>
+Eesti    Eesti+0 //_S_ prop sg gen //
+ajakirjandus    aja_kirjandus+0 //_S_ com sg nom //
+ei    ei+0 //_V_ aux neg //
+j&auml;&auml;nud    j&auml;&auml;+nud //_V_ main indic impf ps neg //
+v&otilde;lgu    v&otilde;lg+u //_S_ com pl part //
+.    . //_Z_ Fst //
+</s>
+<s>
+Nii    nii+0 //_D_ //
+ajaloost    aja_lugu+st //_S_ com sg el //
+kui    kui+0 //_D_ //
+p&auml;evapoliitikast    p&auml;eva_poliitika+st //_S_ com sg el //
+otsiti    otsi+ti //_V_ main indic impf imps af //
+v&auml;lja    v&auml;lja+0 //_D_ //
+k&otilde;ik    k&otilde;ik+0 //_P_ sg nom //
+negatiivne    negatiivne+0 //_A_ pos sg nom //
+,    , //_Z_ Com //
+mida    mis+da //_P_ sg part //
+l&otilde;unanaabrile    l&otilde;una_naaber+le //_S_ com sg all //
+ette    ette+0 //_D_ //
+heita    heit+a //_V_ main inf //
+andis    and+is //_V_ main indic impf ps3 sg ps af //
+.    . //_Z_ Fst //
+</s>
+<s>
+Siin-seal    siin-seal+0 //_D_ //
+r&auml;&auml;giti    r&auml;&auml;ki+ti //_V_ main indic impf imps af //
+isegi    isegi+0 //_D_ //
+s&otilde;jajutte    s&otilde;ja_jutt+e //_S_ com pl part //
+.    . //_Z_ Fst //
+</s>
+<s>
+Valitsused    valitsus+d //_S_ com pl nom //
+s&auml;ilitasid    s&auml;ilita+sid //_V_ main indic impf ps3 pl ps af //
+siiski    siiski+0 //_D_ //
+k&uuml;lma    k&uuml;lm+0 //_A_ pos sg gen //
+vere    veri+0 //_S_ com sg gen //
+.    . //_Z_ Fst //
+</s>
+<s>
+Lepiti    leppi+ti //_V_ main indic impf imps af //
+kokku    kokku+0 //_D_ //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+piirijoone    piiri_joon+0 //_S_ com sg gen //
+m&auml;&auml;rab    m&auml;&auml;ra+b //_V_ main indic pres ps3 sg ps af //
+Eesti-L&auml;ti    Eesti-L&auml;ti+0 //_S_ prop sg gen //
+segakomisjon    sega_komisjon+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+mille    mis+0 //_P_ sg gen //
+esimeheks    esi_mees+ks //_S_ com sg tr //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+erapooletu    era_pooletu+0 //_A_ pos sg nom //
+Suurbritannia    Suur_britannia+0 //_S_ prop sg gen //
+kodanik    kodanik+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Komisjoni    komisjon+0 //_S_ com sg gen //
+esimees    esi_mees+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+Briti    briti+0 //_G_ //
+kolonel    kolonel+0 //_S_ com sg nom //
+Stephen    Stephen+0 //_S_ prop sg nom //
+Georg    Georg+0 //_S_ prop sg nom //
+Tallents    Tallents+0 //_S_ prop sg nom //
+otsustaski    otsusta+ski //_V_ main indic impf ps3 sg ps af //
+1.    1.+0 //_N_ ord ? digit //
+juulil    juuli+l //_S_ com sg ad //
+Valga    Valga+0 //_S_ prop sg gen //
+saatuse    saatus+0 //_S_ com sg gen //
+ja    ja+0 //_J_ crd //
+3.    3.+0 //_N_ ord ? digit //
+juulil    juuli+l //_S_ com sg ad //
+1920    1920+0 //_N_ card ? digit //
+kogu    kogu+0 //_A_ pos //
+Eesti-L&auml;ti    Eesti-L&auml;ti+0 //_S_ prop sg gen //
+piiri    piir+0 //_S_ com sg gen //
+.    . //_Z_ Fst //
+</s>
+<s>
+Valga    Valga+0 //_S_ prop sg gen //
+p&otilde;hiosa    p&otilde;hi_osa+0 //_S_ com sg nom //
+j&auml;i    j&auml;&auml;+i //_V_ main indic impf ps3 sg ps af //
+Eestile    Eesti+le //_S_ prop sg all //
+,    , //_Z_ Com //
+kuid    kuid+0 //_J_ crd //
+segarahvastikuga    sega_rahvastik+ga //_S_ com sg kom //
+valdadest    vald+dest //_S_ com pl el //
+anti    and+ti //_V_ main indic impf imps af //
+kompensatsioonina    kompensatsioon+na //_S_ com sg es //
+enam    enam+0 //_D_ //
+L&auml;tile    L&auml;ti+le //_S_ prop sg all //
+.    . //_Z_ Fst //
+</s>
+<s>
+Kumbki    kumbki+0 //_P_ sg nom //
+pool    pool+0 //_S_ com sg nom //
+polnud    ole+nud //_V_ main indic impf ps neg //
+otsusega    otsus+ga //_S_ com sg kom //
+rahul    rahul+0 //_D_ //
+ja    ja+0 //_J_ crd //
+l&auml;bir&auml;&auml;kimised    l&auml;bi_r&auml;&auml;kimine+d //_S_ com pl nom //
+kestsid    kest+sid //_V_ main indic impf ps3 pl ps af //
+veel    veel+0 //_D_ //
+kaua    kaua+0 //_D_ //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Ka    ka+0 //_D_ //
+L&auml;ti-Leedu    L&auml;ti-Leedu+0 //_S_ prop sg gen //
+piiri    piir+0 //_S_ com sg gen //
+m&auml;&auml;ras    m&auml;&auml;ra+s //_V_ main indic impf ps3 sg ps af //
+l&otilde;puks    l&otilde;puks+0 //_D_ //
+kindlaks    kindel+ks //_A_ pos sg tr //
+Suurbritannia    Suur_britannia+0 //_S_ prop sg gen //
+esindaja    esindaja+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+1920.    1920.+0 //_N_ ord ? digit //
+aasta    aasta+0 //_S_ com sg gen //
+s&uuml;gisel    s&uuml;gis+l //_S_ com sg ad //
+,    , //_Z_ Com //
+kui    kui+0 //_J_ sub //
+Poola    Poola+0 //_S_ prop sg nom //
+haaras    haara+s //_V_ main indic impf ps3 sg ps af //
+Leedult    Leedu+lt //_S_ prop sg abl //
+Vilniuse    Vilnius+0 //_S_ prop sg gen //
+piirkonna    piirkond+0 //_S_ com sg gen //
+,    , //_Z_ Com //
+kujunes    kujune+s //_V_ main indic impf ps3 sg ps af //
+L&auml;til    L&auml;ti+l //_S_ prop sg ad //
+&uuml;hine    &uuml;hine+0 //_A_ pos sg nom //
+piir    piir+0 //_S_ com sg nom //
+ka    ka+0 //_D_ //
+Poolaga    Poola+ga //_S_ prop sg kom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Poola    Poola+0 //_S_ prop sg gen //
+valitsus    valitsus+0 //_S_ com sg nom //
+taotles    taotle+s //_V_ main indic impf ps3 sg ps af //
+endale    ise+le //_P_ sg all //
+kuut    kuus+t //_N_ card sg part l //
+Latgale    Latgale+0 //_S_ prop sg gen //
+l&auml;ti-poola    l&auml;ti-poola+0 //_G_ //
+segarahvastikuga    sega_rahvastik+ga //_S_ com sg kom //
+valda    vald+0 //_S_ com sg part //
+,    , //_Z_ Com //
+kuid    kuid+0 //_J_ crd //
+kohtas    kohta+s //_V_ main indic impf ps3 sg ps af //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+otsustavat    otsustav+t //_A_ pos sg part //
+vastuseisu    vastu_seis+0 //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+&Uuml;hine    &uuml;hine+0 //_A_ pos sg nom //
+eesm&auml;rk    ees_m&auml;rk+0 //_S_ com sg nom //
+-    &mdash; //_Z_ Dsh //
+Balti    balti+0 //_G_ //
+liit    liit+0 //_S_ com sg nom //
+</s>
+</p>
+<p>
+<s>
+Neil    see+l //_P_ pl ad //
+aastail    aasta+il //_S_ com pl ad //
+,    , //_Z_ Com //
+kui    kui+0 //_J_ sub //
+Z.    Z.+0 //_Y_ nominal ? //
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+juhtis    juhti+s //_V_ main indic impf ps3 sg ps af //
+l&otilde;unanaabrite    l&otilde;una_naaber+te //_S_ com pl gen //
+v&auml;lisministeeriumi    v&auml;lis_ministeerium+0 //_S_ com sg part //
+,    , //_Z_ Com //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+Eesti    Eesti+0 //_S_ prop sg gen //
+ja    ja+0 //_J_ crd //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+v&auml;lispoliitilistes    v&auml;lis_poliitiline+tes //_A_ pos pl in //
+t&otilde;ekspidamistes    t&otilde;eks_pidamine+tes //_S_ com pl in //
+palju    palju+0 //_D_ //
+&uuml;hist    &uuml;hine+t //_A_ pos sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+M&otilde;lema    m&otilde;lema+0 //_P_ sg gen //
+p&otilde;hieesm&auml;rk    p&otilde;hi_ees_m&auml;rk+0 //_S_ com sg nom //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+riigi    riik+0 //_S_ com sg gen //
+julgeoleku    julge_olek+0 //_S_ com sg gen //
+kindlustamine    kindlusta=mine+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+m&otilde;lemad    m&otilde;lema+d //_P_ pl nom //
+pidasid    pida+sid //_V_ main indic impf ps3 pl ps af //
+peamiseks    peamine+ks //_A_ pos sg tr //
+ohuks    oht+ks //_S_ com sg tr //
+N.    N.+0 //_Y_ nominal ? //
+Liitu    liit+0 //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+Ka    ka+0 //_D_ //
+riigi    riik+0 //_S_ com sg gen //
+julgeoleku    julge_olek+0 //_S_ com sg gen //
+tagamise    taga=mine+0 //_S_ com sg gen //
+p&otilde;hikontseptsioonid    p&otilde;hi_kontseptsioon+d //_S_ com pl nom //
+olid    ole+id //_V_ main indic impf ps3 pl ps af //
+sarnased    sarnane+d //_A_ pos pl nom //
+:    : //_Z_ Col //
+teostada    teosta+da //_V_ main inf //
+rahuarmastavat    rahu_armastav+t //_A_ pos sg part //
+v&auml;lispoliitikat    v&auml;lis_poliitika+t //_S_ com sg part //
+,    , //_Z_ Com //
+orienteeruda    orienteeru+da //_V_ main inf //
+L&auml;&auml;nde    l&auml;&auml;s+de //_S_ com sg adit //
+,    , //_Z_ Com //
+tugineda    tugine+da //_V_ main inf //
+Rahvasteliidule    rahvas+te_liit+le //_S_ com sg all //
+ja    ja+0 //_J_ crd //
+kollektiivsele    kollektiivne+le //_A_ pos sg all //
+julgeolekuprintsiibile    julge_oleku_printsiip+le //_S_ com sg all //
+ning    ning+0 //_J_ crd //
+arendada    arenda+da //_V_ main inf //
+koost&ouml;&ouml;d    koos_t&ouml;&ouml;+d //_S_ com sg part //
+Venemaa    Vene_maa+0 //_S_ prop sg gen //
+piiririikidega    piiri_riik+dega //_S_ com pl kom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Just    just+0 //_D_ //
+viimane    viimane+0 //_A_ pos sg nom //
+taotlus    taotlus+0 //_S_ com sg nom //
+-    &mdash; //_Z_ Dsh //
+luua    loo+a //_V_ main inf //
+poliitiline    poliitiline+0 //_A_ pos sg nom //
+ja    ja+0 //_J_ crd //
+kaitseotstarbeline    kaitse_ots_tarbe=line+0 //_A_ pos sg nom //
+Balti    balti+0 //_G_ //
+liit    liit+0 //_S_ com sg nom //
+Soome    Soome+0 //_S_ prop sg gen //
+,    , //_Z_ Com //
+Balti    balti+0 //_G_ //
+riikide    riik+de //_S_ com pl gen //
+ja    ja+0 //_J_ crd //
+Poola    Poola+0 //_S_ prop sg gen //
+vahel    vahel+0 //_K_ post //
+-    &mdash; //_Z_ Dsh //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+1920.    1920.+0 //_N_ ord ? digit //
+aastate    aasta+te //_S_ com pl gen //
+esimesel    esimene+l //_N_ ord sg ad l //
+poolel    pool+l //_N_ card sg ad l //
+m&otilde;lema    m&otilde;lema+0 //_P_ sg gen //
+riigi    riik+0 //_S_ com sg gen //
+v&auml;lispoliitika    v&auml;lis_poliitika+0 //_S_ com sg gen //
+prioriteediks    prioriteet+ks //_S_ com sg tr //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Balti    balti+0 //_G_ //
+koost&ouml;&ouml;    koos_t&ouml;&ouml;+0 //_S_ com sg gen //
+peamiseks    peamine+ks //_A_ pos sg tr //
+eestvedajaks    eest_vedaja+ks //_S_ com sg tr //
+on    ole+0 //_V_ aux indic pres ps3 sg ps af //
+peetud    pida+tud //_V_ main partic past imps //
+nii    nii+0 //_D_ //
+Eestit    Eesti+t //_S_ prop sg part //
+,    , //_Z_ Com //
+L&auml;tit    L&auml;ti+t //_S_ prop sg part //
+,    , //_Z_ Com //
+Leedut    Leedu+t //_S_ prop sg part //
+kui    kui+0 //_J_ sub //
+ka    ka+0 //_D_ //
+Poolat    Poola+t //_S_ prop sg part //
+,    , //_Z_ Com //
+ja    ja+0 //_J_ crd //
+paradoksaalsel    paradoksaalne+l //_A_ pos sg ad //
+kombel    komme+l //_S_ com sg ad //
+on    ole+0 //_V_ main indic pres ps3 pl ps af //
+sellistel    selline+tel //_P_ pl ad //
+v&auml;idetel    v&auml;ide+tel //_S_ com pl ad //
+t&otilde;ep&otilde;hi    t&otilde;e_p&otilde;hi+0 //_S_ com sg nom //
+all    all+0 //_D_ //
+-    &mdash; //_Z_ Dsh //
+k&otilde;ik    k&otilde;ik+0 //_P_ pl nom //
+need    see+d //_P_ pl nom //
+riigid    riik+d //_S_ com pl nom //
+olid    ole+id //_V_ main indic impf ps3 pl ps af //
+liidust    liit+st //_S_ com sg el //
+t&otilde;siselt    t&otilde;siselt+0 //_D_ //
+huvitatud    huvitatud+0 //_A_ pos //
+ning    ning+0 //_J_ crd //
+erinevatel    erinev+tel //_A_ pos pl ad //
+etappidel    etapp+del //_S_ com pl ad //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+aktiivsem    aktiivse=m+0 //_A_ comp sg nom //
+kord    kord+0 //_S_ com sg nom //
+&uuml;ks    &uuml;ks+0 //_P_ sg nom //
+,    , //_Z_ Com //
+kord    kord+0 //_S_ com sg nom //
+teine    teine+0 //_P_ sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+T&otilde;si    t&otilde;si+0 //_S_ com sg nom //
+k&uuml;ll    k&uuml;ll+0 //_D_ //
+,    , //_Z_ Com //
+kaalutlused    kaalutlus+d //_S_ com pl nom //
+olid    ole+id //_V_ main indic impf ps3 pl ps af //
+sealjuures    seal_juures+0 //_D_ //
+sageli    sageli+0 //_D_ //
+erinevad    erinev+d //_A_ pos pl nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+v&auml;lisministergi    v&auml;lis_minister+gi //_S_ com sg nom //
+tegeles    tegele+s //_V_ main indic impf ps3 sg ps af //
+Balti    balti+0 //_G_ //
+koost&ouml;&ouml;ga    koos_t&ouml;&ouml;+ga //_S_ com sg kom //
+temale    tema+le //_P_ sg all //
+omase    omane+0 //_A_ pos sg gen //
+energiaga    energia+ga //_S_ com sg kom //
+ning    ning+0 //_J_ crd //
+rahvusvaheline    rahvus_vaheline+0 //_A_ pos sg nom //
+avalikkus    avalikkus+0 //_S_ com sg nom //
+pidas    pida+s //_V_ main indic impf ps3 sg ps af //
+sageli    sageli+0 //_D_ //
+just    just+0 //_D_ //
+Z.    Z.+0 //_Y_ nominal ? //
+Meierovicsit    Meierovicsi+t //_S_ prop sg part //
+Balti    balti+0 //_G_ //
+liidu    liit+0 //_S_ com sg gen //
+peamiseks    peamine+ks //_A_ pos sg tr //
+organisaatoriks    organisaator+ks //_S_ com sg tr //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Esimesed    esimene+d //_N_ ord pl nom l //
+Balti    balti+0 //_G_ //
+riikide    riik+de //_S_ com pl gen //
+ja    ja+0 //_J_ crd //
+Soome    Soome+0 //_S_ prop sg gen //
+v&auml;lisministrite    v&auml;lis_minister+te //_S_ com pl gen //
+konverentsid    konverents+d //_S_ com pl nom //
+v&auml;lispoliitika    v&auml;lis_poliitika+0 //_S_ com sg gen //
+koosk&otilde;lastamiseks    koos_k&otilde;lasta=mine+ks //_S_ com sg tr //
+toimusid    toimu+sid //_V_ main indic impf ps3 pl ps af //
+Tallinnas    Tallinn+s //_S_ prop sg in //
+ja    ja+0 //_J_ crd //
+Tartus    Tartu+s //_S_ prop sg in //
+1919.    1919.+0 //_N_ ord ? digit //
+aasta    aasta+0 //_S_ com sg gen //
+s&uuml;gisel    s&uuml;gis+l //_S_ com sg ad //
+.    . //_Z_ Fst //
+</s>
+<s>
+J&auml;rgneval    j&auml;rgnev+l //_A_ pos sg ad //
+,    , //_Z_ Com //
+Helsingi    Helsingi+0 //_S_ prop sg gen //
+konverentsil    konverents+l //_S_ com sg ad //
+jaanuaris    jaanuar+s //_S_ com sg in //
+1920    1920+0 //_N_ card ? digit //
+,    , //_Z_ Com //
+osales    osale+s //_V_ main indic impf ps3 sg ps af //
+ka    ka+0 //_D_ //
+Poola    Poola+0 //_S_ prop sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Arutati    aruta+ti //_V_ main indic impf imps af //
+poliitilise    poliitiline+0 //_A_ pos sg gen //
+,    , //_Z_ Com //
+majandusliku    majanduslik+0 //_A_ pos sg gen //
+ja    ja+0 //_J_ crd //
+s&otilde;jalise    s&otilde;jaline+0 //_A_ pos sg gen //
+koost&ouml;&ouml;    koos_t&ouml;&ouml;+0 //_S_ com sg gen //
+v&otilde;imalusi    v&otilde;imalus+i //_S_ com pl part //
+ning    ning+0 //_J_ crd //
+otsustati    otsusta+ti //_V_ main indic impf imps af //
+j&auml;rgnev    j&auml;rgnev+0 //_A_ pos sg nom //
+konverents    konverents+0 //_S_ com sg nom //
+pidada    pida+da //_V_ main inf //
+Riias    Riia+s //_S_ prop sg in //
+.    . //_Z_ Fst //
+</s>
+<s>
+Viimane    viimane+0 //_A_ pos sg nom //
+kestis    kest+is //_V_ main indic impf ps3 sg ps af //
+tervelt    tervelt+0 //_D_ //
+kuu    kuu+0 //_S_ com sg nom //
+aega    aeg+0 //_S_ com sg part //
+-    &mdash; //_Z_ Dsh //
+6.    6.+0 //_N_ ord ? digit //
+augustist    august+st //_S_ com sg el //
+6.    6.+0 //_N_ ord ? digit //
+septembrini    september+ni //_S_ com sg term //
+-    &mdash; //_Z_ Dsh //
+ning    ning+0 //_J_ crd //
+selle    see+0 //_P_ sg gen //
+organisatsioonilist    organisatsiooni=line+t //_A_ pos sg part //
+kulgu    kulg+0 //_S_ com sg part //
+v&otilde;is    v&otilde;i+s //_V_ mod indic impf ps3 sg ps af //
+Eesti    Eesti+0 //_S_ prop sg gen //
+delegatsiooni    delegatsioon+0 //_S_ com sg gen //
+juhi    juht+0 //_S_ com sg gen //
+Karl    Karl+0 //_S_ prop sg nom //
+Robert    Robert+0 //_S_ prop sg nom //
+Pusta    Pusta+0 //_S_ prop sg gen //
+hinnangul    hinnang+l //_S_ com sg ad //
+v&otilde;rrelda    v&otilde;rdle+da //_V_ main inf //
+Pariisi    Pariis+0 //_S_ prop sg gen //
+rahukonverentsiga    rahu_konverents+ga //_S_ com sg kom //
+.    . //_Z_ Fst //
+</s>
+<s>
+M&otilde;istagi    m&otilde;istagi+0 //_D_ //
+tegi    tege+i //_V_ main indic impf ps3 sg ps af //
+see    see+0 //_P_ sg nom //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+v&auml;lisministrile    v&auml;lis_minister+le //_S_ com sg all //
+au    au+0 //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+Kuid    kuid+0 //_J_ crd //
+asjaolu    asja_olu+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+Poola    Poola+0 //_S_ prop sg nom //
+okupeeris    okupeeri+s //_V_ main indic impf ps3 sg ps af //
+s&uuml;gisel    s&uuml;gis+l //_S_ com sg ad //
+1920    1920+0 //_N_ card ? digit //
+Vilniuse    Vilnius+0 //_S_ prop sg gen //
+,    , //_Z_ Com //
+t&otilde;mbas    t&otilde;mba+s //_V_ main indic impf ps3 sg ps af //
+Riia    Riia+0 //_S_ prop sg gen //
+(    ( //_Z_ Opr //
+Bulduri    Buldur+0 //_S_ prop sg gen //
+)    ) //_Z_ Cpr //
+konverentsi    konverents+0 //_S_ com sg gen //
+tulemustele    tulemus+tele //_S_ com pl all //
+kriipsu    kriips+0 //_S_ com sg gen //
+peale    peale+0 //_D_ //
+.    . //_Z_ Fst //
+</s>
+<s>
+Edasisi    edasine+i //_A_ pos pl part //
+Leedu-Poola    Leedu-Poola+0 //_S_ prop sg gen //
+suhteid    suhe+id //_S_ com pl part //
+on    ole+0 //_V_ aux indic pres ps3 sg ps af //
+iseloomustatud    ise_loomusta+tud //_V_ main partic past imps //
+kui    kui+0 //_J_ sub //
+s&otilde;jategevuseta    s&otilde;ja_tegevus+ta //_S_ com sg abes //
+s&otilde;jaseisukorda    s&otilde;ja_seisu_kord+0 //_S_ com sg part //
+,    , //_Z_ Com //
+nende    see+de //_P_ pl gen //
+&uuml;hine    &uuml;hine+0 //_A_ pos sg nom //
+osalemine    osalemine+0 //_S_ com sg nom //
+Balti    balti+0 //_G_ //
+liidus    liit+s //_S_ com sg in //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+v&otilde;imatu    v&otilde;imatu+0 //_A_ pos sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Kujunenud    kujune=nud+0 //_A_ pos //
+olukorras    olu_kord+s //_S_ com sg in //
+tuli    tule+i //_V_ main indic impf ps3 sg ps af //
+L&auml;til    L&auml;ti+l //_S_ prop sg ad //
+vastata    vasta+ta //_V_ main inf //
+keerukale    keerukas+le //_A_ pos sg all //
+k&uuml;simusele    k&uuml;simus+le //_S_ com sg all //
+:    : //_Z_ Col //
+kas    kas+0 //_D_ //
+eelistada    eelista+da //_V_ main inf //
+partnerina    partner+na //_S_ com sg es //
+Leedut    Leedu+t //_S_ prop sg part //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+Poolat    Poola+t //_S_ prop sg part //
+?    ? //_Z_ Int //
+</s>
+</p>
+<p>
+<s>
+L&auml;ti    L&auml;ti+0 //_S_ prop sg nom //
+suutis    suut+is //_V_ main indic impf ps3 sg ps af //
+1920.    1920.+0 //_N_ ord ? digit //
+aastate    aasta+te //_S_ com pl gen //
+algul    algul+0 //_K_ post //
+Meierovicsi    Meierovics+0 //_S_ prop sg gen //
+juhtimisel    juhtimine+l //_S_ com sg ad //
+teha    tege+a //_V_ main inf //
+oskuslikumalt    oskus=likumalt+0 //_D_ //
+v&auml;lispoliitilist    v&auml;lis_poliitiline+t //_A_ pos sg part //
+propagandat    propaganda+t //_S_ com sg part //
+kui    kui+0 //_J_ sub //
+Eesti    Eesti+0 //_S_ prop sg nom //
+,    , //_Z_ Com //
+Leedu    Leedu+0 //_S_ prop sg nom //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+Poola    Poola+0 //_S_ prop sg nom //
+?    ? //_Z_ Int //
+</s>
+</p>
+<p>
+<s>
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+poliitilistel    poliitiline+tel //_A_ pos pl ad //
+j&otilde;ududel    j&otilde;ud+del //_S_ com pl ad //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+sellele    see+le //_P_ sg all //
+erinev    erinev+0 //_A_ pos sg nom //
+vastus    vastus+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Sotsiaaldemokraadid    sotsiaal_demo_kraat+d //_S_ com pl nom //
+,    , //_Z_ Com //
+aga    aga+0 //_J_ crd //
+ka    ka+0 //_D_ //
+paari    paar+0 //_N_ card sg gen l //
+teise    teine+0 //_P_ sg gen //
+partei    partei+0 //_S_ com sg gen //
+esindajad    esindaja+d //_S_ com pl nom //
+r&otilde;hutasid    r&otilde;huta+sid //_V_ main indic impf ps3 pl ps af //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+tuleks    tule+ks //_V_ main cond pres ps3 sg ps af //
+l&auml;heneda    l&auml;hene+da //_V_ main inf //
+vennasrahvale    vennas_rahvas+le //_S_ com sg all //
+leedulastele    leedulane+tele //_S_ com pl all //
+,    , //_Z_ Com //
+kellega    kes+ga //_P_ pl kom //
+koost&ouml;&ouml;    koos_t&ouml;&ouml;+0 //_S_ com sg nom //
+annaks    and+ks //_V_ main cond pres ps3 sg ps af //
+majanduslikult    majanduslikult+0 //_D_ //
+enamarenenud    enam_arenenud+0 //_A_ pos //
+L&auml;tile    L&auml;ti+le //_S_ prop sg all //
+ka    ka+0 //_D_ //
+otsest    otsene+t //_A_ pos sg part //
+kasu    kasu+0 //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Mitme    mitu+0 //_P_ sg gen //
+teise    teine+0 //_P_ sg gen //
+partei    partei+0 //_S_ com sg gen //
+esindajad    esindaja+d //_S_ com pl nom //
+,    , //_Z_ Com //
+samuti    samuti+0 //_D_ //
+k&otilde;rgemad    k&otilde;rgem+d //_A_ comp pl nom //
+s&otilde;jav&auml;elased    s&otilde;ja_v&auml;elane+d //_S_ com pl nom //
+,    , //_Z_ Com //
+pidasid    pida+sid //_V_ main indic impf ps3 pl ps af //
+vajalikuks    vajalik+ks //_A_ pos sg tr //
+koost&ouml;&ouml;d    koos_t&ouml;&ouml;+d //_S_ com sg part //
+Poola    Poola+0 //_S_ prop sg gen //
+kui    kui+0 //_J_ sub //
+tookordsetes    too_kordne+tes //_A_ pos pl in //
+oludes    olu+des //_S_ com pl in //
+s&otilde;jaliselt    s&otilde;jalise=lt+0 //_D_ //
+tugeva    tugev+0 //_A_ pos sg gen //
+riigiga    riik+ga //_S_ com sg kom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Seda    see+da //_P_ sg part //
+seisukohta    seisu_koht+0 //_S_ com sg part //
+jagas    jaga+s //_V_ main indic impf ps3 sg ps af //
+p&otilde;him&otilde;tteliselt    p&otilde;hi_m&otilde;ttelise=lt+0 //_D_ //
+ka    ka+0 //_D_ //
+Z.    Z.+0 //_Y_ nominal ? //
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+T&otilde;si    t&otilde;si+0 //_S_ com sg nom //
+k&uuml;ll    k&uuml;ll+0 //_D_ //
+,    , //_Z_ Com //
+v&auml;lisministrina    v&auml;lis_minister+na //_S_ com sg es //
+pidi    pida+i //_V_ mod indic impf ps3 sg ps af //
+ta    tema+0 //_P_ sg nom //
+arvestama    arvesta+ma //_V_ main sup ps ill //
+nii    nii+0 //_D_ //
+sisepoliitilisi    sise_poliitiline+i //_A_ pos pl part //
+j&otilde;uvahekordi    j&otilde;u_vahe_kord+i //_S_ com pl part //
+ja    ja+0 //_J_ crd //
+&uuml;ldist    &uuml;ldine+t //_A_ pos sg part //
+rahvusvahelist    rahvus_vaheline+t //_A_ pos sg part //
+olukorda    olu_kord+0 //_S_ com sg part //
+kui    kui+0 //_J_ sub //
+ka    ka+0 //_D_ //
+Poola    Poola+0 //_S_ prop sg gen //
+m&otilde;neti    m&otilde;neti+0 //_D_ //
+k&otilde;ikuvat    k&otilde;ikuv+t //_A_ pos sg part //
+poliitikat    poliitika+t //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+V&otilde;ib    v&otilde;i+b //_V_ mod indic pres ps3 sg ps af //
+isegi    isegi+0 //_D_ //
+v&auml;ita    v&auml;it+a //_V_ main inf //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+Leedu    Leedu+0 //_S_ prop sg gen //
+ja    ja+0 //_J_ crd //
+Poola    Poola+0 //_S_ prop sg gen //
+suhtes    suhtes+0 //_K_ post //
+j&auml;igi    j&auml;&auml;+igi //_V_ main indic impf ps3 sg ps af //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+valitsus    valitsus+0 //_S_ com sg nom //
+k&otilde;hklema    k&otilde;hkle+ma //_V_ main sup ps ill //
+.    . //_Z_ Fst //
+</s>
+<s>
+Otsustati    otsusta+ti //_V_ main indic impf imps af //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+k&otilde;igepealt    k&otilde;ige_pealt+0 //_D_ //
+tuleb    tule+b //_V_ main indic pres ps3 sg ps af //
+s&otilde;lmida    s&otilde;lmi+da //_V_ main inf //
+kaitseotstarbeline    kaitse_ots_tarbe=line+0 //_A_ pos sg nom //
+s&otilde;jaline    s&otilde;jaline+0 //_A_ pos sg nom //
+liit    liit+0 //_S_ com sg nom //
+Eestiga    Eesti+ga //_S_ prop sg kom //
+ning    ning+0 //_J_ crd //
+edaspidi    edas_pidi+0 //_D_ //
+seda    see+da //_P_ sg part //
+vastavalt    vastavalt+0 //_K_ pre //
+v&otilde;imalustele    v&otilde;imalus+tele //_S_ com pl all //
+laiendada    laienda+da //_V_ main inf //
+(    ( //_Z_ Opr //
+pidades    pida+des //_V_ main ger //
+silmas    silm+s //_S_ com sg in //
+Leedu    Leedu+0 //_S_ prop sg gen //
+kaasat&otilde;mbamist    kaasa_t&otilde;mba=mine+t //_S_ com sg part //
+)    ) //_Z_ Cpr //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Ka    ka+0 //_D_ //
+Tallinnas    Tallinn+s //_S_ prop sg in //
+leiti    leid+ti //_V_ main indic impf imps af //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+Eesti    Eesti+0 //_S_ prop sg gen //
+julgeoleku    julge_olek+0 //_S_ com sg gen //
+seisukohalt    seisu_koht+lt //_S_ com sg abl //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+k&otilde;igist    k&otilde;ik+st //_P_ pl el //
+N.    N.+0 //_Y_ nominal ? //
+Venemaa    Vene_maa+0 //_S_ prop sg gen //
+piiririikidest    piiri_riik+dest //_S_ com pl el //
+k&otilde;ige    k&otilde;ige+0 //_D_ //
+olulisem    olu=lisem+0 //_A_ comp sg nom //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Sellest    see+st //_P_ sg el //
+l&auml;htudes    l&auml;htu+des //_V_ main ger //
+leidsid    leid+sid //_V_ main indic impf ps3 pl ps af //
+v&auml;lisministrid    v&auml;lis_minister+d //_S_ com pl nom //
+Z.    Z.+0 //_Y_ nominal ? //
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+ja    ja+0 //_J_ crd //
+A.    A.+0 //_Y_ nominal ? //
+Piip    Piip+0 //_S_ prop sg nom //
+&uuml;hise    &uuml;hine+0 //_A_ pos sg gen //
+keele    keel+0 //_S_ com sg gen //
+.    . //_Z_ Fst //
+</s>
+<s>
+Kohtumisel    kohtumine+l //_S_ com sg ad //
+Valgas    Valga+s //_S_ prop sg in //
+2.    2.+0 //_N_ ord ? digit //
+juulil    juuli+l //_S_ com sg ad //
+1921    1921+0 //_N_ card ? digit //
+lepiti    leppi+ti //_V_ main indic impf imps af //
+kokku    kokku+0 //_D_ //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+kaitseotstarbeline    kaitse_ots_tarbe=line+0 //_A_ pos sg nom //
+s&otilde;jaline    s&otilde;jaline+0 //_A_ pos sg nom //
+leping    leping+0 //_S_ com sg nom //
+koosneb    koosne+b //_V_ main indic pres ps3 sg ps af //
+kahest    kaks+st //_N_ card sg el l //
+-    &mdash; //_Z_ Dsh //
+p&otilde;him&otilde;ttelisest    p&otilde;hi_m&otilde;tteline+st //_A_ pos sg el //
+ja    ja+0 //_J_ crd //
+tehnilisest    tehniline+st //_A_ pos sg el //
+osast    osa+st //_S_ com sg el //
+.    . //_Z_ Fst //
+</s>
+<s>
+P&otilde;hilepingule    p&otilde;hi_leping+le //_S_ com sg all //
+,    , //_Z_ Com //
+mille    mis+0 //_P_ sg gen //
+ametlikuks    ametlik+ks //_A_ pos sg tr //
+nimetuseks    nimetus+ks //_S_ com sg tr //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+&ldquo;    &ldquo; //_Z_ Oqu //
+Vastastikuse    vastastikune+0 //_A_ pos sg gen //
+kaitse    kaitse+0 //_S_ com sg gen //
+leping    leping+0 //_S_ com sg nom //
+&rdquo;    &rdquo; //_Z_ Cqu //
+,    , //_Z_ Com //
+kirjutati    kirjuta+ti //_V_ main indic impf imps af //
+alla    alla+0 //_D_ //
+7.    7.+0 //_N_ ord ? digit //
+juulil    juuli+l //_S_ com sg ad //
+1921    1921+0 //_N_ card ? digit //
+Tallinnas    Tallinn+s //_S_ prop sg in //
+.    . //_Z_ Fst //
+</s>
+<s>
+Lepingu    leping+0 //_S_ com sg gen //
+lisas    lisa+s //_S_ com sg in //
+pealkirjaga    peal_kiri+ga //_S_ com sg kom //
+&ldquo;    &ldquo; //_Z_ Oqu //
+Ajutine    ajutine+0 //_A_ pos sg nom //
+kokkulepe    kokku_lepe+0 //_S_ com sg nom //
+Eesti    Eesti+0 //_S_ prop sg gen //
+ja    ja+0 //_J_ crd //
+Latvia    Latvia+0 //_S_ prop sg gen //
+kindralstaapide    kindral_staap+de //_S_ com pl gen //
+vahel    vahel+0 //_K_ post //
+&rdquo;    &rdquo; //_Z_ Cqu //
+fikseeriti    fikseeri+ti //_V_ main indic impf imps af //
+vastastikuse    vastastikune+0 //_A_ pos sg gen //
+s&otilde;jalise    s&otilde;jaline+0 //_A_ pos sg gen //
+abi    abi+0 //_S_ com sg gen //
+osutamise    osuta=mine+0 //_S_ com sg gen //
+tingimused    tingimus+d //_S_ com pl nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+S&otilde;jalise    s&otilde;jaline+0 //_A_ pos sg gen //
+konventsiooni    konventsioon+0 //_S_ com sg gen //
+s&otilde;lmimisest    s&otilde;lmi=mine+st //_S_ com sg el //
+avalikkusele    avalikkus+le //_S_ com sg all //
+ei    ei+0 //_V_ aux neg //
+teatatud    teata+tud //_V_ main indic impf imps neg //
+ning    ning+0 //_J_ crd //
+see    see+0 //_P_ sg nom //
+kavatseti    kavatse+ti //_V_ main indic impf imps af //
+ratifitseerida    ratifitseeri+da //_V_ main inf //
+parlamentide    parlament+de //_S_ com pl gen //
+kinnisel    kinnine+l //_A_ pos sg ad //
+istungil    istung+l //_S_ com sg ad //
+.    . //_Z_ Fst //
+</s>
+<s>
+Ratifitseerimine    ratifitseeri=mine+0 //_S_ com sg nom //
+aga    aga+0 //_J_ crd //
+venis    veni+s //_V_ main indic impf ps3 sg ps af //
+,    , //_Z_ Com //
+sest    sest+0 //_J_ sub //
+m&otilde;nedki    m&otilde;ni+dki //_P_ pl nom //
+Eesti-L&auml;ti    Eesti-L&auml;ti+0 //_S_ prop sg gen //
+vaidlusk&uuml;simused    vaidlus_k&uuml;simus+d //_S_ com pl nom //
+olid    ole+id //_V_ main indic impf ps3 pl ps af //
+reguleerimata    reguleeri=mata+0 //_A_ pos //
+.    . //_Z_ Fst //
+</s>
+<s>
+Peale    peale+0 //_K_ pre //
+selle    see+0 //_P_ sg gen //
+n&auml;is    n&auml;i+s //_V_ mod indic impf ps3 sg ps af //
+avanevat    avane+vat //_V_ main quot pres ps af //
+v&otilde;imalus    v&otilde;imalus+0 //_S_ com sg nom //
+laiema    laiem+0 //_A_ comp sg gen //
+liidu    liit+0 //_S_ com sg gen //
+s&otilde;lmimiseks    s&otilde;lmi=mine+ks //_S_ com sg tr //
+Soome    Soome+0 //_S_ prop sg gen //
+,    , //_Z_ Com //
+Eesti    Eesti+0 //_S_ prop sg gen //
+,    , //_Z_ Com //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+ja    ja+0 //_J_ crd //
+Poola    Poola+0 //_S_ prop sg gen //
+vahel    vahel+0 //_K_ post //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+T&auml;hetund    t&auml;he_tund+0 //_S_ com sg nom //
+Varssavis    Varssavi+s //_S_ prop sg in //
+</s>
+</p>
+<p>
+<s>
+1922.    1922.+0 //_N_ ord ? digit //
+aasta    aasta+0 //_S_ com sg gen //
+algul    algul+0 //_K_ post //
+valmistus    valmistu+s //_V_ main indic impf ps3 sg ps af //
+pea    pea+0 //_D_ //
+kogu    kogu+0 //_A_ pos //
+Euroopa    Euroopa+0 //_S_ prop sg nom //
+konverentsiks    konverents+ks //_S_ com sg tr //
+Genovas    Genova+s //_S_ prop sg in //
+,    , //_Z_ Com //
+kus    kus+0 //_D_ //
+kavatseti    kavatse+ti //_V_ main indic impf imps af //
+arutada    aruta+da //_V_ main inf //
+Euroopa    Euroopa+0 //_S_ prop sg gen //
+majanduslikku    majanduslik+0 //_A_ pos sg part //
+&uuml;lesehitamist    &uuml;les_ehitamine+t //_S_ com sg part //
+ja    ja+0 //_J_ crd //
+suhete    suhe+te //_S_ com pl gen //
+korraldamist    korraldamine+t //_S_ com sg part //
+N.    N.+0 //_Y_ nominal ? //
+Venega    Vene+ga //_S_ prop sg kom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Enne    enne+0 //_K_ pre //
+Genovat    Genova+t //_S_ prop sg part //
+otsustasid    otsusta+sid //_V_ main indic impf ps3 pl ps af //
+Soome    Soome+0 //_S_ prop sg gen //
+,    , //_Z_ Com //
+Eesti    Eesti+0 //_S_ prop sg gen //
+,    , //_Z_ Com //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+ja    ja+0 //_J_ crd //
+Poola    Poola+0 //_S_ prop sg gen //
+v&auml;lisministrid    v&auml;lis_minister+d //_S_ com pl nom //
+koguneda    kogune+da //_V_ main inf //
+Varssavisse    Varssavi+sse //_S_ prop sg ill //
+.    . //_Z_ Fst //
+</s>
+<s>
+Too    too+0 //_P_ sg nom //
+konverents    konverents+0 //_S_ com sg nom //
+13.-17.    13.-17.+0 //_N_ ord ? digit //
+m&auml;rtsil    m&auml;rts+l //_S_ com sg ad //
+1922    1922+0 //_N_ card ? digit //
+kujunes    kujune+s //_V_ main indic impf ps3 sg ps af //
+Z.    Z.+0 //_Y_ nominal ? //
+Meierovicsi    Meierovics+0 //_S_ prop sg gen //
+&uuml;heks    &uuml;ks+ks //_N_ card sg tr l //
+t&auml;hetunniks    t&auml;he_tund+ks //_S_ com sg tr //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+V&auml;lisministrid    v&auml;lis_minister+d //_S_ com pl nom //
+saabusid    saabu+sid //_V_ main indic impf ps3 pl ps af //
+Poola    Poola+0 //_S_ prop sg gen //
+pealinna    pea_linn+0 //_S_ com sg adit //
+m&otilde;neti    m&otilde;neti+0 //_D_ //
+erinevate    erinev+te //_A_ pos pl gen //
+eesm&auml;rkidega    ees_m&auml;rk+dega //_S_ com pl kom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Ants    Ants+0 //_S_ prop sg nom //
+Piibu    Piip+0 //_S_ prop sg gen //
+taotlused    taotlus+d //_S_ com pl nom //
+olid    ole+id //_V_ main indic impf ps3 pl ps af //
+selged    selge+d //_A_ pos pl nom //
+:    : //_Z_ Col //
+saavutada    saavuta+da //_V_ main inf //
+poliitilise    poliitiline+0 //_A_ pos sg gen //
+ja    ja+0 //_J_ crd //
+s&otilde;jalise    s&otilde;jaline+0 //_A_ pos sg gen //
+koost&ouml;&ouml;    koos_t&ouml;&ouml;+0 //_S_ com sg gen //
+osas    osas+0 //_K_ post //
+nii    nii+0 //_D_ //
+kaugeleulatuvaid    kaugele_ulatuv+id //_A_ pos pl part //
+kokkuleppeid    kokku_lepe+id //_S_ com pl part //
+kui    kui+0 //_D_ //
+v&auml;hegi    v&auml;hegi+0 //_D_ //
+v&otilde;imalik    v&otilde;imalik+0 //_A_ pos sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Ka    ka+0 //_D_ //
+Z.    Z.+0 //_Y_ nominal ? //
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+pooldas    poolda+s //_V_ main indic impf ps3 sg ps af //
+p&otilde;him&otilde;tteliselt    p&otilde;hi_m&otilde;ttelise=lt+0 //_D_ //
+nelja    neli+0 //_N_ card sg gen l //
+riigi    riik+0 //_S_ com sg gen //
+kaitsealast    kaitse_alane+t //_A_ pos sg part //
+koost&ouml;&ouml;d    koos_t&ouml;&ouml;+d //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+Seevastu    see_vastu+0 //_D_ //
+Soome    Soome+0 //_S_ prop sg gen //
+v&auml;lisminister    v&auml;lis_minister+0 //_S_ com sg nom //
+Rudolf    Rudolf+0 //_S_ prop sg nom //
+Holsti    Holsti+0 //_S_ prop sg nom //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+keerulises    keeruline+s //_A_ pos sg in //
+olukorras    olu_kord+s //_S_ com sg in //
+.    . //_Z_ Fst //
+</s>
+<s>
+Ta    tema+0 //_P_ sg nom //
+ise    ise+0 //_P_ sg nom //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+valmis    valmis+0 //_A_ pos //
+liidu    liit+0 //_S_ com sg gen //
+s&otilde;lmimiseks    s&otilde;lmi=mine+ks //_S_ com sg tr //
+,    , //_Z_ Com //
+kuid    kuid+0 //_J_ crd //
+pidi    pida+i //_V_ mod indic impf ps3 sg ps af //
+arvestama    arvesta+ma //_V_ main sup ps ill //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+Soome    Soome+0 //_S_ prop sg gen //
+sotsiaaldemokraadid    sotsiaal_demo_kraat+d //_S_ com pl nom //
+olid    ole+id //_V_ main indic impf ps3 pl ps af //
+selle    see+0 //_P_ sg gen //
+vastu    vastu+0 //_D_ //
+ja    ja+0 //_J_ crd //
+parempoolsed    parem_poolne+d //_A_ pos pl nom //
+k&otilde;hklesid    k&otilde;hkle+sid //_V_ main indic impf ps3 pl ps af //
+.    . //_Z_ Fst //
+</s>
+<s>
+Poola    Poola+0 //_S_ prop sg gen //
+riigipea    riigi_pea+0 //_S_ com sg nom //
+Josef    Josef+0 //_S_ prop sg nom //
+Pi&lstrok;sudski    Pi&lstrok;sudski+0 //_S_ prop sg nom //
+ja    ja+0 //_J_ crd //
+kindralstaap    kindral_staap+0 //_S_ com sg nom //
+pooldasid    poolda+sid //_V_ main indic impf ps3 pl ps af //
+koost&ouml;&ouml;d    koos_t&ouml;&ouml;+d //_S_ com sg part //
+Balti    balti+0 //_G_ //
+riikidega    riik+dega //_S_ com pl kom //
+,    , //_Z_ Com //
+kuid    kuid+0 //_J_ crd //
+parempoolsed    parem_poolne+d //_A_ pos pl nom //
+poliitikud    poliitik+d //_S_ com pl nom //
+olid    ole+id //_V_ main indic impf ps3 pl ps af //
+vastu    vastu+0 //_D_ //
+.    . //_Z_ Fst //
+</s>
+<s>
+Mis    mis+0 //_P_ sg nom //
+aga    aga+0 //_J_ crd //
+k&otilde;ige    k&otilde;ige+0 //_D_ //
+olulisem    olu=lisem+0 //_A_ comp sg nom //
+-    &mdash; //_Z_ Dsh //
+moment    moment+0 //_S_ com sg nom //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+Balti    balti+0 //_G_ //
+liidu    liit+0 //_S_ com sg gen //
+loomiseks    loomine+ks //_S_ com sg tr //
+ebasoodne    eba_soodne+0 //_A_ pos sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Poola    Poola+0 //_S_ prop sg gen //
+v&auml;lisminister    v&auml;lis_minister+0 //_S_ com sg nom //
+Konstanty    Konstanty+0 //_S_ prop sg nom //
+Skirmunt    Skirmunt+0 //_S_ prop sg nom //
+t&otilde;des    t&otilde;de+s //_V_ main indic impf ps3 sg ps af //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+olukorras    olu_kord+s //_S_ com sg in //
+,    , //_Z_ Com //
+kus    kus+0 //_D_ //
+Euroopa    Euroopa+0 //_S_ prop sg nom //
+valmistub    valmistu+b //_V_ main indic pres ps3 sg ps af //
+N.Venega    N._vene+ga //_S_ com sg kom //
+suhteid    suhe+id //_S_ com pl part //
+rajama    raja+ma //_V_ main sup ps ill //
+,    , //_Z_ Com //
+pole    ole+0 //_V_ main indic pres ps neg //
+s&otilde;jalist    s&otilde;jaline+t //_A_ pos sg part //
+laadi    laad+0 //_S_ com sg part //
+k&uuml;simuste    k&uuml;simus+te //_S_ com pl gen //
+arutamine    arutamine+0 //_S_ com sg nom //
+Varssavis    Varssavi+s //_S_ prop sg in //
+lihtsalt    lihtsalt+0 //_D_ //
+sobiv    sobiv+0 //_A_ pos sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Peale    peale+0 //_K_ pre //
+selle    see+0 //_P_ sg gen //
+hoiatas    hoiata+s //_V_ main indic impf ps3 sg ps af //
+liitlane    liitlane+0 //_S_ com sg nom //
+Prantsusmaa    Prantsus_maa+0 //_S_ prop sg nom //
+Poola    Poola+0 //_S_ prop sg gen //
+valitsust    valitsus+t //_S_ com sg part //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+viimane    viimane+0 //_A_ pos sg nom //
+ei    ei+0 //_V_ aux neg //
+v&otilde;taks    v&otilde;t+ks //_V_ main cond pres ps neg //
+endale    ise+le //_P_ sg all //
+kohustusi    kohustus+i //_S_ com pl part //
+Balti    balti+0 //_G_ //
+riikide    riik+de //_S_ com pl gen //
+suhtes    suhtes+0 //_K_ post //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Sellistes    selline+tes //_P_ pl in //
+tingimustes    tingimus+tes //_S_ com pl in //
+ei    ei+0 //_V_ aux neg //
+&otilde;nnestunudki    &otilde;nnestu+nudki //_V_ main indic impf ps neg //
+ametlikel    ametlik+el //_A_ pos pl ad //
+istungitel    istung+tel //_S_ com pl ad //
+mingi    mingi+0 //_P_ sg gen //
+lepingu    leping+0 //_S_ com sg gen //
+s&otilde;lmimist    s&otilde;lmi=mine+t //_S_ com sg part //
+arutada    aruta+da //_V_ main inf //
+.    . //_Z_ Fst //
+</s>
+<s>
+Ja    ja+0 //_J_ crd //
+siis    siis+0 //_D_ //
+&uuml;hel    &uuml;ks+l //_P_ sg ad //
+&otilde;htus&ouml;&ouml;gil    &otilde;htu_s&ouml;&ouml;k+l //_S_ com sg ad //
+p&auml;rast    p&auml;rast+0 //_K_ pre //
+&scaron;ampanjapokaalide    &scaron;ampanja_pokaal+de //_S_ com pl gen //
+t&otilde;stmist    t&otilde;stmine+t //_S_ com sg part //
+tegi    tege+i //_V_ main indic impf ps3 sg ps af //
+Z.    Z.+0 //_Y_ nominal ? //
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+ettepaneku    ette_panek+0 //_S_ com sg gen //
+koostada    koosta+da //_V_ main inf //
+poliitiline    poliitiline+0 //_A_ pos sg nom //
+leping    leping+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+mis    mis+0 //_P_ sg nom //
+demonstreeriks    demonstreeri+ks //_V_ main cond pres ps3 sg ps af //
+maailmale    maa_ilm+le //_S_ com sg all //
+nelja    neli+0 //_N_ card sg gen l //
+riigi    riik+0 //_S_ com sg gen //
+koost&ouml;&ouml;d    koos_t&ouml;&ouml;+d //_S_ com sg part //
+,    , //_Z_ Com //
+kuid    kuid+0 //_J_ crd //
+teisalt    teisalt+0 //_D_ //
+ei    ei+0 //_V_ aux neg //
+seoks    sidu+ks //_V_ main cond pres ps neg //
+osalisi    osaline+i //_A_ pos pl part //
+kaugeleulatuvate    kaugele_ulatuv+te //_A_ pos pl gen //
+kohustustega    kohustus+tega //_S_ com pl kom //
+.    . //_Z_ Fst //
+</s>
+<s>
+J&auml;rgneval    j&auml;rgnev+l //_A_ pos sg ad //
+hommikul    hommik+l //_S_ com sg ad //
+esitaski    esita+ski //_V_ main indic impf ps3 sg ps af //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+v&auml;lisminister    v&auml;lis_minister+0 //_S_ com sg nom //
+vastava    vastav+0 //_A_ pos sg gen //
+projekti    projekt+0 //_S_ com sg gen //
+.    . //_Z_ Fst //
+</s>
+<s>
+L&uuml;hikese    l&uuml;hike+0 //_A_ pos sg gen //
+aja    aeg+0 //_S_ com sg gen //
+jooksul    jooksul+0 //_K_ post //
+saadi    saa+di //_V_ main indic impf imps af //
+Poola    Poola+0 //_S_ prop sg gen //
+riigipea    riigi_pea+0 //_S_ com sg gen //
+,    , //_Z_ Com //
+valitsuse    valitsus+0 //_S_ com sg gen //
+ja    ja+0 //_J_ crd //
+kindralstaabi    kindral_staap+0 //_S_ com sg gen //
+n&otilde;usolek    n&otilde;us_olek+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Nii    nii+0 //_D_ //
+s&uuml;ndis    s&uuml;ndi+s //_V_ main indic impf ps3 sg ps af //
+Accord    Accord+0 //_T_ //
+de    de+0 //_T_ //
+Varsovie    Varsovie+0 //_T_ //
+-    &mdash; //_Z_ Dsh //
+Varssavi    Varssavi+0 //_S_ prop sg gen //
+leping    leping+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+millele    mis+le //_P_ sg all //
+neli    neli+0 //_N_ card sg nom l //
+v&auml;lisministrit    v&auml;lis_minister+t //_S_ com sg part //
+kirjutasid    kirjuta+sid //_V_ main indic impf ps3 pl ps af //
+alla    alla+0 //_D_ //
+17.    17.+0 //_N_ ord ? digit //
+m&auml;rtsil    m&auml;rts+l //_S_ com sg ad //
+1922    1922+0 //_N_ card ? digit //
+.    . //_Z_ Fst //
+</s>
+<s>
+Lepingu    leping+0 //_S_ com sg gen //
+k&otilde;ige    k&otilde;ige+0 //_D_ //
+olulisemaks    olu=lisem+ks //_A_ comp sg tr //
+peetud    peetud+0 //_A_ pos //
+VII    vii+0 //_N_ ord ? roman //
+artikkel    artikkel+0 //_S_ com sg nom //
+k&otilde;las    k&otilde;la+s //_V_ main indic impf ps3 sg ps af //
+ametlikus    ametlik+s //_A_ pos sg in //
+eestikeelses    eesti_keelne+s //_A_ pos sg in //
+t&otilde;lkes    t&otilde;lge+s //_S_ com sg in //
+j&auml;rgnevalt    j&auml;rgnevalt+0 //_D_ //
+:    : //_Z_ Col //
+Varssavi    Varssavi+0 //_S_ prop sg gen //
+Konverentsil    konverents+l //_S_ com sg ad //
+esitatud    esitatud+0 //_A_ pos //
+riigid    riik+d //_S_ com pl nom //
+deklareerivad    deklareeri+vad //_V_ main indic pres ps3 pl ps af //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+juhtumisel    juhtumine+l //_S_ com sg ad //
+,    , //_Z_ Com //
+kui    kui+0 //_J_ sub //
+&uuml;ks    &uuml;ks+0 //_P_ sg nom //
+neist    see+st //_P_ pl el //
+ilma    ilma+0 //_K_ pre //
+oma    oma+0 //_P_ sg gen //
+poolt    poolt+0 //_K_ post //
+seda    see+da //_P_ sg part //
+v&auml;ljakutsumata    v&auml;lja_kutsu=mata+0 //_A_ pos //
+oleks    ole+ks //_V_ main cond pres ps3 sg ps af //
+attakeeritud    attakeeri=tud+0 //_A_ pos //
+teise    teine+0 //_P_ sg gen //
+riigi    riik+0 //_S_ com sg gen //
+poolt    poolt+0 //_K_ post //
+,    , //_Z_ Com //
+nemad    tema+d //_P_ pl nom //
+heatahtliku    hea_tahtlik+0 //_A_ pos sg gen //
+seisukoha    seisu_koht+0 //_S_ com sg gen //
+v&otilde;tavad    v&otilde;t+vad //_V_ main indic pres ps3 pl ps af //
+attakeeritud    attakeeri=tud+0 //_A_ pos //
+riigi    riik+0 //_S_ com sg gen //
+vastu    vastu+0 //_K_ post //
+ja    ja+0 //_J_ crd //
+viibimata    viibimata+0 //_D_ //
+kokku    kokku+0 //_D_ //
+leppivad    leppi=v+d //_A_ pos pl nom //
+sammude    samm+de //_S_ com pl gen //
+kohta    kohta+0 //_K_ post //
+,    , //_Z_ Com //
+mida    mis+da //_P_ pl part //
+ette    ette+0 //_D_ //
+v&otilde;tta    v&otilde;t+a //_V_ main inf //
+.    . //_Z_ Fst //
+</s>
+<s>
+Lisaks    lisa+ks //_S_ com sg tr //
+kirjutasid    kirjuta+sid //_V_ main indic impf ps3 pl ps af //
+v&auml;lisministrid    v&auml;lis_minister+d //_S_ com pl nom //
+alla    alla+0 //_D_ //
+salajasele    salajane+le //_A_ pos sg all //
+lisaprotokollile    lisa_protokoll+le //_S_ com sg all //
+(    ( //_Z_ Opr //
+vt.    vt+0 //_Y_ verbal //
+pildiallkiri    pildi_all_kiri+0 //_S_ com sg nom //
+lk.    lk+0 //_Y_ nominal ? //
+42    42+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Nii    nii+0 //_D_ //
+Eesti    Eesti+0 //_S_ prop sg gen //
+,    , //_Z_ Com //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+kui    kui+0 //_J_ sub //
+Poola    Poola+0 //_S_ prop sg gen //
+parlament    parlament+0 //_S_ com sg nom //
+ratifitseerisid    ratifitseeri+sid //_V_ main indic impf ps3 pl ps af //
+Varssavi    Varssavi+0 //_S_ prop sg gen //
+lepingu    leping+0 //_S_ com sg gen //
+,    , //_Z_ Com //
+Soome    Soome+0 //_S_ prop sg gen //
+Eduskund    Eduskund+0 //_S_ prop sg nom //
+aga    aga+0 //_J_ crd //
+seda    see+da //_P_ sg part //
+ei    ei+0 //_V_ aux neg //
+teinud    tege+nud //_V_ main indic impf ps neg //
+ning    ning+0 //_J_ crd //
+v&auml;lisminister    v&auml;lis_minister+0 //_S_ com sg nom //
+Rudolf    Rudolf+0 //_S_ prop sg nom //
+Holsti    Holsti+0 //_S_ prop sg nom //
+,    , //_Z_ Com //
+kes    kes+0 //_P_ sg nom //
+v&auml;idetavalt    v&auml;ide=tavalt+0 //_D_ //
+oli    ole+i //_V_ aux indic impf ps3 sg ps af //
+&uuml;letanud    &uuml;leta+nud //_V_ main partic past ps //
+oma    oma+0 //_P_ sg gen //
+volitused    volitus+d //_S_ com pl nom //
+,    , //_Z_ Com //
+oli    ole+i //_V_ aux indic impf ps3 sg ps af //
+sunnitud    sundi+tud //_V_ main partic past imps //
+ametist    amet+st //_S_ com sg el //
+lahkuma    lahku+ma //_V_ main sup ps ill //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Soome    Soome+0 //_S_ prop sg gen //
+Riia    Riia+0 //_S_ prop sg gen //
+saadiku    saadik+0 //_S_ com sg gen //
+Rudolf    Rudolf+0 //_S_ prop sg nom //
+Holsti    Holsti+0 //_S_ prop sg gen //
+ettekandest    ette_kanne+st //_S_ com sg el //
+</s>
+</p>
+<p>
+<s>
+Soome    Soome+0 //_S_ prop sg gen //
+V&auml;lisministeeriumile    v&auml;lis_ministeerium+le //_S_ com sg all //
+:    : //_Z_ Col //
+Alates    alates+0 //_K_ pre //
+1918.    1918.+0 //_N_ ord ? digit //
+aastast    aasta+st //_S_ com sg el //
+olen    ole+n //_V_ aux indic pres ps1 sg ps af //
+t&otilde;denud    t&otilde;de+nud //_V_ main partic past ps //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+tema    tema+0 //_P_ sg nom //
+suutis    suut+is //_V_ main indic impf ps3 sg ps af //
+m&otilde;ista    m&otilde;ist+a //_V_ main inf //
+paremini    paremini+0 //_D_ //
+kui    kui+0 //_J_ sub //
+keegi    keegi+0 //_P_ sg nom //
+teine    teine+0 //_P_ sg nom //
+,    , //_Z_ Com //
+mida    mis+da //_P_ sg part //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+v&auml;lispoliitikal    v&auml;lis_poliitika+l //_S_ com sg ad //
+l&auml;hemal    l&auml;hem+l //_A_ comp sg ad //
+ajal    aeg+l //_S_ com sg ad //
+tuleb    tule+b //_V_ main indic pres ps3 sg ps af //
+taotleda    taotle+da //_V_ main inf //
+.    . //_Z_ Fst //
+/    / //_Z_ Sla //
+...    ... //_Z_ Ell //
+/    / //_Z_ Sla //
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+ka    ka+0 //_D_ //
+laiade    lai+de //_A_ pos pl gen //
+isiklike    isiklik+e //_A_ pos pl gen //
+sidemete    side+te //_S_ com pl gen //
+t&otilde;ttu    t&otilde;ttu+0 //_K_ post //
+erakordselt    era_kordselt+0 //_D_ //
+h&auml;sti    h&auml;sti+0 //_D_ //
+informeeritud    informeeritud+0 //_A_ pos //
+suurriikide    suur_riik+de //_S_ com pl gen //
+ja    ja+0 //_J_ crd //
+Venemaa    Vene_maa+0 //_S_ prop sg gen //
+poliitikast    poliitika+st //_S_ com sg el //
+.    . //_Z_ Fst //
+</s>
+<s>
+Selles    see+s //_P_ sg in //
+m&otilde;ttes    m&otilde;te+s //_S_ com sg in //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+t&auml;helepanuv&auml;&auml;riv    t&auml;hele_panu_v&auml;&auml;riv+0 //_A_ pos sg nom //
+iga    iga+0 //_P_ sg nom //
+keskustelu    keskustelu+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+mis    mis+0 //_P_ sg nom //
+mul    mina+l //_P_ sg ad //
+temaga    tema+ga //_P_ sg kom //
+aastate    aasta+te //_S_ com pl gen //
+v&auml;ltel    v&auml;ltel+0 //_K_ post //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Ruhnu    Ruhnu+0 //_S_ prop sg nom //
+ja    ja+0 //_J_ crd //
+tasumata    tasu=mata+0 //_A_ pos //
+arved    arve+d //_S_ com pl nom //
+</s>
+</p>
+<p>
+<s>
+Kujunenud    kujune=nud+0 //_A_ pos //
+olukorras    olu_kord+s //_S_ com sg in //
+leppisid    leppi+sid //_V_ main indic impf ps3 pl ps af //
+Z.    Z.+0 //_Y_ nominal ? //
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+ja    ja+0 //_J_ crd //
+A.    A.+0 //_Y_ nominal ? //
+Piibu    Piip+0 //_S_ prop sg gen //
+j&auml;rglane    j&auml;rglane+0 //_S_ com sg nom //
+ministritoolil    ministri_tool+l //_S_ com sg ad //
+,    , //_Z_ Com //
+Aleksander    Aleksander+0 //_S_ prop sg nom //
+Hellat    Hellat+0 //_S_ prop sg nom //
+kokku    kokku+0 //_D_ //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+vaidlusk&uuml;simused    vaidlus_k&uuml;simus+d //_S_ com pl nom //
+tuleb    tule+b //_V_ main indic pres ps3 sg ps af //
+lahendada    lahenda+da //_V_ main inf //
+ning    ning+0 //_J_ crd //
+luua    loo+a //_V_ main inf //
+kindel    kindel+0 //_A_ pos sg nom //
+alus    alus+0 //_S_ com sg nom //
+kahe    kaks+0 //_N_ card sg gen l //
+riigi    riik+0 //_S_ com sg gen //
+liitumisele    liitumine+le //_S_ com sg all //
+.    . //_Z_ Fst //
+</s>
+<s>
+25.    25.+0 //_N_ ord ? digit //
+oktoobrist    oktoober+st //_S_ com sg el //
+1.    1.+0 //_N_ ord ? digit //
+novembrini    november+ni //_S_ com sg term //
+1923    1923+0 //_N_ card ? digit //
+toimuski    toimu+ski //_V_ main indic impf ps3 sg ps af //
+Tallinnas    Tallinn+s //_S_ prop sg in //
+Eesti-L&auml;ti    Eesti-L&auml;ti+0 //_S_ prop sg gen //
+konverents    konverents+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+kus    kus+0 //_D_ //
+delegatsioone    delegatsioon+e //_S_ com pl part //
+juhtisid    juhti+sid //_V_ main indic impf ps3 pl ps af //
+pea-    pea+0 //_S_ com sg gen //
+ja    ja+0 //_J_ crd //
+v&auml;lisminister    v&auml;lis_minister+0 //_S_ com sg nom //
+Z.    Z.+0 //_Y_ nominal ? //
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+ning    ning+0 //_J_ crd //
+augusti    august+0 //_S_ com sg gen //
+algul    algul+0 //_K_ post //
+v&auml;lisministriks    v&auml;lis_minister+ks //_S_ com sg tr //
+saanud    saa=nud+0 //_A_ pos //
+Friedrich    Friedrich+0 //_S_ prop sg nom //
+Akel    Akel+0 //_S_ prop sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+&Auml;gedad    &auml;ge+d //_A_ pos pl nom //
+vaidlused    vaidlus+d //_S_ com pl nom //
+arenesid    arene+sid //_V_ main indic impf ps3 pl ps af //
+peamiselt    peamiselt+0 //_D_ //
+piiri-    piir+0 //_S_ com sg gen //
+ja    ja+0 //_J_ crd //
+vastastikuste    vastastikune+te //_A_ pos pl gen //
+n&otilde;udlustega    n&otilde;udlus+tega //_S_ com pl kom //
+seotud    seotud+0 //_A_ pos //
+k&uuml;simustes    k&uuml;simus+tes //_S_ com pl in //
+ning    ning+0 //_J_ crd //
+konverents    konverents+0 //_S_ com sg nom //
+venis    veni+s //_V_ main indic impf ps3 sg ps af //
+kavandatust    kavanda=tu+st //_S_ com sg el //
+paar    paar+0 //_N_ card sg nom l //
+p&auml;eva    p&auml;ev+0 //_S_ com sg part //
+pikemaks    pikem+ks //_A_ comp sg tr //
+.    . //_Z_ Fst //
+</s>
+<s>
+L&auml;tlased    l&auml;tlane+d //_S_ com pl nom //
+n&otilde;udsid    n&otilde;ud+sid //_V_ main indic impf ps3 pl ps af //
+Ruhnu    Ruhnu+0 //_S_ prop sg gen //
+saart    saar+t //_S_ com sg part //
+ja    ja+0 //_J_ crd //
+Laura    Laura+0 //_S_ prop sg gen //
+piirkonda    piirkond+0 //_S_ com sg part //
+,    , //_Z_ Com //
+eestlased    eestlane+d //_S_ com pl nom //
+piiri    piir+0 //_S_ com sg gen //
+korrigeerimist    korrigeeri=mine+t //_S_ com sg part //
+mitmes    mitu+s //_P_ sg in //
+punktis    punkt+s //_S_ com sg in //
+.    . //_Z_ Fst //
+</s>
+<s>
+L&otilde;puks    l&otilde;puks+0 //_D_ //
+saavutati    saavuta+ti //_V_ main indic impf imps af //
+kompromiss    kompromiss+0 //_S_ com sg nom //
+ja    ja+0 //_J_ crd //
+s&otilde;lmiti    s&otilde;lmi+ti //_V_ main indic impf imps af //
+Eesti-L&auml;ti    Eesti-L&auml;ti+0 //_S_ prop sg gen //
+piirileping    piiri_leping+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Vastastikuste    vastastikune+te //_A_ pos pl gen //
+n&otilde;udluste    n&otilde;udlus+te //_S_ com pl gen //
+komisjonis    komisjon+s //_S_ com sg in //
+vaieldi    vaidle+di //_V_ main indic impf imps af //
+tuliselt    tuliselt+0 //_D_ //
+kulude    kulu+de //_S_ com pl gen //
+&uuml;le    &uuml;le+0 //_K_ post //
+,    , //_Z_ Com //
+mis    mis+0 //_P_ pl nom //
+tulenesid    tulene+sid //_V_ main indic impf ps3 pl ps af //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+v&auml;eosade    v&auml;e_osa+de //_S_ com pl gen //
+relvastamisest    relvasta=mine+st //_S_ com sg el //
+ja    ja+0 //_J_ crd //
+varustamisest    varustamine+st //_S_ com sg el //
+Eesti    Eesti+0 //_S_ prop sg gen //
+poolt    poolt+0 //_K_ post //
+1919.    1919.+0 //_N_ ord ? digit //
+aastal    aasta+l //_S_ com sg ad //
+ning    ning+0 //_J_ crd //
+Eesti    Eesti+0 //_S_ prop sg gen //
+v&auml;gede    v&auml;gi+de //_S_ com pl gen //
+s&otilde;jategevusest    s&otilde;ja_tegevus+st //_S_ com sg el //
+nii    nii+0 //_D_ //
+Punaarmee    puna_armee+0 //_S_ com sg gen //
+kui    kui+0 //_J_ sub //
+ka    ka+0 //_D_ //
+Landeswehr'i    Landeswehr+0 //_S_ prop sg gen //
+ja    ja+0 //_J_ crd //
+Bermondt-Avalovi    Bermondt-Avalov+0 //_S_ prop sg gen //
+v&auml;gede    v&auml;gi+de //_S_ com pl gen //
+vastu    vastu+0 //_K_ post //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+territooriumil    territoorium+l //_S_ com sg ad //
+.    . //_Z_ Fst //
+</s>
+<s>
+Nii    nii+0 //_D_ //
+18.    18.+0 //_N_ ord ? digit //
+veebruaril    veebruar+l //_S_ com sg ad //
+kui    kui+0 //_D_ //
+21.    21.+0 //_N_ ord ? digit //
+juulil    juuli+l //_S_ com sg ad //
+1919    1919+0 //_N_ card ? digit //
+s&otilde;lmitud    s&otilde;lmi=tud+0 //_A_ pos //
+lepingus    leping+s //_S_ com sg in //
+kohustus    kohustu+s //_V_ main indic impf ps3 sg ps af //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+valitsus    valitsus+0 //_S_ com sg nom //
+mainitud    mainitud+0 //_A_ pos //
+kulud    kulu+d //_S_ com pl nom //
+korvama    korva+ma //_V_ main sup ps ill //
+.    . //_Z_ Fst //
+</s>
+<s>
+Tallinna    Tallinn+0 //_S_ prop sg gen //
+konverentsil    konverents+l //_S_ com sg ad //
+esitas    esita+s //_V_ main indic impf ps3 sg ps af //
+kindral    kindral+0 //_S_ com sg nom //
+E.    E.+0 //_Y_ nominal ? //
+P&otilde;dder    P&otilde;dder+0 //_S_ prop sg nom //
+Eesti    Eesti+0 //_S_ prop sg gen //
+arveks    arve+ks //_S_ com sg tr //
+u.    u+0 //_Y_ adverbial //
+23    23+0 //_N_ card ? digit //
+miljonit    miljon+t //_N_ card sg part l //
+kuldfranki    kuld_frank+0 //_S_ com sg part //
+ning    ning+0 //_J_ crd //
+lisaks    lisa+ks //_S_ com sg tr //
+tsiviilv&otilde;imude    tsiviil_v&otilde;im+de //_S_ com pl gen //
+arve    arve+0 //_S_ com sg gen //
+u.    u+0 //_Y_ adverbial //
+3    3+0 //_N_ card ? digit //
+miljonit    miljon+t //_N_ card sg part l //
+Eesti    Eesti+0 //_S_ prop sg gen //
+marka    mark+0 //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+Z.    Z.+0 //_Y_ nominal ? //
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+esitas    esita+s //_V_ main indic impf ps3 sg ps af //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+arve    arve+0 //_S_ com sg gen //
+-    &mdash; //_Z_ Dsh //
+31_346_450    31_346_450+0 //_N_ card ? digit //
+kuldfranki    kuld_frank+0 //_S_ com sg part //
+,    , //_Z_ Com //
+r&otilde;hutades    r&otilde;huta+des //_V_ main ger //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+maksimaalsumma    maksimaal_summa+0 //_S_ com sg nom //
+oleks    ole+ks //_V_ main cond pres ps3 sg ps af //
+isegi    isegi+0 //_D_ //
+46    46+0 //_N_ card ? digit //
+miljonit    miljon+t //_N_ card sg part l //
+kuldfranki    kuld_frank+0 //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+Seega    seega+0 //_D_ //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+abistatava    abista=tav+0 //_A_ pos sg gen //
+arve    arve+0 //_S_ com sg nom //
+palju    palju+0 //_D_ //
+suurem    suurem+0 //_A_ comp sg nom //
+abistaja    abistaja+0 //_S_ com sg gen //
+omast    oma+st //_P_ sg el //
+!    ! //_Z_ Exc //
+</s>
+<s>
+L&otilde;puks    l&otilde;puks+0 //_D_ //
+tegi    tege+i //_V_ main indic impf ps3 sg ps af //
+Z.    Z.+0 //_Y_ nominal ? //
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+osava    osav+0 //_A_ pos sg gen //
+k&auml;igu    k&auml;ik+0 //_S_ com sg gen //
+,    , //_Z_ Com //
+taotledes    taotle+des //_V_ main ger //
+n&otilde;udluste    n&otilde;udlus+te //_S_ com pl gen //
+kustutamist    kustuta=mine+t //_S_ com sg part //
+ja    ja+0 //_J_ crd //
+teatades    teata+des //_V_ main ger //
+valmisolekust    valmis_olek+st //_S_ com sg el //
+maksta    maks+ta //_V_ main inf //
+L&auml;tis    L&auml;ti+s //_S_ prop sg in //
+langenute    langenu+te //_S_ com pl gen //
+omastele    omaksed+tele //_S_ com pl all //
+ja    ja+0 //_J_ crd //
+invaliidistunud    invaliidistu=nud+0 //_A_ pos //
+s&otilde;duritele    s&otilde;dur+tele //_S_ com pl all //
+toetust    toetus+t //_S_ com sg part //
+30    30+0 //_N_ card ? digit //
+miljoni    miljon+0 //_N_ card sg gen l //
+Eesti    Eesti+0 //_S_ prop sg gen //
+marga    mark+0 //_S_ com sg gen //
+ulatuses    ulatus+s //_S_ com sg in //
+.    . //_Z_ Fst //
+</s>
+<s>
+Eesti    Eesti+0 //_S_ prop sg nom //
+n&otilde;ustuski    n&otilde;ustu+ski //_V_ main indic impf ps3 sg ps af //
+l&otilde;puks    l&otilde;puks+0 //_D_ //
+selle    see+0 //_P_ sg gen //
+ettepanekuga    ette_panek+ga //_S_ com sg kom //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Konverentsil    konverents+l //_S_ com sg ad //
+s&otilde;lmitud    s&otilde;lmi=tud+0 //_A_ pos //
+Eesti-L&auml;ti    Eesti-L&auml;ti+0 //_S_ prop sg gen //
+tolliuniooni    tolli_unioon+0 //_S_ com sg gen //
+eellepingut    eel_leping+t //_S_ com sg part //
+peeti    pida+ti //_V_ main indic impf imps af //
+esimeseks    esimene+ks //_N_ ord sg tr l //
+sammuks    samm+ks //_S_ com sg tr //
+kahe    kaks+0 //_N_ card sg gen l //
+riigi    riik+0 //_S_ com sg gen //
+tolliuniooni    tolli_unioon+0 //_S_ com sg gen //
+loomisel    loomine+l //_S_ com sg ad //
+.    . //_Z_ Fst //
+</s>
+<s>
+T&otilde;si    t&otilde;si+0 //_S_ com sg nom //
+k&uuml;ll    k&uuml;ll+0 //_D_ //
+,    , //_Z_ Com //
+hoolimata    hoolimata+0 //_K_ pre //
+j&auml;rgnevatest    j&auml;rgnev+test //_A_ pos pl el //
+aastaid    aasta+id //_S_ com pl part //
+kestnud    kest=nud+0 //_A_ pos //
+l&auml;bir&auml;&auml;kimistest    l&auml;bi_r&auml;&auml;kimine+test //_S_ com pl el //
+tolliuniooni    tolli_unioon+0 //_S_ com sg part //
+saavutada    saavuta+da //_V_ main inf //
+ei    ei+0 //_V_ aux neg //
+&otilde;nnestunud    &otilde;nnestu+nud //_V_ main indic impf ps neg //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Tallinna    Tallinn+0 //_S_ prop sg gen //
+konverentsi    konverents+0 //_S_ com sg gen //
+t&auml;htsaim    t&auml;htsaim+0 //_A_ super sg nom //
+tulemus    tulemus+0 //_S_ com sg nom //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+Eesti-L&auml;ti    Eesti-L&auml;ti+0 //_S_ prop sg gen //
+s&otilde;jalis-poliitilise    s&otilde;jalis-poliitiline+0 //_A_ pos sg gen //
+liidu    liit+0 //_S_ com sg gen //
+leping    leping+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+millele    mis+le //_P_ sg all //
+koos    koos+0 //_K_ pre //
+teiste    teine+te //_P_ pl gen //
+lepingutega    leping+tega //_S_ com pl kom //
+kirjutati    kirjuta+ti //_V_ main indic impf imps af //
+alla    alla+0 //_D_ //
+1.    1.+0 //_N_ ord ? digit //
+novembril    november+l //_S_ com sg ad //
+1923    1923+0 //_N_ card ? digit //
+.    . //_Z_ Fst //
+</s>
+<s>
+Lepingus    leping+s //_S_ com sg in //
+fikseeriti    fikseeri+ti //_V_ main indic impf imps af //
+ka    ka+0 //_D_ //
+partnerite    partner+te //_S_ com pl gen //
+s&otilde;jalised    s&otilde;jaline+d //_A_ pos pl nom //
+kohustused    kohustus+d //_S_ com pl nom //
+juhul    juht+l //_S_ com sg ad //
+,    , //_Z_ Com //
+kui    kui+0 //_J_ sub //
+&uuml;ks    &uuml;ks+0 //_P_ sg nom //
+neist    see+st //_P_ pl el //
+on    ole+0 //_V_ aux indic pres ps3 sg ps af //
+langenud    lange+nud //_V_ main partic past ps //
+omapoolse    oma_poolne+0 //_A_ pos sg gen //
+provokatsioonita    provokatsioon+ta //_S_ com sg abes //
+kallaletungi    kallale_tung+0 //_S_ com sg gen //
+ohvriks    ohver+ks //_S_ com sg tr //
+.    . //_Z_ Fst //
+</s>
+<s>
+Z.    Z.+0 //_Y_ nominal ? //
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+deklareeris    deklareeri+s //_V_ main indic impf ps3 sg ps af //
+p&auml;rast    p&auml;rast+0 //_K_ pre //
+konverentsi    konverents+0 //_S_ com sg gen //
+l&otilde;ppu    l&otilde;pp+0 //_S_ com sg part //
+ajakirjanikele    aja_kirjanik+ele //_S_ com pl all //
+:    : //_Z_ Col //
+Siin    siin+0 //_D_ //
+on    ole+0 //_V_ aux indic pres ps3 sg ps af //
+saavutatud    saavuta+tud //_V_ main partic past imps //
+Balti    balti+0 //_G_ //
+liidu    liit+0 //_S_ com sg gen //
+tuum    tuum+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+mis    mis+0 //_P_ sg nom //
+p&otilde;hja    p&otilde;hi+0 //_S_ com sg adit //
+ja    ja+0 //_J_ crd //
+l&otilde;unasse    l&otilde;una+sse //_S_ com sg ill //
+peab    pida+b //_V_ mod indic pres ps3 sg ps af //
+laienema    laiene+ma //_V_ main sup ps ill //
+.    . //_Z_ Fst //
+</s>
+<s>
+Sedasama    see_sama+0 //_P_ sg part //
+r&otilde;hutas    r&otilde;huta+s //_V_ main indic impf ps3 sg ps af //
+ka    ka+0 //_D_ //
+F.    F.+0 //_Y_ nominal ? //
+Akel    Akel+0 //_S_ prop sg nom //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Eesti-L&auml;ti    Eesti-L&auml;ti+0 //_S_ prop sg gen //
+liidulepingu    liidu_leping+0 //_S_ com sg gen //
+s&otilde;lmimine    s&otilde;lmi=mine+0 //_S_ com sg nom //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+nii    nii+0 //_D_ //
+Z.    Z.+0 //_Y_ nominal ? //
+Meierovicsile    Meierovics+le //_S_ prop sg all //
+kui    kui+0 //_J_ sub //
+ka    ka+0 //_D_ //
+Eesti    Eesti+0 //_S_ prop sg gen //
+valitsusele    valitsus+le //_S_ com sg all //
+k&uuml;ll    k&uuml;ll+0 //_D_ //
+suur    suur+0 //_A_ pos sg nom //
+&otilde;nnestumine    &otilde;nnestumine+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+kuid    kuid+0 //_J_ crd //
+kahjuks    kahjuks+0 //_D_ //
+osutus    osutu+s //_V_ main indic impf ps3 sg ps af //
+liit    liit+0 //_S_ com sg nom //
+praktikas    praktika+s //_S_ com sg in //
+v&auml;heefektiivseks    v&auml;he_efektiivne+ks //_A_ pos sg tr //
+.    . //_Z_ Fst //
+</s>
+<s>
+Ka    ka+0 //_D_ //
+j&auml;rgnevail    j&auml;rgnev+il //_A_ pos pl ad //
+aastail    aasta+il //_S_ com pl ad //
+tegeles    tegele+s //_V_ main indic impf ps3 sg ps af //
+Z.    Z.+0 //_Y_ nominal ? //
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+aktiivselt    aktiivselt+0 //_D_ //
+Balti    balti+0 //_G_ //
+koost&ouml;&ouml;    koos_t&ouml;&ouml;+0 //_S_ com sg gen //
+probleemistikuga    probleemistik+ga //_S_ com sg kom //
+,    , //_Z_ Com //
+kuid    kuid+0 //_J_ crd //
+kahjuks    kahjuks+0 //_D_ //
+ei    ei+0 //_V_ aux neg //
+olnud    ole+nud //_V_ aux indic impf ps neg //
+Z.    Z.+0 //_Y_ nominal ? //
+Meierovicsile    Meierovics+le //_S_ prop sg all //
+selleks    see+ks //_P_ sg tr //
+enam    enam+0 //_D_ //
+palju    palju+0 //_D_ //
+elup&auml;evi    elu_p&auml;ev+i //_S_ com pl part //
+antud    and+tud //_V_ main partic past imps //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Valgus    valgus+0 //_S_ com sg nom //
+ja    ja+0 //_J_ crd //
+varjud    vari+d //_S_ com pl nom //
+</s>
+</p>
+<p>
+<s>
+Seal    seal+0 //_D_ //
+,    , //_Z_ Com //
+kus    kus+0 //_D_ //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+ere    ere+0 //_A_ pos sg nom //
+valgus    valgus+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+ei    ei+0 //_V_ aux neg //
+saa    saa+0 //_V_ mod indic pres ps neg //
+puududa    puudu+da //_V_ main inf //
+ka    ka+0 //_D_ //
+varjud    vari+d //_S_ com pl nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+K&uuml;llap    k&uuml;llap+0 //_D_ //
+k&auml;ib    k&auml;i+b //_V_ main indic pres ps3 sg ps af //
+see    see+0 //_P_ sg nom //
+t&otilde;demus    t&otilde;demus+0 //_S_ com sg nom //
+ka    ka+0 //_D_ //
+Z.    Z.+0 //_Y_ nominal ? //
+Meierovicsi    Meierovics+0 //_S_ prop sg gen //
+kohta    kohta+0 //_K_ post //
+.    . //_Z_ Fst //
+</s>
+<s>
+P&otilde;hiline    p&otilde;hiline+0 //_A_ pos sg nom //
+,    , //_Z_ Com //
+mis    mis+0 //_P_ sg nom //
+sellele    see+le //_P_ sg all //
+hiilgavale    hiilgav+le //_A_ pos sg all //
+diplomaadile    diplomaat+le //_S_ com sg all //
+juba    juba+0 //_D_ //
+eluajal    elu_aeg+l //_S_ com sg ad //
+ette    ette+0 //_D_ //
+heideti    heit+ti //_V_ main indic impf imps af //
+,    , //_Z_ Com //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+liigne    liigne+0 //_A_ pos sg nom //
+paindlikkus    paindlikkus+0 //_S_ com sg nom //
+ning    ning+0 //_J_ crd //
+m&otilde;nes    m&otilde;ni+s //_P_ sg in //
+olulises    oluline+s //_A_ pos sg in //
+k&uuml;simuses    k&uuml;simus+s //_S_ com sg in //
+isegi    isegi+0 //_D_ //
+kindla    kindel+0 //_A_ pos sg gen //
+ja    ja+0 //_J_ crd //
+selge    selge+0 //_A_ pos sg gen //
+v&auml;lispoliitilise    v&auml;lis_poliitiline+0 //_A_ pos sg gen //
+kursi    kurss+0 //_S_ com sg gen //
+puudumine    puudumine+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Nii    nii+0 //_D_ //
+Eesti    Eesti+0 //_S_ prop sg gen //
+V&auml;lisministeeriumis    v&auml;lis_ministeerium+s //_S_ com sg in //
+kui    kui+0 //_D_ //
+Riia    Riia+0 //_S_ prop sg gen //
+diplomaatkonnas    diplomaat_konn+s //_S_ com sg in //
+fikseeriti    fikseeri+ti //_V_ main indic impf imps af //
+korduvalt    korduvalt+0 //_D_ //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+r&auml;&auml;kis    r&auml;&auml;ki+s //_V_ main indic impf ps3 sg ps af //
+&uuml;hes    &uuml;ks+s //_P_ sg in //
+ja    ja+0 //_J_ crd //
+samas    sama+s //_P_ sg in //
+k&uuml;simuses    k&uuml;simus+s //_S_ com sg in //
+erinevate    erinev+te //_A_ pos pl gen //
+riikide    riik+de //_S_ com pl gen //
+esindajatele    esindaja+tele //_S_ com pl all //
+erinevat    erinev+t //_A_ pos sg part //
+juttu    jutt+0 //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+p&uuml;&uuml;dis    p&uuml;&uuml;d+is //_V_ main indic impf ps3 sg ps af //
+k&otilde;ikidega    k&otilde;ik+dega //_P_ pl kom //
+nii    nii+0 //_D_ //
+h&auml;sti    h&auml;sti+0 //_D_ //
+l&auml;bi    l&auml;bi+0 //_D_ //
+saada    saa+da //_V_ main inf //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+&uuml;he    &uuml;ks+0 //_P_ sg gen //
+suurriigi    suur_riik+0 //_S_ com sg gen //
+saadik    saadik+0 //_S_ com sg nom //
+pillas    pilla+s //_V_ main indic impf ps3 sg ps af //
+kord    kord+0 //_D_ //
+isegi    isegi+0 //_D_ //
+lause    lause+0 //_S_ com sg gen //
+:    : //_Z_ Col //
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+suudleb    suudle+b //_V_ main indic pres ps3 sg ps af //
+iga&uuml;hega    iga_&uuml;ks+ga //_P_ sg kom //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+M&otilde;ned    m&otilde;ni+d //_P_ pl nom //
+Meierovicsi    Meierovics+0 //_S_ prop sg gen //
+usalduslikud    usalduslik+d //_A_ pos pl nom //
+avaldused    avaldus+d //_S_ com pl nom //
+N&otilde;ukogude    n&otilde;u_kogu+de //_S_ com pl gen //
+diplomaatidele    diplomaat+dele //_S_ com pl all //
+liidupartneri    liidu_partner+0 //_S_ com sg gen //
+Eesti    Eesti+0 //_S_ prop sg gen //
+suhtes    suhtes+0 //_K_ post //
+on    ole+0 //_V_ main indic pres ps3 pl ps af //
+&uuml;sna    &uuml;sna+0 //_D_ //
+kummalised    kummaline+d //_A_ pos pl nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+N&auml;iteks    n&auml;ide+ks //_S_ com sg tr //
+&uuml;tles    &uuml;tle+s //_V_ main indic impf ps3 sg ps af //
+ta    tema+0 //_P_ sg nom //
+saadik    saadik+0 //_S_ com sg nom //
+Semjon    Semjon+0 //_S_ prop sg nom //
+Aralovile    Aralov+le //_S_ prop sg all //
+otses&otilde;nu    otse_s&otilde;nu+0 //_D_ //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+valitsus    valitsus+0 //_S_ com sg nom //
+ei    ei+0 //_V_ aux neg //
+toeta    toeta+0 //_V_ main indic pres ps neg //
+Eesti    Eesti+0 //_S_ prop sg gen //
+Poola-s&otilde;bralikku    Poola-s&otilde;bralik+0 //_A_ pos sg part //
+kurssi    kurss+0 //_S_ com sg part //
+ning    ning+0 //_J_ crd //
+et    et+0 //_J_ sub //
+ta    tema+0 //_P_ sg nom //
+on    ole+0 //_V_ aux indic pres ps3 sg ps af //
+suutnud    suut+nud //_V_ main partic past ps //
+K.R.    K.R+0 //_Y_ nominal ? //
+Pusta    Pusta+0 //_S_ prop sg gen //
+keevalisust    keevalisus+t //_S_ com sg part //
+jahutada    jahuta+da //_V_ main inf //
+.    . //_Z_ Fst //
+</s>
+<s>
+Nii    nii+0 //_D_ //
+andis    and+is //_V_ main indic impf ps3 sg ps af //
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+otseselt    otseselt+0 //_D_ //
+m&otilde;ista    m&otilde;ist+a //_V_ main inf //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg nom //
+teostab    teosta+b //_V_ main indic pres ps3 sg ps af //
+Moskva    Moskva+0 //_S_ prop sg gen //
+suhtes    suhtes+0 //_K_ post //
+s&otilde;bralikumat    s&otilde;bra=likum+t //_A_ comp sg part //
+poliitikat    poliitika+t //_S_ com sg part //
+kui    kui+0 //_J_ sub //
+Eesti    Eesti+0 //_S_ prop sg nom //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Riia    Riia+0 //_S_ prop sg gen //
+diplomaatkonnas    diplomaat_konn+s //_S_ com sg in //
+&auml;ratas    &auml;rata+s //_V_ main indic impf ps3 sg ps af //
+m&otilde;neti    m&otilde;neti+0 //_D_ //
+negatiivset    negatiivne+t //_A_ pos sg part //
+t&auml;helepanu    t&auml;hele_panu+0 //_S_ com sg part //
+ka    ka+0 //_D_ //
+asjaolu    asja_olu+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+laskis    lask+is //_V_ main indic impf ps3 sg ps af //
+end    ise+0 //_P_ sg part //
+esimesest    esimene+st //_N_ ord sg el l //
+naisest    naine+st //_S_ com sg el //
+lahutada    lahuta+da //_V_ main inf //
+ilmselt    ilmselt+0 //_D_ //
+karj&auml;&auml;rihuvidest    karj&auml;&auml;ri_huvi+dest //_S_ com pl el //
+l&auml;htudes    l&auml;htu+des //_V_ main ger //
+.    . //_Z_ Fst //
+</s>
+<s>
+Tema    tema+0 //_P_ sg gen //
+teine    teine+0 //_N_ ord sg nom l //
+abikaasa    abi_kaasa+0 //_S_ com sg nom //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+k&uuml;ll    k&uuml;ll+0 //_D_ //
+v&auml;ga    v&auml;ga+0 //_D_ //
+esinduslik    esinduslik+0 //_A_ pos sg nom //
+naine    naine+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+kuid    kuid+0 //_J_ crd //
+temaga    tema+ga //_P_ sg kom //
+k&auml;is    k&auml;i+s //_V_ main indic impf ps3 sg ps af //
+kaasas    kaasas+0 //_D_ //
+kumu    kumu+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+tegemist    tegemine+t //_S_ com sg part //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+pool-ilmadaamiga    pool-ilma_daam+ga //_S_ com sg kom //
+,    , //_Z_ Com //
+kes    kes+0 //_P_ sg nom //
+varem    varem+0 //_D_ //
+elas    ela+s //_V_ main indic impf ps3 sg ps af //
+&uuml;he    &uuml;ks+0 //_P_ sg gen //
+juudi    juut+0 //_S_ com sg gen //
+&auml;rimehe    &auml;ri_mees+0 //_S_ com sg gen //
+paksu    paks+0 //_A_ pos sg gen //
+rahakoti    raha_kott+0 //_S_ com sg gen //
+najal    najal+0 //_K_ post //
+.    . //_Z_ Fst //
+</s>
+<s>
+Samal    sama+l //_P_ sg ad //
+ajal    aeg+l //_S_ com sg ad //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+teada    tead+a //_V_ main inf //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+armastas    armasta+s //_V_ main indic impf ps3 sg ps af //
+v&auml;ga    v&auml;ga+0 //_D_ //
+lapsi    laps+i //_S_ com pl part //
+esimesest    esimene+st //_N_ ord sg el l //
+abielust    abi_elu+st //_S_ com sg el //
+Helmutit    Helmut+t //_S_ prop sg part //
+,    , //_Z_ Com //
+Gunarsit    Gunars+t //_S_ prop sg part //
+ja    ja+0 //_J_ crd //
+Rutat    Ruta+t //_S_ prop sg part //
+ning    ning+0 //_J_ crd //
+viibis    viibi+s //_V_ main indic impf ps3 sg ps af //
+sageli    sageli+0 //_D_ //
+koos    koos+0 //_K_ pre //
+endise    endine+0 //_A_ pos sg gen //
+perekonnaga    perekond+ga //_S_ com sg kom //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Korvamatu    korva=matu+0 //_A_ pos sg nom //
+kaotus    kaotus+0 //_S_ com sg nom //
+</s>
+</p>
+<p>
+<s>
+Nii    nii+0 //_D_ //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+see    see+0 //_P_ sg nom //
+ka    ka+0 //_D_ //
+saatuslikul    saatuslik+l //_A_ pos sg ad //
+laup&auml;eval    lau_p&auml;ev+l //_S_ com sg ad //
+,    , //_Z_ Com //
+22.    22.+0 //_N_ ord ? digit //
+augustil    august+l //_S_ com sg ad //
+1925    1925+0 //_N_ card ? digit //
+,    , //_Z_ Com //
+kui    kui+0 //_J_ sub //
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+s&otilde;itis    s&otilde;it+is //_V_ main indic impf ps3 sg ps af //
+Tukumsi    Tukums+0 //_S_ prop sg gen //
+l&auml;hedal    l&auml;hedal+0 //_K_ post //
+asunud    asu=nud+0 //_A_ pos //
+suvilasse    suvila+sse //_S_ com sg ill //
+.    . //_Z_ Fst //
+</s>
+<s>
+Autojuht    auto_juht+0 //_S_ com sg nom //
+ei    ei+0 //_V_ aux neg //
+s&otilde;itnud    s&otilde;it+nud //_V_ main indic impf ps neg //
+kiiresti    kiiresti+0 //_D_ //
+,    , //_Z_ Com //
+kuid    kuid+0 //_J_ crd //
+k&uuml;nklikul    k&uuml;nklik+l //_A_ pos sg ad //
+maastikul    maastik+l //_S_ com sg ad //
+ja    ja+0 //_J_ crd //
+libedal    libe+l //_A_ pos sg ad //
+teel    tee+l //_S_ com sg ad //
+kaotas    kaota+s //_V_ main indic impf ps3 sg ps af //
+auto    auto+0 //_S_ com sg nom //
+juhitavuse    juhitavus+0 //_S_ com sg gen //
+.    . //_Z_ Fst //
+</s>
+<s>
+Autojuht    auto_juht+0 //_S_ com sg nom //
+h&uuml;&uuml;dis    h&uuml;&uuml;d+is //_V_ main indic impf ps3 sg ps af //
+&ldquo;    &ldquo; //_Z_ Oqu //
+H&uuml;pake    h&uuml;ppa+ke //_V_ main imper pres ps2 pl ps af //
+v&auml;lja    v&auml;lja+0 //_D_ //
+!    ! //_Z_ Exc //
+&rdquo;    &rdquo; //_Z_ Cqu //
+,    , //_Z_ Com //
+auto    auto+0 //_S_ com sg nom //
+libises    libise+s //_V_ main indic impf ps3 sg ps af //
+kraavi    kraav+0 //_S_ com sg adit //
+,    , //_Z_ Com //
+rullus    rullu+s //_V_ main indic impf ps3 sg ps af //
+&uuml;le    &uuml;le+0 //_K_ pre //
+katuse    katus+0 //_S_ com sg gen //
+ja    ja+0 //_J_ crd //
+autosolijad    auto+s_olija+d //_S_ com pl nom //
+kas    kas+0 //_D_ //
+h&uuml;ppasid    h&uuml;ppa+sid //_V_ main indic impf ps3 pl ps af //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+kukkusid    kukku+sid //_V_ main indic impf ps3 pl ps af //
+autost    auto+st //_S_ com sg el //
+v&auml;lja    v&auml;lja+0 //_D_ //
+.    . //_Z_ Fst //
+</s>
+<s>
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+sai    saa+i //_V_ main indic impf ps3 sg ps af //
+r&auml;nga    r&auml;nk+0 //_A_ pos sg gen //
+kolju-    kolju+0 //_S_ com sg gen //
+ja    ja+0 //_J_ crd //
+kaelavigastuse    kaela_vigastus+0 //_S_ com sg gen //
+ning    ning+0 //_J_ crd //
+suri    sure+i //_V_ main indic impf ps3 sg ps af //
+teel    tee+l //_S_ com sg ad //
+haiglasse    haigla+sse //_S_ com sg ill //
+.    . //_Z_ Fst //
+</s>
+<s>
+Tema    tema+0 //_P_ sg gen //
+s&uuml;les    s&uuml;li+s //_S_ com sg in //
+olnud    ol=nud+0 //_A_ pos //
+noorem    noorem+0 //_A_ comp sg nom //
+poeg    poeg+0 //_S_ com sg nom //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+t&auml;iesti    t&auml;iesti+0 //_D_ //
+terve    terve+0 //_A_ pos sg nom //
+,    , //_Z_ Com //
+&uuml;lej&auml;&auml;nud    &uuml;le_j&auml;&auml;nu+d //_S_ com pl nom //
+said    saa+id //_V_ main indic impf ps3 pl ps af //
+kergemaid    kergem+id //_A_ comp pl part //
+vigastusi    vigastus+i //_S_ com pl part //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Teenekas    teenekas+0 //_A_ pos sg nom //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+poliitik    poliitik+0 //_S_ com sg nom //
+ja    ja+0 //_J_ crd //
+diplomaat    diplomaat+0 //_S_ com sg nom //
+maeti    mat+ti //_V_ main indic impf imps af //
+Riia    Riia+0 //_S_ prop sg gen //
+Metsakalmistule    metsa_kalmistu+le //_S_ com sg all //
+.    . //_Z_ Fst //
+</s>
+<s>
+Tema    tema+0 //_P_ sg gen //
+surm    surm+0 //_S_ com sg nom //
+&auml;ratas    &auml;rata+s //_V_ main indic impf ps3 sg ps af //
+laia    lai+0 //_A_ pos sg part //
+rahvusvahelist    rahvus_vaheline+t //_A_ pos sg part //
+t&auml;helepanu    t&auml;hele_panu+0 //_S_ com sg part //
+,    , //_Z_ Com //
+n&auml;iteks    n&auml;ide+ks //_S_ com sg tr //
+Mussolini    Mussolini+0 //_S_ prop sg nom //
+ei    ei+0 //_V_ aux neg //
+piirdunud    piirdu+nud //_V_ main indic impf ps neg //
+kaastundeavaldusega    kaas_tunde_avaldus+ga //_S_ com sg kom //
+,    , //_Z_ Com //
+vaid    vaid+0 //_J_ crd //
+saatis    saat+is //_V_ main indic impf ps3 sg ps af //
+erilennukil    eri_lennuk+l //_S_ com sg ad //
+p&auml;rja    p&auml;rg+0 //_S_ com sg gen //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Z.    Z.+0 //_Y_ nominal ? //
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+ka    ka+0 //_D_ //
+Eestis    Eesti+s //_S_ prop sg in //
+populaarne    populaarne+0 //_A_ pos sg nom //
+ja    ja+0 //_J_ crd //
+tema    tema+0 //_P_ sg gen //
+surm    surm+0 //_S_ com sg nom //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+paljudele    palju+dele //_P_ pl all //
+tugevaks    tugev+ks //_A_ pos sg tr //
+l&ouml;&ouml;giks    l&ouml;&ouml;k+ks //_S_ com sg tr //
+.    . //_Z_ Fst //
+</s>
+<s>
+Tema    tema+0 //_P_ sg gen //
+omastele    omaksed+tele //_S_ com pl all //
+,    , //_Z_ Com //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+valitsusele    valitsus+le //_S_ com sg all //
+ja    ja+0 //_J_ crd //
+rahvale    rahvas+le //_S_ com sg all //
+saadeti    saat+ti //_V_ main indic impf imps af //
+kaastundeavaldusi    kaas_tunde_avaldus+i //_S_ com pl part //
+,    , //_Z_ Com //
+ajakirjandus    aja_kirjandus+0 //_S_ com sg nom //
+valgustas    valgusta+s //_V_ main indic impf ps3 sg ps af //
+p&otilde;hjalikult    p&otilde;hjalikult+0 //_D_ //
+tema    tema+0 //_P_ sg gen //
+elu    elu+0 //_S_ com sg part //
+ja    ja+0 //_J_ crd //
+t&ouml;&ouml;d    t&ouml;&ouml;+d //_S_ com sg part //
+.    . //_Z_ Fst //
+</s>
+<s>
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+saadik    saadik+0 //_S_ com sg nom //
+J.    J.+0 //_Y_ nominal ? //
+Seskis    Seskis+0 //_S_ prop sg nom //
+iseloomustas    ise_loomusta+s //_V_ main indic impf ps3 sg ps af //
+Eesti    Eesti+0 //_S_ prop sg gen //
+avalikkuse    avalikkus+0 //_S_ com sg gen //
+suhtumist    suhtu=mine+t //_S_ com sg part //
+juhtunusse    juhtunu+sse //_S_ com sg ill //
+j&auml;rgmiselt    j&auml;rgmiselt+0 //_D_ //
+:    : //_Z_ Col //
+Kaastundeavalduse    kaas_tunde_avaldus+0 //_S_ com sg gen //
+viisist    viis+st //_S_ com sg el //
+olen    ole+n //_V_ aux indic pres ps1 sg ps af //
+j&otilde;udnud    j&otilde;ud+nud //_V_ main partic past ps //
+veendumusele    veendumus+le //_S_ com sg all //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+paljudele    palju+dele //_P_ pl all //
+ei    ei+0 //_V_ aux neg //
+ole    ole+0 //_V_ main indic pres ps neg //
+see    see+0 //_P_ sg nom //
+lihtsalt    lihtsalt+0 //_D_ //
+formaalsus    formaalsus+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+vaid    vaid+0 //_J_ crd //
+s&uuml;gavalt    s&uuml;gavalt+0 //_D_ //
+l&auml;bituntud    l&auml;bi_tuntud+0 //_A_ pos //
+vajadus    vajadus+0 //_S_ com sg nom //
+n&auml;idata    n&auml;ita+ta //_V_ main inf //
+oma    oma+0 //_P_ sg gen //
+osav&otilde;ttu    osa_v&otilde;tt+0 //_S_ com sg part //
+sellest    see+st //_P_ sg el //
+maagilisest    maagiline+st //_A_ pos sg el //
+s&uuml;ndmusest    s&uuml;ndmus+st //_S_ com sg el //
+,    , //_Z_ Com //
+mis    mis+0 //_P_ sg nom //
+r&ouml;&ouml;vis    r&ouml;&ouml;vi+s //_V_ main indic impf ps3 sg ps af //
+meilt    mina+lt //_P_ pl abl //
+meie    mina+0 //_P_ pl gen //
+kalli    kallis+0 //_A_ pos sg gen //
+&scaron;efi    &scaron;eff+0 //_S_ com sg gen //
+.    . //_Z_ Fst //
+</s>
+<s>
+Kadunud    kadunud+0 //_A_ pos //
+Meierovicsil    Meierovics+l //_S_ prop sg ad //
+oli    ole+i //_V_ main indic impf ps3 sg ps af //
+kogu    kogu+0 //_A_ pos //
+Euroopas    Euroopa+s //_S_ prop sg in //
+nimi    nimi+0 //_S_ com sg nom //
+,    , //_Z_ Com //
+mida    mis+da //_P_ sg part //
+kellelgi    keegi+lgi //_P_ sg ad //
+teisel    teine+l //_P_ sg ad //
+meist    mina+st //_P_ pl el //
+ega    ega+0 //_J_ crd //
+meie    mina+0 //_P_ pl gen //
+l&auml;hematel    l&auml;hem+tel //_A_ comp pl ad //
+naabritel    naaber+tel //_S_ com pl ad //
+ei    ei+0 //_V_ aux neg //
+ole    ole+0 //_V_ main indic pres ps neg //
+ja    ja+0 //_J_ crd //
+sellist    selline+t //_P_ sg part //
+nime    nimi+0 //_S_ com sg part //
+Euroopas    Euroopa+s //_S_ prop sg in //
+keegi    keegi+0 //_P_ sg nom //
+nii    nii+0 //_D_ //
+kiiresti    kiiresti+0 //_D_ //
+ei    ei+0 //_V_ aux neg //
+omanda    omanda+0 //_V_ main indic pres ps neg //
+.    . //_Z_ Fst //
+</s>
+<s>
+See    see+0 //_P_ sg nom //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+meile    mina+le //_P_ pl all //
+korvamatu    korva=matu+0 //_A_ pos sg nom //
+kaotus    kaotus+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+HEINO    Heino+0 //_S_ prop sg nom //
+ARUM&Auml;E    Aru_m&auml;e+0 //_S_ prop sg nom //
+(    ( //_Z_ Opr //
+1928    1928+0 //_N_ card ? digit //
+)    ) //_Z_ Cpr //
+on    ole+0 //_V_ main indic pres ps3 sg ps af //
+ajaloodoktor    aja_loo_doktor+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+</p>
+<p>
+<s>
+Pildid    pilt+d //_S_ com pl nom //
+:    : //_Z_ Col //
+</s>
+</p>
+<p>
+<s>
+-.    -. //_Z_ Dsh //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+,    , //_Z_ Com //
+Eesti    Eesti+0 //_S_ prop sg gen //
+,    , //_Z_ Com //
+Soome    Soome+0 //_S_ prop sg gen //
+ja    ja+0 //_J_ crd //
+Poola    Poola+0 //_S_ prop sg gen //
+v&auml;lisministrite    v&auml;lis_minister+te //_S_ com pl gen //
+allkirjad    all_kiri+d //_S_ com pl nom //
+Varssavi    Varssavi+0 //_S_ prop sg gen //
+konverentsi    konverents+0 //_S_ com sg gen //
+salajasel    salajane+l //_A_ pos sg ad //
+kokkuleppel    kokku_lepe+l //_S_ com sg ad //
+.    . //_Z_ Fst //
+</s>
+<s>
+Varssavi    Varssavi+0 //_S_ prop sg gen //
+lepingus    leping+s //_S_ com sg in //
+fikseeriti    fikseeri+ti //_V_ main indic impf imps af //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+asjaosalised    asja_osaline+d //_A_ pos pl nom //
+riigid    riik+d //_S_ com pl nom //
+teostavad    teosta+vad //_V_ main indic pres ps3 pl ps af //
+rahuarmastavat    rahu_armastav+t //_A_ pos sg part //
+v&auml;lispoliitikat    v&auml;lis_poliitika+t //_S_ com sg part //
+,    , //_Z_ Com //
+lahendavad    lahenda+vad //_V_ main indic pres ps3 pl ps af //
+t&uuml;lik&uuml;simused    t&uuml;li_k&uuml;simus+d //_S_ com pl nom //
+rahumeelsel    rahu_meelne+l //_A_ pos sg ad //
+teel    tee+l //_S_ com sg ad //
+,    , //_Z_ Com //
+kaitsevad    kaits+vad //_V_ main indic pres ps3 pl ps af //
+rahvusv&auml;hemuste    rahvus_v&auml;hemus+te //_S_ com pl gen //
+&otilde;igusi    &otilde;igus+i //_S_ com pl part //
+,    , //_Z_ Com //
+arendavad    arenda+vad //_V_ main indic pres ps3 pl ps af //
+majanduslikke    majanduslik+e //_A_ pos pl part //
+ja    ja+0 //_J_ crd //
+muid    muu+id //_P_ pl part //
+suhteid    suhe+id //_S_ com pl part //
+.    . //_Z_ Fst //
+</s>
+<s>
+Salajane    salajane+0 //_A_ pos sg nom //
+lisaprotokoll    lisa_protokoll+0 //_S_ com sg nom //
+fikseeris    fikseeri+s //_V_ main indic impf ps3 sg ps af //
+,    , //_Z_ Com //
+et    et+0 //_J_ sub //
+/    / //_Z_ Sla //
+...    ... //_Z_ Ell //
+/    / //_Z_ Sla //
+V&auml;lisministrid    v&auml;lis_minister+d //_S_ com pl nom //
+,    , //_Z_ Com //
+pidades    pida+des //_V_ main ger //
+p&otilde;him&otilde;tteliselt    p&otilde;hi_m&otilde;ttelise=lt+0 //_D_ //
+vajalikuks    vajalik+ks //_A_ pos sg tr //
+kindlamakujulise    kindla=ma_kuju=line+0 //_A_ pos sg gen //
+s&otilde;jalise    s&otilde;jaline+0 //_A_ pos sg gen //
+konventsiooni    konventsioon+0 //_S_ com sg gen //
+v&otilde;i    v&otilde;i+0 //_J_ crd //
+s&otilde;jaliste    s&otilde;jaline+te //_A_ pos pl gen //
+konventsioonide    konventsioon+de //_S_ com pl gen //
+s&otilde;lmimist    s&otilde;lmi=mine+t //_S_ com sg part //
+,    , //_Z_ Com //
+kohustuvad    kohustu+vad //_V_ main indic pres ps3 pl ps af //
+:    : //_Z_ Col //
+a    a+0 //_Y_ nominal ? //
+)    ) //_Z_ Cpr //
+saavutama    saavuta+ma //_V_ main sup ps ill //
+p&auml;rast    p&auml;rast+0 //_K_ pre //
+konverentsi    konverents+0 //_S_ com sg gen //
+l&otilde;ppu    l&otilde;pp+0 //_A_ pos sg part //
+oma    oma+0 //_P_ sg gen //
+valitsustelt    valitsus+telt //_S_ com pl abl //
+t&auml;ielikud    t&auml;ielik+d //_A_ pos pl nom //
+volitused    volitus+d //_S_ com pl nom //
+,    , //_Z_ Com //
+mis    mis+0 //_P_ pl nom //
+annaks    and+ks //_V_ main cond pres ps3 pl ps af //
+volitused    volitus+d //_S_ com pl nom //
+s&otilde;jalise    s&otilde;jaline+0 //_A_ pos sg gen //
+konventsiooni    konventsioon+0 //_S_ com sg gen //
+s&otilde;lmimiseks    s&otilde;lmi=mine+ks //_S_ com sg tr //
+ja    ja+0 //_J_ crd //
+informeerima    informeeri+ma //_V_ main sup ps ill //
+sellest    see+st //_P_ sg el //
+Poola    Poola+0 //_S_ prop sg gen //
+Vabariigi    vaba_riik+0 //_S_ com sg gen //
+v&auml;lisministrit    v&auml;lis_minister+t //_S_ com sg part //
+/    / //_Z_ Sla //
+...    ... //_Z_ Ell //
+/    / //_Z_ Sla //
+</s>
+</p>
+<p>
+<s>
+-.    -. //_Z_ Dsh //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+,    , //_Z_ Com //
+Poola    Poola+0 //_S_ prop sg gen //
+,    , //_Z_ Com //
+Soome    Soome+0 //_S_ prop sg gen //
+ja    ja+0 //_J_ crd //
+Eesti    Eesti+0 //_S_ prop sg gen //
+v&auml;lisministrid    v&auml;lis_minister+d //_S_ com pl nom //
+Zigfrids    Zigfrids+0 //_S_ prop sg nom //
+Anna    Anna+0 //_S_ prop sg nom //
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+,    , //_Z_ Com //
+Konstanty    Konstanty+0 //_S_ prop sg nom //
+Skirmunt    Skirmunt+0 //_S_ prop sg nom //
+,    , //_Z_ Com //
+Rudolf    Rudolf+0 //_S_ prop sg nom //
+Holsti    Holsti+0 //_S_ prop sg nom //
+ja    ja+0 //_J_ crd //
+Ants    Ants+0 //_S_ prop sg nom //
+Piip    Piip+0 //_S_ prop sg nom //
+Varssavi    Varssavi+0 //_S_ prop sg gen //
+konverentsil    konverents+l //_S_ com sg ad //
+1922.    1922.+0 //_N_ ord ? digit //
+aasta    aasta+0 //_S_ com sg gen //
+m&auml;rtsis    m&auml;rts+s //_S_ com sg in //
+.    . //_Z_ Fst //
+</s>
+<s>
+Foto    foto+0 //_S_ com sg nom //
+K.    K.+0 //_Y_ nominal ? //
+Hovi    Hovi+0 //_S_ prop sg gen //
+raamatust    raamat+st //_S_ com sg el //
+Interessensph&auml;ren    Interessensph&auml;ren+0 //_T_ //
+im    im+0 //_T_ //
+Baltikum    Baltikum+0 //_T_ //
+</s>
+</p>
+<p>
+<s>
+-.    -. //_Z_ Dsh //
+Teenekas    teenekas+0 //_A_ pos sg nom //
+L&auml;ti    L&auml;ti+0 //_S_ prop sg gen //
+poliitik    poliitik+0 //_S_ com sg nom //
+ja    ja+0 //_J_ crd //
+diplomaat    diplomaat+0 //_S_ com sg nom //
+Zigfrids    Zigfrids+0 //_S_ prop sg nom //
+Meierovics    Meierovics+0 //_S_ prop sg nom //
+maeti    mat+ti //_V_ main indic impf imps af //
+Riia    Riia+0 //_S_ prop sg gen //
+Metsakalmistule    metsa_kalmistu+le //_S_ com sg all //
+.    . //_Z_ Fst //
+</s>
+<s>
+26.    26.+0 //_N_ ord ? digit //
+jaanuaril    jaanuar+l //_S_ com sg ad //
+1929    1929+0 //_N_ card ? digit //
+p&uuml;stitati    p&uuml;stita+ti //_V_ main indic impf imps af //
+hauale    haud+le //_S_ com sg all //
+skulptor    skulptor+0 //_S_ com sg nom //
+Z.    Z.+0 //_Y_ nominal ? //
+Smiltnieksi    Smiltnieks+0 //_S_ prop sg gen //
+loodud    loodud+0 //_A_ pos //
+m&auml;lestussammas    m&auml;lestus_sammas+0 //_S_ com sg nom //
+.    . //_Z_ Fst //
+</s>
+<s>
+Foto    foto+0 //_S_ com sg nom //
+HEINO    Heino+0 //_S_ prop sg nom //
+ARUM&Auml;E    Aru_m&auml;e+0 //_S_ prop sg nom //
+</s>
+</p>
